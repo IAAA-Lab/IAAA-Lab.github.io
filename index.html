@@ -1,0 +1,74 @@
+---
+title: IAAA
+---
+
+<section class="hero diagonal">
+	<div class="container">		
+		<h2>Advanced Information Systems Laboratory. <b>Universidad</b> Zaragoza</h2>				
+		<h3>Building the next generation of spatial information infrastructures</h3>
+		<blockquote><p>"Everything is related to everything else, but near things are more related than distant things"</p><cite>Waldo Tobler</cite></blockquote>                
+		{% comment %}
+		<!--<p><a class="button alt" href="{{ site.baseurl }}/contact/">Contact Us</a></p>-->
+		{% endcomment %}
+	</div>
+</section>
+
+<section class="diagonal patterned">
+	<div class="container halves">
+		<div>		
+                        <ul class="image-list">                            
+                            <li><img src="{{ site.baseurl }}/images/work.png" width="300" style="margin-bottom: 40px;"></li>                            
+			</ul>						
+		</div>
+		<div>			
+                    <h2><a href="{{ site.baseurl }}/papers">Papers</a></h2>
+                    <h2><a href="{{ site.baseurl }}/projects">Projects</a></h2>
+                    <h2><a href="{{ site.baseurl }}/dissertations">PhD Thesis</a></h2>                                        
+		</div>			
+</section>
+
+<section class="diagonal alternate">        
+	<div class="container-small">
+	<h1>Permanent staff</h1>
+            <div>
+		{% comment %}
+		<ul class="image-grid">
+			{% for member in site.staff_members %}
+				<li>{% include staff-member.html member=member %}</li>
+			{% endfor %}
+		</ul>
+		{% endcomment %}
+		
+		<ul class="image-grid">
+		<li>{% include staff-member.html member='javy' %}</li>
+		<li>{% include staff-member.html member='jnog' %}</li>
+		<li>{% include staff-member.html member='rbejar' %}</li>
+		<li>{% include staff-member.html member='fjlopez' %}</li>
+		<li>{% include staff-member.html member='latre' %}</li>
+		<li>{% include staff-member.html member='jlacasta' %}</li>
+		<li>{% include staff-member.html member='piedrafi' %}</li>
+		<li class="filler"></li>
+		<li class="filler"></li>
+		<li class="filler"></li>
+		<li class="filler"></li>
+		<li class="filler"></li>		
+		{% comment %}
+		<!-- Número de li debe ser múltiplo de 2 y de 3 para tener un grid majo
+		aunque se redimensione la pantalla. Usar este como relleno: -->
+		<li class="filler"></li>
+		{% endcomment %}
+		</ul>
+            </div>
+		<p>Founder: Pedro R. Muro-Medrano (Logroño, 1959 - Logroño, 2015)</p>            
+            <div>
+                <ul class="image-grid">
+                <li>{% include staff-member.html member='prmuro' %}</li>
+                <li class="filler"></li>
+                <li class="filler"></li>
+                <li class="filler"></li>
+                <li class="filler"></li>
+                <li class="filler"></li>
+                </ul>            	
+            </div>            
+	</div>
+</section>

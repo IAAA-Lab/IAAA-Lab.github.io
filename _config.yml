@@ -1,0 +1,72 @@
+title: Advanced Information Systems Laboratory
+url: "http://iaaa.unizar.es"
+baseurl:
+google_analytics_key:
+google_maps_javascript_api_key:
+disqus_shortname:
+
+# Default description in social shares for the jekyll-seo-tag gem
+description: Next generation spatial data infrastructures and location intelligence.
+
+# Other data for the jekyll-seo-tag gem
+logo: /images/logo-share.svg
+twitter:
+    username: iaaa_lab
+
+# Author details for the jekyll-seo-tag gem
+author:
+  name:
+  email:
+  twitter: # twitter username without the @ symbol
+
+# Social details for the jekyll-seo-tag gem
+social:    
+  links:
+    - https://github.com/iaaa-lab
+    - https://twitter.com/iaaa_lab
+
+collections:
+  staff:
+    output: true
+
+paginate: 5
+paginate_path: "/blog/:num/"
+permalink: pretty
+
+gems:
+  - "jekyll-feed"
+  - "jekyll-seo-tag"
+  - "jekyll-paginate"
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "contents"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: "index.html"
+    values:
+      layout: "default"
+
+social_icons:
+# - Facebook
+# - Google Plus
+# - Instagram
+  - LinkedIn
+# - Pinterest
+# - Tumblr
+  - Twitter
+  - YouTube
+  - GitHub
+# - RSS

@@ -1,0 +1,56 @@
+rbejar:
+  name: Rubén Béjar  
+  papers_name: R. BÉJAR
+  projects_name: R. Béjar
+  position: Assistant Professor
+  image_path: /images/people/rbejar.jpg
+  local_url: /staff/rbejar  
+javy:
+  name: F. Javier Zarazaga Soria
+  papers_name: F.J. ZARAZAGA-SORIA
+  projects_name: F.J. Zarazaga-Soria
+  position: Laboratory Head. Professor
+  image_path: /images/people/zarazaga.jpg
+  local_url: /staff/javy
+jnog:
+  name: Javier Nogueras-Iso
+  papers_name: J. NOGUERAS-ISO
+  projects_name: J. Nogueras-Iso
+  position: Professor
+  image_path: /images/people/jnog.jpg
+  local_url: /staff/jnog
+fjlopez:
+  name: Francisco J. Lopez-Pellicer
+  papers_name: F.J. LOPEZ-PELLICER
+  projects_name: F.J. Lopez-Pellicer
+  position: Assistant Professor
+  image_path: /images/people/fjlopez.jpg
+  local_url: /staff/fjlopez
+jlacasta:
+  name: Javier Lacasta Miguel
+  papers_name: J. LACASTA
+  projects_name: J. Lacasta
+  position: Assistant Professor
+  image_path: /images/people/jlacasta.jpg
+  local_url: /staff/jlacasta
+latre:
+  name: Miguel Ángel Latre Abadía
+  papers_name: M.Á. LATRE
+  projects_name: M.Á. Latre
+  position: Assistant Professor
+  image_path: /images/people/latre.jpg
+  local_url: /staff/latre
+prmuro:
+  name: Pedro R. Muro-Medrano
+  papers_name: P.R. MURO-MEDRANO
+  projects_name: P.R. Muro-Medrano
+  position: Full Professor
+  image_path: /images/people/prmuro.jpg
+  local_url: /staff/prmuro
+piedrafi:
+  name: Ramón Piedrafita Moreno
+  papers_name:
+  projects_name:
+  position: Professor
+  image_path: /images/people/piedrafi.jpg
+  url: https://www.linkedin.com/in/ramonpiedrafita

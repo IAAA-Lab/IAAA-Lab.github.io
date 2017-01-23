@@ -1,0 +1,2554 @@
+# Importante: dentro de este fichero los artículos tienen que estar ordenados por año 
+# (los más recientes primero) y dentro de cada año primero van los libros, luego los 
+# artículos de revista y capítulos de libro y finalmente los artículos de congresos
+# -------------------
+- title: "Improving the geospatial consistency of digital libraries metadata"
+  url: http://jis.sagepub.com/content/42/4/507
+  authors: W. RENTERIA-AGUALIMPIA, F.J. LOPEZ-PELLICER, J. LACASTA, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication: "Journal of Information Science"
+  publication_detail: "vol. 42 nº 4 p. 507-523"
+  year: 2016
+  doi: 10.1177/0165551515597364 
+  url_oficial: http://jis.sagepub.com/content/42/4/507
+# -------------------
+- title: "Deconstructing the Tower of Babel: a design method to improve empathy and teamwork competences of informatics students"
+  authors: T. BLANCO, I. LÓPEZ-FORNIÉS, F.J. ZARAZAGA-SORIA
+  publication: "To appear in: International Journal of Technology and Design Education"
+  year: 2016
+# -------------------
+- title: "An automatic method for reporting the quality of thesauri"
+  url: /curriculum/08-Publicaciones-Articulos/art_2016_DKE_Automatic.pdf
+  authors: J. LACASTA, G. FALQUET, F.J. ZARAZAGA-SORIA, J.NOGUERAS-ISO
+  publication: "Data & Knowledge Engineering"
+  publication_detail: "vol. 104 p. 1-14. ISSN 0169-023X"
+  year: 2016
+  doi: 10.1016/j.datak.2016.05.002 
+  url_oficial: http://dx.doi.org/10.1016/j.datak.2016.05.002
+# -------------------
+- title: "La gestión y la tecnología de los Identificadores Persistentes"
+  url: http://www.mappinginteractivo.es/images/revistas/REVISTA%20MAPPING%20175/files/assets/basic-html/page66.html
+  authors: F.J. LOPEZ-PELLICER, J. BARRERA, J. GONZÁLEZ, F.J. ZARAZAGA-SORIA, E. LÓPEZ, P. ABAD
+  publication: "Mapping"
+  publication_detail: "vol. 25 nº 175 p. 64-73. ISSN 1-131-9-100"
+  year: 2016
+# -------------------
+- title: "Hubs virtuales para facilitar el acceso a Datos Abiertos"
+  url: http://www.mappinginteractivo.es/images/revistas/REVISTA%20MAPPING%20176/files/assets/basic-html/page28.html
+  authors: M.Á. LATRE, F.J. LOPEZ-PELLICER, N. KAMALI, M. BAUER, M. PREVITALI, R. BRUMANA, S. BRAUMANN, H. KUECHLY, P. MAZZETTI, S. NATIVI
+  publication: "Mapping"
+  publication_detail: "vol. 25 nº 176 p. 26-33. ISSN 1-131-9-100"
+  year: 2016
+# -------------------
+- title: "Reconstruction of itineraries from annotated text with an informed spanning tree algorithm"
+  url: /curriculum/08-Publicaciones-Articulos/art_2016_IJGIS_Reconstruction.pdf
+  authors: L. MONCLA, M. GAIO, J. NOGUERAS-ISO, S. MUSTIÈRE
+  publication: "International Journal of Geographical Information Science"
+  publication_detail: "vol. 30 nº 6 p. 1137-1160"
+  year: 2016
+  doi: 10.1080/13658816.2015.1108422 
+  url_oficial: http://www.tandfonline.com/doi/10.1080/13658816.2015.1108422
+  comments: This is the author's version of the work. It is posted here by permission of Taylor and Francis for personal use, not for redistribution. The definitive version was published in International Journal of Geographical Information Science, 2016.
+# -------------------
+- title: "Integration of automatic spatial annotations from different sources by means of semantic technologies"
+  url: http://www.ibersid.eu/ojs/index.php/scire/article/view/4361
+  authors: J. NOGUERAS-ISO, V. LÁZARO, L. MONCLA
+  publication: "SCIRE"
+  publication_detail: "vol. 22, nº 2, p. 29-36"
+  year: 2016
+# -------------------
+- title: "The impact of quality with respect to the use of controlled vocabularies in metadata"
+  url: http://inspire.ec.europa.eu/events/conferences/inspire_2016/schedule/submissions/163.html
+  authors: J.NOGUERAS-ISO, J. LACASTA, G. FALQUET, F.J. ZARAZAGA-SORIA
+  publication_conference: "INSPIRE Conference, Barcelona, 26-30 September 2016"
+  year: 2016
+# -------------------
+- title: "A software processing chain for evaluating thesaurus quality"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2016_Keystone_Software.pdf
+  authors: J. LACASTA, G. FALQUET, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Proceedings of KEYSTONE Conference 2016, Cluj-Napoca, Romania, 8-9 September 2016"
+  year: 2016
+# -------------------
+- title: "The challenge of resolvable Persistent Identifiers"
+  url: http://inspire.ec.europa.eu/events/conferences/inspire_2016/schedule/submissions/258.html
+  authors: F.J. LOPEZ-PELLICER, J. BARRERA, J. GONZÁLEZ, F.J. ZARAZAGA-SORIA, E. LÓPEZ, P. ABAD, A. RODRÍGUEZ
+  publication_conference: "INSPIRE Conference, Barcelona, 26-30 September 2016"
+  year: 2016
+# -------------------
+- title: "Hubs virtuales para facilitar el acceso y la reutilización de información geográfica abierta"
+  url: http://www.jiide.org/Jiide-theme/resources/docs/pdf/13_UniZaragoza_HubsVirtuales.pdf
+  authors: M.Á. LATRE, F.J. LOPEZ-PELLICER, N. KAMALI, M. PREVITALI, R. BRUMANA, H. KUECHLY, P. MAZZETTI, S. NATIVI
+  publication_conference: "VII Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2016), Barcelona, 27-30 de septiembre de 2016"
+  year: 2016
+# -------------------
+- title: "Quality assessment for semantically close geographical properties. PhD Dissertation"
+  authors: WALTER RENTERIA-AGUALIMPIA
+  publication_book: "Zaragoza: Universidad de Zaragoza"
+  year: 2015
+# -------------------
+- title: "Automatic reconstruction of itineraries from descriptive texts. PhD Dissertation"
+  url: https://zaguan.unizar.es/record/47425/files/TESIS-2016-033.pdf
+  authors: LUDOVIC MONCLA
+  publication_dissertation: "Zaragoza: Universidad de Zaragoza"
+  year: 2015
+# -------------------
+- title: "Good Enough? Nichesourcing in Data Quality Assessment"
+  url: http://earthzine.org/2015/01/09/good-enough-nichesourcing-in-data-quality-assessment/
+  authors: F.J. LOPEZ-PELLICER, J. BARRERA
+  publication: "Earthzine"
+  year: 2015
+# -------------------
+- title: "Git y GitHub aplicados en la docencia"
+  url: http://www.unizar.es/CBSantander/jornada/sexta/resumenes/13_lopez-pellicer.pdf
+  authors: F.J. LOPEZ-PELLICER, R. BÉJAR, M.Á. LATRE, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication_conference: "VI Jornada de Buenas prácticas en la docencia universitaria con apoyo de TIC, Zaragoza, 16 septiembre 2015"
+  year: 2015
+# -------------------
+- title: "Creación de Máquinas Virtuales para las Asignaturas de Bases de Datos y Sistemas de Información"
+  url: https://zaguan.unizar.es/record/48183/files/BOOK-2016-001.pdf
+  authors: R. TRILLO LADO, S. ILARRI ARTIGAS, F.J. LOPEZ-PELLICER, S. VELILLA MARCO, E. MENA NIETO, F.J. ZARAZAGA-SORIA
+  publication_conference: "La Innovación docente a través de la cooperación universitaria, VIII Jornadas de Innovación Docente e Investigación Educativa (JIDIE 2014), Zaragoza, 10 y 11 de septiembre de 2014"
+  publication_detail: "p. 45-51"
+  year: 2015
+# -------------------
+- title: "GitHub como herramienta docente"
+  url: http://upcommons.upc.edu/handle/2117/76761
+  authors: F.J. LOPEZ-PELLICER, R. BÉJAR, M.Á. LATRE, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de las XXI Jornadas sobre la Enseñanza Universitaria de la Informática: Jenui 2015, Andorra La Vella, del 8 al 10 de julio de 2015"
+  publication_detail: "p. 66-73"
+  year: 2015
+# -------------------
+- title: "The standards bodies soup recipe: an experience of interoperability among ISO-OGC-W3C-IETF standards"
+  url: http://geospatialworldforum.org/speaker/SpeakersImages/fullpaper/Francisco.pdf
+  authors: F.J. LOPEZ-PELLICER, J. LACASTA, B. ESPEJO-GARCÍA, J. BARRERA, J.M. AGUDO
+  publication_conference: "INSPIRE Geospatial World Forum 2015, Lisboa, Portugal, 25-29 May 2015"
+  year: 2015
+# -------------------
+- title: "Remembering the SDIGER project 2004-2006"
+  authors: F.J. LOPEZ-PELLICER
+  publication_conference: "Cross border Spatial Data Infrastructures Workshop at INSPIRE Geospatial World Forum 2015, Lisboa, Portugal, 26 May 2015"
+  year: 2015
+# -------------------
+- title: "Expanding the Utility of Geospatial Knowledge Bases by Linking Concepts to WikiText and Polygonal Boundaries"
+  authors: B. MARTINS, F.J. LOPEZ-PELLICER, D. AHLERS
+  publication_conference: "To appear in: Proceedings of the 9th Workshop on Geographic Information Retrieval (GIR?2015), Paris, 25-27 November 2015"
+  year: 2015
+# -------------------
+- title: "A Multi-Layer Markup Language for Geospatial Semantic Annotations"
+  authors: L. MONCLA, M. GAIO
+  publication_conference: "To appear in: Proceedings of the 9th Workshop on Geographic Information Retrieval (GIR?2015), Paris, 25-27 November 2015"
+  year: 2015
+# -------------------
+- title: "ENERGIC-OD Virtual Hubs: a brokered architecture for facilitating Open Data sharing and use"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2015_eChallenges_ENERGICOD.pdf
+  authors: P. MAZZETTI, M. Á. LATRE, M. BAUER, R. BRUMANA, S. BRAUMAN, S. NATIVI
+  publication_conference: "eChallenges e-2015 Conference Proceedings, 25-26 November 2015, Vilnius, Lituania"
+  year: 2015
+# -------------------
+- title: "Virtual Hubs for facilitating access to Open Data"
+  url: http://meetingorganizer.copernicus.org/EGU2015/EGU2015-12080.pdf
+  authors: P. MAZZETTI, M. Á. LATRE, J. ERNST, R. BRUMANA, S. BRAUMAN, S. NATIVI
+  publication_conference: "Proceedings of EGU2015, 12-17 April 2015, Vienna (Geophysical Research Abstracts, vol. 17)"
+  year: 2015
+# -------------------
+- title: "Web-Based Tool for the Sustainable Refurbishment in Historic Districts Based on 3D City Model"
+  url: https://www.springer.com/gp/book/9783319256894
+  authors: I. PRIETO, J.L. IZKARA, R. BÉJAR
+  publication_conference: "Advances in 3D Geoinformation. Proceedings of the 3D Geoinfo 2015, 28-30 October 2015, Kuala Lumpur, Malaysia. Lecture Notes in Geoinformation and Cartography (LNGC)"
+  publication_detail: "p. 159-169. ISSN 0302-9743"
+  year: 2015
+# -------------------
+- title: "Sustainable refurbishment in urban districts through a web-based tool based on 3D city model"
+  url: http://sustainable-places.eu/wp-content/uploads/2015/10/SP2015_Proceedings.compressed.pdf
+  authors: I. PRIETO, J.L. IZKARA, A. EGUSQUIZA, R. BÉJAR
+  publication_conference: "Proceedings of Sustainable Places 2015, Savona, Italy, September 16-18, 2015"
+  publication_detail: "p. 31-39"
+  year: 2015
+# -------------------
+- title: "Towards Geo Decision Support Systems For Renewable Energy Outreach: REDSS"
+  authors: N. SIDDA, F.J. LOPEZ-PELLICER, F.J. ZARAZAGA-SORIA
+  publication_book: "Germany: Lambert Academic Publishing"
+  year: 2014
+# -------------------
+- title: "Expeditious management plan towards digital earth"
+  url: http://www.tandfonline.com/doi/full/10.1080/17538947.2012.753474
+  authors: N. SIDDA, A.J. FLORCZYK, F.J. LOPEZ-PELLICER, DINESH BABU I.V, R. BÉJAR, F.J. ZARAZAGA-SORIA
+  publication: "International Journal of Digital Earth"
+  publication_detail: "vol. 7 nº 8 p. 635-649"
+  year: 2014
+  doi: 10.1080/17538947.2012.753474 
+  url_oficial: http://www.tandfonline.com/doi/full/10.1080/17538947.2012.753474
+  comments: 
+# -------------------
+- title: "Role of Decision Support System for Renewable Energy Outreach"
+  url: http://pubs.acs.org/doi/abs/10.1021/es404942h
+  authors: N. SIDDA, B. ESPEJO-GARCÍA; F.J. LOPEZ-PELLICER, F.J. ZARAZAGA-SORIA, M.Á. LATRE
+  publication: "Environmental Science & Technology"
+  publication_detail: "vol. 48 nº 1 p. 15-16"
+  year: 2014
+  doi: 10.1021/es404942h 
+  url_oficial: http://dx.doi.org/10.1021/es404942h
+  comments: 
+# -------------------
+- title: "Population of a spatio-temporal knowledge base for jurisdictional domains"
+  url: /curriculum/08-Publicaciones-Articulos/art_2014_IJGIS_Population.pdf
+  authors: J. LACASTA, F.J. LOPEZ-PELLICER, A. FLORCZYK, F.J. ZARAZAGA-SORIA; J. NOGUERAS-ISO
+  publication: "International Journal of Geographical Information Science"
+  publication_detail: "vol. 28 nº 9 p. 1964-1987"
+  year: 2014
+  doi: 10.1080/13658816.2014.911412 
+  url_oficial: http://www.tandfonline.com/doi/abs/10.1080/13658816.2014.911412
+  comments: 
+# -------------------
+- title: "A protocol for machine-readable cache policies in OGC web services: Application to the EuroGeoSource information system"
+  url: /curriculum/08-Publicaciones-Articulos/art_2014_EMS_Protocol_vdef_author.pdf
+  authors: R. BÉJAR, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication: "Environmental Modelling & Software"
+  publication_detail: "vol. 60 p. 346-356"
+  year: 2014
+  doi: 10.1016/j.envsoft.2014.06.026 
+  url_oficial: http://doi.org/10.1016/j.envsoft.2014.06.026
+  comments: This is the author's version of the work. It is posted here by permission of Elsevier for personal use, not for redistribution. The definitive version was published in Environmental Modelling & Software, 2014.
+# -------------------
+- title: "Máquinas virtuales en la docencia práctica"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2014_Buenas_Maquinas.pdf
+  authors: F.J. LOPEZ-PELLICER, W. RENTERIA-AGUALIMPIA, R. BÉJAR, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication: "Buenas prácticas en la docencia universitaria con el apoyo de TIC. Experiencias 2013. innova.unizar. Prensas de la Universidad de Zaragoza"
+  publication_detail: "vol. 7, p. 259-269"
+  year: 2014
+# -------------------
+- title: "Identifying Geospatial inconsistency of Web services metadata using spatial ranking"
+  url: http://link.springer.com/article/10.1007/s12145-014-0172-4
+  authors: W. RENTERIA-AGUALIMPIA, F.J. LOPEZ-PELLICER, J. LACASTA, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication: "Earth Science Informatics"
+  publication_detail: "vol. 8 nº 2 p. 427-437"
+  year: 2014
+  doi: 10.1007/s12145-014-0172-4 
+  url_oficial: http://link.springer.com/article/10.1007/s12145-014-0172-4
+  comments: 
+# -------------------
+- title: "Gestión del Patrimonio Cultural Arquitectónico 3D mediante estándares abiertos. El torreón de La Muela de Ágreda (Soria)"
+  url: http://www.revistadepatrimonio.es/revistas/numero14/gestion/estudios/articulo.php
+  authors: Z.J. PEINADO-CHECA, J. SERRANO-EGIDO, A. PEINADO-CHECA
+  publication: "Revista de Patrimonio Histórico"
+  publication_detail: "nº 14 p. 99-119"
+  year: 2014
+# -------------------
+- title: "Agregador automático de  servicios web geoespaciales"
+  url: http://www.ibersid.eu/ojs/index.php/scire/article/view/4174
+  authors: J. LACASTA, F.J. LOPEZ-PELLICER, W. RENTERIA-AGUALIMPIA, J. NOGUERAS-ISO
+  publication: "SCIRE"
+  publication_detail: "vol. 20, nº 2, p. 43-48"
+  year: 2014
+# -------------------
+- title: "Integración del Patrimonio Cartográfico de la Biblioteca Digital Hispánica y el Archivo General de Simancas en el mundo en las Infraestructuras de Datos Espaciales"
+  url: http://www.rcg.cat/articles.php?id=322
+  authors: J. CAPDEVILA, A. SÁNCHEZ, C. SOTERES, J. BARRERA, J.A. AGUDO, J. NOGUERAS-ISO, M. CRIADO, M. CRESPO
+  publication: "Revista Catalana de Geografía"
+  publication_detail: "vol. XIX nº 50. ISSN 1988-2459"
+  year: 2014
+# -------------------
+- title: "La digitalización de documentos en la Administración de Justicia"
+  url: http://www.ibersid.eu/ojs/index.php/ibersid/article/view/4179
+  authors: J.F. MUÑOZ SORO, J. NOGUERAS-ISO
+  publication: "IBERSID"
+  publication_detail: "vol. 8, p. 49-53, ISSN 1888-0967"
+  year: 2014
+# -------------------
+- title: "Behaviour-driven development applied to the conformance testing of INSPIRE Web services"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2014_LNGC_Behaviour.pdf
+  authors: F.J. LOPEZ-PELLICER, M.Á. LATRE, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA, J. BARRERA,
+  publication_conference: "Connecting a Digital Europe through Location and Place, 17th AGILE International Conference on Geographic Information Science, 3-6 June 2014, Castellón, Spain, Proceedings. Lecture Notes in Geoinformation and Cartography (LNGC)"
+  publication_detail: "p. 325-339. ISSN 0302-9743"
+  year: 2014
+# -------------------
+- title: "Servicios Basados en la Localización en Entornos SIN Cobertura 3G"
+  authors: R. PALLÁS, J. LÓPEZ-DE-LARRÍNZAR, R. BLASCO, J. CASCÁN-FERNÁNDEZ, R. PIEDRAFITA
+  publication_conference: "V Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2014), Lisboa, 5-7 de noviembre de 2014"
+  year: 2014
+# -------------------
+- title: "Improving the visibility of geospatial data on the Web"
+  url: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6970162
+  authors: J. LACASTA, J. LOPEZ-PELLICER, W. RENTERIA-AGUALIMPIA, J. NOGUERAS-ISO
+  publication_conference: "IEEE/ACM Joint Conference on Digital Libraries (JCDL 2014) and International Conference on Theory and Practice of Digital Libraries (TPDL 2014), London, September 8-12th 2014"
+  publication_detail: "p. 155-164"
+  year: 2014
+# -------------------
+- title: "Linked Map: maps, Linked Data and INSPIRE"
+  url: http://inspire.ec.europa.eu/events/conferences/inspire_2014/schedule/submissions/93.html
+  authors: F.J. LOPEZ-PELLICER, J. LACASTA, W. RENTERIA-AGUALIMPIA, J. BARRERA, J. LÓPEZ-DE-LARRÍNZAR, J.M. AGUDO
+  publication_conference: "INSPIRE Conference 2014, Infrastructure for Spatial Information in the European Community, Aalborg, Denmark, 18-20 June 2014"
+  year: 2014
+# -------------------
+- title: "Geocoding for texts with fine-grain toponyms: an experiment on a geoparsed hiking descriptions corpus"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2014_ACMSIGSPATIAL_Geocoding.pdf
+  authors: L. MONCLA, W. RENTERIA-AGUALIMPIA, J. NOGUERAS-ISO, M. GAIO
+  publication_conference: "Proceedings of 22nd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2014), Dallas, Texas, USA, November 4-7, 2014"
+  year: 2014
+# -------------------
+- title: "BDD, ISO 19105 and INSPIRE Network Services Conformance"
+  url: http://inspire.ec.europa.eu/events/conferences/inspire_2014/schedule/submissions/124.html
+  authors: F.J. LOPEZ-PELLICER, J. LACASTA, J. BARRERA, J.M. AGUDO, P. ABAD-POWER, A. SÁNCHEZ-MAGANTO, E. LÓPEZ-ROMERO
+  publication_conference: "INSPIRE Conference 2014, Infrastructure for Spatial Information in the European Community, Aalborg, Denmark, 18-20 June 2014"
+  year: 2014
+# -------------------
+- title: "Automatic Itinerary Reconstruction from Texts"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2014_GIScience_Automatic.pdf
+  authors: L. MONCLA, M. GAIO, S. MUSTIERE
+  publication_conference: "Proceedings of 8th International Conference, GIScience 2014, Vienna, Austria, September 24-26, 2014"
+  publication_detail: "p. 253-267"
+  year: 2014
+# -------------------
+- title: "MiniTREC: un modelo de aprendizaje basado en proyectos para la asignatura de Recuperación de Información"
+  url: http://upcommons.upc.edu/revistes/bitstream/2099/15462/1/P141la_mini.pdf
+  authors: J. LACASTA, J. NOGUERAS ISO
+  publication_conference: "Actas de las XX Jornadas sobre la Enseñanza Universitaria de la Informática: Jenui 2014, Oviedo, del 9 al 11 de julio de 2014"
+  publication_detail: "p. 141-148"
+  year: 2014
+# -------------------
+- title: "Integración de la semántica en las IDE: el callejero semántico de IDEZar"
+  authors: M.J. PÉREZ-PÉREZ, J. LÓPEZ-DE-LARRÍNZAR, M.J. FERNÁNDEZ-RUIZ, V. MORLÁN, P. RODRIGO-CARDIEL, M. USÓN
+  publication_conference: "V Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2014), Lisboa, 5-7 de noviembre de 2014"
+  year: 2014
+# -------------------
+- title: "A Workflow for the Semi-Automatic Generation of Low Cost 3D City Models"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2014_LC3D_Workflow.pdf
+  authors: I. PRIETO, J.L. IZKARA, R. BÉJAR
+  publication_conference: "Proceedings of LowCost3D, Sensors, Algorithms, Applications. 2nd and 3rd December 2014, Berlin, Germany"
+  year: 2014
+# -------------------
+- title: "Management of Scientific Images: An approach to the extraction, annotation and retrieval of figures in the field of High Energy Physics. PhD Dissertation"
+  url: http://zaguan.unizar.es/record/13281/files/TESIS-2013-162.pdf
+  authors: PIOTR ADAM PRACZYK
+  publication_dissertation: "Zaragoza: Universidad de Zaragoza"
+  year: 2013
+# -------------------
+- title: "Detectando anomalías en los metadatos de cartotecas"
+  url: http://www.ibersid.eu/ojs/index.php/scire/article/view/3988
+  authors: W. RENTERIA-AGUALIMPIA, F.J. LOPEZ-PELLICER, A. J. FLORCZYK, J. LÓPEZ-DE-LARRÍNZAR, J. LACASTA, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication: "SCIRE"
+  publication_detail: "vol. 19, nº 1, p. 23-29"
+  year: 2013
+# -------------------
+- title: "Aproximación Geosemántica para Detectar Anomalías en los Metadatos de Servicios Web Geoespaciales"
+  url: http://geofocus.rediris.es/2013/Articulo7_2013_1.pdf
+  authors: W. RENTERIA-AGUALIMPIA, F.J. LOPEZ-PELLICER, J. LACASTA, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication: "GeoFocus"
+  publication_detail: "vol. 13 nº 1 p. 154-176"
+  year: 2013
+# -------------------
+- title: "Spatial Data Infrastructures for Environmental E-government Services: the case of Water Abstractions Authorisations"
+  url: /curriculum/08-Publicaciones-Articulos/art_2013_EMS_Spatial_vdef_author.pdf
+  authors: M.Á. LATRE, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, R. BÉJAR, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication: "Environmental Modelling & Software"
+  publication_detail: "vol. 48 p. 81-92"
+  year: 2013
+  doi: 10.1016/j.envsoft.2013.06.005 
+  url_oficial: http://dx.doi.org/10.1016/j.envsoft.2013.06.005
+  comments: This is the author's version of the work. It is posted here by permission of Elsevier for personal use, not for redistribution. The definitive version was published in Environmental Modelling & Software, 2013.
+# -------------------
+- title: "Design and evaluation of a semantic enrichment process for bibliographic databases"
+  url: /curriculum/08-Publicaciones-Articulos/art_2013_DKE_Design.pdf
+  authors: J. LACASTA, J.NOGUERAS-ISO, G. FALQUET, J. TELLER, F.J. ZARAZAGA-SORIA
+  publication: "Data & Knowledge Engineering"
+  publication_detail: "vol. 88 p. 94-107. ISSN 0169-023X"
+  year: 2013
+  doi: 10.1016/j.datak.2013.10.001 
+  url_oficial: http://dx.doi.org/10.1016/j.datak.2013.10.001
+# -------------------
+- title: "Automatic Extraction of Figures from Scientific Publications in High-Energy Physics"
+  url: /curriculum/08-Publicaciones-Articulos/art_2013_ITAL_Automatic.pdf
+  authors: P. PRACZYK, J. NOGUERAS-ISO, S. MELE
+  publication: "Information Technology and Libraries (ITAL)"
+  publication_detail: "vol. 32 nº 4 p. 25-52"
+  year: 2013
+# -------------------
+- title: "Apertura de las cartotecas al mundo de las Infraestructuras de Datos Espaciales"
+  url: http://www.ibersid.eu/ojs/index.php/scire/article/view/3982
+  authors: J. BARRERA, J. CAPDEVILA, J. NOGUERAS-ISO, M. CRIADO, M. CRESPO, A. SÁNCHEZ, C. SOTERES
+  publication: "SCIRE"
+  publication_detail: "vol. 19, nº 1,p. 15-22"
+  year: 2013
+# -------------------
+- title: "IDEs y Geo Inteligencia de Negocio. Nuevas oportunidades en la interoperabilidad entre diferentes comunidades"
+  authors: B. ESPEJO-GARCÍA, N. SIDDA, F.J. LOPEZ-PELLICER, M.A. LATRE, F.J. ZARAZAGA-SORIA
+  publication_conference: "IV Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2013), Toledo, 13-15 de noviembre de 2013"
+  year: 2013
+# -------------------
+- title: "Identifying Hidden Geospatial Resources in Catalogues"
+  url: http://dl.acm.org/citation.cfm?doid=2479787.2479812
+  authors: W. RENTERIA-AGUALIMPIA, F.J. LOPEZ-PELLICER, J. LACASTA, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of the 3rd International Conference on Web Intelligence, Mining and Semantics, WIMS 2013, Madrid, Spain, June 12-14"
+  year: 2013
+  doi: 10.1145/2479787.2479812 
+  url_oficial: http://dx.doi.org/10.1145/2479787.2479812
+  comments: 
+# -------------------
+- title: "Verificación inteligible de la conformidad de los Servicios de Red en INSPIRE"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2013_JIIDE_Verificacion.pdf
+  authors: F.J. LOPEZ-PELLICER, J. BARRERA, A. RODRÍGUEZ-PASCUAL, P. ABAD-POWER, J. AGUDO, F.J. ZARAZAGA-SORIA
+  publication_conference: "IV Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2013), Toledo, 13-15 de noviembre de 2013"
+  year: 2013
+# -------------------
+- title: "A Semantic Approach for the Annotation of Figures: Application to High-Energy Physics"
+  url: http://link.springer.com/chapter/10.1007/978-3-319-03437-9_30
+  authors: P. PRACZYK, J. NOGUERAS-ISO
+  publication_conference: "Metadata and Semantics Research. 7th Research Conference, MTSR 2013, Thessaloniki, Greece, November 19-22, 2013. Proceedings"
+  publication_detail: "p. 302-314"
+  year: 2013
+# -------------------
+- title: "Automatic Annotation of Motion Expressions and Place Named Entities"
+  url: http://www-igm.univ-mlv.fr/~unitex/Automatic%20Annotation%20of%20Motion%20Expressions%20and%20Place%20Named%20Entities_Moncla.pdf
+  authors: L. MONCLA
+  publication_conference: "2nd UNITEX/GramLab Workshop, 10 octobre 2013"
+  year: 2013
+# -------------------
+- title: "Restricciones al trabajo con información geográfica online en China"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2013_JIIDE_Restricciones.pdf
+  authors: C. RABAZA-BERGUA, J. LÓPEZ-DE-LARRÍNZAR, I. SALVADOR-SUÁREZ, M. USÓN, P.R. MURO-MEDRANO
+  publication_conference: "IV Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2013), Toledo, 13-15 de noviembre de 2013"
+  year: 2013
+# -------------------
+- title: "Infraestructuras de Datos Espaciales como eje central del desarrollo de las Smart Cities"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2013_JIIDE_Infraestructuras.pdf
+  authors: M.J. PÉREZ-PÉREZ, J. LÓPEZ-DE-LARRÍNZAR, M.J. FERNÁNDEZ-RUIZ, V. MORLÁN, P. RODRIGO-CARDIEL, M. USÓN
+  publication_conference: "IV Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2013), Toledo, 13-15 de noviembre de 2013"
+  year: 2013
+# -------------------
+- title: "Providing semantic links to the Invisible Geospatial Web"
+  url: /curriculum/07-Publicaciones-Libros/2012_libro_PrensasUZ_Providing.pdf
+  authors: F.J. LOPEZ-PELLICER, R. BÉJAR, F. JAVIER ZARAZAGA-SORIA  					
+  publication: "Zaragoza: Universidad de Zaragoza. Notes in Geoinforrnatics Research/Cuadernos de Investigación en Geoinformática"
+  year: 2012
+# -------------------
+- title: "An architectural view of spatial data infrastructures"
+  url: /curriculum/07-Publicaciones-Libros/2012_libro_PrensasUZ_Architectural.pdf
+  authors: R. BÉJAR, J. NOGUERAS-ISO, P.R. MURO-MEDRANO
+  publication: "Zaragoza: Universidad de Zaragoza. Notes in Geoinforrnatics Research/Cuadernos de Investigación en Geoinformática"
+  year: 2012
+# -------------------
+- title: "Search improvement within the geospatial web in the context of spatial data infrastructures. PhD Dissertation"
+  url: http://zaguan.unizar.es/record/10347/files/TESIS-2013-035.pdf
+  authors: A.J. FLORCZYK
+  publication_dissertation: "Zaragoza: Universidad de Zaragoza"
+  year: 2012
+# -------------------
+- title: "The Delft Report: Linked Data and the challenges for geographic information standardization"
+  url: http://www.rcg.cat/articles.php?id=220
+  authors: F.J. LOPEZ-PELLICER, L.M. VILCHES-BLAZQUEZ, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO, O. CORCHO
+  publication: "Revista Catalana de Geografía"
+  publication_detail: "vol. XVII nº 44. ISSN 1988-2459"
+  year: 2012
+# -------------------
+- title: "Availability of the OGC geoprocessing standard: March 2011 reality check"
+  authors: F.J. LOPEZ-PELLICER, W. RENTERIA-AGUALIMPIA, R. BÉJAR, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication: "Computers and Geosciences"
+  publication_detail: "vol. 47 p. 13-19"
+  year: 2012
+  doi: 10.1016/j.cageo.2011.10.023 
+  url_oficial: http://dx.doi.org/10.1016/j.cageo.2011.10.023
+# -------------------
+- title: "Identifying Orthoimages in Web Map Services"
+  authors: A.J. FLORCZYK, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA, R. BÉJAR
+  publication: "Computers and Geosciences"
+  publication_detail: "vol. 47 p. 130-142"
+  year: 2012
+  doi: 10.1016/j.cageo.2011.10.017 
+  url_oficial: http://dx.doi.org/10.1016/j.cageo.2011.10.017
+  comments: 
+# -------------------
+- title: "An RM-ODP Enterprise View for Spatial Data Infrastructures"
+  url: /curriculum/08-Publicaciones-Articulos/art_2011_CSI_RMODP.pdf
+  authors: R. BÉJAR, M.Á. LATRE, J. NOGUERAS-ISO, P.R. MURO-MEDRANO, F.J. ZARAZAGA
+  publication: "Computer Standards & Interfaces"
+  publication_detail: "vol. 34 p. 263-272"
+  year: 2012
+  doi: 10.1016/j.csi.2011.10.001 
+  url_oficial: http://dx.doi.org/10.1016/j.csi.2011.10.001
+# -------------------
+- title: "An Ontology for the representation of Spatio-Temporal Jurisdictional Domains in Information Retrieval Systems"
+  authors: F.J. LOPEZ-PELLICER, J. LACASTA, A. FLORCZYK, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication: "International Journal of Geographical Information Science"
+  publication_detail: "vol. 26 nº 4 p. 579-597"
+  year: 2012
+  doi: 10.1080/13658816.2011.599811 
+  url_oficial: http://www.tandfonline.com/doi/abs/10.1080/13658816.2011.599811
+  comments: 
+# -------------------
+- title: "La aportación española en el Proyecto EuroGEOSS: Hacia un Sistema de Observación Ambiental de la Tierra"
+  url: http://www.rcg.cat/articles.php?id=221
+  authors: C.D.C. CANTERGIANI, J.M. RUBIO-IGLESIAS, C. ZAMORANO-CHICO, L. DÍAZ-SÁNCHEZ, M.Á. LATRE, J. NOGUERAS-ISO, R. GALVÁN-PLAZA
+  publication: "Revista Catalana de Geografía"
+  publication_detail: "vol. XVII nº 44. ISSN 1988-2459"
+  year: 2012
+# -------------------
+- title: "SDI-Based Business Processes: A Territorial Analysis Web Information System in Spain"
+  url: /curriculum/08-Publicaciones-Articulos/art_2012_C&G_SDI.pdf
+  authors: R. BÉJAR, M.Á. LATRE, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication: "Computers and Geosciences"
+  publication_detail: "vol. 46 p. 66-72"
+  year: 2012
+  doi: 10.1016/j.cageo.2012.04.010 
+  url_oficial: http://dx.doi.org/10.1016/j.cageo.2012.04.010
+  comments: This is the author's version of the work. It is posted here by permission of Elsevier for personal use, not for redistribution. The definitive version was published in Computers and Geosciences, September 2012.
+# -------------------
+- title: "A model driven approach for the development of metadata editors, applicability to the annotation of geographic information resources"
+  url: /curriculum/08-Publicaciones-Articulos/art_2012_DKE_Model.pdf
+  authors: J. NOGUERAS-ISO, M.Á. LATRE, R. BÉJAR, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication: "Data & Knowledge Engineering"
+  publication_detail: "vol. 81-82 p. 118-139. ISSN 0169-023X"
+  year: 2012
+  doi: 10.1016/j.datak.2012.09.001 
+  url_oficial: http://dx.doi.org/10.1016/j.datak.2012.09.001
+  comments: This is the author's version of the work. It is posted here by permission of Elsevier for research use, not for redistribution. The definitive version was published in Data & Knowledge Engineering, 2012.
+# -------------------
+- title: "Automatic Generation of Geospatial Metadata for Web Resources"
+  url: http://ijsdir.jrc.ec.europa.eu/index.php/ijsdir/article/viewFile/253/329
+  authors: A.J. FLORCZYK, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication: "International Journal of Spatial Data Infrastructures Research"
+  publication_detail: "vol. 7 p. 151-172"
+  year: 2012
+  doi: 10.2902/1725-0463.2012.07.art8 
+  url_oficial: http://dx.doi.org/10.2902/1725-0463.2012.07.art8
+  comments: 
+# -------------------
+- title: "Gateway MARC21-ISO19115: definition and reference implementation"
+  url: http://www.e-perimetron.org/Vol_7_3/Capdevila_et_al.pdf
+  authors: J. CAPDEVILA, J.M. AGUDO, F.J. ZARAZAGA-SORIA, J. BARRERA, A. SÁNCHEZ-MAGANTO, C. SOTERES, M. CRIADO, M. CRESPO
+  publication: "ePerimetron"
+  publication_detail: "vol. 7 nº 3 p. 155-162"
+  year: 2012
+# -------------------
+- title: "The development and interlinkage of a drought vocabulary in the EuroGEOSS interoperable catalogue infrastructure"
+  url: http://ijsdir.jrc.ec.europa.eu/index.php/ijsdir/article/view/264
+  authors: M.Á. LATRE, B. HOFER, J. LACASTA, J. NOGUERAS-ISO
+  publication: "International Journal of Spatial Data Infrastructures Research"
+  publication_detail: "vol. 7 p. 225-248"
+  year: 2012
+  doi: 10.2902/1725-0463.2012.07.art12 
+  url_oficial: http://dx.doi.org/10.2902/1725-0463.2012.07.art12
+  comments: 
+# -------------------
+- title: "Etapas de la popularización de las Infraestructuras de Información Geoespacial"
+  authors: P.R. MURO-MEDRANO
+  publication: "GeoFocus (Editorial)"
+  publication_detail: "vol. 12 p. 1-5"
+  year: 2012
+# -------------------
+- title: "Hacia las Infraestructuras de Datos Abiertos Espaciales"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2012_JIIDE_Hacia.pdf
+  authors: F.J. ZARAZAGA-SORIA, R. GARCÍA, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, R. BÉJAR, R.GIL, J.M. BRUNETTI, J.M.GIMENO, P.R. MURO-MEDRANO
+  publication_conference: "Actas de las III Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2012), Implementación de datos, servicios y metadatos en conformidad con INSPIRE, Madrid, 17-19 de octubre de 2012"
+  year: 2012
+# -------------------
+- title: "HydroSpatium, una aproximación basada en INSPIRE para gestionar y compartir geoinformación de la Directiva Marco del Agua a través de múltiples vistas institucionales"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2012_JIIDE_Hydrospatium.pdf
+  authors: M.Á. LATRE, J. NOGUERAS-ISO, F.J. LOPEZ-PELLICER, R. BÉJAR, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO, J. SENA-TOMÉ, M. USÓN, S. LAIGLESIA-MARTÍNEZ, M. GARCÍA-LAPRESTA
+  publication_conference: "Actas de las III Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2012), Implementación de datos, servicios y metadatos en conformidad con INSPIRE, Madrid, 17-19 de octubre de 2012"
+  year: 2012
+# -------------------
+- title: "Analysing the Impact of a Specialized Drought Vocabulary for Discovering Resources in EuroGEOSS"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2012_EGC_Analysing.pdf
+  authors: M.Á. LATRE, B. HOFER, J. LACASTA, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Proceedings of EuroGEOSS Conference 2012, Advancing the vision for GEOSS. Madrid, January 25-27 2012"
+  year: 2012
+# -------------------
+- title: "Análisis de la visibilidad global de los publicadores de los recursos geográficos estandarizados"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2012_JIIDE_Analisis.pdf
+  authors: A.J. FLORCZYK, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de las III Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2012), Implementación de datos, servicios y metadatos en conformidad con INSPIRE, Madrid, 17-19 de octubre de 2012"
+  year: 2012
+# -------------------
+- title: "Farmacias Ahora! Zaragoza. Desarrollo de aplicaciones para dispositivos móviles sobre servicios IDE y datos libres"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2012_JIIDE_Farmacias.pdf
+  authors: M.J. PÉREZ-PÉREZ, J. LÓPEZ-DE-LARRÍNZAR, M. USÓN, P. RODRIGO-CARDIEL, R. RIOJA, J. ECED-CERDÁN, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de las III Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2012), Implementación de datos, servicios y metadatos en conformidad con INSPIRE, Madrid, 17-19 de octubre de 2012"
+  year: 2012
+# -------------------
+- title: "De las cartotecas a las IDE: puesta en servicio de una pasarela entre los estándares de catalogación MARC21 e ISO 19115"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2012_JIIDE_Cartotecas.pdf
+  authors: M. CRIADO, M. CRESPO, J. CAPDEVILLA, J.M. AGUDO, F.J. ZARAZAGA-SORIA, J. BARRERA, A. SÁNCHEZ-MAGANTO, C.  SOTERES
+  publication_conference: "Actas de las III Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2012), Implementación de datos, servicios y metadatos en conformidad con INSPIRE, Madrid, 17-19 de octubre de 2012"
+  year: 2012
+# -------------------
+- title: "Importance of metadata in drought monitoring"
+  authors: M.Á. LATRE, J. LACASTA, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication_conference: "Different approaches to drought monitoring - Towards EuroGEOSS interoperability model"
+  publication_detail: "p. 63-73"
+  year: 2012
+# -------------------
+- title: "Towards an active directory of Geospatial Web services"
+  url: http://link.springer.com/chapter/10.1007%2F978-3-642-29063-3_4
+  authors: F.J. LOPEZ-PELLICER, W. RENTERIA-AGUALIMPIA, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication_conference: "Bridging the Geographic Information Sciences. Lecture Notes in Geoinformation and Cartography (LNG&C)"
+  publication_detail: "vol. VIII p. 63-79. ISSN 978-3-642-29062-6"
+  year: 2012
+# -------------------
+- title: "Integrating Scholarly Publications and Research Data - Preparing for Open Science a Case Study from High-Energy Physics with Special Emphasis on (Meta)data Models"
+  url: http://link.springer.com/content/pdf/10.1007%2F978-3-642-35233-1_16
+  authors: P. PRACZYK, J. NOGUERAS-ISO, S. DALLMEIER-TIESSEN, M. WHALLEY
+  publication_conference: "Metadata and Semantics Research. 6th Research Conference, MTSR 2012, Cádiz, Spain, November 28-30, 2012. Proceedings"
+  publication_detail: "p. 146-157"
+  year: 2012
+# -------------------
+- title: "Una aproximación ágil al problema de la conformidad de servicios con INSPIRE"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2012_JIIDE_Aproximacion.pdf
+  authors: F.J. LOPEZ-PELLICER, J. BARRERA, P. ABAD-POWER, A. SÁNCHEZ-MAGANTO, E. LÓPEZ-ROMERO, P.R. MURO-MEDRANO
+  publication_conference: "Actas de las III Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2012), Implementación de datos, servicios y metadatos en conformidad con INSPIRE, Madrid, 17-19 de octubre de 2012"
+  year: 2012
+# -------------------
+- title: "Curso de verano 'Archivos y gestión de documentos ante la Web semántica' (Universidad de Zaragoza): intervenciones"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2012_CursoVeranoUnizar_Archivos.pdf
+  authors: J. NOGUERAS-ISO, J. LACASTA, J. LOPEZ-PELLICER (ET. AL)
+  publication_conference: "Boletín de Anabad, nº 3, julio-septiembre, 2012"
+  year: 2012
+# -------------------
+- title: "Cacheado de datos procedentes de servicios WFS en la aplicación web del proyecto EuroGeoSource"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2012_JIIDE_Cacheado.pdf
+  authors: R. BÉJAR, D. GAYÁN-ASENSIO, M. Á. LATRE, R. RIOJA, M. USÓN
+  publication_conference: "Actas de las III Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2012), Implementación de datos, servicios y metadatos en conformidad con INSPIRE, Madrid, 17-19 de octubre de 2012"
+  year: 2012
+# -------------------
+- title: "Semantic Linkage of the Invisible Geospatial Web. PhD Dissertation"
+  url: /curriculum/07-Publicaciones-Libros/2011_tesis_LopezPellicer.pdf
+  authors: F.J. LOPEZ-PELLICER
+  publication_dissertation: "Zaragoza: Universidad de Zaragoza"
+  year: 2011
+# -------------------
+- title: "A review of the implementation of OGC Web Services across Europe"
+  url: http://ijsdir.jrc.ec.europa.eu/index.php/ijsdir/article/view/233/299
+  authors: F.J. LOPEZ-PELLICER, R. BÉJAR, A.J. FLORCZYK, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication: "International Journal of Spatial Data Infrastructures Research"
+  publication_detail: "vol. 6 p. 168-186"
+  year: 2011
+  doi: 10.2902/1725-0463.2011.06.art8 
+  url_oficial: http://dx.doi.org/10.2902/1725-0463.2011.06.art8
+  comments: 
+# -------------------
+- title: "Discovering geographic web services in search engines"
+  url: http://www.emeraldinsight.com/doi/full/10.1108/14684521111193193
+  authors: F.J. LOPEZ-PELLICER, A.J. FLORCZYK, R. BÉJAR, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication: "Online Information Review"
+  publication_detail: "vol. 35 nº 6 p. 909-927. ISSN 1468-4527"
+  year: 2011
+# -------------------
+- title: "Ontologies in the Geographic Information Sector"
+  url: http://www.springer.com/computer/information+systems+and+applications/book/978-0-85729-723-5
+  authors: R. BILLEN, J. NOGUERAS-ISO, F.J. LOPEZ-PELLICER, L.M. VILCHES-BLÁZQUEZ
+  publication: "Ontologies in Urban Development Projects. Advanced Information and Knowledge Processing. Springer"
+  publication_detail: "p. 83-103. ISBN 978-0-85729-723-5"
+  year: 2011
+# -------------------
+- title: "Las Infraestructuras de Datos Espaciales. Origen, organización, componentes fundamentales, y servicios disponibles en España y en Europa"
+  url: http://catedratelefonica.unizar.es/pdfsCuadernos/Bejar.pdf
+  authors: R. BÉJAR, F.J. LOPEZ-PELLICER, P.R. MURO-MEDRANO
+  publication: "Cuaderno Red de Cátedras Telefónica. Cátedra Telefónica de la Universidad de Zaragoza en Seguridad y Productividad en la Sociedad de Información"
+  year: 2011
+# -------------------
+- title: "Transformation of Urban Knowledge Sources to Ontologies"
+  url: http://www.springer.com/computer/information+systems+and+applications/book/978-0-85729-723-5
+  authors: J. NOGUERAS-ISO, J. LACASTA, J. TELLER, G. FALQUET, J. GUYOT
+  publication: "Ontologies in Urban Development Projects. Advanced Information and Knowledge Processing. Springer"
+  publication_detail: "p. 153-166. ISBN 978-0-85729-723-5"
+  year: 2011
+# -------------------
+- title: "The Delft Report: Linked Data and the challenges for geographic information standardization"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2011_JIIDE_Delft.pdf
+  authors: F.J. LOPEZ-PELLICER, L.M. VILCHES-BLAZQUEZ, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO, O. CORCHO
+  publication_conference: "Actas de las II Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2011), Barcelona, 9-11 de noviembre de 2011"
+  year: 2011
+# -------------------
+- title: "Implementing GeoDRM support in an OpenLayers based viewer: access to the French geoportal WMS-C services from the Spanish SDI"
+  url: http://inspire.jrc.ec.europa.eu/events/conferences/inspire_2011/get_details.cfm?urlx=inspire.jrc.ec.europa.eu/events/conferences/inspire_2011/abstracts/162.html&KeepThis=true&TB_iframe=true&height=550&width=620
+  authors: R. BÉJAR, M.Á. LATRE, J. VALIÑO, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication_conference: "INSPIRE Conference 2011: INSPIREd by 2020 - Contributing to smart, sustainable and inclusive growth. Edinburgh, Scotland, 27 June - 1 July 2011"
+  year: 2011
+# -------------------
+- title: "Automatic Metadata Generation for the Web Geo-resources"
+  url: http://inspire.jrc.ec.europa.eu/events/conferences/inspire_2011/get_details.cfm?urlx=inspire.jrc.ec.europa.eu/events/conferences/inspire_2011/abstracts/211.html
+  authors: B. BORJAS, A.J. FLORCZYK, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication_conference: "INSPIRE Conference 2011: INSPIREd by 2020 - Contributing to smart, sustainable and inclusive growth. Edinburgh, Scotland, 27 June - 1 July 2011"
+  year: 2011
+# -------------------
+- title: "Status of INSPIRE inspired OGC Web Services"
+  url: http://inspire.jrc.ec.europa.eu/events/conferences/inspire_2011/get_details.cfm?urlx=inspire.jrc.ec.europa.eu/events/conferences/inspire_2011/abstracts/168.html
+  authors: F.J. LOPEZ-PELLICER, R. BÉJAR, W. RENTERIA-AGUALIMPIA, A.J. FLORCZYK, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication_conference: "INSPIRE Conference 2011: INSPIREd by 2020 - Contributing to smart, sustainable and inclusive growth. Edinburgh, Scotland, 27 June - 1 July 2011"
+  year: 2011
+# -------------------
+- title: "Open Linked Data for INSPIRE: From 3 to 5 star geospatial data"
+  url: http://inspire.jrc.ec.europa.eu/events/conferences/inspire_2011/get_details.cfm?urlx=inspire.jrc.ec.europa.eu/events/conferences/inspire_2011/abstracts/170.html
+  authors: F.J. LOPEZ-PELLICER, A.J. FLORCZYK, J. NOGUERAS-ISO, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication_conference: "INSPIRE Conference 2011: INSPIREd by 2020 - Contributing to smart, sustainable and inclusive growth. Edinburgh, Scotland, 27 June - 1 July 2011"
+  year: 2011
+# -------------------
+- title: "Generación Automática de Metadatos Geográficos de Páginas Web"
+  authors: B. BORJAS, A.J. FLORCZYK, F.J LÓPEZ-PELLICER, F.J. ZARAZAGA-SORIA
+  publication_conference: "9th International Geomatics Week (Semana Geomática Internacional 2011). Barcelona, Spain, 15-17 March 2011"
+  year: 2011
+# -------------------
+- title: "Implantation of OGC geoprocesing services for Geoscience"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2011_JIIDE_Implantation.pdf
+  authors: F.J. LOPEZ-PELLICER, W. RENTERIA-AGUALIMPIA, R. BÉJAR, J. VALIÑO, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO. 
+  publication_conference: "Actas de las II Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2011), Barcelona, 9-11 de noviembre de 2011"
+  year: 2011
+# -------------------
+- title: "EuroGeoSource: sharing data and services on energy and mineral resources in Europe following INSPIRE"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2011_JIIDE_EuroGeoSource.pdf
+  authors: R. BÉJAR, M. USÓN, J. BARRERA, R. RECIO, J.M. AGUDO, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication_conference: "Actas de las II Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2011), Barcelona, 9-11 de noviembre de 2011"
+  year: 2011
+# -------------------
+- title: "La Política de Datos Abiertos del Ayuntamiento de Zaragoza: datosabiertos.zaragoza.es"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2011_CAEPIA_Politica.pdf
+  authors: M.J. FERNÁNDEZ-RUIZ, J.M. ALONSO, M. ALVAREZ , V. MORLÁN-PLO, M.J. PÉREZ-PÉREZ, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de CAEPIA 2011, San Cristóbal de La Laguna, Tenerife, 7-10 de noviembre de 2011"
+  year: 2011
+# -------------------
+- title: "Importance of metadata in drought monitoring"
+  authors: M.Á. LATRE, J. LACASTA, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication_conference: "Different approaches to drought monitoring - towards EuroGEOSS interoperability model, Ljubljana, 23-25 November 2011"
+  publication_detail: "p. 63-73"
+  year: 2011
+# -------------------
+- title: "A Storage Model for Supporting Figures and Other Artefacts in Scientific Libraries: the Case Study of Invenio"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2011_VLDL_Storage.pdf
+  authors: P. PRACZYK, J. NOGUERAS-ISO, S. KAPLUN, T. SIMKO
+  publication_conference: "Proceedings of the Fourth Workshop on Very Large Digital Libraries (VLDL 2011), Berlin, Germany, September 29th 2011"
+  year: 2011
+# -------------------
+- title: "CSW2LD: a Linked Data frontend for CSW"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2011_JIIDE_CSW2LD.pdf
+  authors: F.J. LOPEZ-PELLICER, A.J. FLORCZYK, W. RENTERIA-AGUALIMPIA, J. NOGUERAS-ISO, J. VALIÑO, P.R. MURO-MEDRANO. 
+  publication_conference: "Actas de las II Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2011), Barcelona, 9-11 de noviembre de 2011"
+  year: 2011
+# -------------------
+- title: "Publishing Standard Geospatial Catalogues in the Web of Data"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2011_CAEPIA_Publishing.pdf
+  authors: F.J. LOPEZ-PELLICER, A.J. FLORCZYK, W. RENTERIA-AGUALIMPIA, J. NOGUERAS-ISO, P.R. MURO-MEDRANO
+  publication_conference: "Actas de CAEPIA 2011, San Cristóbal de La Laguna, Tenerife, 7-10 de noviembre de 2011"
+  year: 2011
+# -------------------
+- title: "Multi-criteria Geographic Information Retrieval Model Based on Geospatial Semantic Integration"
+  authors: W. RENTERIA-AGUALIMPIA, S. LEVASHKIN
+  publication_conference: "GeoSpatial Semantics, 4th International Conference, GeoS 2011, Brest, France, May 12-13, 2011, Proceedings. Lecture Notes in Computer Science (LNCS)"
+  publication_detail: "vol. 6631 p. 166-181. ISSN 0302-9743"
+  year: 2011
+# -------------------
+- title: "Rutómetro Multimodal sobre los Servicios de una IDE"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2011_JIIDE_Rutometro.pdf
+  authors: M. USÓN, J. LÓPEZ-DE-LARRÍNZAR, M.J. PÉREZ-PÉREZ, P. RODRIGO-CARDIEL, R. RIOJA, J. ECED-CERDÁN, F.J. LOPEZ-PELLICER
+  publication_conference: "Actas de las II Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2011), Barcelona, 9-11 de noviembre de 2011"
+  year: 2011
+# -------------------
+- title: "Un visualizador web de mapas 3D teseladados basados en modelos de CityGML"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2011_JIIDE_Visualizador.pdf
+  authors: R. BÉJAR, D. GAYÁN-ASENSIO, J. ECED-CERDÁN, J. LÓPEZ-DE-LARRÍNZAR, P.R. MURO-MEDRANO
+  publication_conference: "Actas de las II Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2011), Barcelona, 9-11 de noviembre de 2011"
+  year: 2011
+# -------------------
+- title: "Transformation of a keyword indexed collection into a semantic repository: applicability to the urban domain"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2011_LNCS_Transformation.pdf
+  authors: J. LACASTA, J. NOGUERAS-ISO, J. TELLER, G. FALQUET
+  publication_conference: "International Conference on Theory and Practice of Digital Libraries 2011 - TPDL 2011. Lecture Notes in Computer Science (LNCS)"
+  publication_detail: "vol. 6966 p. 372-383. ISSN 0302-9743"
+  year: 2011
+# -------------------
+- title: "Searching drought-related resources through a specialized vocabulary - testing the interoperable infrastructure of the EuroGEOSS project"
+  url: http://inspire.jrc.ec.europa.eu/events/conferences/inspire_2011/get_details.cfm?urlx=inspire.jrc.ec.europa.eu/events/conferences/inspire_2011/abstracts/175.html
+  authors: M.Á. LATRE, J. NOGUERAS-ISO, B. HOFER
+  publication_conference: "INSPIRE Conference 2011: INSPIREd by 2020 - Contributing to smart, sustainable and inclusive growth. Edinburgh, Scotland, 27 June - 1 July 2011"
+  year: 2011
+# -------------------
+- title: "La aportación española en el Proyecto EuroGEOSS: Hacia un Sistema de Observación Ambiental de la Tierra"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2011_JIIDE_Aportacion.pdf
+  authors: C.D.C. CANTERGIANI, J.M. RUBIO-IGLESIAS, C. ZAMORANO-CHICO, L. DÍAZ-SÁNCHEZ, M.Á. LATRE, J. NOGUERAS-ISO, R. GALVÁN-PLAZA
+  publication_conference: "Actas de las II Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2011), Barcelona, 9-11 de noviembre de 2011"
+  year: 2011
+# -------------------
+- title: "Terminological Ontologies: Design, Management and Practical Applications"
+  url: /curriculum/07-Publicaciones-Libros/2010_libro_Springer_Terminological_Ontologies.pdf
+  authors: J. LACASTA, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication: "Semantic Web and Beyond. Germany, Springer"
+  year: 2010
+# -------------------
+- title: "Semantic Selection of Georeferencing Services for Urban Management"
+  url: http://www.itcon.org/cgi-bin/works/Show?2010_8
+  authors: A.J. FLORCZYK, F.J. LOPEZ-PELLICER, P.R. MURO-MEDRANO, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication: "Journal of Information Technology in Construction"
+  publication_detail: "vol. 15 (Special Issue Bringing urban ontologies into practice) p. 111-121. ISSN 0302-9743"
+  year: 2010
+# -------------------
+- title: "Exploring the Advances in Semantic Search Engines"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2010_AISC_Exploring.pdf
+  authors: W. RENTERIA-AGUALIMPIA, F.J. LOPEZ-PELLICER, P.R. MURO-MEDRANO, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication: "International Symposium on Distributed Computing and Artificial Intelligence 2010 (DCAI?2010). Advances in Intelligent and Soft-Computing. Springer"
+  publication_detail: "vol. 79, p. 613-620"
+  year: 2010
+# -------------------
+- title: "Ontology learning from thesauri: an experience in the urban domain"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2010_OTMD_Ontology.pdf
+  authors: J. NOGUERAS-ISO,  J. LACASTA,  J. TELLER,  G. FALQUET,  J. GUYOT
+  publication: "Ontology Theory, Management and Design: Advanced Tools and Models"
+  publication_detail: "p. 247-260"
+  year: 2010
+# -------------------
+- title: "Las Infraestructuras de Datos Espaciales y su aplicación en proyectos de investigación en la Universidad de Zaragoza"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2010_GT-IDEE_Infraestructuras.pdf
+  authors: R. BÉJAR, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA, J. NOGUERAS-ISO, M.Á. LATRE, F.J. LOPEZ-PELLICER, R. RIOJA, S. LAIGLESIA-MARTÍNEZ, J. BARRERA, R. MIGUEL, M.J. PÉREZ-PÉREZ
+  publication_conference: "Actas de la Reunión del GT-IDEE: Las IDE y sus aplicaciones en proyectos de investigación científico-tecnológicos"
+  year: 2010
+# -------------------
+- title: "Semantic spatial data infrastructures in action"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2010_InspireConf_Semantic.pdf
+  authors: A.J. FLORCZYK, F.J LÓPEZ-PELLICER, J. LACASTA, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication_conference: "INSPIRE Conference 2010: INSPIRE as a framework for cooperation. Krakow, Poland, 22-25-June 2010"
+  year: 2010
+# -------------------
+- title: "State of Play of OGC Web Services across the Web"
+  authors: F.J LÓPEZ-PELLICER, R. BÉJAR, A.J. FLORCZYK, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication_conference: "INSPIRE Conference 2010: INSPIRE as a framework for cooperation. Krakow, Poland, 22-25-June 2010"
+  year: 2010
+# -------------------
+- title: "Explotación de servicios IDE en el Ayuntamiento de Zaragoza: Trabajo conjunto de IDEZar con las plataformas EzWeb y MyMobileWeb"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2010_JIIDE_Explotacion.pdf
+  authors: M.J. PÉREZ-PÉREZ, J. LÓPEZ-DE-LARRÍNZAR, M. USÓN, M.J. FERNÁNDEZ-RUIZ, V. MORLÁN, C. LABORDA, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de las I Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2010), Lisboa, 27-29 de octubre de 2010"
+  year: 2010
+# -------------------
+- title: "GeoSistur: integración de componentes tecnológicos IDE en un CMS para la construcción de geoportales turísticos"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2010_JIIDE_GeoSistur.pdf
+  authors: R. RIOJA, M.J. PÉREZ-PÉREZ, M. USÓN, A. PEINADO-CHECA, P. RODRIGO-CARDIEL, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de las I Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2010), Lisboa, 27-29 de octubre de 2010"
+  year: 2010
+# -------------------
+- title: "Modelado arquitectural de la IDEE basado en el estándar RM-ODP de ISO"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2010_JIIDE_Modelado.pdf
+  authors: R. BÉJAR, A.RODRÍGUEZ-PASCUAL, M.Á. LATRE, F.J. LOPEZ-PELLICER, F. ZARAZAGA-SORIA, P. ABAD-POWER, C. GONZÁLEZ-GONZÁLEZ, P.R. MURO-MEDRANO
+  publication_conference: "Actas de las I Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2010), Lisboa, 27-29 de octubre de 2010"
+  year: 2010
+# -------------------
+- title: "State of Play: Spain and Portugal. SDI services? state of play in autumn 2010"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2010_JIIDE_State.pdf
+  authors: F.J. LOPEZ-PELLICER, A.J. FLORCZYK, R. BÉJAR, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication_conference: "Actas de las I Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2010), Lisboa, 27-29 de octubre de 2010"
+  year: 2010
+# -------------------
+- title: "Servicios Medioambientales en la plataforma EasyWeb Zaragoza"
+  url: http://www.conama10.es/conama10/download/files/CT%202010/1891516521.pdf
+  authors: M.J. FERNÁNDEZ-RUIZ, A. VIRTO-MEDINA, M.J. PÉREZ-PÉREZ, M. USÓN,
+  publication_conference: "CONAMA 2010, Congreso Nacional del Medio Ambiente. Madrid, 22-26 de noviembre de 2010"
+  year: 2010
+# -------------------
+- title: "IDEZar 2.0: interacción, usabilidad y accesibilidad"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2010_TECNIMAP_Sistema.pdf
+  authors: C. SANABRIA, J. BARRERA, M. USÓN, A. LUJÁN, A. F. RODRÍGUEZ, A. CASTAÑO, F.J. ZARAZAGA, A. SÁNCHEZ, C. SOTERES					
+  publication_conference: "Web de las XI jornadas sobre tecnologías de la información para la modernización de las administraciones públicas (Tenimap 2010). Zaragoza, 6-9 abril, 2010"
+  year: 2010
+# -------------------
+- title: "Geo Linked Data"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2010_LNCS_Geo.pdf
+  authors: F.J. LOPEZ-PELLICER, M.J. SILVA, M. CHAVES, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication_conference: "Database and Expert Systems Applications, 21st International Conference, DEXA 2010, Bilbao, Spain, August/September 2010, Proceedings, Part I. Lecture Notes in Computer Science (LNCS)"
+  publication_detail: "vol. 6261 p. 495-502. ISSN 0302-9743"
+  year: 2010
+# -------------------
+- title: "Facilitating E-government Services through SDIs, an Application for Water Abstractions Authorizations"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2010_LNCS_Facilitating.pdf
+  authors: M.Á. LATRE, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, R. BÉJAR, P.R. MURO-MEDRANO
+  publication_conference: "Electronic Government and the Information Systems Perspective: First International Conference, EGOVIS 2010, Bilbao, Spain, August/September 2010, Proceedings. Lecture Notes in Computer Science (LNCS)"
+  publication_detail: "vol. 6267 p. 108-119. ISSN 0302-9743"
+  year: 2010
+# -------------------
+- title: "Applying Semantic Linkage in the Geospatial Web"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2010_LNGC_Applying.pdf
+  authors: A.J. FLORCZYK, F.J. LOPEZ-PELLICER, R. BÉJAR, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Geospatial Thinking. Lecture Notes in Geoinformation and Cartography (LNG&C)"
+  publication_detail: "p. 201-220. ISSN 1863-2246"
+  year: 2010
+# -------------------
+- title: "Exposing CSW catalogues as Linked Data"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2010_LNGC_Exposing.pdf
+  authors: F.J. LOPEZ-PELLICER, A.J. FLORCZYK, J. NOGUERAS-ISO, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Geospatial Thinking. Lecture Notes in Geoinformation and Cartography (LNG&C)"
+  publication_detail: "p. 183-200. ISSN 1863-2246"
+  year: 2010
+# -------------------
+- title: "Anclando La Balsa de Piedra digital de las IDEs al mundo de la Web Semántica. Co-localización espacial de recursos IDE y la Web de datos"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2010_JIIDE_Anclando.pdf
+  authors: F.J. LOPEZ-PELLICER, W. RENTERIA-AGUALIMPIA, J. VALIÑO, R. BÉJAR, J. NOGUERAS-ISO, P.R. MURO-MEDRANO
+  publication_conference: "Actas de las I Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2010), Lisboa, 27-29 de octubre de 2010"
+  year: 2010
+# -------------------
+- title: "Linkable geographic ontologies"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2010_GIR_Linkable.pdf
+  authors: F.J. LOPEZ-PELLICER, M.J. SILVA, M. CHAVES
+  publication_conference: "Proceedings of the 6th Workshop on Geographic Information Retrieval, 18-19 February 2010, Zurich"
+  year: 2010
+# -------------------
+- title: "Finding OGC Web Services in the Digital Earth"
+  url: http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-640/paper6.pdf
+  authors: A.J. FLORCZYK, P. MAUÉ, F.J LÓPEZ-PELLICER, J. NOGUERAS-ISO
+  publication_conference: "Proceedings of the Workshop Towards Digital Earth: Search, Discover and Share Geospatial Data 2010 at Future Internet Symposium, Berlin, Germany, September 20, 2010"
+  year: 2010
+# -------------------
+- title: "WatchTower. Monitorización de servicios OGC no intrusiva"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2010_JIIDE_WatchTower.pdf
+  authors: M. USÓN, F.J. LOPEZ-PELLICER, P.R. MURO-MEDRANO, R. RIOJA, S. LAIGLESIA-MARTÍNEZ, J. NOGUERAS-ISO
+  publication_conference: "Actas de las I Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2010), Lisboa, 27-29 de octubre de 2010"
+  year: 2010
+# -------------------
+- title: "Sistema de información para la gestión de la información de la Directiva Marco del Agua y de la planificación hidrológica"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2010_TECNIMAP_Sistema.pdf
+  authors: M.Á. LATRE, R. MIGUEL, S. LAIGLESIA-MARTÍNEZ, I. GALAZ, M.J. CLAVIJO, J. RUIZ
+  publication_conference: "Web de las XI jornadas sobre tecnologías de la información para la modernización de las administraciones públicas (Tenimap 2010). Zaragoza, 6-9 abril, 2010"
+  year: 2010
+# -------------------
+- title: "An Enterprise Viewpoint Proposal for SDI Architectural Specifications"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2010_InspireConf_Enterprise.pdf
+  authors: R. BÉJAR, J. NOGUERAS-ISO, M.Á. LATRE, J. VALIÑO, J. BARRERA, P.R. MURO-MEDRANO
+  publication_conference: "INSPIRE Conference 2010: INSPIRE as a framework for cooperation. Krakow, Poland, 22-25-June 2010"
+  year: 2010
+# -------------------
+- title: "Unificación de catálogos de recursos geográficos ante la diversidad normativa"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2010_JIIDE_Unificacion.pdf
+  authors: J. BARRERA, J.M. AGUDO, R. RECIO, S. LAIGLESIA-MARTÍNEZ, J. NOGUERAS-ISO
+  publication_conference: "Actas de las I Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2010), Lisboa, 27-29 de octubre de 2010"
+  year: 2010
+# -------------------
+- title: "Contributions to the Problem of Knowledge Management in Spatial Data Infrastructures. PhD Dissertation"
+  url: /curriculum/07-Publicaciones-Libros/2009_tesis_Lacasta.pdf
+  authors: J. LACASTA
+  publication_dissertation: "Zaragoza: Universidad de Zaragoza"
+  year: 2009
+# -------------------
+- title: "Contributions to the Modelling of Spatial Data Infrastructures and their Portrayal Services. PhD Dissertation"
+  url: /curriculum/07-Publicaciones-Libros/2009_tesis_Bejar.pdf
+  authors: R. BÉJAR
+  publication_dissertation: "Zaragoza: Universidad de Zaragoza"
+  year: 2009
+# -------------------
+- title: "DL and GIS: Path to a new collaboration paradigm. Capter XL"
+  authors: O. CANTÁN, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication: "Handbook of Research on Digital Libraries: Design, Development, and Impact"
+  publication_detail: "Singapore. IGI Global 2009 p. 390-399. ISBN 978-1-59904-879-6"
+# -------------------
+- title: "Digital Libraries as a Foundation of Spatial Data Infrastructures. Chapter XXXIX"
+  authors: R. BÉJAR, J. NOGUERAS-ISO, M.Á. LATRE, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication: "Handbook of Research on Digital Libraries: Design, Development, and Impact"
+  publication_detail: "Singapore. IGI Global 2009 p. 382-389. ISBN 978-1-59904-879-6"
+# -------------------
+- title: "An architectural style for Spatial Data Infrastructures"
+  url: /curriculum/08-Publicaciones-Articulos/art_2008_IJGIS_Architectural.pdf
+  authors: R. BÉJAR, M.Á. LATRE, J. NOGUERAS-ISO, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication: "International Journal of Geographical Information Science"
+  publication_detail: "vol. 23 nº 3 p. 271-294"
+  year: 2009
+  doi: 10.1080/13658810801905282 
+  url_oficial: http://dx.doi.org/10.1080/13658810801905282
+  comments: This is the author's version of the work. It is posted here by permission of Taylor & Francis for personal use, not for redistribution. The definitive version was published in International Journal of Geographical Information Science, January 2008.  
+# -------------------
+- title: "Enabling Geolocating via Ontologies"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2009_UrbanOntologies_Enabling.pdf
+  authors: A.J. FLORCZYK, F.J. LOPEZ-PELLICER, R. RIOJA, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication: "Urban Ontologies for an improved communication in urban development projects. Liège: Les Editions de l'université de Liège"
+  publication_detail: "p. 85-94. ISBN 978-2-87456-082-8"
+  year: 2009
+# -------------------
+- title: "Development and deployment of a services catalog in compliance with the INSPIRE metadata implementing rules"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2009_GSDI_Development.pdf
+  authors: J. NOGUERAS-ISO, J. BARRERA, A.F. RODRÍGUEZ-PASCUAL, R. RECIO, C. LABORDA, F.J. ZARAZAGA-SORIA
+  publication: "SDI Convergence: Research, Emerging Trends, and Critical Assessment.The Netherlands Geodetic Commission (NGC)"
+  publication_detail: "p. 21-34"
+  year: 2009
+# -------------------
+- title: "Systems of Systems as a Conceptual Framework for Spatial Data Infrastructures"
+  url: http://ijsdir.jrc.ec.europa.eu/index.php/ijsdir/article/view/124/185
+  authors: R. BÉJAR, M.Á. LATRE, J. NOGUERAS-ISO, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication: "International Journal of Spatial Data Infrastructures Research"
+  publication_detail: "vol. 4 p. 201-217"
+  year: 2009
+# -------------------
+- title: "IDE-Ebro: La Infraestructura de Datos Espaciales de la Confederación Hidrográfica del Ebro"
+  url: /curriculum/08-Publicaciones-Articulos/art_2009_Mapping_IDEEbro.pdf
+  authors: T. CARCELLER-LAYEL, R. MIGUEL, J.A. LOSADA-GARCÍA, M. VIDAL-SÁNCHEZ, D. GAYÁN-ASENSIO, F.J. ZARAZAGA-SORIA
+  publication: "Mapping interactivo"
+  publication_detail: "vol. 135. ISSN 1-131-9-100"
+  year: 2009
+# -------------------
+- title: "Modelling Spatial Data Infrastructures as Systems of Systems"
+  url: http://www.gsdi.org/gsdi11/posters.html#pa273
+  authors: R. BÉJAR, F.J. LOPEZ-PELLICER, P.R. MURO-MEDRANO, R. RIOJA, F.J. ZARAZAGA-SORIA
+  publication_conference: "GSDI 11 World Conference and the 3rd INSPIRE Conference 2009, Rotterdam 15-19 June 2009"
+  year: 2009
+# -------------------
+- title: "Construcción de un Registro de Cartografía Distribuido"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2009_JIDEE_Construccion.pdf
+  authors: J. BARRERA, M. USÓN, A. LUJÁN, A.F. RODRÍGUEZ-PASCUAL, A. CASTAÑO, R. RIOJA, F.J. ZARAZAGA-SORIA
+  publication_conference: "VI Jornadas de la Infraestructura de Datos Espaciales de España (JIDEE 2009). Murcia, España, 4-6 Noviembre 2009"
+  publication_detail: "ISBN 978-84-87138-56-0"
+  year: 2009
+# -------------------
+- title: "Publicación Semántica de Información Geográfica"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2009_CAEPIA_Publicacion.pdf
+  authors: F.J. LOPEZ-PELLICER, J. BARRERA, R. RIOJA, M. USÓN, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de CAEPIA - TITIA 2009: I Workshop on Doing Intelligent Journals and Catalogs (DIJAC09), Sevilla, 9-13 de noviembre de 2009"
+  year: 2009
+# -------------------
+- title: "La Información en Internet como Herramienta de Apoyo al Desarrollo del Turismo Rural y de Montaña"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2009_CITSM_Informacion.pdf
+  authors: M.J. PÉREZ-PÉREZ, R. RIOJA, S. LAIGLESIA-MARTÍNEZ, M. GARCÍA-LAPRESTA, F.J. ZARAZAGA-SORIA
+  publication_conference: "II Congreso Internacional de Turismo Sostenible en Montaña. Huesca, España, 17-18 Sept. 2009"
+  year: 2009
+# -------------------
+- title: "An Approach to Facilitate the Integration of Hydrological Data by means of Ontologies and Multilingual Thesauri"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2009_LNGC_Approach.pdf
+  authors: M.Á. LATRE, J. LACASTA, E. MOJICA-ABREGO, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Advances in GIScience. Lecture Notes in Geoinformation and Cartography (LNG&C)"
+  publication_detail: "p. 155-171. ISSN 1863-2246"
+  year: 2009
+# -------------------
+- title: "Compound Geocoder: get the right position"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2009_GSDI_Compound.pdf
+  authors: A.J. FLORCZYK, F.J. LOPEZ-PELLICER, D. GAYÁN-ASENSIO, P. RODRIGO-CARDIEL, M.Á. LATRE, J. NOGUERAS-ISO
+  publication_conference: "GSDI 11 World Conference and the 3rd INSPIRE Conference 2009, Rotterdam 15-19 June 2009"
+  year: 2009
+# -------------------
+- title: "INSPIRE-able services"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2009_AGILE_Inspire.pdf
+  authors: A.J. FLORCZYK, F.J. LOPEZ-PELLICER, J. VALIÑO, R. BÉJAR, P.R. MURO-MEDRANO
+  publication_conference: "AGILE 2009: 12th AGILE International Conference on Geographic Information Science: Advances in GIScience. Hannover, Germany, 2-5 June 2009"
+  year: 2009
+# -------------------
+- title: "IDEZar 2.0 para la Administración y Gestión de Incidencias de Policía Local"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2009_JIDEE_IDEZar.pdf
+  authors: M.J. PÉREZ-PÉREZ, P. RODRIGO-CARDIEL, M. USÓN, M.J. FERNÁNDEZ-RUIZ, V. MORLÁN, S. LAIGLESIA-MARTÍNEZ, A.J. FLORCZYK, F.J. LOPEZ-PELLICER
+  publication_conference: "VI Jornadas de la Infraestructura de Datos Espaciales de España (JIDEE 2009). Murcia, España, 4-6 Noviembre 2009"
+  publication_detail: "ISBN 978-84-87138-56-0"
+  year: 2009
+# -------------------
+- title: "Una aproximación a la búsqueda distribuida de topónimos"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2009_JIDEE_Aproximacion.pdf
+  authors: C. LABORDA, R. RECIO, J.M. AGUDO, A.F. RODRÍGUEZ-PASCUAL, A.J. FLORCZYK, F.J. LOPEZ-PELLICER
+  publication_conference: "VI Jornadas de la Infraestructura de Datos Espaciales de España (JIDEE 2009). Murcia, España, 4-6 Noviembre 2009"
+  publication_detail: "ISBN 978-84-87138-56-0"
+  year: 2009
+# -------------------
+- title: "Where in the Wikipedia is that answer? The XLDB at the GikiCLEF 2009 task"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2009_GikiCLEF_Where.pdf
+  authors: N. CARDOSO, D. BATISTA, F.J. LOPEZ-PELLICER, M.J. SILVA
+  publication_conference: "Cross Language Evaluation Forum: Working Notes for CLEF 2009, 30 September - 2 October, Corfu, Greece"
+  year: 2009
+# -------------------
+- title: "Geographic Ontologies Production in Grease-II"
+  url: http://hdl.handle.net/10455/3256
+  authors: F.J. LOPEZ-PELLICER, M. CHAVES, C. RODRIGUES, M.J. SILVA
+  publication_conference: "University of Lisbon, Faculty of Sciences, LASIGE"
+  year: 2009
+  doi: 10455/3256 
+  url_oficial: http://dx.doi.org/10455/3256
+# -------------------
+- title: "An approach to comparing different ontologies in the context of hydrographical information"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2009_LNGC_ApproachToComparing.pdf
+  authors: L. M. VILCHES-BLÁZQUEZ, J. A. RAMOS, F. J. LÓPEZ-PELLICER, O. CORCHO, J. NOGUERAS-ISO
+  publication_conference: "Information Fusion and Geographical Information Systems. Lecture Notes in Geoinformation and Cartography (LNG&C)"
+  publication_detail: "p. 193-207. ISSN 1863-2246"
+  year: 2009
+# -------------------
+- title: "A SDI approach to provide information visibility for river basin authorities"
+  url: http://www.gsdi.org/gsdi11/posters.html#pa241
+  authors: M.Á. LATRE, R. BÉJAR, D. GAYÁN-ASENSIO, S. LAIGLESIA-MARTÍNEZ, M. VIDAL-SÁNCHEZ, P.R. MURO-MEDRANO
+  publication_conference: "GSDI 11 World Conference and the 3rd INSPIRE Conference 2009, Rotterdam 15-19 June 2009"
+  year: 2009
+# -------------------
+- title: "Hacia una IDEE 2.0: integrando a los usuarios y sus contenidos"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2009_JIDEE_IDEE.pdf
+  authors: S. LAIGLESIA-MARTÍNEZ, R. BÉJAR, J. ÁLVAREZ-POZA, J. ECED-CERDÁN, A.F. RODRÍGUEZ-PASCUAL, P. ABAD-POWER, A. SÁNCHEZ-MAGANTO
+  publication_conference: "VI Jornadas de la Infraestructura de Datos Espaciales de España (JIDEE 2009). Murcia, España, 4-6 Noviembre 2009"
+  publication_detail: "ISBN 978-84-87138-56-0"
+  year: 2009
+# -------------------
+- title: "Perfil de metadatos para direcciones desarrollado dentro de la Best Practice 'EURADIN' y su implementación en la herramienta CatMDEdit"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2009_JIDEE_Perfil.pdf
+  authors: A. GONZÁLEZ-JIMÉNEZ, A.SÁNCHEZ-MAGANTO, M.A. MANSO-CALLEJO, C. RODRÍGUEZ, M.J. BRAVO, J. BARRERA, F. GRACIA-CRESPO, J. NOGUERAS-ISO, M. CABELLO
+  publication_conference: "VI Jornadas de la Infraestructura de Datos Espaciales de España (JIDEE 2009). Murcia, España, 4-6 Noviembre 2009"
+  publication_detail: "ISBN 978-84-87138-56-0"
+  year: 2009
+# -------------------
+- title: "Integración y publicación de repositorios de datos espaciales en el dominio de la hidrología"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2009_CAEPIA_Integracion.pdf
+  authors: E. MOJICA-ABREGO, M.Á. LATRE, J. NOGUERAS-ISO
+  publication_conference: "Actas de CAEPIA - TITIA 2009: I Workshop on Doing Intelligent Journals and Catalogs (DIJAC09), Sevilla, 9-13 de noviembre de 2009"
+  year: 2009
+# -------------------
+- title: "Advances in Metainformation Definition and Management of Information and Services in Geospatial Data Infrastructures (TIN2007-65341)"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2009_JSeguimiento_Advances.pdf
+  authors: P.R. MURO-MEDRANO
+  publication_conference: "Actas de la Jornada de Seguimiento de Proyectos en Tecnologías Informáticas, jspTIN20092005"
+  publication_detail: "p. 761-774"
+  year: 2009
+# -------------------
+- title: "Integración al vuelo en un visualizador de servicios de mapas descritos en catálogos estándar"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2009_JIDEE_Integracion.pdf
+  authors: R. RECIO, R. BÉJAR, S. LAIGLESIA-MARTÍNEZ, C. LABORDA, A.F. RODRÍGUEZ-PASCUAL, P. ABAD-POWER, A. SÁNCHEZ-MAGANTO, P.R. MURO-MEDRANO
+  publication_conference: "VI Jornadas de la Infraestructura de Datos Espaciales de España (JIDEE 2009). Murcia, España, 4-6 Noviembre 2009"
+  publication_detail: "ISBN 978-84-87138-56-0"
+  year: 2009
+# -------------------
+- title: "Generating an urban domain ontology through the merging of cross-domain lexical ontologies"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2008_CMPU_Generating.pdf
+  authors: J. LACASTA, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication: "Conceptual Models for Urban Practitioners. Bologna: Società Editrice Esculapio"
+  publication_detail: "p. 69-84. ISBN 88-7488-208-4"
+  year: 2008
+# -------------------
+- title: "Using a hybrid approach for the development of an ontology in the hydrographical domain"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2008_CMPU_Using.pdf
+  authors: F.J. LOPEZ-PELLICER, L.M. VILCHES-BLÁZQUEZ, J. NOGUERAS-ISO, O. CORCHO, M.A. BERNABÉ, A.F. RODRÍGUEZ-PASCUAL
+  publication: "Conceptual Models for Urban Practitioners. Bologna: Società Editrice Esculapio"
+  publication_detail: "p. 43-56. ISBN 88-7488-208-4"
+  year: 2008
+# -------------------
+- title: "Normas sobre metadatos (ISO19115, ISO19115-2, ISO19139, ISO 15836)"
+  url: /curriculum/08-Publicaciones-Articulos/art_2008_Mapping_Normas.pdf
+  authors: A. SÁNCHEZ-MAGANTO, J. NOGUERAS-ISO, D. BALLARI
+  publication: "Mapping"
+  publication_detail: "vol. 123 p. 48-57. ISSN 1-131-9-100"
+  year: 2008
+# -------------------
+- title: "OGC + Open Source: The keys for the Colombian National Geographic Institute Agustin Coddazzi development of Shared Geographic Services"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2008_GSDI_OGC.pdf
+  authors: A. MOGOLLÓN-DÍAZ, L.P. ARIAS, F.J. ZARAZAGA-SORIA P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of GSDI-10"
+  year: 2008
+# -------------------
+- title: "Sistema integrado de información espacial y herramientas de apoyo a las decisiones"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2008_CNR_Sistema.pdf
+  authors: R. MIGUEL, I. GALAZ, A. BLAS-GARCÍA, F.J. ZARAZAGA-SORIA, M. GARCÍA-LAPRESTA, A. SOLERA
+  publication_conference: "Actas del XXVI Congreso Nacional de Riegos"
+  year: 2008
+# -------------------
+- title: "Una nueva visión de las comarcas en Aragón basada en su pasado minero: comarcas de Valdejalón y Cariñena"
+  authors: E. LANUZA-FRANCO, D. GAYÁN-ASENSIO, F.J. ZARAZAGA-SORIA
+  publication_conference: "IX Congreso Internacional sobre Patrimonio Geológico y Minero. Andorra (Teruel), España, 25-28 Septiembre 2008"
+  publication_detail: "p. 169-176"
+  year: 2008
+# -------------------
+- title: "Administrative Units, an Ontological Perspective"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2008_LNCS_Administrative.pdf
+  authors: F.J. LOPEZ-PELLICER, A.J. FLORCZYK, J. LACASTA, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication_conference: "Advances in conceptual modeling-challenges and opportunities: ER 2008 Workshops CMLSA, ECDM, FP-UML, M2AS, RIGiM, SeCoGIS, WISM, Barcelona, Spain, October 2008, Proceedings. Lecture Notes in Computer Science (LNCS)"
+  publication_detail: "vol. 5232 p. 354-363. ISSN 0302-9743"
+  year: 2008
+# -------------------
+- title: "Geocoder compuesto - solución híbrida en el mundo de ruido informativo"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2008_JIDEE_Geocoder.pdf
+  authors: A.J. FLORCZYK, F.J. LOPEZ-PELLICER, P. RODRIGO-CARDIEL, R. RIOJA, P.R. MURO-MEDRANO
+  publication_conference: "Actas de las V Jornadas de la Infraestructura de Datos Espaciales de España (JIDEE 2008): IDE, aplicaciones al planeamiento y la gestión del territorio. Tenerife, España, 5-7 Noviembre 2008"
+  year: 2008
+# -------------------
+- title: "Desarrollo de un catálogo de servicios compatible con las normas de ejecución de INSPIRE"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2008_JIDEE_Desarrollo.pdf
+  authors: J. NOGUERAS-ISO, J. BARRERA, A.F. RODRÍGUEZ-PASCUAL, R. RECIO, C. LABORDA
+  publication_conference: "Actas de las V Jornadas de la Infraestructura de Datos Espaciales de España (JIDEE 2008): IDE, aplicaciones al planeamiento y la gestión del territorio. Tenerife, España, 5-7 Noviembre 2008"
+  year: 2008
+# -------------------
+- title: "Integrating catalog and GIS tools: access to resources from CatMDEDit thanks to gvSIG"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2008_gvSIG_Integrating.pdf
+  authors: J. NOGUERAS-ISO, J. BARRERA, F. GRACIA-CRESPO, S. LAIGLESIA-MARTÍNEZ, P.R. MURO-MEDRANO
+  publication_conference: "4as Jornadas Internacionales gvSIG: Valencia, 3-5 Dic'08"
+  year: 2008
+# -------------------
+- title: "A method to derivate SOAP interfaces and WSDL metadata from the OGC Web Processing Service mandatory interfaces"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2008_LNCS_Method.pdf
+  authors: G. SANCHO-JIMÉNEZ, R. BÉJAR, P.R. MURO-MEDRANO
+  publication_conference: "Advances in conceptual modeling-challenges and opportunities: ER 2008 Workshops CMLSA, ECDM, FP-UML, M2AS, RIGiM, SeCoGIS, WISM, Barcelona, Spain, October 2008, Proceedings. Lecture Notes in Computer Science (LNCS)"
+  publication_detail: "vol. 5232 p. 375-384. ISSN 0302-9743"
+  year: 2008
+# -------------------
+- title: "A Web Ontology Service to facilitate interoperability within a Spatial Data Infrastructure: Applicability to discovery"
+  url: /curriculum/08-Publicaciones-Articulos/art_2007_DKE_Web.pdf
+  authors: J. LACASTA, J. NOGUERAS-ISO, R. BÉJAR, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication: "Data & Knowledge Engineering"
+  publication_detail: "vol. 63 nº 3 p. 947-971. ISSN 0169-023X"
+  year: 2007
+# -------------------
+- title: "ThManager: An Open Source Tool for creating and visualizing SKOS"
+  url: /curriculum/08-Publicaciones-Articulos/art_2007_ITAL_ThManager.pdf
+  authors: J. LACASTA, J. NOGUERAS-ISO, F.J. LOPEZ-PELLICER, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication: "Information Technology and Libraries (ITAL)"
+  publication_detail: "vol. 26 nº 3 p. 39-51"
+  year: 2007
+# -------------------
+- title: "Water Quality Monitoring to Support the European Commission's Water Framework Directive Reporting Requirements"
+  url: /curriculum/08-Publicaciones-Articulos/art_2007_TGIS_Water.pdf
+  authors: J.A. ÁLVAREZ-ROBLES, F.J. ZARAZAGA-SORIA, M.Á. LATRE, R. BÉJAR, P.R. MURO-MEDRANO
+  publication: "Transactions in GIS"
+  publication_detail: "vol. 11 nº 6 p. 835-847"
+  year: 2007
+# -------------------
+- title: "Providing Spatial Data Infrastructure Services in a Cross-Border Scenario: SDIGER Project"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2007_GSDI_Providing.pdf
+  authors: F.J. ZARAZAGA-SORIA, J. NOGUERAS-ISO, M.Á. LATRE, A. RODRIGUEZ-PASCUAL, E. LÓPEZ, P. VIVAS, P.R. MURO-MEDRANO
+  publication: "Research and Theory in Advancing Spatial Data Infrastructure Concepts. California: ESRI Press"
+  publication_detail: "p. 107-119. ISBN 978-1-58948-162-2"
+  year: 2007
+# -------------------
+- title: "Building an Address Gazetteer on top of an Urban Network Ontology"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2007_SCI_Building.pdf
+  authors: J. NOGUERAS-ISO, F.J. LOPEZ-PELLICER, J. LACASTA, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication: "Ontologies for Urban Development. Studies in Computational Intelligence. Germany. Springer"
+  publication_detail: "vol. 61, p. 157-167. ISBN 978-3-540-71975-5"
+  year: 2007
+# -------------------
+- title: "Monitoring SDI network services: The SDIGER project Use Case"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2007_ECGIS_Monitoring.pdf
+  authors: P.R. MURO-MEDRANO, J. NOGUERAS-ISO, M.Á. LATRE, R. BÉJAR, F.J. ZARAZAGA-SORIA
+  publication_conference: "Proceedings of the 13th EC-GI&GIS Workshop, Inspire Time ESDI for the environment. Porto, Portugal, 4-6 July 2007"
+  publication_detail: "p. 68-70"
+  year: 2007
+# -------------------
+- title: "Transition between metadata models: approach based on the use of open source software"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2007_JSIGLibre_Transition.pdf
+  authors: A. MOGOLLÓN-DÍAZ, J. NOGUERAS-ISO, F.J. ZARAGOZA-SORIA, F.J. LÓPEZ PELLICER, J. LACASTA, P.R. MURO-MEDRANO
+  publication_conference: "Actas de la Primeras Jornadas de SIG Libre. Girona, España,  5,6 y 7 de Marzo de 2007"
+  year: 2007
+# -------------------
+- title: "Thematic clustering of geographic resource metadata collections"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2007_LNCS_Thematic.pdf
+  authors: J. LACASTA, J. NOGUERAS-ISO, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication_conference: "7th International Symposium on Web and Wireless GIS (W2GIS 2007). Lecture Notes in Computer Science (LNCS)"
+  publication_detail: "vol. 4857 p. 30-43. ISSN 0302-9743"
+  year: 2007
+# -------------------
+- title: "Estimating the costs of an SDI-based project"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2007_LNGC_Estimating.pdf
+  authors: J. NOGUERAS-ISO, R. BÉJAR, M.Á. LATRE, E. FERNÁNDEZ-VILLOSLADA, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication_conference: "The European Information Society: leading the way with Geo-information. Lecture Notes in Geoinformation and Cartography (LNG&C)"
+  publication_detail: "vol. XVII p. 201-215. ISSN 1863-2246"
+  year: 2007
+# -------------------
+- title: "The gazetteer content model issue: Could Spatial Data Infrastructures provide it?"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2007_LNGC_Gazetteer.pdf
+  authors: F.J. LOPEZ-PELLICER, F.J. ZARAZAGA-SORIA, A. MOGOLLÓN-DÍAZ, J. NOGUERAS-ISO, P.R. MURO-MEDRANO
+  publication_conference: "The European Information Society: leading the way with Geo-information. Lecture Notes in Geoinformation and Cartography (LNG&C)"
+  publication_detail: "vol. XVII p. 187-200. ISSN 1863-2246"
+  year: 2007
+# -------------------
+- title: "Un prototipo para acceder a comandos de Grass a través de servicios Web siguiendo la especificación de Web Processing Services"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2007_IDEE_Prototipo.pdf
+  authors: G. SANCHO-JIMÉNEZ, R. BÉJAR, P.R. MURO-MEDRANO
+  publication_conference: "La Infraestructura de Datos Espaciales de España en 2007. Proyectos, servicios y nodos"
+  publication_detail: "p. 128-134. ISBN 84-690-8674-2"
+  year: 2007
+# -------------------
+- title: "Semantic interoperability based on Dublin Core hierarchical one-to-one mappings"
+  url: /curriculum/08-Publicaciones-Articulos/art_2006_IJMSO_Semantic.pdf
+  authors: R. TOLOSANA-CALASANZ, J. NOGUERAS-ISO, R. BÉJAR, P.R. MURO-MEDRANO AND F.J. ZARAZAGA-SORIA
+  publication: "International Journal of Metadata, Semantics and Ontologies"
+  publication_detail: "vol. 1 nº 3 p. 183-188"
+  year: 2006
+# -------------------
+- title: "Tecnologías de la información en la implantación de la DMA en la cuenca del Ebro"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2006_AguasSubterraneas_Tecnologias.pdf
+  authors: P.R. MURO-MEDRANO, R. MIGUEL, M.Á. LATRE, M.Á. GARCÍA-VERA, V.M. ARQUED-ESQUÍA, M.V. ARCE-MONTEJO, M. GARCÍA-LAPRESTA
+  publication: "Las aguas subterráneas en los países mediterráneos. Hidrología y Aguas Subterraneas. Madrid. Instituto Geológico y Minero (España)"
+  publication_detail: "vol. 17, p. 477-482"
+  year: 2006
+# -------------------
+- title: "El papel de Dublin Core en el desarrollo de las infraestructuras de datos espaciales"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2006_AvancesEnIDES_Papel.pdf
+  authors: F.J. ZARAZAGA-SORIA, J. NOGUERAS-ISO, E. MÉNDEZ-RODRÍGUEZ, R. TOLOSANA-CALASANZ, P.R. MURO-MEDRANO
+  publication: "Avances en las Infraestructuras de Datos Espaciales. Treballs dínformàtica i tecnologia. Castelló de la Plana. Universidad Jaime I de Castellón"
+  publication_detail: "p. 51-60. ISBN 84-8021-590-9"
+  year: 2006
+# -------------------
+- title: "Unidades administrativas, una perspectiva ontológica"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2006_AvancesEnIDES_Unidades.pdf
+  authors: J. LACASTA, F.J. LOPEZ-PELLICER, J. FLORISTÁN-JUSUÉ, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication: "Avances en las Infraestructuras de Datos Espaciales. Treballs dínformàtica i tecnologia. Castelló de la Plana. Universidad Jaime I de Castellón"
+  publication_detail: "p. 85-94. ISBN 84-8021-590-9"
+  year: 2006
+# -------------------
+- title: "IDEZar: procesos, herramientas y modelos urbanos aplicados a la integración de datos municipales procedentes de fuentes heterogéneas"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2006_AvancesEnIDES_IDEZar.pdf
+  authors: F.J. LOPEZ-PELLICER, P. ÁLVAREZ-PÉREZ, P.R. MURO-MEDRANO
+  publication: "Avances en las Infraestructuras de Datos Espaciales. Treballs dínformàtica i tecnologia. Castelló de la Plana. Universidad Jaime I de Castellón"
+  publication_detail: "p. 105-113. ISBN 84-8021-590-9"
+  year: 2006
+# -------------------
+- title: "Medidas para impulsar la utilización del núcleo español de metadatos (NEM)"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2006_AvancesEnIDES_Medidas.pdf
+  authors: D. BALLARI, A. SÁNCHEZ-MAGANTO, J. NOGUERAS-ISO, A. RODRÍGUEZ-PASCUAL, M.Á. BERNABÉ
+  publication: "Avances en las Infraestructuras de Datos Espaciales. Treballs dínformàtica i tecnologia. Castelló de la Plana. Universidad Jaime I de Castellón"
+  publication_detail: "p. 61-72. ISBN 84-8021-590-9"
+  year: 2006
+# -------------------
+- title: "Automating the Thematic Characterization of Geographic Resource Collections by Means of Topic Maps"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2006_AGILE_Automating.pdf
+  authors: J. LACASTA, J. NOGUERAS-ISO, R. TOLOSANA-CALASANZ, F.J. LOPEZ-PELLICER, F.J. ZARAZAGA-SORIA
+  publication_conference: "AGILE 2006: 9th AGILE Conference on Geographic Information Science: Shaping the future of Geographic Information Science in Europe. Visegrád, Hungary, 20-22 April, 2006"
+  publication_detail: "p. 81-89"
+  year: 2006
+# -------------------
+- title: "Water quality monitoring based on sediment distribution using satellite imagery"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2006_AGILE_Water.pdf
+  authors: J.A. ÁLVAREZ-ROBLES, F.J. ZARAZAGA-SORIA, M.Á. LATRE, R. BÉJAR, P.R. MURO-MEDRANO
+  publication_conference: "AGILE 2006: 9th AGILE Conference on Geographic Information Science: Shaping the future of Geographic Information Science in Europe. Visegrád, Hungary, 20-22 April, 2006"
+  publication_detail: "p. 144-150"
+  year: 2006
+# -------------------
+- title: "An Ontology Based Approach for the Construction of an Address Gazetteer: the IDEZAR Gazetteer Use-case"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2006_ECGIS_Ontology.pdf
+  authors: J. NOGUERAS-ISO, F.J. LOPEZ-PELLICER, J. LACASTA, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication_conference: "12th EC-GI&GIS Workshop: ESDI:From Inspiration to Implementation. Innsbruck, Austria, 21-23 June 2006"
+  year: 2006
+# -------------------
+- title: "Aspectos de modelos e infraestructura de servicios pare el soporte de un servicio nacional estándar de nomenclátor en Web"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2006_JIDEE_Aspectos.pdf
+  authors: F.J. LOPEZ-PELLICER, R. BÉJAR, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication_conference: "Actas de las III Jornadas Técnicas de la Infraestructura de Datos Espaciales de España (JIDEE 2006). Castellón, España, 18-20 Octubre 2006"
+  year: 2006
+# -------------------
+- title: "Coste de desarrollo de una IDE: el caso de uso del proyecto SDIGER"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2006_JIDEE_Coste.pdf
+  authors: E. FERNÁNDEZ-VILLOSLADA, J. NOGUERAS-ISO, M.Á. LATRE, R. BÉJAR, P.R.MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de las III Jornadas Técnicas de la Infraestructura de Datos Espaciales de España (JIDEE 2006). Castellón, España, 18-20 Octubre 2006"
+  year: 2006
+# -------------------
+- title: "Evaluación de la calidad de datos raster mediante aplicaciones RIA: una realidad derivada de los servicios propuestos en una IDE"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2006_JIDEE_Evaluacion.pdf
+  authors: S. MARTÍNEZ-LORENTE, A. MOGOLLÓN-DÍAZ, R. BÉJAR,  F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication_conference: "Actas de las III Jornadas Técnicas de la Infraestructura de Datos Espaciales de España (JIDEE 2006). Castellón, España, 18-20 Octubre 2006"
+  year: 2006
+# -------------------
+- title: "El impacto de la calidad de los metadatos en los servicios de la búsqueda de una IDE"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2006_JIDEE_Impacto.pdf
+  authors: R. TOLOSANA-CALASANZ, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de las III Jornadas Técnicas de la Infraestructura de Datos Espaciales de España (JIDEE 2006). Castellón, España, 18-20 Octubre 2006"
+  year: 2006
+# -------------------
+- title: "On The Problem Of Identifying The Quality Of Geographic Metadata"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2006_LNCS_Problem.pdf
+  authors: R. TOLOSANA-CALASANZ, J.A. ÁLVAREZ-ROBLES, J. LACASTA, J. NOGUERAS-ISO, P.R. MURO-MEDRANO, AND F.J. ZARAZAGA-SORIA
+  publication_conference: "Research and Advanced Technology for Digital Libraries: 10th European Conference, ECDL 2006. Alicante, Spain, September 2006. Proceedings. Lecture Notes in Computer Science (LNCS)"
+  publication_detail: "vol. 4172 p. 232-243. ISSN 0302-9743"
+  year: 2006
+# -------------------
+- title: "IDEZar: un ejemplo de implantación de una IDE en la administración local"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2006_TECNIMAP_IDEZar.pdf
+  authors: M.J FERNÁNDEZ-RUIZ, P. ÁLVAREZ, F.J. LOPEZ-PELLICER, P.R. MURO-MEDRANO
+  publication_conference: "Actas de las IX Jornadas sobre Tecnologías de la Información para la Modernización de las Administraciones Públicas (Tenimap 2006). Sevilla, España, 30-may - 2-jun, 2006"
+  year: 2006
+# -------------------
+- title: "Building Service Oriented Applications on top of a Spatial Data Infrastructure - A Forest Fire Assessment Example"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2006_AGILE_Building.pdf
+  authors: A. FRIIS-CHRISTENSEN, L. BERNARD, I. KANELLOPOULOS, J. NOGUERAS-ISO, S. PEEDELL, S. SCHADE, C. THORNE
+  publication_conference: "AGILE 2006: 9th AGILE Conference on Geographic Information Science: Shaping the future of Geographic Information Science in Europe. Visegrád, Hungary, 20-22 April, 2006"
+  publication_detail: "p. 119-127"
+  year: 2006
+# -------------------
+- title: "Near-term metadata challenges"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2006_ECGIS_Near.pdf
+  authors: M. GOULD-CARLSON, J. ROCHA, S. NATIVI, J. NOGUERAS-ISO, M. MANSO
+  publication_conference: "12th EC-GI&GIS Workshop: ESDI:From Inspiration to Implementation. Innsbruck, Austria, 21-23 June 2006"
+  publication_detail: "p. 37-38"
+  year: 2006
+# -------------------
+- title: "Experiences in the Use of an ISO19115 Profile within the Framework of the Spanish SDI"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2006_GSDI_Experiences.pdf
+  authors: D. BALLARI, A. SÁNCHEZ-MAGANTO, J. NOGUERAS-ISO, A.F. RODRÍGUEZ-PASCUAL, M.A BERNABÉ
+  publication_conference: "Proceedings of GSDI-9 Conference. Santiago de Chile, 3-11 November, 2006"
+  year: 2006
+# -------------------
+- title: "A Pattern-Based Approach to Support Automatic Homogeneous Map Labeling with Texts, Charts and Other Elements in a WMS"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2006_AGILE_Pattern.pdf
+  authors: E. ANDREU-GARCÍA, R. BÉJAR, M.Á. LATRE, S. MARTÍNEZ-LORENTE, P.R. MURO-MEDRANO
+  publication_conference: "AGILE 2006: 9th AGILE Conference on Geographic Information Science: Shaping the future of Geographic Information Science in Europe. Visegrád, Hungary, 20-22 April, 2006"
+  publication_detail: "p. 283-290"
+  year: 2006
+# -------------------
+- title: "Providing WFD Reporting over SDI services"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2006_ECGIS_Providing.pdf
+  authors: M.Á. LATRE, R. BÉJAR, J.A. ÁLVAREZ-ROBLES, O. CASTILLO-ZALLES, P.R. MURO-MEDRANO
+  publication_conference: "12th EC-GI&GIS Workshop: ESDI:From Inspiration to Implementation. Innsbruck, Austria, 21-23 June 2006"
+  publication_detail: "p. 65-67"
+  year: 2006
+# -------------------
+- title: "El desarrollo de los Sistemas de Observación de la Tierra (SOT) en el marco de las Infraestructuras de Datos Espaciales (IDEs)"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2006_JIDEE_Desarrollo.pdf
+  authors: J.A. ÁLVAREZ-ROBLES, O. CASTILLO-ZALLES, M.Á. LATRE, R. BÉJAR, P.R. MURO-MEDRANO
+  publication_conference: "Actas de las III Jornadas Técnicas de la Infraestructura de Datos Espaciales de España (JIDEE 2006). Castellón, España, 18-20 Octubre 2006"
+  year: 2006
+# -------------------
+- title: "Utilización de servicios de una IDE en una aplicación web para la formación de la Directiva Marco del Agua"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2006_JIDEE_Utilizacion.pdf
+  authors: O. CASTILLO-ZALLES, J.A. ÁLVAREZ-ROBLES, M.Á. LATRE, P.R. MURO-MEDRANO
+  publication_conference: "Actas de las III Jornadas Técnicas de la Infraestructura de Datos Espaciales de España (JIDEE 2006). Castellón, España, 18-20 Octubre 2006"
+  year: 2006
+# -------------------
+- title: "Pasarela XML para la construcción de consultas a WFS con esquemas heterogéneos a partir de una GUI común: aplicación a la generación de informes sobre la Directiva Marco del Agua"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2006_JIDEE_Pasarela.pdf
+  authors: E. ANDREU-GARCÍA, R. BÉJAR, S. MARTÍNEZ-LORENTE
+  publication_conference: "Actas de las III Jornadas Técnicas de la Infraestructura de Datos Espaciales de España (JIDEE 2006). Castellón, España, 18-20 Octubre 2006"
+  year: 2006
+# -------------------
+- title: "Geographic Information Metadata for Spatial Data Infrastructures: Resources, Interoperability and Information Retrieval"
+  url: /curriculum/07-Publicaciones-Libros/2005_libro_Springer_Geog_Info_MD_for_SDI.pdf
+  authors: J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication_book: "Germany. Springer"
+  year: 2005
+# -------------------
+- title: "OGC Catalog Services: a key element for the development of Spatial Data Infrastructures"
+  url: /curriculum/08-Publicaciones-Articulos/art_2005_C&G_OGCCatalog.pdf
+  authors: J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA, R. BÉJAR, P.J. ÁLVAREZ, P.R. MURO-MEDRANO
+  publication: "Computers and Geosciences"
+  publication_detail: "vol. 31 nº 2 p. 199-209"
+  year: 2005
+# -------------------
+- title: "Infraestructuras de Datos Espaciales: la Iniciativa Europea INSPIRE y ejemplo de su aplicación"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2005_SIM_Infraestructuras.pdf
+  authors: R. BÉJAR, P. GALLARDO-KONCZANIN, J. NOGUERAS-ISO, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication: "Sistemas de Información Medioambiental. España: Netbiblo"
+  publication_detail: "p. 155-170. ISBN 84-9745-056-6"
+  year: 2005
+# -------------------
+- title: "Las infraestructuras de datos espaciales en la gestión forestal. Una iniciativa de la Xunta de Galicia"
+  url: /curriculum/08-Publicaciones-Articulos/art_2005_Montes_Infraestructuras.pdf
+  authors: R. BÉJAR, J. ABOAL, P. VILA, M. GOULD-CARLSON, P.R. MURO-MEDRANO
+  publication: "Montes"
+  publication_detail: "nº 79, 1er trimestre 2005 p. 26-34"
+  year: 2005
+# -------------------
+- title: "CatServer: A Server of GATOS"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2005_AGILE_CatServer.pdf
+  authors: R. TOLOSANA-CALASANZ, D. PORTOLÉS-RODRÍGUEZ, J. NOGUERAS-ISO, P.R. MURO-MEDRANO, F.J. ZARAZAGA SORIA
+  publication_conference: "Proceedings of AGILE 2005: 8th Conference on Geographic Information Science"
+  publication_detail: "p. 359-366"
+  year: 2005
+# -------------------
+- title: "A hierarchical one-to-one mapping solution for semantic interoperability"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2005_DC_hierarchical.pdf
+  authors: D. PORTOLÉS-RODRÍGUEZ, R. TOLOSANA-CALASANZ, J. NOGUERAS-ISO, R. RIOJA, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Proceedings of the International Conference on Dublin Core and Metadata Applications"
+  publication_detail: "p. 205-209"
+  year: 2005
+# -------------------
+- title: "Multi-Source Framework For Seamlessly Exploiting and Leveraging Disparate Spatial Data Catalogues"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2005_ECGIS_MultiSource.pdf
+  authors: O. CANTÁN-CASBAS, F.J. ZARAZAGA-SORIA, J. NOGUERAS-ISO
+  publication_conference: "Proceedings of the 11th EC-GI&GIS Workshop: ESDI: Setting the Framework"
+  publication_detail: "p. 91-95"
+  year: 2005
+# -------------------
+- title: "SDIGER: A cross-border inter-administration SDI to support WFD information access for Adour-Garone River Basins"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2005_ECGIS_Sdiger.pdf
+  authors: M.Á. LATRE, F.J. ZARAZAGA-SORIA, R. BÉJAR, P.R. MURO-MEDRANO, J. NOGUERAS-ISO
+  publication_conference: "Proceedings of the 11th EC-GI&GIS Workshop: ESDI: Setting the Framework"
+  year: 2005
+# -------------------
+- title: "Web Ontology Service, a key component of a Spatial Data Infrastructure"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2005_ECGIS_Web.pdf
+  authors: J. LACASTA, P.R. MURO-MEDRANO, J. NOGUERAS-ISO, F.J. ZARAZAGA SORIA
+  publication_conference: "Proceedings of the 11th EC GI&GIS Workshop: ESDI: ESDI Setting the Framework"
+  year: 2005
+# -------------------
+- title: "SDIGER: Experiences and identification of problems on the creation of a transnational SDI"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2005_JIDEE_Sdiger.pdf
+  authors: J. NOGUERAS-ISO, M.Á. LATRE, R. BÉJAR, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de Jornadas Técnicas de la Infraestructura de Datos Espaciales de España (JIDEE'05)"
+  year: 2005
+# -------------------
+- title: "IDEZar: Un ejemplo de implantación de una IDE local"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2005_JIDEE_Idezar.pdf
+  authors: F.J. LOPEZ-PELLICER, P. ÁLVAREZ, P.R. MURO-MEDRANO
+  publication_conference: "Actas de Jornadas Técnicas de la Infraestructura de Datos Espaciales de España (JIDEE'05)"
+  year: 2005
+# -------------------
+- title: "What Technology does INSPIRE need? - Development and Research Requirements"
+  authors: L. BERNARD, A. ANNONI, I. KANELLOPOULOS, M. MILLOT, J. NOGUERAS-ISO, J. NOWAK, K. TOTH
+  publication_conference: "Proceedings of AGILE 2005: 8th Conference on Geographic Information Science"
+  publication_detail: "p. 333-340"
+  year: 2005
+# -------------------
+- title: "Issues Of Multilinguality In Creating A European SDI - The Perspective For Spatial Data Interoperability"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2005_ECGIS_Issues.pdf
+  authors: J. NOWAK, J. NOGUERAS-ISO, S. PEEDELL
+  publication_conference: "Proceedings of the 11th EC-GI&GIS Workshop: ESDI: Setting the Framework"
+  publication_detail: "p. 47-48"
+  year: 2005
+# -------------------
+- title: "IDEZar: an example of user needs, technological aspects and the institutional framework of a local SDI"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2005_ECGIS_Idezar.pdf
+  authors: D. PORTOLÉS-RODRÍGUEZ, P. ÁLVAREZ, R. BÉJAR, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of the 11th EC-GI&GIS Workshop: ESDI: Setting the Framework"
+  publication_detail: "p. 56-58"
+  year: 2005
+# -------------------
+- title: "IDE-E: Technological advances for a Web based National Spatial Data Infrastructure, convergence with the European initiative INSPIRE"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2005_JSeguimiento_IDEE.pdf
+  authors: P.R. MURO-MEDRANO, M.Á. BERNABÉ-POVEDA, M. GOULD-CARLSON
+  publication_conference: "Actas de la Jornada de Seguimiento de Proyectos 2005: Programa Nacional de Tecnologías Informáticas"
+  publication_detail: "p. 61-79"
+  year: 2005
+# -------------------
+- title: "Contributions to the Problem of Collections, Interoperability and Information Retrieval of Geographic Information Metadata for Spatial Data Infrastructures. PhD Dissertation"
+  url: /curriculum/07-Publicaciones-Libros/2004_tesis_NoguerasIso.pdf
+  authors: J. NOGUERAS-ISO
+  publication_dissertation: "Zaragoza: Universidad de Zaragoza"
+  year: 2004
+# -------------------
+- title: "Metadata Standard Interoperability: Application in the Geographic Information Domain"
+  url: /curriculum/08-Publicaciones-Articulos/art_2004_CEUS_Metadata.pdf
+  authors: J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA, J. LACASTA, R. BÉJAR, P.R. MURO-MEDRANO
+  publication: "Computers, Environment and Urban Systems"
+  publication_detail: "vol. 28 p. 611-634"
+  year: 2004
+# -------------------
+- title: "Automatic Metadata Extraction from Geographic Information"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2004_AGILE_Automatic.pdf
+  authors: M.A. MANSO, J. NOGUERAS-ISO, M.A. BERNABÉ, F.J. ZARAZAGA SORIA
+  publication_conference: "Proceedings of the 7th AGILE conference on Geographic Information Science"
+  publication_detail: "p. 379-385"
+  year: 2004
+# -------------------
+- title: "A High Level Architecture For National SDI: the Spanish Case"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2004_ECGIS_High.pdf
+  authors: R. BÉJAR, P. GALLARDO-KONCZANIN, M. GOULD-CARLSON, P.R. MURO-MEDRANO, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Proceedings of the 10th EC-GI&GIS Workshop: ESDI: State of the Art"
+  year: 2004
+# -------------------
+- title: "Improving multilingual catalog search services by means of multilingual thesaurus disambiguation"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2004_ECGIS_Improving.pdf
+  authors: J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA, J. LACASTA, R. TOLOSANA-CALAZANZ, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of the 10th EC-GI&GIS Workshop: ESDI: State of the Art"
+  publication_detail: "p. 125-125"
+  year: 2004
+# -------------------
+- title: "Management of nested collections of resources in Spatial Data Infrastructures"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2004_GIM_Management.pdf
+  authors: J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of the 15th Database and Experts Systems Applications - DEXA'04 (1st International Workshop on Geographic Information Management - GIM'04)"
+  publication_detail: "p. 878-882"
+  year: 2004
+# -------------------
+- title: "Building eGovernment services over Spatial Data Infrastructures"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2004_LNCS_Building.pdf
+  authors: J. NOGUERAS-ISO, M.Á. LATRE, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Electronic Government: third International Conference, EGOV 2004. Zaragoza, Spain, August/September 2004. Proceedings. Lecture Notes in Computer Science (LNCS)"
+  publication_detail: "vol. 3183 p. 387-391. ISSN 0302-9743"
+  year: 2004
+# -------------------
+- title: "Political aspects of Spatial Data Infrastructures"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2004_LNCS_Political.pdf
+  authors: F.J. ZARAZAGA-SORIA, J. NOGUERAS-ISO, R. BÉJAR, P.R. MURO-MEDRANO
+  publication_conference: "Electronic Government: third International Conference, EGOV 2004. Zaragoza, Spain, August/September 2004. Proceedings. Lecture Notes in Computer Science (LNCS)"
+  publication_detail: "vol. 3183 p. 392-395. ISSN 0203-9743"
+  year: 2004
+# -------------------
+- title: "Exploiting disambiguated thesauri for information retrieval in metadata catalogs"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2004_LNAI_Exploiting.pdf
+  authors: J. NOGUERAS-ISO, J. LACASTA, J.A. BAÑARES-BAÑARES, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA. 
+  publication_conference: "Current Topics in Artificial Intelligence: 10th Conference of the Spanish Association for Artificial Intelligence, CAEPIA 2003, and 5th Conference on Technology Transfer, TTIA 2003. San Sebastián, Spain, November 2003. Revised Selected Papers. Lecture Notes on Artificial Intelligence (LNAI)"
+  publication_detail: "vol. 3040 p. 322-333. ISSN 0302-9743"
+  year: 2004
+# -------------------
+- title: "Integrating legacy systems and the GIS elements of the Water Framework Directive into an Spatial Data Infrastructure"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2004_ECGIS_Integrating.pdf
+  authors: M.Á. LATRE, P.J. ÁLVAREZ, R. BÉJAR, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of the 10th EC-GI&GIS Workshop: ESDI: State of the Art"
+  year: 2004
+# -------------------
+- title: "Inventario de puntos de agua de la Confederación Hidrográfica del Ebro"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2004_Hidrogeologia_Inventario.pdf
+  authors: M.Á. LATRE, R. MIGUEL, P.R. MURO-MEDRANO
+  publication_conference: "Actas del VIII Simposio de Hidrogeología. Hidrogeología y recursos hidráulicos"
+  publication_detail: "vol. XXVII, p. 587-596"
+  year: 2004
+# -------------------
+- title: "Generative Communication with Semantic Matching in Distributed Heterogenous Environments"
+  authors: P. ÁLVAREZ, J.A. BAÑARES-BAÑARES, E.J. MATA, P.R. MURO-MEDRANO, J. RUBIO
+  publication_conference: "Computer Aided Systems Theory - EUROCAST 2003: 9th International Workshop on Computer Aided Systems Theory. Las Palmas de Gran Canaria, Spain, February 2003. Revised Selected Papers. Lecture Notes in Computer Science (LNCS)"
+  publication_detail: "vol. 2809 p. 231-242. ISSN 0302-9743"
+  year: 2004
+# -------------------
+- title: "A Java Tool for Creating ISO/FGDC Geographic Metadata"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2003_IFGI_Java.pdf
+  authors: F.J. ZARAZAGA-SORIA, J. LACASTA, J. NOGUERAS-ISO, M.P. TORRES-BRUNA, P.R. MURO-MEDRANO
+  publication: "Geodaten- und Geodienste-Infrastrukturen - von der Forschung zur praktischen Anwendung. Beiträge zu den Münsteraner GI-Tagen. IfGI prints"
+  publication_detail: "vol. 18, p. 17-30"
+  year: 2003
+# -------------------
+- title: "A Software Tool for Thesauri Management, Browsing and Supporting Advanced Searches"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2003_IFGI_software.pdf
+  authors: J. NOGUERAS-ISO, J.A. BAÑARES-BAÑARES, J. LACASTA, J. ZARAZAGA-SORIA. 
+  publication: "Geodaten- und Geodienste-Infrastrukturen - von der Forschung zur praktischen Anwendung. Beiträge zu den Münsteraner GI-Tagen. IfGI prints"
+  publication_detail: "vol. 18, p. 105-118"
+  year: 2003
+# -------------------
+- title: "GIS COTS Integration in an SDI Software Architecture, a Study Case in the Galicia Region SDI"
+  authors: R. BÉJAR, M.Á. LATRE, M. GOULD-CARLSON, P.R. MURO-MEDRANO
+  publication: "Geodaten- und Geodienste-Infrastrukturen - von der Forschung zur praktischen Anwendung. Beiträge zu den Münsteraner GI-Tagen. IfGI prints"
+  publication_detail: "vol. 18, p. 91-103"
+  year: 2003
+# -------------------
+- title: "Facilitating Uniform Intercommunity Natural Risk Management Through Metadata for High-Level Geographic Aggregations"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2003_AGILE_Facilitating.pdf
+  authors: R. BÉJAR, P.R. MURO-MEDRANO, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Proceedings of AGILE 2003: 6th AGILE Conference on Geographic Information Science"
+  publication_detail: "p. 663-672"
+  year: 2003
+# -------------------
+- title: "Web catalog services of geographic information, an Opengis based approach in benefit of interoperability"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2003_AGILE_Web.pdf
+  authors: P.R. MURO-MEDRANO, J. NOGUERAS-ISO, M.P. TORRES-BRUNA, F.J. ZARAZAGA-SORIA
+  publication_conference: "Proceedings of AGILE 2003: 6th AGILE Conference on Geographic Information Science"
+  publication_detail: "p. 169-177"
+  year: 2003
+# -------------------
+- title: "Towards the geographic metadata standard interoperability"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2003_AGILE_Towards.pdf
+  authors: J. LACASTA, J. NOGUERAS-ISO, M.P. TORRES-BRUNA, F.J. ZARAZAGA-SORIA
+  publication_conference: "Proceedings of AGILE 2003: 6th AGILE Conference on Geographic Information Science"
+  publication_detail: "p. 555-565"
+  year: 2003
+# -------------------
+- title: "Exploiting disambiguated thesauri for information retrieval in metadata catalogs"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2003_CAEPIA_Exploiting.pdf
+  authors: J. NOGUERAS-ISO, J. LACASTA, J.A. BAÑARES-BAÑARES, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de CAEPIA - TITIA 2003: X Conferencia de la Asociación Española para la Inteligencia Artificial, V Jornadas de Transferencia Tecnológica de Inteligencia Artificial"
+  publication_detail: "p. 279-290"
+  year: 2003
+# -------------------
+- title: "Integrating geographic and non-geographic data search services using metadata crosswalks"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2003_ECGIS_Integrating.pdf
+  authors: F.J. ZARAZAGA-SORIA, M.P. TORRES-BRUNA,  J. NOGUERAS-ISO, J. LACASTA, O. CANTÁN-CASBAS
+  publication_conference: "Proceedings of the 9th EC-GI&GIS Workshop: ESDI: Serving the User"
+  year: 2003
+# -------------------
+- title: "On the Problem of Finding the Geographic Data We Are Looking For"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2003_ECGIS_problem.pdf
+  authors: O. CANTÁN-CASBAS, J. NOGUERAS-ISO, M.P. TORRES-BRUNA, F.J. ZARAZAGA-SORIA, J. LACASTA
+  publication_conference: "Proceedings of the 9th EC-GI&GIS Workshop: ESDI: Serving the User"
+  year: 2003
+# -------------------
+- title: "A Java Coordination Tool for Web-service Architectures: The Location-Based Service Context"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2003_LNCS_Java.pdf
+  authors: P. ÁLVAREZ, J.A. BAÑARES-BAÑARES, P.R. MURO-MEDRANO, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Scientific Engineering for Distributed Java Applications. Lecture Notes in Computer Science (LNCS)"
+  publication_detail: "vol. 2604 p. 1-14. ISSN 0302-9743"
+  year: 2003
+# -------------------
+- title: "Drawing Inspiration from INSPIRE, steps forward an SDI in the Galicia region"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2003_AESIG_Drawing.pdf
+  authors: R. BÉJAR, J. ABOAL, M. GOULD-CARLSON, M. LATRE-ABADÍA, P.R. MURO-MEDRANO, P. VILA
+  publication_conference: "Actas de la IX Conferencia Iberoamericana de SIG, VII Congreso de la AESIG y II Reunión del GMCSIGT (AGE)"
+  year: 2003
+# -------------------
+- title: "Open Access to an Hydrological Information System"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2003_AESIG_Open.pdf
+  authors: M.Á. LATRE, R. BÉJAR, P.R. MURO-MEDRANO
+  publication_conference: "Actas de la IX Conferencia Iberoamericana de SIG, VII Congreso de la AESIG y II Reunión del GMCSIGT (AGE)"
+  year: 2003
+# -------------------
+- title: "Extending OpenGIS services to gain access to real time data through a Web-Coordination service"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2003_AGILE_Extending.pdf
+  authors: P. ÁLVAREZ, J.Á. BAÑARES-BAÑARES, R. BÉJAR, M.Á. LATRE
+  publication_conference: "Proceedings of AGILE 2003: 6th AGILE Conference on Geographic Information Science"
+  publication_detail: "p. 189-196"
+  year: 2003
+# -------------------
+- title: "Distributed Access to a Hydrological Administrative Spatial Data Infrastructure"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2003_ECGIS_Distributed.pdf
+  authors: M.Á. LATRE, R. BÉJAR, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of the 9th EC-GI&GIS Workshop: ESDI: Serving the User"
+  year: 2003
+# -------------------
+- title: "Spatial Data Infrastructure in the Galicia region: an instantiation of the INSPIRE framework"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2003_AGILE_Spatial.pdf
+  authors: R. BÉJAR, J. ABOAL, M. GOULD-CARLSON, P.R. MURO-MEDRANO, P. VILA
+  publication_conference: "Proceedings of AGILE 2003: 6th AGILE Conference on Geographic Information Science"
+  publication_detail: "p. 267-277"
+  year: 2003
+# -------------------
+- title: "Incremental Construction of a Regional SDI, an Example Case in the Galicia Region"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2003_ECGIS_Incremental.pdf
+  authors: R. BÉJAR, J. ABOAL, M. GOULD-CARLSON, P.R. MURO-MEDRANO, P. VILA
+  publication_conference: "Proceedings of the 9th EC-GI&GIS Workshop: ESDI: Serving the User"
+  year: 2003
+# -------------------
+- title: "Generative Communication with Semantic Matching in Distributed Heterogeneous Environments"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2003_EUROCAST_Generative.pdf
+  authors: P. ÁLVAREZ, J.A. BAÑARES-BAÑARES, E.J. MATA, P.R. MURO-MEDRANO, J. RUBIO
+  publication_conference: "Proceedings of EUROCAST 2003: Cast and Tools for Complexity in Biological, Physical and Engineering Systems: 9th International Workshop on Computer Aided Systems Theory"
+  publication_detail: "p. 237-239"
+  year: 2003
+# -------------------
+- title: "An Architectural Pattern to Extend the Interaction Model between Web-Services: The Location-Based Service Context"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2003_LNCS_Architectural.pdf
+  authors: P. ÁLVAREZ, J.A. BAÑARES-BAÑARES P.R. MURO-MEDRANO
+  publication_conference: "Service-Oriented Computing, ICSOC 2003: First International Conference. Trento, Italy, December 2003. Proceedings. Lecture Notes in Computer Science (LNCS)"
+  publication_detail: "vol. 2910 p. 271-286. ISSN 0302-9743"
+  year: 2003
+# -------------------
+- title: "Integration of Location Based CRM Systems"
+  url: /curriculum/08-Publicaciones-Articulos/art_2002_GeoInformatics_Integration.pdf
+  authors: P. ÁLVAREZ, J.A. BAÑARES-BAÑARES, P.R. MURO-MEDRANO, F.J. ZARAZAGA
+  publication: "Geoinformatics"
+  publication_detail: "vol. 5 nº 5, july/august 2002 p. 36-39"
+  year: 2002
+# -------------------
+- title: "Reverse engineering SDI: Standards based Components for Prototyping"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2002_ECGIS_Reverse.pdf
+  authors: M. GOULD-CARLSON, M.A. BERNABÉ, C. GRANELL, P.R. MURO-MEDRANO, J. NOGUERAS-ISO, C. REBOLLO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Proceedings of the 8th European Comission GI&GIS Workshop: ESDI: A Work in Progress"
+  year: 2002
+# -------------------
+- title: "A Java Coordination Tool for Web-service Architectures: The Location-Based Service Context"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2002_FIDJI_Java.pdf
+  authors: P. ÁLVAREZ, J.A. BAÑARES-BAÑARES, P.R. MURO-MEDRANO, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Proceedings of the FIDJI International Workshop on the Scientific Engineering of distributed Java Applications"
+  publication_detail: "p. 33-46"
+  year: 2002
+# -------------------
+- title: "A Spatial Data Catalogue Based Initiative to Launch the Spanish SDI"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2002_GSDI_Spatial.pdf
+  authors: M.A. BERNABÉ, M. GOULD-CARLSON, C. GRANELL, P.R. MURO-MEDRANO, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Proceedings of the 6th Conference on Global Data Infrastructures (GDSI-6)"
+  year: 2002
+# -------------------
+- title: "Catálogo de información geográfica compatible con la interfaz WWW propuesta por OpenGIS"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2002_JSIG_Catalogo.pdf
+  authors: O. CANTÁN-CASBAS, P.R. MURO-MEDRANO, J. NOGUERAS-ISO, M.P. TORRES-BRUNA, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de las II Jornadas de Sistemas de Información Geográfica (JSIG'02)"
+  year: 2002
+# -------------------
+- title: "Interoperabilidad entre estándares geográficos"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2002_JSIG_Interoperabilidad.pdf
+  authors: D. ANAYA-GIL, O. CANTÁN-CASBAS, J. LACASTA, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de las II Jornadas de Sistemas de Información Geográfica (JSIG'02)"
+  publication_detail: "p. 73-86"
+  year: 2002
+# -------------------
+- title: "Development of distributed geographic information catalog services, oriented toward the web and based on open standards: Effective steps toward a National Geographic Information Infrastructure"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2002_JSeguimiento_Development.pdf
+  authors: M.A. BERNABÉ, M. GOULD-CARLSON, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de la Jornada de Seguimiento de Proyectos 2002: Programa Nacional de Tecnologías Informáticas"
+  publication_detail: "p. 87-103"
+  year: 2002
+# -------------------
+- title: "Barriers for the implementation of GI standards and interoperability"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2002_AGILE_Barriers.pdf
+  authors: A. ÖSTMAN, J. NOGUERAS-ISO, S. WINTER
+  publication_conference: "Proceedings of the 5th AGILE Conference on Geographic Information Science"
+  publication_detail: "p. 307-313"
+  year: 2002
+# -------------------
+- title: "Geographic Information Standard Web Services to Improve Interoperability: an Olive Tree Recognition Application"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2002_JSIG_Geographic.pdf
+  authors: R. BÉJAR, M.Á. LATRE, S. MONTEAGUDO, P.R. MURO-MEDRANO, M. NAVAS-TAPIADOR
+  publication_conference: "Actas de las II Jornadas de Sistemas de Información Geográfica (JSIG'02)"
+  publication_detail: "p. 31-38"
+  year: 2002
+# -------------------
+- title: "Integración de componentes OpenGIS en aplicaciones de empresa: Ayuda a la toma de decisiones basadas en la localización en el sistema CRM Vantive"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2002_JSIG_Integracion.pdf
+  authors: P. ÁLVAREZ, J.A. BAÑARES-BAÑARES, S. BLASCO-PÉREZ, S. LAIGLESIA-MARTÍNEZ, M.Á. LATRE
+  publication_conference: "Actas de las II Jornadas de Sistemas de Información Geográfica (JSIG'02)"
+  publication_detail: "p. 157-163"
+  year: 2002
+# -------------------
+- title: "Semantic Disambiguation of Thesaurus as a Mechanism to Facilitate Multilingual and Thematic Interoperability of Geographical Information Catalogues"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2002_AGILE_Semantic.pdf
+  authors: E. MATA, J.A. BAÑARES-BAÑARES, J. GUTIERREZ, P.R. MURO-MEDRANO, J. RUBIO
+  publication_conference: "Proceedings of the 5th AGILE Conference on Geographic Information Science"
+  publication_detail: "p. 61-66"
+  year: 2002
+# -------------------
+- title: "Coordinando servicios SIG y de Localización para proporcionar funcionalidad SBL a través de Internet"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2002_JSIG_Coordinando.pdf
+  authors: P. ÁLVAREZ, J.A. BAÑARES-BAÑARES, R. BÉJAR, P.R. MURO-MEDRANO
+  publication_conference: "Actas de las II Jornadas de Sistemas de Información Geográfica (JSIG'02)"
+  publication_detail: "p. 147-153"
+  year: 2002
+# -------------------
+- title: "Search and inventory of GIS interoperability educational resources in the Internet"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2002_AGILE_Search.pdf
+  authors: A. MEYER, J. GUTIÉRREZ, R. BÉJAR, M. DE FRANCISCO, M. NAVAS-TUNDIDOR, R. RIOJA
+  publication_conference: "Proceedings of the 5th AGILE Conference on Geographic Information Science"
+  publication_detail: "p. 641-649"
+  year: 2002
+# -------------------
+- title: "Serving Climatic Data Series, an OGC WMS Approach to Facilitate Use by Means of Interoperability"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2002_AGILE_Serving.pdf
+  authors: R. BÉJAR, S. BLASCO-PÉREZ, O. CANTÁN-CASBAS, A. ESTRADA-PEÑA, P. FERNÁNDEZ
+  publication_conference: "Proceedings of the 5th AGILE Conference on Geographic Information Science"
+  publication_detail: "p. 575-584"
+  year: 2002
+# -------------------
+- title: "El sistema de información GIS-Ebro: Metadatos y catálogo de datos geográficos"
+  url: /curriculum/08-Publicaciones-Articulos/art_2001_BOLETIC_sistema.pdf
+  authors: V.M. ARQUED-ESQUÍA, J.A. LOSADA-GARCÍA, F.J. ZARAZAGA-SORIA					
+  publication: "BOLE.TIC"
+  publication_detail: "nº 19, p. 83-97"
+  year: 2001
+# -------------------
+- title: "Examples of vehicle location systems using CORBA-based distributed real-time GPS data and services"
+  authors: F.J. ZARAZAGA-SORIA, P.J. ÁLVAREZ, J.A. BAÑARES-BAÑARES, J. NOGUERAS-ISO, J. VALIÑO, P.R. MURO-MEDRANO
+  publication: "Computers, Environment and Urban Systems"
+  publication_detail: "vol. 25 p. 293-305"
+  year: 2001
+# -------------------
+- title: "Aspectos tecnológicos de la creación de una Infraestructura Nacional Española de Información Geográfica"
+  url: /curriculum/08-Publicaciones-Articulos/art_2001_Mapping_Aspectos.pdf
+  authors: J.A. BAÑARES-BAÑARES, M.A. BERNABÉ, M.GOULD-CARLSON, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication: "Mapping"
+  publication_detail: "nº 67 p. 68-77"
+  year: 2001
+# -------------------
+- title: "Integración de capacidades de visualización geográfica en el software de gestión de proyectos LEADER"
+  url: /curriculum/08-Publicaciones-Articulos/art_2001_Mapping_Integracion.pdf
+  authors: M.Á. LATRE, J. NOGUERAS-ISO, S. BLASCO-PÉREZ, R. RIOJA, F.J. ZARAZAGA
+  publication: "Mapping"
+  publication_detail: "nº 72 p. 43-48"
+  year: 2001
+# -------------------
+- title: "JISMI, un servidor de mapas en Java con soporte a la especificación Web Map Server Interface v0.9 del OGC"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2001_SIG_JISMI.pdf
+  authors: P. FERNÁNDEZ, R. BÉJAR, J. NOGUERAS-ISO, R. LÓPEZ, F.J. ZARAZAGA-SORIA
+  publication: "Sistemas de información geográfica: una aproximación desde la ingeniería del software y las bases de datos. Monografías y publicaciones. Colección ingeniería informática.  Madrid. Fundación Dintel"
+  publication_detail: "p. 179-184, ISBN 84-931933-1-3"
+  year: 2001
+# -------------------
+- title: "Servicios de Catálogo de Información Geográfica y sus Infraestructuras de Apoyo, un Perfil Java para la Especificación Coarse-Grain de OpenGIS"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2001_SIG_Servicios.pdf
+  authors: J. NOGUERAS-ISO, R. LÓPEZ, Ó. CANTÁN-CASBAS, F.J. ZARAZAGA-SORIA, J. GUTIERREZ
+  publication: "Sistemas de información geográfica: una aproximación desde la ingeniería del software y las bases de datos. Monografías y publicaciones. Colección ingeniería informática.  Madrid. Fundación Dintel"
+  publication_detail: "p. 63-77, ISBN 84-931933-1-3"
+  year: 2001
+# -------------------
+- title: "Servidor de mapas interoperable para Internet, una aproximación Java basada en la reutilización de componentes SIG"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2001_SIG_Servidor.pdf
+  authors: R. LÓPEZ, R. BÉJAR, P. FERNÁNDEZ, M.Á. LATRE, F.J. ZARAZAGA-SORIA
+  publication: "Sistemas de información geográfica: una aproximación desde la ingeniería del software y las bases de datos. Monografías y publicaciones. Colección ingeniería informática.  Madrid. Fundación Dintel"
+  publication_detail: "p. 33-46, ISBN 84-931933-1-3"
+  year: 2001
+# -------------------
+- title: "Infraestructura Nacional de Información Geográfica y su utilidad para las Administraciones Públicas: La geografía del siglo XXI"
+  url: /curriculum/08-Publicaciones-Articulos/art_2001_BOLETIC_Infraestructura.pdf
+  authors: J.A. BAÑARES-BAÑARES, P.R. MURO-MEDRANO, F.J. NOGUERAS-ISO, M.A. BERNABÉ, M. GOULD-CARLSON
+  publication: "BOLE.TIC"
+  publication_detail: "nº 19, p. 51-60"
+  year: 2001
+# -------------------
+- title: "Acondicionando grandes ortoimágenes para su visualización por Intranet, una aproximación basada en Java"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2001_SIG_Acondicionando.pdf
+  authors: Ó. CANTÁN-CASBAS, P. FERNÁNDEZ, M.Á. LATRE, J. NOGUERAS-ISO, J. VALIÑO
+  publication: "Sistemas de información geográfica: una aproximación desde la ingeniería del software y las bases de datos. Monografías y publicaciones. Colección ingeniería informática.  Madrid. Fundación Dintel"
+  publication_detail: "p. 119-133, ISBN 84-931933-1-3"
+  year: 2001
+# -------------------
+- title: "Incorporación de componentes de visualización SIG en aplicaciones de monitorización de vehículos integrando tecnologías de componentes COM/CORBA"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2001_SIG_Incorporacion.pdf
+  authors: P. ÁLVAREZ, J.A. BAÑARES-BAÑARES, R. LÓPEZ, J. NOGUERAS-ISO, P.R. MURO-MEDRANO
+  publication: "Sistemas de información geográfica: una aproximación desde la ingeniería del software y las bases de datos. Monografías y publicaciones. Colección ingeniería informática. Madrid. Fundación Dintel"
+  publication_detail: "p. 47-62, ISBN 84-931933-1-3"
+  year: 2001
+# -------------------
+- title: "SIGEMCA: Sistema de Información Geológico-Minero Distribuido con capacidad SIG"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2001_SIG_SIGEMCA.pdf
+  authors: M.Á. LATRE, P. ÁLVAREZ, Ó. CANTÁN-CASBAS, J. NOGUERAS-ISO, J.A. BAÑARES-BAÑARES
+  publication: "Sistemas de información geográfica: una aproximación desde la ingeniería del software y las bases de datos. Monografías y publicaciones. Colección ingeniería informática.  Madrid. Fundación Dintel"
+  publication_detail: "p. 205-212, ISBN 84-931933-1-3"
+  year: 2001
+# -------------------
+- title: "Una aproximación Java al desarrollo de sistemas de información georreferenciados, patrones de desarrollos a bajo coste para trabajo en intra/internet"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2001_SIG_Aproximacion.pdf
+  publication_detail: "M.Á. LATRE, P. ÁLVAREZ, R. BÉJAR, Ó. CANTÁN-CASBAS, J. VALIÑO"
+  publication: "Sistemas de información geográfica: una aproximación desde la ingeniería del software y las bases de datos. Monografías y publicaciones. Colección ingeniería informática. Madrid"
+  publication_detail: "p. 135-150, ISBN 84-931933-1-3"
+  year: 2001
+# -------------------
+- title: "Integración de visualización SIG en aplicaciones de sitemas de información a partir de JavaBeans"
+  authors: J. VALIÑO, R. BÉJAR, J.A. BAÑARES-BAÑARES, P. FERNÁNDEZ
+  publication: "Sistemas de información geográfica: una aproximación desde la ingeniería del software y las bases de datos. Monografías y publicaciones. Colección ingeniería informática.  Madrid. Fundación Dintel"
+  publication_detail: "p. 179-184, ISBN 84-931933-1-3"
+  year: 2001
+# -------------------
+- title: "JGISView: JavaBeans para la integración de utilidades de visualización SIG en aplicaciones y applets"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2001_SIG_JgisView.pdf
+  authors: R. BÉJAR, P. FERNÁNDEZ, P. ÁLVAREZ, J. VALIÑO, P.R. MURO-MEDRANO
+  publication: "Sistemas de información geográfica: una aproximación desde la ingeniería del software y las bases de datos. Monografías y publicaciones. Colección ingeniería informática.  Madrid. Fundación Dintel"
+  publication_detail: "p. 185-190, ISBN 84-931933-1-3"
+  year: 2001
+# -------------------
+- title: "Acceso por Intra-Internet a grandes repositorios de imágenes de satélite, aplicación a ortoimágenes de la cuenca del Ebro"
+  url: /curriculum/08-Publicaciones-Articulos/art_2001_Mapping_Acceso.pdf
+  authors: P. ÁLVAREZ, R. BÉJAR, O. CANTÁN-CASBAS, P. FERNÁNDEZ, M.Á. LATRE, P.R. MURO-MEDRANO
+  publication: "Mapping"
+  publication_detail: "nº 72 p. 6-12"
+  year: 2001
+# -------------------
+- title: "Ingenor-MTT: Integración de capacidades SIG para la Monitorización Telemática del Transporte"
+  url: /curriculum/08-Publicaciones-Articulos/cap_2001_SIG_Ingenor.pdf
+  authors: P.J. ÁLVAREZ, R. LÓPEZ, S. BLASCO-PÉREZ, M.Á. LATRE, O. CANTÁN-CASBAS
+  publication: "Sistemas de información geográfica: una aproximación desde la ingeniería del software y las bases de datos. Monografías y publicaciones. Colección ingeniería informática.  Madrid. Fundación Dintel"
+  publication_detail: "p. 197-204, ISBN 84-931933-1-3"
+  year: 2001
+# -------------------
+- title: "Effective steps toward the Spain National Geographic Information Infrastructure"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2001_AGILE_Effective.pdf
+  authors: M.A. BERNABÉ, M. GOULD-CARLSON, P.R. MURO-MEDRANO, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication: "Proceedings of the 4th AGILE Conference on Geographic Science: GI in EUROPE: Integrative, Interoperable, Interactive"
+  publication_detail: "p. 236-243"
+  year: 2001
+# -------------------
+- title: "Interoperation of distributed GIS components in a Hydrological Data Inventory System"
+  authors: R. BÉJAR, P. FERNÁNDEZ, P.R. MURO-MEDRANO, R. RIOJA, F.J. ZARAZAGA-SORIA
+  publication_conference: "Proceedings of the 4th AGILE Conference on Geographic Science: GI in EUROPE: Integrative, Interoperable, Interactive"
+  publication_detail: "p. 685-692"
+  year: 2001
+# -------------------
+- title: "Joining Geographic Catalog Services and Map Servers with GIS applications"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2001_AGILE_Joining.pdf
+  authors: O. CANTÁN-CASBAS, M. CASANOVAS, J. GUTIERREZ, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Proceedings of the 4th AGILE Conference on Geographic Science: GI in EUROPE: Integrative, Interoperable, Interactive"
+  publication_detail: "p. 347-354"
+  year: 2001
+# -------------------
+- title: "Componentes para un catálogo distribuido de datos geoespaciales por Internet"
+  authors: S. BLASCO-PÉREZ, O. CANTÁN-CASBAS, M. NAVAS-TAPIADOR, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de la Jornada de Sistemas de Información Geográfica"
+  publication_detail: "p. 21-28"
+  year: 2001
+# -------------------
+- title: "Merging Catalog Services and GIS applications by component interoperability mechanisms"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2001_ECGIS_Merging.pdf
+  authors: O. CANTÁN-CASBAS, J.A. BAÑARES-BAÑARES, J. GUTIERREZ, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Proceedings of the 7th EC-GI&GIS Workshop: EGII: Managing the Mosaic"
+  year: 2001
+# -------------------
+- title: "Muletas y muletillas en la enseñanza universitaria de la informática de titulaciones no técnicas"
+  authors: P.J. ÁLVAREZ, J. GUTIÉRREZ, J. NOGUERAS-ISO, J. VALIÑO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de las VII Jornadas de Enseñanza Universitaria de la Informática: Jenui 2001"
+  publication_detail: "p. 357-360"
+  year: 2001
+# -------------------
+- title: "Uso de técnicas de dinámica de grupos para sensibilizar a los alumnos de Ingeniería del Software en los problemas de comunicación"
+  authors: P.J. ÁLVAREZ, J. GUTIERREZ, E. LANUZA, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de las VII Jornadas de Enseñanza Universitaria de la Informática: Jenui 2001"
+  publication_detail: "p. 234-238"
+  year: 2001
+# -------------------
+- title: "Componentes tecnológicos para una Infraestructura de Datos Geoespaciales"
+  authors: M.A. BERNABÉ, M. GOULD-CARLSON, J. GUTIERREZ, D. LLIDÓ, J. NOGUERAS-ISO, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de la Jornada de Sistemas de Información Geográfica"
+  publication_detail: "p. 1-9"
+  year: 2001
+# -------------------
+- title: "Interoperabilidad de servicios de catálogo geoespacial y herramientas SIG"
+  authors: O. CANTÁN-CASBAS, M. NAVAS-TUNDIDOR, J. NOGUERAS-ISO, J.C. XIFRE, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de la Jornada de Sistemas de Información Geográfica"
+  publication_detail: "p. 29-36"
+  year: 2001
+# -------------------
+- title: "Sacando ventaja a la interoperabilidad de componentes para el soporte de SBL en sistemas CRM, aplicación al Web Field Service de Vantive"
+  authors: P. ÁLVAREZ, J.A. BAÑARES-BAÑARES, S. BLASCO-PÉREZ, O. CANTÁN-CASBAS, F.J. ZARAZAGA-ISO
+  publication_conference: "Actas de la Jornada de Sistemas de Información Geográfica"
+  publication_detail: "p. 119-127"
+  year: 2001
+# -------------------
+- title: "KRON: Knowledge Engineering Approach based on the Integration of CPNs with Objects"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2001_LNCS_Kron.pdf
+  authors: J. A. BAÑARES-BAÑARES, P.R. MURO-MEDRANO, J.L. VILLARROEL, F.J. ZARAZAGA-SORIA
+  publication_conference: "Concurrent Object-Oriented Programming and Petri Nets. Advances in Petri Nets. Lecture Notes in Computer Science (LNCS)"
+  publication_detail: "vol. 2001 p. 355-374. ISSN 0302-9743"
+  year: 2001
+# -------------------
+- title: "La enseñanza de la Gestión Proyectos de Software en el plan de estudios de Ingeniería Informática de la Universidad de Zaragoza"
+  authors: R. BÉJAR, O. CANTÁN-CASBAS, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de las VII Jornadas de Enseñanza Universitaria de la Informática: Jenui 2001"
+  publication_detail: "p. 239-242"
+  year: 2001
+# -------------------
+- title: "Towards the Construction of the Spanish National Geographic Information Infrastructure"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2001_ECGIS_Towards.pdf
+  authors: J. NOGUERAS-ISO, M.Á. LATRE, M. NAVAS-TAPIADOR, R. RIOJA, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of the 7th EC-GI&GIS Workshop: EGII: Managing the Mosaic"
+  year: 2001
+# -------------------
+- title: "Servidor de datos climáticos de Europa por Internet basado en la especificación Web Map Server v1.0 ampliada"
+  authors: R. BÉJAR, P. ÁLVAREZ, M.Á. LATRE, P.R. MURO-MEDRANO, J. NOGUERAS-ISO
+  publication_conference: "Actas de la Jornada de Sistemas de Información Geográfica"
+  publication_detail: "p. 103-110"
+  year: 2001
+# -------------------
+- title: "La enseñanza de la Ingeniería del Software en el marco del Postgrado en Informática de la Universidad de Zaragoza"
+  authors: P.J. ÁLVAREZ, S. BLASCO-PÉREZ, M.Á. LATRE, J. NOGUERAS-ISO
+  publication_conference: "Actas de las VII Jornadas de Enseñanza Universitaria de la Informática: Jenui 2001"
+  publication_detail: "p. 196-198"
+  year: 2001
+# -------------------
+- title: "Integration of MapServer capabilities in an Automatic Vehicle Monitoring System to extend access through the Internet"
+  authors: P. ÁLVAREZ, J.A. BAÑARES-BAÑARES, R. BÉJAR, S. BLASCO-PÉREZ, M.Á. LATRE
+  publication_conference: "Proceedings of the 4th AGILE Conference on Geographic Science: GI in EUROPE: Integrative, Interoperable, Interactive"
+  publication_detail: "p. 676-682"
+  year: 2001
+# -------------------
+- title: "LBS for Fleet Tracking and Management Services through the Internet"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2001_ECGIS_LBS.pdf
+  authors: P. ÁLVAREZ, J.A. BAÑARES-BAÑARES, R. BÉJAR, M.Á. LATRE, P. FERNÁNDEZ. 
+  publication_conference: "Proceedings of the 7th EC-GI&GIS Workshop: EGII: Managing the Mosaic"
+  year: 2001
+# -------------------
+- title: "Infraestructura de software para la automatización del proceso de georreferenciación de grandes repositorios de imágenes geográficas"
+  authors: M. NAVAS-TUNDIDOR, R. BÉJAR, P. FERNÁNDEZ, M.Á. LATRE, R. RIOJA
+  publication_conference: "Actas de la Jornada de Sistemas de Información Geográfica"
+  publication_detail: "p. 137-144"
+  year: 2001
+# -------------------
+- title: "Interoperabilidad de componentes SIG en un Sistema de Información Hidrológico"
+  authors: M.Á. LATRE, P. FERNÁNDEZ, Ó. CANTÁN-CASBAS, C. GARCÉS, R. RIOJA, J. MOLINERO
+  publication_conference: "Actas de la Jornada de Sistemas de Información Geográfica"
+  publication_detail: "p. 145-156"
+  year: 2001
+# -------------------
+- title: "Tratamiento de conjuntos de datos GML para su soporte de visualización en componentes Java e Internet"
+  authors: R. RIOJA, R. BÉJAR, S. BLASCO-PÉREZ, P. FERNÁNDEZ, M.Á. LATRE
+  publication_conference: "Actas de la Jornada de Sistemas de Información Geográfica"
+  publication_detail: "p. 61-68"
+  year: 2001
+# -------------------
+- title: "Implementación de un Esquema de Representación del Conocimiento para Sistemas de Eventos Discretos"
+  authors: J.A. BAÑARES-BAÑARES, P.R. MURO-MEDRANO, J.L. VILLARROEL-SALCEDO 
+  publication_conference: "Actas de la IV Reunión Técnica de la Asociación Española para la Inteligencia Artificial: AEPIA 91"
+  publication_detail: "p. 99-113"
+  year: 2001
+# -------------------
+- title: "Enriquecimiento de tesauros con WordNet: una aproximación heurística"
+  authors: E.J. MATA, J. ANSÓ, J.A. BAÑARES-BAÑARES, P. R. MURO-MEDRANO, J. RUBIO
+  publication_conference: "CAEPIA TITIA 2001: Actas de la IX Conferencia de la Asociación Española para la Inteligencia Artificial y IV Jornadas de Transferencia Tecnológica de Inteligencia Artificial"
+  publication_detail: "p. 593-602"
+  year: 2001
+# -------------------
+- title: "Integration of location-based services for Field support in CRM"
+  authors: J.A. BAÑARES-BAÑARES, P. ÁLVAREZ, O. CANTÁN-CASBAS, P. FERNÁNDEZ, M. CASANOVAS, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of the 4th AGILE Conference on Geographic Science: GI in EUROPE: Integrative, Interoperable, Interactive"
+  publication_detail: "p. 501-508"
+  year: 2001
+# -------------------
+- title: "Enhancing Field Service Support in CRM Systems with LBS"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2001_ECGIS_Enhancing.pdf
+  authors: J.A. BAÑARES-BAÑARES, P. ÁLVAREZ, R. BÉJAR, S. BLASCO-PÉREZ, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of the 7th EC-GI&GIS Workshop: EGII: Managing the Mosaic"
+  year: 2001
+# -------------------
+- title: "Integración de capacidades de SBL y GIS para el soporte a la toma de decisiones en paquetería y logística"
+  authors: P. ÁLVAREZ, J.A. BAÑARES-BAÑARES, S. BLASCO-PÉREZ, P. FERNÁNDEZ, P.R. MURO-MEDRANO
+  publication_conference: "Actas de la Jornada de Sistemas de Información Geográfica"
+  publication_detail: "p. 41-51"
+  year: 2001
+# -------------------
+- title: "Una aproximación para el incremento de la capacidad expresiva de objetos miembro y el RTTI de C++ basada en el uso intensivo de plantillas. Tesis doctoral"
+  url: /curriculum/07-Publicaciones-Libros/2000_tesis_Valino.pdf
+  authors: J. VALIÑO
+  publication_dissertation: "Zaragoza: Universidad de Zaragoza"
+  year: 2000
+# -------------------
+- title: "Construction and use of concept hierarchies from word taxonomies for searching geospatial data"
+  authors: J.A. BAÑARES-BAÑARES, F.J. ZARAZAGA-SORIA, J. NOGUERAS-ISO, J. GUTIÉRREZ, P.R. MURO-MEDRANO
+  publication: "Geographical Domain and Geographical Information Systems. GeoInfo. Vienna. Institute for Geoinformation"
+  publication_detail: "p. 5-8"
+  year: 2000
+# -------------------
+- title: "La Infraestructura Nacional de Información Geográfica desde la Perspectiva de Bibliotecas Digitales Distribuidas"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2000_JBIDI_Infraestructura.pdf
+  authors: F.J.ZARAZAGA-SORIA, J.A.BAÑARES-BAÑARES, M.A. BERNABÉ, M.GOULD-CARLSON, P.R. MURO-MEDRANO
+  publication_conference: "Actas de las I Jornadas de Bibliotecas Digitales"
+  publication_detail: "p. 163-172"
+  year: 2000
+# -------------------
+- title: "First Steps to Set Up Java Components for the OpenGIS Catalog Services and its Software Infrastructure"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2000_AGILE_First.pdf
+  authors: F.J. ZARAZAGA-SORIA, R. LÓPEZ, J. NOGUERAS-ISO, O. CANTÁN-CASBAS, P. ÁLVAREZ, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of the 3rd AGILE Conference on Geographic Information Science"
+  publication_detail: "p. 168-170"
+  year: 2000
+# -------------------
+- title: "Cataloguing and recovering distributed geospatial data, a Java approach to build the OpenGIS Catalog Services"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2000_ECGIS_Cataloguing.pdf
+  authors: F.J. ZARAZAGA-SORIA, R. LÓPEZ, J. NOGUERAS-ISO, O. CANTÁN-CASBAS, P. ÁLVAREZ, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of the 6th EC-GI&GIS Workshop: The Spatial Information Society - Shaping the Future"
+  year: 2000
+# -------------------
+- title: "CatArcConnector, un componente para el acceso a servicios de catálogo distribuido compatibles con la OpenGIS Catalog Interface Specification desde ArcView y ArcInfo"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2000_ESRI_CatArcConnector.pdf
+  authors: J. NOGUERAS-ISO, O. CANTÁN-CASBAS, J.M. BOBADILLA, M. CASANOVAS, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de la Conferencia de ESRI 2000"
+  year: 2000
+# -------------------
+- title: "Trabajo con Tecnologías de Componentes Distribuidos, experiencias del grupo de Sistemas de Información Avanzados"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2000_IScDIS_Trabajo.pdf
+  authors: P. ÁLVAREZ, J.A. BAÑARES-BAÑARES, P. FERNÁNDEZ, P.R. MURO-MEDRANO, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas del 1er Taller de Trabajo en Ingeniería del Software Basada en Componentes Distribuidos Distribuidos, IScDIS'00"
+  publication_detail: "p. 77-82"
+  year: 2000
+# -------------------
+- title: "Java Application Architectures to Facilitate Public Access to Large Remote Sensed and Vector Geographic Data"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2000_TELEGEO_Java.pdf
+  authors: P. FERNÁNDEZ, J. NOGUERAS-ISO, O. CANTÁN-CASBAS, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of TeleGeo'2000: Second International Workshop on Telegeoprocessing"
+  publication_detail: "p. 81-91"
+  year: 2000
+# -------------------
+- title: "Use Cases of vehicle location systems based on distributed real-time GPS data"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2000_TELEGEO_Use.pdf
+  authors: F.J. ZARAZAGA-SORIA, P.J. ÁLVAREZ, J. GUILLO, R. LÓPEZ, J. VALIÑO, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of TeleGeo'2000: Second International Workshop on Telegeoprocessing"
+  publication_detail: "p. 53-61"
+  year: 2000
+# -------------------
+- title: "Servicios Distribuidos de Catálogo de Información Geográfica, una herramienta clave para el conocimiento de la Información Territorial"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2000_TERRITORIAL_Servicios.pdf
+  authors: O. CANTAN-CASBAS, J.GUTIERREZ, R. LÓPEZ, J. NOGUERAS-ISO, J. VALIÑO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de la II Conferencia Sobre Sistemas de Información Territorial: Territorial 2000"
+  year: 2000
+# -------------------
+- title: "Web mapping interoperability in practice, a Java approach guided by the OpenGis Web Map Server Interface Specification"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2000_ECGIS_Web.pdf
+  authors: P. FERNÁNDEZ, R. BÉJAR, M.Á. LATRE, J. VALIÑO, J.A. BAÑARES-BAÑARES, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of the 6th EC-GI&GIS Workshop: The Spatial Information Society - Shaping the Future"
+  year: 2000
+# -------------------
+- title: "Integración de funcionalidad SIG en el software de Gestión de proyectos LEADER, interesantes posibilidades a bajo coste"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2000_ESRI_Integracion.pdf
+  authors: M.Á. LATRE, P. FERNÁNDEZ, R. LÓPEZ, J. VALIÑO, P.R. MURO-MEDRANO
+  publication_conference: "Actas de la Conferencia de ESRI 2000"
+  year: 2000
+# -------------------
+- title: "Trying Java technology in a Geologic-Mining Information System distributed over an inter/intranet environment"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2000_TELEGEO_Trying.pdf
+  authors: M.Á. LATRE, R. BÉJAR, P. FÉRNANDEZ, P. ÁLVAREZ, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of TeleGeo'2000: Second International Workshop on Telegeoprocessing"
+  publication_detail: "p. 93-101"
+  year: 2000
+# -------------------
+- title: "Acceso estándar a Información Territorial por Internet, nuevas oportunidades abiertas por la OpenGIS Internet Map Server Interface Specification"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2000_TERRITORIAL_Acceso.pdf
+  authors: P. FERNÁNDEZ, P. ÁLVAREZ, J.A. BAÑARES-BAÑARES, R. BÉJAR, M.Á. LATRE, P.R. MURO-MEDRANO
+  publication_conference: "Actas de la II Conferencia Sobre Sistemas de Información Territorial: Territorial 2000"
+  year: 2000
+# -------------------
+- title: "A CORBA Infraestructure to provide distributed GPS data in real time to GIS applications"
+  url: /curriculum/08-Publicaciones-Articulos/art_1999_CEUS_Corba.pdf
+  authors: P.R. MURO-MEDRANO, D. INFANTE, J. GUILLO, F.J. ZARAZAGA-SORIA, J.A. BAÑARES-BAÑARES
+  publication: "Computers, Environment and Urban Systems"
+  publication_detail: "vol. 23 p. 271-285"
+  year: 1999
+# -------------------
+- title: "Sistema de información geológico-minero con capacidad de visualización SIG"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1999_ESRI_Sistema.pdf
+  authors: P. FERNÁNDEZ, P. ÁLVAREZ, M.Á. LATRE, R. BÉJAR, J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication_conference: "Actas de la Conferencia de ESRI 1999"
+  year: 1999
+# -------------------
+- title: "Utilización de tecnologías de componentes COM/CORBA para la integración de visualizadores interoperables sobre MapObjects"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1999_ESRI_Utilizacion.pdf
+  authors: S. COMELLA, R. LÓPEZ, P. FERNÁNDEZ. J. NOGUERAS-ISO, J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication_conference: "Actas de la Conferencia de ESRI 1999"
+  year: 1999
+# -------------------
+- title: "Desarrollo de una Arquitectura Distribuida Orientada a Objeto para la Monitorización Automática de Vehículos"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1999_JISBD_Desarrollo.pdf
+  authors: P.J. ÁLVAREZ, J. GUILLO, D. INFANTE, F.J. ZARAZAGA-SORIA, F.J. NOGUERAS-ISO, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of the IV Jornadas de Ingeniería del Software y Bases de Datos (JISBD'99)"
+  publication_detail: "p. 175-176"
+  year: 1999
+# -------------------
+- title: "A CORBA Object-oriented Architecture to Provide Distributed GPS data to GIS applications"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1999_TELEGEO_Corba.pdf
+  authors: P.R. MURO-MEDRANO, D. INFANTE, J. GUILLO, F.J. ZARAZAGA-SORIA, J.A. BAÑARES-BAÑARES
+  publication_conference: "Proceedings of the First International Workshop on Telegeoprocessing: TELEGEO'99"
+  publication_detail: "p. 23-30"
+  year: 1999
+# -------------------
+- title: "Making profit of software interoperabilty in a web enabled water point inventory distributed system"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1999_TELEGEO_Making.pdf
+  authors: S. COMELLA, R. LÓPEZ, R. BÉJAR, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of the First International Workshop on Telegeoprocessing: TELEGEO'99"
+  publication_detail: "p. 71-75"
+  year: 1999
+# -------------------
+- title: "TRUNIS: an Object Oriented Trunking Radio Telephone Network Information System: an experience report"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1999_TOOLS_Trunis.pdf
+  authors: F.J. ZARAZAGA-SORIA, J. VALIÑO, S. COMELLA, J. NOGUERAS-ISO, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of the TOOLS 29: Technology of Object-Oriented Languages and Systems"
+  publication_detail: "p. 251-260"
+  year: 1999
+# -------------------
+- title: "Una aproximación funcional a la implementación de algoritmos de búsqueda"
+  authors: J. RUBIO, J.A. BAÑARES-BAÑARES, P.R. MURO-MEDRANO
+  publication_conference: "Actas de la VIII Conferencia de la Asociación Española  para la Inteligencia Artificial y III Jornadas de Transferencia Tecnológica de Inteligencia Artificial: CAEPIA'99 y TTIA'99"
+  publication_detail: "p. 88-97"
+  year: 1999
+# -------------------
+- title: "Knowledge Representation-Oriented Nets for Discrete Event System Applications"
+  url: /curriculum/08-Publicaciones-Articulos/art_1998_IEEESMC_Knowledge.pdf
+  authors: P.R. MURO-MEDRANO, J.A. BAÑARES-BAÑARES, J.L. VILLARROEL
+  publication: "IEEE Transactions on Systems, Man and Cybernetics"
+  publication_detail: "vol. 28 nº 2 p. 183-198"
+  year: 1998
+# -------------------
+- title: "Proporcionando capacidades de trabajo concurrente a aplicaciones GIS sobre un entorno distribuido basado en CORBA"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1998_Jconcurrencia_Proporcionando.pdf
+  authors: S. COMELLA, J. EZPELETA-MATEO, F.J. ZARAZAGA-SORIA, J. VALIÑO, P.R. MURO-MEDRANO
+  publication_conference: "Actas de las VI Jornadas de Concurrencia"
+  publication_detail: "p. 129-136"
+  year: 1998
+# -------------------
+- title: "Aspectos docentes de la asignatura de Inteligencia Artificial e Ingeniería del Conocimiento I del plan de estudios de Ingeniería Informática de la Universidad de Zaragoza"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1997_JENUI_IA.pdf
+  authors: J.A. BAÑARES-BAÑARES, J. RUBIO-GARCÍA, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de las III Jornadas de Enseñanza Universitaria: Jenui´97"
+  publication_detail: "p. 215-219"
+  year: 1998
+# -------------------
+- title: "Aspectos docentes de la asignatura de Proyectos de Software del plan de estudios de Ingeniería Informática de la Universidad de Zaragoza"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1997_JENUI_Proyectos.pdf
+  authors: P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA, J. VALIÑO
+  publication_conference: "Actas de las III Jornadas de Enseñanza Universitaria: Jenui´97"
+  publication_detail: "p. 47-52"
+  year: 1998
+# -------------------
+- title: "Una aplicación basada en ArcView/Avenue para soportar un banco de datos del agua en Aragón"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1998_ESRI_Aplicacion.pdf
+  authors: S. COMELLA, R. LÓPEZ, R. BÉJAR, F.J. ZARAZAGA-SORIA, J. EZPELETA-MATEO
+  publication_conference: "Actas de la Conferencia de ESRI 1998"
+  year: 1998
+# -------------------
+- title: "Sistema basado en CORBA para la localización de vehículos con visualización en MapObjects y soporte para comunicaciones trunking"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1998_ESRI_Sistema.pdf
+  authors: J.A. BAÑARES-BAÑARES, D. INFANTE PÉREZ, J. GUILLÓ PITARQUE, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication_conference: "Actas de la Conferencia de ESRI 1998"
+  year: 1998
+# -------------------
+- title: "Organización Docente de la Asignatura Ingeniería de los Sistemas Basados en el Conocimiento"
+  authors: J.A. BAÑARES-BAÑARES, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA, S. COMELLA DORDA
+  publication_conference: "Actas de las IV Jornades sobre L'Ensenyament Universitari de la Informàtica: JENUI'98"
+  publication_detail: "p. 335-339"
+  year: 1998
+# -------------------
+- title: "Automatizando el paso de Diseño Orientado a Objeto a Codificación mediante el uso de Metainformación basada en facets"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1998_JIS_Automatizando.pdf
+  authors: F.J. ZARAZAGA-SORIA, S. COMELLA, J. NOGUERAS-ISO, J. VALIÑO
+  publication_conference: "Actas de las III Jornadas de Ingeniería del Software (JIS'98)"
+  publication_detail: "p. 411-422"
+  year: 1998
+# -------------------
+- title: "Una aproximación de la asignatura de Proyectos de Software orientada al proyecto. Experiencia y resultados"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1998_Jinformatica_Aproximacion.pdf
+  authors: P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA, J. VALIÑO, J.A. BAÑARES-BAÑARES. 
+  publication_conference: "Actas de las IV Jornadas de Informática"
+  publication_detail: "p. 147-153"
+  year: 1998
+# -------------------
+- title: "Sistema de información distribuida orientado a objeto para la localización de móviles, una aproximación basada en CORBA"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1998_Jconcurrencia_Sistema.pdf
+  authors: P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA, J.A. BAÑARES-BAÑARES, J. GUILLO, D. INFANTE, R. LÓPEZ
+  publication_conference: "Actas de las VI Jornadas de Concurrencia"
+  publication_detail: "p. 117-128"
+  year: 1998
+# -------------------
+- title: "TRUNIS: sistema de información orientado a objeto para la gestión de redes de radiotelefonía trunking"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1998_Jinformatica_Trunis.pdf
+  authors: F.J. ZARAZAGA-SORIA, J. VALIÑO, S. COMELLA, J. NOGUERAS-ISO, A. ROMAY, C. FELIPE, F.J. SALAS, P.R. MURO-MEDRANO
+  publication_conference: "Actas de las IV Jornadas de Informática"
+  publication_detail: "p. 283-292"
+  year: 1998
+# -------------------
+- title: "Una aproximación para la utilización de metainformación en aplicaciones de C++"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1998_TecObj_Aproximacion.pdf
+  authors: F.J. ZARAZAGA-SORIA, S. COMELLA, J. NOGUERAS-ISO, J. VALIÑO
+  publication_conference: "Actas de las IV Jornadas sobre Tecnología de objetos"
+  publication_detail: "p. 197-206"
+  year: 1998
+# -------------------
+- title: "Una visión de las posibilidades del estándar OpenGIS para la interoperabilidad de aplicaciones GIS sobre CORBA"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1998_TecObj_Vision.pdf
+  authors: S. COMELLA, F.J. ZARAZAGA-SORIA, J. EZPELETA-MATEO, D. INFANTE, R. LÓPEZ, P.R. MURO-MEDRANO
+  publication_conference: "Actas de las Jornadas sobre Tecnología de objetos"
+  publication_detail: "p. 35-40"
+  year: 1998
+# -------------------
+- title: "Comparación de los algoritmos de reconocimiento de patrones de reglas RETE y TREAT para su aplicación a la interpretación de RdPAN"
+  authors: J.A. BAÑARES-BAÑARES, J.L. VILLARROEL-SALCEDO, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication_conference: "Actas de la VII Conferencia de la Asociación Española para la Inteligenccia Artificial: CAEPIA´97"
+  publication_detail: "p. 437-448"
+  year: 1997
+# -------------------
+- title: "Utilización de técnicas de programación basadas en frames para incrementar la potencia de representación en clases de C++ para aplicaciones de sistemas de información"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1997_CAEPIA_Utilizacion.pdf
+  authors: J. VALIÑO, J. ZARAZAGA-SORIA, S. COMELLA, J.NOGUERAS-ISO, P.R. MURO-MEDRANO
+  publication_conference: "Actas de la VII Conferencia de la Asociación Española para la Inteligenccia Artificial: CAEPIA´97"
+  publication_detail: "p. 135-144"
+  year: 1997
+# -------------------
+- title: "Visualización con MapObjects de la localización de móviles en un sistema de información distribuido orientado a objeto"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1997_ESRI_Visualizacion.pdf
+  authors: P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA, J.A. BAÑARES-BAÑARES, J. GUILLO-PITARQUE, D. INFANTE-PÉREZ, R.J. LÓPEZ-ALEJALDRE, F.J. SALAS-PROCAS
+  publication_conference: "Ponencias de la VI Conferencia Nacional de usuarios ESRI"
+  year: 1997
+# -------------------
+- title: "Aplicación de técnicas de representación basadas en frames para el desarrollo del modelo de objetos de un sistema de gestión de redes de radiotelefonía trunking"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1997_TTIA_Aplicacion.pdf
+  authors: F.J. ZARAZAGA-SORIA, J. VALIÑO, J.A. BAÑARES-BAÑARES, C. FELIPE, F.J. SALAS, P.R. MURO-MEDRANO
+  publication_conference: "Actas de las  II Jornadas de Transferencia Tecnológica de Inteligencia Artificial: TTIA 97"
+  publication_detail: "p. 59-66"
+  year: 1997
+# -------------------
+- title: "Structured Representation of Rule-Based Specifications in CIM Using Updated Petri Nets"
+  url: /curriculum/08-Publicaciones-Articulos/art_1995_IEEESMC_Structured.pdf
+  authors: G. HARHALAKIS, C.P. LIN, L. MARK, P.R. MURO-MEDRANO
+  publication: "IEEE Transactions on Systems, Man and Cybernetics"
+  publication_detail: "vol. 25 nº 1 p. 130-144"
+  year: 1995
+# -------------------
+- title: "Aspectos de comunicación y herencia en un esquema de representación del conocimiento para sistemas discretos concurrentes"
+  authors: J.A. BAÑARES-BAÑARES, J.L. VILLARROEL, J.A. PÉREZ, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  publication_conference: "Actas de la VI Conferencia de la Asociación Española para la Inteligenccia Artificial: CAEPIA´95"
+  publication_detail: "p. 56-69"
+  year: 1995
+# -------------------
+- title: "Implementation of Rule-Based Information Systems for Integrated Manufacturing"
+  url: /curriculum/08-Publicaciones-Articulos/art_1994_IEEEKDE_Implementation.pdf
+  authors: G. HARHALAKIS, C.P. LIN, L. MARK, P.M. MURO-MEDRANO
+  publication: "IEEE Transactions on Knowledge and Data Engineering"
+  publication_detail: "vol. 6 nº 6 p. 892-908"
+  year: 1994
+# -------------------
+- title: "Increasing a knowledge representation schema for FMS control with fault detection and error recovery capabilities"
+  url: /curriculum/08-Publicaciones-Articulos/art_1994_ARAP_Increasing.pdf
+  authors: J.A PÉREZ, J. PUJOL, P.R. MURO-MEDRANO
+  publication: "Annual Review in Automatic Programming"
+  publication_detail: "vol. 19 p. 313-317"
+  year: 1994
+# -------------------
+- title: "Mecanismo de inferencia tipo OPS5 para un esquema de representación basado en redes de Petri"
+  url: /curriculum/08-Publicaciones-Articulos/art_1994_Novatica_mecanismo.pdf
+  authors: J.A. BAÑARES, P.R. MURO-MEDRANO, J.L. VILLARROEL. 
+  publication: "Novática"
+  publication_detail: "nº marz/abr. 1994, 108 p. 5-9"
+  year: 1994
+# -------------------
+- title: "Using Petri net models at the coordination level for manufacturing systems control"
+  url: /curriculum/08-Publicaciones-Articulos/art_1994_RCIM_Using.pdf
+  authors: J.L. VILLARROEL, P.R. MURO-MEDRANO
+  publication: "Robotics and Computer-Integrated Manufacturing"
+  publication_detail: "vol. 11 nº 1 p. 41-50"
+  year: 1994
+# -------------------
+- title: "Increasing a Knowledge Representation Schema for FMS Control with Fault Detection and Error Recovery Capabilities"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1994_AIRTC_Increasing.pdf
+  authors: J.A. PÉREZ, J. PUJOL, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of the Symposium on Artificial Intelligence in Real Time Control, AIRTC'94"
+  year: 1994
+# -------------------
+- title: "Petri nets in a knowledge representation schema for the coordination of plant elements"
+  url: /curriculum/08-Publicaciones-Articulos/abs_1993_CEP_Petri.pdf
+  authors: J.L. VILLARROEL, M. SILVA, P.R. MURO-MEDRANO
+  publication: "Control Engineering Practice"
+  publication_detail: "vol. 1 nº 5 p. 341-346"
+  year: 1993
+# -------------------
+- title: "Entorno de modelado y simulación de sistemas de control en CIM"
+  url: /curriculum/08-Publicaciones-Articulos/art_1993_IyA_Entorno.pdf
+  authors: J.L. VILLARROEL, J.A. FERNÁNDEZ, J. SÁINZ, P.R. MURO-MEDRANO
+  publication: "Informática y Automática"
+  publication_detail: "vol. 26 nº 3 p. 12-24"
+  year: 1993
+# -------------------
+- title: "Petri Nets in a Knowledge Representation Schema for the Coordination of Plant Elements"
+  authors: J.L. VILLARROEL, M. SILVA, P.R. MURO-MEDRANO
+  publication: "Intelligent Components and Instruments for Control Applications"
+  publication_detail: "Oxford: Pergamon 1993 p. 341-346"
+# -------------------
+- title: "Un mecanismo de inferencia para modelos basados en redes de Petri"
+  authors: J.A. BAÑARES-BAÑARES, P.R. MURO-MEDRANO, J.L. VILLARROEL-SALCEDO
+  publication_conference: "Actas de la V Conferencia de la Asociación Española para la Inteligencia Artificial: CAEPIA´93"
+  publication_detail: "p. 111-121"
+  year: 1993
+# -------------------
+- title: "KRON: An Approach for the Integration of Petri Nets in Object Oriented Models of Discrete Event Systems"
+  authors: J.L. VILLARROEL, J.A. BAÑARES, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of the 1993, IEEE International Conference on Systems, Man and Cibernetics: Systems Engineering in the Service of Humans"
+  publication_detail: "vol. 3 p. 263-273"
+  year: 1993
+# -------------------
+- title: "Modular composition of Intelligent Control Policies for FMS Models"
+  authors: A. RAMÍREZ, P.R. MURO-MEDRANO, M. SILVA
+  publication_conference: "Proceedings of the 1993 IEEE International Symposium on Intelligent Control"
+  publication_detail: "p. 405-410"
+  year: 1993
+# -------------------
+- title: "Petri Nets in Knowledge Based Control Models for Manufacturing Systems Simulation"
+  authors: P.R. MURO-MEDRANO, J. SORIANO, J. PUJOL, J. BAÑARES-BAÑARES, J.A. PÉREZ, J.L. VILLARROEL
+  publication_conference: "Proceedings of the IMACS/IFAC Second International Symposium on Mathematical and Intelligent Models in System Simulation: MIM-Sª'93"
+  publication_detail: "p. 299-302"
+  year: 1993
+# -------------------
+- title: "A Frame-Rule Based Approach for Petri Nets Integration in FMS Control Models"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1993_QUARDET_Framerule.pdf
+  authors: P.R. MURO-MEDRANO, A. RAMÍREZ, J. PUJOL, J.L. VILLAROEL
+  publication_conference: "Proceedings of the III IMACS International Workshop on Qualitative Reasoning and Decision Technologies: QUARDET'93"
+  year: 1993
+# -------------------
+- title: "Taking Advantages of Temporal Redundancy in High Level Petri Nets Implementations"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1993_LNCS_Taking.pdf
+  authors: J. A. BAÑARES-BAÑARES, P.R. MURO-MEDRANO, J.L. VILLARROEL
+  publication_conference: "Application and Theory of Petri Nets 1993. Lecture Notes in Computer Science (LNCS)"
+  publication_detail: "vol. 691 p. 32-48. ISSN 0302-9743"
+  year: 1993
+# -------------------
+- title: "Planificador de operaciones de fabricación basado en una arquitectura de pizarra"
+  url: /curriculum/08-Publicaciones-Articulos/art_1992_Novatica_Planificador.pdf
+  authors: P.R. MURO-MEDRANO, S.F. SMITH, J.L. VILLARROEL
+  publication: "Novática"
+  publication_detail: "vol. XVIII nº 98 p. 19-27"
+  year: 1992
+# -------------------
+- title: "Integración de redes de Petri en el diseño orientado a objeto de sistemas de fabricación"
+  url: /curriculum/08-Publicaciones-Articulos/art_1992_ROBeA_Integracion.pdf
+  authors: P.R. MURO-MEDRANO, L.J. SANIZ, J.A. FERNÁNDEZ, T. JIMÉNEZ, J.L. VILLARROEL
+  publication: "Robótica e Automatizacão"
+  publication_detail: "vol. 10 nº Novembro 1992 p. 11-18"
+  year: 1992
+# -------------------
+- title: "Scheduling en Celdas Autónomas de Ensamblaje Basado en un Algoritmo de Tiempo Mínimo en RdP"
+  url: /curriculum/08-Publicaciones-Articulos/art_1992_ROBeA_Scheduling.pdf
+  authors: A. RAMÍREZ-TREVIÑO, J.L. VILLARROEL, M. SILVA, P.R. MURO-MEDRANO
+  publication: "Robótica e Automatizacão"
+  publication_detail: "vol. 10 nº Novembro 1992 p. 55-60"
+  year: 1992
+# -------------------
+- title: "Entorno de Desarrollo del Control de Sistemas de Manufactura"
+  url: /curriculum/08-Publicaciones-Articulos/art_1992_ROBeA_Entorno.pdf
+  authors: J.L. VILLARROEL, J.A. BAÑARES-BAÑARES, P.R. MURO-MEDRANO
+  publication: "Robótica e Automatizacão"
+  publication_detail: "vol. 10 nº Novembro 1992 p. 81-86"
+  year: 1992
+# -------------------
+- title: "A Rule - Petri Net Integrated Approach for the Modeling and Analysis of Manufacturing Systems"
+  authors: P.R. MURO-MEDRANO, J. EZPELETA-MATEO, J.L. VILLARROEL
+  publication: "Robotics and Flexible Manufacturing Systems. North Holland: Elsevier Science Publishers"
+  publication_detail: "p. 349-358"
+  year: 1992
+# -------------------
+- title: "Control and Management of Information Flow for Computer Integrated Manufacturing"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1992_CARSFOF_Control.pdf
+  authors: G. HARHALAKIS, C. P. LIN, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of the 8th International Conference on CAR/CAM, Robotics and Factories or the Future"
+  year: 1992
+# -------------------
+- title: "A Petri Net Based Representation of Engineering Information Systems"
+  authors: P.R. MURO-MEDRANO, G. HARHALAKIS, C.P. LIN
+  publication_conference: "Proceedings of Rensselaer's Third International Conference on Computer Integrated Manufacturing"
+  publication_detail: "p. 106-113"
+  year: 1992
+# -------------------
+- title: "UPN: A Petri Net Based Graphical representation for Company Policy specifications in CIM"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1992_INCOM_Upn.pdf
+  authors: G. HARHALAKIS, C.P. LIN, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of the 7th IFAC/IFIP/IFORS/IMACS/ISPE Symposium on Information Control Problems in Manufacturing Technology"
+  year: 1992
+# -------------------
+- title: "Implementation of Rule Based Specifications for CIM Database Applications"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1992_ICDKSME_Implementation.pdf
+  authors: P.R. MURO-MEDRANO, G. HARHALAKIS, C.P. LIN, L. MARK
+  publication_conference: "Proceedings of the 3rd International Conference on Data and Knowledge Systems for Manufacturing and Engineering"
+  year: 1992
+# -------------------
+- title: "Petri nets in a knowledge representation schema for the coordination of plant elements"
+  authors: J.L. VILLAROEL, M. SILVA, P.R. MURO-MEDRANO
+  publication_conference: "Proceedings of SICICA'92: Symposium on Intelligent Components and Instruments for Control Applications"
+  publication_detail: "p. 341-346"
+  year: 1992
+# -------------------
+- title: "Prácticas de programación en lenguaje Pascal"
+  url: /curriculum/07-Publicaciones-Libros/1991_libro_Practicas_Program.pdf
+  authors: P.R. MURO-MEDRANO, P. LATORRE, S. VELILLA
+  publication_book: "Zaragoza: Universidad de Zaragoza. Secretariado de Publicaciones"
+  year: 1991
+# -------------------
+- title: "INformation Systems for Integrated Manufacturing (INSIM): a design methodology"
+  url: /curriculum/08-Publicaciones-Articulos/art_1991_IJCIM_Insim.pdf
+  authors: G. HARHALAKIS, C.P. LIN, L. MARK, P.R. MURO-MEDRANO
+  publication: "International Journal of Computer Integrated Manufacturing"
+  publication_detail: "vol. 4 nº 6 p. 351-363"
+  year: 1991
+# -------------------
+- title: "Modeling, Validation and Software Implementation of Production Systems Using High Level Petri Nets"
+  authors: J. MARTÍNEZ, P.R. MURO-MEDRANO AND M. SILVA
+  publication: "High-level Petri nets. Theory and Application. Springer"
+  publication_detail: "p. 618-623"
+  year: 1991
+# -------------------
+- title: "Una Arquitectura Inteligente para la Planificación de Operaciones en Sistemas de Fabricación"
+  authors: P.R. MURO-MEDRANO, S.F. SMITH, J.L. VILLARROEL-SALCEDO
+  publication_conference: "Actas de la IV Reunión Técnica de la Asociación Española para la Inteligencia Artificial: AEPIA 91"
+  publication_detail: "p. 315-331"
+  year: 1991
+# -------------------
+- title: "Knowledge Based Manufacturing Modeling and Analysis by Integrating Petri Nets"
+  authors: P.R. MURO-MEDRANO, J. EZPELETA-MATEO, J.L. VILLAROEL
+  publication_conference: "Proceedings of the IMACS - IFAC symposium: Modelling and Control of Technological Systems"
+  publication_detail: "vol. 1 p. 660-668"
+  year: 1991
+# -------------------
+- title: "Aplicación de Técnicas de Inteligencia Artificial al Diseño de Sistemas Informáticos para el Control de Sistemas de Producción. Tesis doctoral"
+  url: /curriculum/07-Publicaciones-Libros/1990_tesis_MuroMedrano.pdf
+  authors: P.R. MURO-MEDRANO
+  publication_dissertation: "Zaragoza: Universidad de Zaragoza"
+  year: 1990
+# -------------------
+- title: "Merging artificial intelligence techniques and petri nets for real time scheduling and control of production systems"
+  url: /curriculum/08-Publicaciones-Articulos/cap_1989_AISC_Merging.pdf
+  authors: J. MARTÍNEZ, P.R. MURO-MEDRANO, M. SILVA, S.F. SMITH AND J.L. VILLARROEL
+  publication: "Artificial intelligente in scientific computation. Switserland: Baltzer AG"
+  publication_detail: "p. 307-313"
+  year: 1989
+# -------------------
+- title: "Merging artificial intelligence techniques and petri nets for time scheduling and control of production systems"
+  url: /curriculum/08-Publicaciones-Articulos/cap_1989_MSS_Merging.pdf
+  authors: J. MARTÍNEZ, P.R. MURO-MEDRANO, M. SILVA, S.F. SMITH AND J.L. VILLARROEL
+  publication: "Modelling and Simulation of Systems. Switserland: Baltzer AG"
+  publication_detail: "p. 141-144"
+  year: 1989
+# -------------------
+- title: "A Knowledge Representation Environment for Manufacturing Control Systems Design and Prototyping"
+  authors: P.R. MURO-MEDRANO, J.L. VILLARROEL, M. SILVA
+  publication_conference: "Proceedings of INCOM'89: 6th symposium on Information Control Problems in Manufacturing Technology"
+  publication_detail: "vol. II p. 585-589"
+  year: 1989
+# -------------------
+- title: "KRON: Redes Orientadas a la Representación del Conocimiento"
+  authors: P.R. MURO-MEDRANO, J.L. VILLARROEL
+  publication_conference: "Actas de la III Reunión Técnica de la Asociación Española para la Inteligencia Artificial: AEPIA 89"
+  publication_detail: "p. 3-22"
+  year: 1989
+# -------------------
+- title: "Using Schedules for Operational Guidance"
+  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1988_AAAI_Using.pdf
+  authors: S.F. SMITH, P.R. MURO-MEDRANO, N. MUSCETTOIA, PENG SI OW
+  publication_conference: "Proceedings of Workshop on Production Planning and Scheduling"
+  year: 1988
+# -------------------
+- title: "Merging artificial intelligence techniques and petri nets for real time scheduling and control of production systems"
+  authors: J. MARTÍNEZ, P.R. MURO-MERANO, M. SILVA, S. F. SMITH, J.L. VILLARROEL
+  publication_conference: "Proceedings of IMACS 1988: 12th World Congress on Scientific Computation"
+  publication_detail: "p. 528-531"
+  year: 1988
+# -------------------
+- title: "Modeling, Validation  and Software Implementation of Production Systems Using High Level Petri Nets"
+  authors: J. MARTÍNEZ, P.R. MURO-MEDRANO, M. SILVA
+  publication_conference: "Proceedings of the IEEE International Conference on Robotics and Automation"
+  publication_detail: "p. 1180-1185"
+  year: 1987

@@ -1,0 +1,14 @@
+{% assign person = site.data.phd-students[include.member] %}
+{% if person.local_url %}
+<a href="{{ site.baseurl }}{{ person.local_url }}">
+{% elsif person.url %}
+<a href="{{ person.url }}">
+{% endif %}
+	<div class="nonsquare-image"><img src="{% include relative-src.html src=person.image_path %}" alt="{{person.name}}"/></div>
+	<div class="details">
+		<div class="name">{{ person.name }}</div>
+		<div class="position">{{ person.position }}</div>
+	</div>
+{% if person.local_url or person.url %}
+</a>
+{% endif %}

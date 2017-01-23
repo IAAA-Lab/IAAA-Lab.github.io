@@ -1,0 +1,26 @@
+---
+layout: page
+---
+<section class="diagonal">        	
+	<div class="text-container">
+            {{ content }}
+	</div>
+	<div class="container-small">
+	<h1>Current PhD Students</h1>
+            <div>				
+		<ul class="image-grid">
+		<li>{% include phd-student.html member='borjaeg' %}</li>
+		<li>{% include phd-student.html member='inaki' %}</li>
+		<li>{% include phd-student.html member='yaneisy' %}</li>
+		<li>{% include phd-student.html member='dayany' %}</li>
+		<li class="filler"></li>
+		<li class="filler"></li>		
+		{% comment %}
+		<!-- Número de li debe ser múltiplo de 2 y de 3 para tener un grid majo
+		aunque se redimensione la pantalla. Usar este como relleno: -->
+		<li class="filler"></li>
+		{% endcomment %}
+		</ul>
+            </div>            
+	</div>
+</section>

@@ -1,0 +1,74 @@
+{% comment %}    
+   - LOS ARTÍCULOS EN EL FICHERO DE DATOS TIENEN QUE ESTAR ORDENADOS POR AÑO Y DENTRO DE CADA AÑO PRIMERO LIBROS, LUEGO JOURNALS Y CAPÍTULOS DE LIBRO Y LUEGO PROCEEDINGS
+{% endcomment %}                                                
+<ul>	  	        
+{% assign previous_year = 0 %}
+{% assign previous_publication_type = '' %}
+{% for paper in site.data.papers %}                                          
+    {% if include.author_id == nil or paper.authors contains site.data.people[include.author_id].papers_name or paper.authors contains site.data.phd-students[include.author_id].papers_name
+    %}           
+        {% capture current_year %}{{ paper.year }}{% endcapture %}        
+        {% if current_year != previous_year %}
+            {% assign previous_year = current_year %}                    
+            {% assign previous_publication_type = ' ' %}
+            </ul>
+            <h3>{{ paper.year }}</h3>                   
+            <ul>
+        {% endif %}                    
+                                    
+        {% if paper.publication %}
+            {% assign current_publication_type = 'In Journals and Books' %}
+        {% elsif paper.publication_book or paper.publication_dissertation %}
+            {% assign current_publication_type = 'Books' %}
+        {% elsif paper.publication_conference %}
+            {% assign current_publication_type = 'In Proceedings' %}
+        {% endif %}
+        
+        {% if previous_publication_type != current_publication_type %}
+            {% assign previous_publication_type = current_publication_type %}
+            </ul>
+            <h4>{{ current_publication_type }}</h4>                            
+            <ul>            
+        {% endif %}
+        
+        
+        <li>                               
+        {% if paper.url %}
+            {% comment %}
+                El test no es totalmente robusto, pero no sé cómo hacerlo mejor con tags de liquid y sin cambiar mucho nada más
+                (no sé mucho de liquid, y tampoco quiero perder más tiempo con esto).
+                El único problema sería que en site.data.papers hubiera alguna url que tuviera el texto /curriculum/ y que fuera
+                externa, en cuyo caso el resultado sería que ese link no funcionaría. No creo que sea lo habitual.
+            {% endcomment %}
+            {% if paper.url contains '/curriculum/' %}            
+                <a href="{{site.baseurl}}{{ paper.url }}">{{ paper.title }}.</a>
+            {% else %}
+                <a href="{{ paper.url }}">{{ paper.title }}.</a>
+            {% endif %}
+        {% else %}
+            {{ paper.title }}.
+        {% endif %}
+        {{ paper.authors }}.
+        <i>
+        {% if paper.publication %}
+            {{ paper.publication }},
+        {% elsif paper.publication_conference %}
+            {{ paper.publication_conference }},
+        {% elsif paper.publication_dissertation %}
+            {{ paper.publication_dissertation }},
+        {% elsif paper.publication_book %}
+            {{ paper.publication_book }},
+        {% endif %}
+        </i>
+        {% if paper.publication_detail %}
+            {{ paper.publication_detail }},&nbsp;{{ paper.year}}.
+        {% else %}
+            {{ paper.year}}.
+        {% endif %}                                                
+        {% if paper.comments %}
+            <i style="font-size: 0.8em">{{paper.comments}}</i>
+        {% endif %}        
+        </li>
+    {% endif %}            
+{% endfor %}	
+</ul>

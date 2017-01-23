@@ -1,0 +1,138 @@
+{% comment %}    
+   - LOS PROYECTOS EN EL FICHERO DE DATOS TIENEN QUE ESTAR ORDENADOS POR AÑO
+{% endcomment %}                                                
+<h3>Research</h3>
+<ul>	  	        
+{% for project in site.data.projects-research %}                                          
+    {% if include.author_id == nil or project.main_researcher contains site.data.people[include.author_id].projects_name %}                                               
+        <li>                    
+        {% if project.url %}
+        <a href="{{ project.url }}"><b>{{ project.title }}</b>.</a>
+        {% else %}
+        <b>{{ project.title }}</b>.
+        {% endif %}   
+                
+        {% for org in project.organizations %}           
+            {% if org.organization_url %}
+            <a href="{{ org.organization_url }}">{{ org.organization }}.</a>
+            {% else %}
+            {{ org.organization }}.
+            {% endif %}
+        {% endfor %}
+        {% if project.reference %}        
+          {{ project.reference }}. 
+        {% endif %}
+        {{ project.years }}.&nbsp;Lead researcher:&nbsp;{{project.main_researcher}}
+        </li>
+    {% endif %}            
+{% endfor %}	
+</ul>
+
+<h3>Research group and infrastructures</h3>
+<ul>	  	        
+{% for project in site.data.projects-infrastructures %}                                          
+    {% if include.author_id == nil or project.main_researcher contains site.data.people[include.author_id].projects_name %}                                               
+        <li>                    
+        {% if project.url %}
+        <a href="{{ project.url }}"><b>{{ project.title }}</b>.</a>
+        {% else %}
+        <b>{{ project.title }}</b>.
+        {% endif %}   
+                
+        {% for org in project.organizations %}           
+            {% if org.organization_url %}
+            <a href="{{ org.organization_url }}">{{ org.organization }}.</a>
+            {% else %}
+            {{ org.organization }}.
+            {% endif %}
+        {% endfor %}
+        {% if project.reference %}        
+          {{ project.reference }}. 
+        {% endif %}
+        {{ project.years }}.&nbsp;Lead researcher:&nbsp;{{project.main_researcher}}
+        </li>
+    {% endif %}            
+{% endfor %}	
+</ul>
+
+<h3>Complementary Actions</h3>
+<ul>	  	        
+{% for project in site.data.projects-compl-actions %}                                          
+    {% if include.author_id == nil or project.main_researcher contains site.data.people[include.author_id].projects_name %}                                               
+        <li>                    
+        {% if project.url %}
+        <a href="{{ project.url }}"><b>{{ project.title }}</b>.</a>
+        {% else %}
+        <b>{{ project.title }}</b>.
+        {% endif %}   
+                
+        {% for org in project.organizations %}           
+            {% if org.organization_url %}
+            <a href="{{ org.organization_url }}">{{ org.organization }}.</a>
+            {% else %}
+            {{ org.organization }}.
+            {% endif %}
+        {% endfor %}
+        {% if project.reference %}        
+          {{ project.reference }}. 
+        {% endif %}
+        {{ project.years }}.&nbsp;Lead researcher:&nbsp;{{project.main_researcher}}
+        </li>
+    {% endif %}            
+{% endfor %}	
+</ul>
+
+
+<h3>Consulting and Knowledge &amp; Technology Transfer</h3>
+<ul>	  	        
+{% for project in site.data.projects-otri %}                                          
+    {% if include.author_id == nil or project.main_researcher contains site.data.people[include.author_id].projects_name %}                                               
+        <li>                    
+        {% if project.url %}
+        <a href="{{ project.url }}"><b>{{ project.title }}</b>.</a>
+        {% else %}
+        <b>{{ project.title }}</b>.
+        {% endif %}   
+                
+        {% for org in project.organizations %}           
+            {% if org.organization_url %}
+            <a href="{{ org.organization_url }}">{{ org.organization }}.</a>
+            {% else %}
+            {{ org.organization }}.
+            {% endif %}
+        {% endfor %}
+        {% if project.reference %}        
+          {{ project.reference }}. 
+        {% endif %}
+        {{ project.years }}.&nbsp;Lead researcher:&nbsp;{{project.main_researcher}}
+        </li>
+    {% endif %}            
+{% endfor %}	
+</ul>
+
+<h3>Collaboration Agreements</h3>
+<ul>	  	        
+{% for project in site.data.projects-mou %}                                          
+    {% if include.author_id == nil or project.main_researcher contains site.data.people[include.author_id].projects_name %}                                               
+        <li>                    
+        {% if project.url %}
+        <a href="{{ project.url }}"><b>{{ project.title }}</b>.</a>
+        {% else %}
+        <b>{{ project.title }}</b>.
+        {% endif %}   
+                
+        {% for org in project.organizations %}           
+            {% if org.organization_url %}
+            <a href="{{ org.organization_url }}">{{ org.organization }}.</a>
+            {% else %}
+            {{ org.organization }}.
+            {% endif %}
+        {% endfor %}
+        {% if project.reference %}        
+          {{ project.reference }}. 
+        {% endif %}
+        {{ project.years }}.&nbsp;Lead researcher:&nbsp;{{project.main_researcher}}
+        </li>
+    {% endif %}            
+{% endfor %}	
+</ul>

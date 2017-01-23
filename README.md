@@ -1,2 +1,2 @@
-# IAAA-Lab.github.io
-Website
+# Advanced Information Systems Laboratory Web
+Based on Jekyll.

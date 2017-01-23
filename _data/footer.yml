@@ -1,0 +1,31 @@
+- title: Pages
+  links:
+    - name: Home
+      link: /
+    - name: Blog
+      link: /blog/
+    - name: About
+      link: /about/
+    - name: Contact
+      link: /contact/
+- title: Social
+  links:
+    - name: Twitter
+      link: https://twitter.com/iaaa_lab
+      social_icon: Twitter
+      new_window: true
+    - name: GitHub
+      link: https://github.com/IAAA-Lab
+      social_icon: GitHub
+      new_window: true
+- title: Organizations
+  links:
+    - name: Universidad Zaragoza
+      link: https://www.unizar.es
+      new_window: True
+    - name: I3A - Aragon Institute for Engineering Research
+      link: https://i3a.unizar.es
+      new_window: True    
+    - name: Department of Computer Science and Systems Engineering
+      link: https://diis.unizar.es/
+      new_window: True

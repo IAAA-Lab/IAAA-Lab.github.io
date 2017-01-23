@@ -1,0 +1,17 @@
+---
+layout: page
+---
+<section class="diagonal">
+	<div class="blog-post text-container">			
+                <p style="text-align:right;">                
+                </p>
+		<div class="post-content">
+			{{ content }}						
+		</div>		
+	</div>
+	{% capture author_id_to_pass %}{{ page.author_id }}{% endcapture %}
+        <div class="blog-post text-container">
+                <h1 id="papers">Papers</h1>	                
+                {% include papers-list.html author_id=author_id_to_pass %}                
+	</div>
+</section>
