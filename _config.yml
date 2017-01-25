@@ -58,6 +58,12 @@ defaults:
       path: "index.html"
     values:
       layout: "default"
+# Por defecto saldrá esta imagen al insertar un post etc. en un enlace en red social. Poner un image
+# específico en el front matter de los posts etc. si se quiere otra cosa
+  - scope:            
+      path: ""
+    values:
+      image: /images/earth-night.jpg
 
 social_icons:
 # - Facebook
