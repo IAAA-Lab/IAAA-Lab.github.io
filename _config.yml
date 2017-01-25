@@ -63,7 +63,7 @@ defaults:
   - scope:            
       path: ""
     values:
-      image: /images/earth-night.jpg
+      image: /images/earth_night.jpg
 
 social_icons:
 # - Facebook
