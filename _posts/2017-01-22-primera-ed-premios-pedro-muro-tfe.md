@@ -12,14 +12,14 @@ Los premios están dirigidos a quienes hayan defendido su trabajo de fin de estu
 # Presentación de propuestas, plazos y documentación a presentar
 **El plazo de recepción de los TFE se inicia el 6 de febrero de 2017 y concluye el 13 de marzo de 2017 a las 14:00 horas.**
 
-Las solicitudes para optar al premio deberán enviarse a la siguiente dirección de correo electrónico: <iaaa@unizar.es> indicando “Premio TFE” como asunto del correo electrónico.
+Las solicitudes para optar al premio deberán enviarse a la siguiente dirección de correo electrónico: <iaaa@unizar.es> indicando &laquo;Premio TFE&raquo; como asunto del correo electrónico.
 
 Se deberá adjuntar al correo:
 
 - El formulario correspondiente (según [este modelo]({{site.baseurl}}/downloads/Hoja_Solicitud_Premio_Pedro_Muro_TFE.odt)) debidamente cumplimentado y firmado.
-- Resumen ejecutivo del TFE incidiendo en el objetivo, conclusiones, principales aportaciones, así como la justificación de que el trabajo realizado se encuadra dentro de las “tecnologías que explotan las infraestructuras de información geográfica” (máximo 3.000 caracteres).
+- Resumen ejecutivo del TFE incidiendo en el objetivo, conclusiones, principales aportaciones, así como la justificación de que el trabajo realizado se encuadra dentro de las &laquo;tecnologías que explotan las infraestructuras de información geográfica&raquo; (máximo 3.000 caracteres).
 - Enlace a un repositorio de descarga que permita acceder a la memoria del Trabajo Fin de Estudios.
-- Un breve curriculum vitae del candidato o candidata (máximo 2 páginas).
+- Un breve *curriculum vitae* del candidato o candidata (máximo 2 páginas).
 
 # Jurado
 El jurado estará compuesto por los siguientes miembros:
@@ -40,19 +40,19 @@ Los criterios de valoración de las candidaturas para la concesión del premio c
 - La contribución del TFE al estado del arte y/o su posibilidad de implementación (máximo 40 puntos).
 
 # Fallo
-El jurado, por suma de las puntuacione asignadas de acuerdo con los criterios anteriores, concederá dos premios: un primer premio y un accésit que corresponderán con los TFE que hayan obtenido las dos puntuaciones más altas entre los presentados. Si a juicio del Jurado ninguno de los TFE presentados reunieran la calidad mínima exigible, o no cubrieran satisfactoriamente el objeto de la convocatoria, el/los Premio/s podrá/n declararse desierto/s.
+El jurado, por suma de las puntuacione asignadas de acuerdo con los criterios anteriores, concederá dos premios: un primer premio y un accésit que corresponderán con los TFE que hayan obtenido las dos puntuaciones más altas entre los presentados. Si a juicio del Jurado ninguno de los TFE presentados reunieran la calidad mínima exigible o no cubrieran satisfactoriamente el objeto de la convocatoria, el/los Premio/s podrá/n declararse desierto/s.
 
 Los premios se fallarán durante la reunión del Grupo de Trabajo de la IDEE que está previsto que se celebre los días 20 y 21 de abril de 2017. En el caso de que estas fechas fuesen modificadas, se notificaría convenientemente a todos los interesados. Para la entrega de los premios se aplicará lo establecido en el vigente Reglamento de Impuesto de la Renta de las Personas Físicas, aprobado en el RD 1841/91 del 30 de diciembre de 1991 y demás disposiciones concordantes.
 
-El fallo del jurado será inapelable, ordenando asimismo las acciones de difusión y publicidad que, en cada caso, se consideren convenientes.
+El fallo del jurado será inapelable. El jurado decidirá las acciones de difusión y publicidad del resultado que, en cada caso, considere convenientes.
 
 # Dotación económica
-El primer premio concedido estará dotado con 500€ y un diploma acreditativo, mientras que el accésit estará dotado con 300€ y un diploma acreditativo.
+El primer premio concedido estará dotado con 500 € y un diploma acreditativo, mientras que el accésit estará dotado con 300 € y un diploma acreditativo.
 
 # Propiedad intelectual
-El participante garantiza que el trabajo presentado es una creación propia y reconoce que el trabajo no depende ni infringe Derechos de Propiedad Industrial e Intelectual de terceros.
+Es responsabilidad de los participantes que los trabajos que presenten sean de creación propia y que no dependan de, ni infrinjan, Derechos de Propiedad Industrial e Intelectual de terceros.
 
 # Confidencialidad
-El participante declara en el momento de la solicitud del premio que el contenido completo del TFE no tiene carácter confidencial, y que permite su consulta y divulgación.
+Es responsabilidad de los participantes que en el momento de la solicitud del premio el contenido completo del TFE no tenga carácter confidencial y que se permita su consulta y divulgación.
 
 *La presentación de una candidatura supone la aceptación de estas bases.*
