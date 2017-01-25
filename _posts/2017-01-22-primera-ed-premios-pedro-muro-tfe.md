@@ -30,7 +30,7 @@ El jurado estará compuesto por los siguientes miembros:
 - Francisco Javier Ariza López, Departamento Ingeniería Cartográfica, Geodésica y Fotogrametría, Director del Grupo de Investigación en Ingeniería Cartográfica, Universidad de Jaén
 - Javier Nogueras-Iso, Departamento de Informática e Ingeniería de Sistemas, Subdirector TIC del Instituto de Investigación en Ingeniería de Aragón, Universidad de Zaragoza
 - Joaquín Huerta Guijarro, Departamento de Lenguajes y Sistemas Informáticos, Director del Geotec Research, Universitat Jaume I.
-- Miguel Ángel R. Luaces, Departamento de Computación, Coordinador del Máster Universitario en Geoinformática, Universidade da Coruña.
+- Miguel Ángel Rodríguez Luaces, Laboratorio de Bases de Datos, Coordinador del Máster Universitario en Geoinformática, Universidade da Coruña.
 
 # Criterios de valoración
 Los criterios de valoración de las candidaturas para la concesión del premio comprenderán:
