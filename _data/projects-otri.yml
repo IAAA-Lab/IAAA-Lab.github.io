@@ -1,3 +1,11 @@
+- title: Servicio de asistencia técnica de consultoría sobre las tareas relacionadas con
+         las líneas de trbajo en curso durante 2017 planteadas en el grupo de implementación
+         y mantenimiento de la directiva INSPIRE (MIG)
+  organizations:
+  - organization: Centro Nacional de Información Geográfica (España)
+    organization_url: https://www.cnig.es/
+  years: 2017-2017
+  main_researcher: F.J. Lopez-Pellicer
 - title: "Trabajos de diseño de una arquitectura modular, abierta y distribuida para SITMUN3"
   organizations:
   - organization: Diputació de Barcelona
@@ -5,42 +13,44 @@
   main_researcher: R. Béjar, F.J. Lopez-Pellicer
 - title: "Realización de un prototipo de esquema de asignación de identificadores persistentes (PID) en el marco INSPIRE"
   organizations:
-  - organization: Centro Nacional de Información Geográfica (España)			
+  - organization: Centro Nacional de Información Geográfica (España)
+    organization_url: https://www.cnig.es/
   years: 2016-2016
   main_researcher: F.J. Lopez-Pellicer
 - title: "Evaluación técnica de las ofertas presentadas al pliego 'Implementación de la plataforma de información, gestión y control de la red de saneamiento de zaragoza'"
   organizations:
-  - organization: Ecociudad Zaragoza			
+  - organization: Ecociudad Zaragoza
   years: 2016-2016
   main_researcher: F.J. Zarazaga-Soria
 - title: "Actividades de redacción de proyecto o memoria, diseño tecnológico del equipo embarcado y de la antena móvil, diseño del sistema de evaluación de cobertura de comunicaciones y prototipado del equipo embarcado y de la antena móvil dentro del proyecto de 'Seguimiento y Control de la cabaña extensiva de Aragón'"
   organizations:
-  - organization: Asociación Agraria de Jóvenes Agricultores de Huesca			
+  - organization: Asociación Agraria de Jóvenes Agricultores de Huesca
   years: 2016-2018
   main_researcher: F.J. Zarazaga-Soria
 - title: "Actividades de redacción de proyecto o memoria dentro del Proyecto 'Peritación de la Generación de Purines en las explotaciones porcinas aragonesas'"
   organizations:
-  - organization: Asociación Agraria de Jóvenes Agricultores de Huesca			
+  - organization: Asociación Agraria de Jóvenes Agricultores de Huesca
   years: 2016-2018
   main_researcher: F.J. Zarazaga-Soria
 - title: "Fidelización de clientes mediante el uso de nuevas tecnologías en dispositivos móviles geolocalizados"
   organizations:
-  - organization: Gestión Integral de Marketing Hotelero S.A.			
+  - organization: Gestión Integral de Marketing Hotelero S.A.
   years: 2015-2018
   main_researcher: F.J. Zarazaga-Soria
 - title: "GS Soil: assessment and strategic development of Inspire compliant geodata-services for European Soil Data"
   organizations:
-  - organization: Edisoft			
+  - organization: Edisoft
   years: 2012-2012
   main_researcher: J. Nogueras-Iso
 - title: "Investigación, Desarrollo e Innovación Tecnológica dirigidos a la mejora y ampliación del Geoportal de Referencia de la Infraestructura de Datos Espaciales de España y del Nodo del Instituto Geográfico Nacional de Distribución e Intermediación de Datos y Servicios Geográficos. Año 2012"
   organizations:
   - organization: Centro Nacional de Información Geográfica (España)
+    organization_url: https://www.cnig.es/
   years: 2012-2012
   main_researcher: F.J. Zarazaga-Soria, R. Béjar
 - title: "Curso de Geoserver como servidor de mapas"
   organizations:
-  - organization: Centro Nacional de Energías Renovables (España)			
+  - organization: Centro Nacional de Energías Renovables (España)
   years: 2012-2012
   main_researcher: P.R. Muro-Medrano
 - title: "Aplicación consulta ciudadana de taxis libres y en parada para dispositivos móviles Android y IPhone"
@@ -80,7 +90,7 @@
   organizations:
   - organization: GeoSpatiumLab
     organization_url: http://www.geoslab.com
-  - organization: Turvalia Soluciones Tecnológicas para el Turismo			
+  - organization: Turvalia Soluciones Tecnológicas para el Turismo
   years: 2010-2010
   main_researcher: F.J. Zarazaga-Soria
 - title: "Implantación de una aplicación informática para la gestión de la información de la Directiva Marco del Agua y de la planificación hidrológica en la Dirección General del Agua en La Rioja"
@@ -134,7 +144,7 @@
   main_researcher: R. Béjar, P.R. Muro-Medrano
 - title: "Technical advice for the inclusion of the LCCS (Land Cover Classification System) UML model in ISO 19144-2 standard"
   organizations:
-  - organization: Organización de las Naciones Unidas para la Agricultura y la Alimentación			
+  - organization: Organización de las Naciones Unidas para la Agricultura y la Alimentación
   years: 2008-2008
   main_researcher: R. Béjar
 - title: "Mejora de la aplicación callejero de la Infraestructura de Datos Espaciales de Zaragoza (IDEZar)"
@@ -160,7 +170,7 @@
   main_researcher: F.J. Lopez-Pellicer, P.R. Muro-Medrano
 - title: "Certificaciones proyectos I+D+i"
   organizations:
-  - organization: AENOR			
+  - organization: AENOR
   years: 2008-2008
   main_researcher: P.R. Muro-Medrano
 - title: "Proyecto conjunto para la realización de trabajos de Investigación, Desarrollo e Innovación Tecnológica dirigidos a la mejora y ampliación del Geoportal de Referencia de la Infraestructura de Datos Espaciales de España y del Nodo del Instituto Geográfico Nacional de Distribución e Intermediación de Datos y Servicios Geográficos"
@@ -170,38 +180,38 @@
   main_researcher: R. Béjar, P.R. Muro-Medrano
 - title: "UML specification of the LCCS"
   organizations:
-  - organization: Organización de las Naciones Unidas para la Agricultura y la Alimentación			
+  - organization: Organización de las Naciones Unidas para la Agricultura y la Alimentación
   years: 2008-2008
   main_researcher: R. Béjar
 - title: "Mejoras funcionales para la aplicación de soporte del Sistema de Información de Ocupación del Suelo de España (SIOSE)"
   organizations:
-  - organization: Instituto Geográfico Nacional (España). Área de Teledetección			
+  - organization: Instituto Geográfico Nacional (España). Área de Teledetección
   years: 2008-2008
   main_researcher: R. Béjar
 - title: "Asesoramiento técnico para el sistema de gestión de proyectos coordinados de Observación de la Tierra. PNOA (Plan Nacional de Ortofotografía Aérea), SIOSE (Sistema de Información de Ocupación del Suelo de España), PNT (Plan Nacional de Teledetección)"
   organizations:
-  - organization: Instituto Geográfico Nacional (España). Área de Teledetección			
+  - organization: Instituto Geográfico Nacional (España). Área de Teledetección
   years: 2008-2008
   main_researcher: R. Béjar
 - title: "Evaluación del proyecto 068/0421"
   organizations:
-  - organization: AENOR			
+  - organization: AENOR
   years: 2007-2007
   main_researcher: P.R. Muro-Medrano
 - title: "Mejora de las consultas, informes y de la explotación de datos desde el sistema I.P.A. para cumplir con los requerimientos de la D.M.A. (2006)"
   organizations:
-  - organization: Confederación Hidrográfica del Ebro			
+  - organization: Confederación Hidrográfica del Ebro
   reference: 2006-P.H.-14-I
   years: 2007-2006
   main_researcher: M.Á. Latre, P.R. Muro-Medrano
 - title: "Implementación de funcionalidades avanzadas de asignación automática de servicios en sistema de gestión de flotas para el mercado del taxi"
   organizations:
-  - organization: Nitax			
+  - organization: Nitax
   years: 2007-2008
   main_researcher: P.R. Muro-Medrano
 - title: "Sistema distribuido de información de la Directiva Marco del Aguas conforme a la Directiva INSPIRE para la gestión de información, reporting y acceso público para confederaciones hidrográficas y CCAA"
   organizations:
-  - organization: Zeta Amaltea			
+  - organization: Zeta Amaltea
   years: 2007-2009
   main_researcher: F.J. Zarazaga-Soria
 - title: "Testing of GeoLinking Service Specification ('Geolink IE')"
@@ -211,7 +221,7 @@
   main_researcher: R. Béjar, P.R. Muro-Medrano
 - title: "Evaluación del proyecto 068/0487"
   organizations:
-  - organization: AENOR			
+  - organization: AENOR
   years: 2007-2007
   main_researcher: P.R. Muro-Medrano
 - title: "Trabajos de Investigación y Desarrollo dirigidos a la mejora y ampliación del Portal de la Infraestructura de Datos Espaciales de España y del Nodo del Instituto Geográfico Nacional de Distribución e Intermediación de Datos y Servicios Geográficos"
@@ -227,48 +237,48 @@
   main_researcher: M.Á. Latre, P.R. Muro-Medrano
 - title: "Colaboración en un proyecto sobre el sistema de gestión de flotas para el sector del taxi"
   organizations:
-  - organization: Nitax			
+  - organization: Nitax
   years: 2006-2007
   main_researcher: P.R. Muro-Medrano
 - title: "EuroGeoNames (EGN). Developing a European geographical names infrastructure and services"
   organizations:
-  - organization: Comisión Europea			
+  - organization: Comisión Europea
   years: 2006-2009
   main_researcher: F.J. Zarazaga-Soria, F.J. Lopez-Pellicer
 - title: "Diseño estratégico del Sistema de Información Geográfica GIS-Duero"
   organizations:
-  - organization: Confederación Hidrográfica del Duero			
+  - organization: Confederación Hidrográfica del Duero
   years: 2006-2006
   main_researcher: M.Á. Latre, P.R. Muro-Medrano
 - title: "Investigación y Desarrollo tecnológico para la puesta en marcha de una Infraestructura de Datos Espaciales para el ámbito de la Hidro-Geología"
   organizations:
-  - organization: Zeta Amaltea			
+  - organization: Zeta Amaltea
   years: 2006-2008
   main_researcher: M.Á. Latre, P.R. Muro-Medrano
 - title: "Estudio de necesidades de edición cartográfica y valoración de alternativas"
   organizations:
-  - organization: Aragón. Departamento de Presidencia y Relaciones Institucionales			
+  - organization: Aragón. Departamento de Presidencia y Relaciones Institucionales
   reference: 116/06
   years: 2006-2006
   main_researcher: R. Béjar, P.R. Muro-Medrano
 - title: "Colaboración en aplicaciones de software para gestión de flotas"
   organizations:
-  - organization: Nitax			
+  - organization: Nitax
   years: 2006-2006
   main_researcher: P.R. Muro-Medrano
 - title: "Mantenimiento y evolución de la Infraestructura de Datos Espaciales de Zaragoza (IDEZar)"
   organizations:
   - organization: Zaragoza. Ayuntamiento
   years: 2006-2006
-  main_researcher: P.R. Muro-Medrano, 
+  main_researcher: P.R. Muro-Medrano,
 - title: "Implementación en IDEZar de un servicio de gestión y consulta de actividades y eventos de interés"
   organizations:
   - organization: Zaragoza. Ayuntamiento
   years: 2006-2006
-  main_researcher: P.R. Muro-Medrano, 
+  main_researcher: P.R. Muro-Medrano,
 - title: "Colaboración en aplicaciones software para gestión de flotas"
   organizations:
-  - organization: Nitax			
+  - organization: Nitax
   years: 2006-2006
   main_researcher: P.R. Muro-Medrano
 - title: "Adecuación del modelo de datos de la cartografía 1:5000 Fase I"
@@ -280,7 +290,7 @@
   organizations:
   - organization: Zaragoza. Ayuntamiento
   years: 2006-2006
-  main_researcher: 
+  main_researcher:
 - title: "Creación de un nodo de la Infraestructura Española de Datos Espaciales en la Confederación Hidrográfica del Ebro"
   organizations:
   - organization: Confederación Hidrográfica del Ebro
@@ -289,13 +299,13 @@
   main_researcher: M.Á. Latre, P.R. Muro-Medrano
 - title: "ESA Harmony"
   organizations:
-  - organization: Agencia Espacial Europea			
+  - organization: Agencia Espacial Europea
   reference: ESA Harmony-PMM-2005-01
   years: 2005-2005
   main_researcher: P.R. Muro-Medrano
 - title: "Colaboración en un proyecto sobre el sistema de gestión de flotas para el sector del taxi"
   organizations:
-  - organization: Nitax			
+  - organization: Nitax
   years: 2005-2006
   main_researcher: P.R. Muro-Medrano
 - title: "Mejora y ampliación del sistema Report Server"
@@ -345,7 +355,7 @@
   organizations:
   - organization: Zaragoza. Ayuntamiento
   years: 2005-2005
-  main_researcher: P.R. Muro-Medrano, 
+  main_researcher: P.R. Muro-Medrano,
 - title: "Desarrollo complementario de la tecnología y metodología de captura de metadatos de información geográfica y del catálogo de metadatos de la Infraestructura de Datos Espaciales de España y del nodo del Instituto Geográfico Nacional de Distribución e Intermediación de datos y servicios geográficos"
   organizations:
   - organization: Instituto Geográfico Nacional (España)
@@ -353,7 +363,7 @@
   main_researcher: P.R. Muro-Medrano
 - title: "Asesoramiento de los aspectos informáticos para el desarrollo del Sistema de Información de Ocupación del Suelo de España (SIOSE)"
   organizations:
-  - organization: Instituto Geográfico Nacional (España)			
+  - organization: Instituto Geográfico Nacional (España)
   years: 2005-2006
   main_researcher: R. Béjar
 - title: "SDIGER: A cross-border inter-administration Spatial Data Infrastructure to support WFD information access for Adour-Garonne and Ebro River Basins"
@@ -369,7 +379,7 @@
   main_researcher: F.J. Zarazaga-Soria
 - title: "Herramienta de visualización de información cartográfica y planos de la autovía entre Nerja y Almuñécar"
   organizations:
-  - organization: Geocisa			
+  - organization: Geocisa
   years: 2004-2004
   main_researcher: M.Á. Latre
 - title: "Implementación de funcionalidades de consulta, control de calidad y presentación de datos en la aplicación informática QuimIPA"
@@ -394,39 +404,39 @@
   main_researcher: M.Á. Latre
 - title: "Evaluación del Proyecto Sistema de Modelización de la Gestión Integral de un Cuenca Hidrográfica, HIDROSIS"
   organizations:
-  - organization: AENOR			
+  - organization: AENOR
   years: 2004-2004
   main_researcher: P.R. Muro-Medrano
 - title: "Almacenamiento, verificación y aseguramiento de la correspondencia geométrica de imágenes aéreas de Aragón, Fase II"
   organizations:
-  - organization: Aragón. Departamento de Agricultura			
+  - organization: Aragón. Departamento de Agricultura
   years: 2004-2004
   main_researcher: R. Béjar, P.R. Muro-Medrano
 - title: "Componentes software interoperables para servidor de rutas y mapas en entorno Web y PDA"
   organizations:
-  - organization: Net2U			
+  - organization: Net2U
   years: 2004-2004
   main_researcher: P.R. Muro-Medrano
 - title: "Integración de información geográfica en la gestión de ayudas de la política agraria comunitaria"
   organizations:
-  - organization: Sociedad de Infraestructuras Rurales Aragonesas			
+  - organization: Sociedad de Infraestructuras Rurales Aragonesas
   years: 2004-2004
   main_researcher: R. Béjar
 - title: "Aspectos arquitecturales, interoperabilidad, modelado y otras temáticas de I+D de tecnologías de la información involucrados en la creación de software para la gestión integral de hospitales y centros geriátricos"
   organizations:
-  - organization: Savac Consultores			
+  - organization: Savac Consultores
   years: 2004-2006
   main_researcher: R. Béjar
 - title: "Aplicación de cálculo espacial para molinos de viento"
   organizations:
-  - organization: Iberdrola			
+  - organization: Iberdrola
   years: 2004-2004
   main_researcher: R. Béjar
 - title: "Asistencia Técnica para la elaboración de un análisis sobre la implantación de un modelo de turismo basado en las nuevas tecnologías"
   organizations:
-  - organization: Aragón. Dirección General de Tecnologías para la Sociedad de la Información			
+  - organization: Aragón. Dirección General de Tecnologías para la Sociedad de la Información
   years: 2004-2004
-  main_researcher: 
+  main_researcher:
 - title: "Asistencia Tecnológica para el Desarrollo de Soporte a Utilidades de Información Geográfica en un Sistema de Business to Business (B2B) y Business to Client (B2C) Orientado al Turismo en Internet"
   organizations:
   - organization: Centro para el Desarrollo Técnico e Industrial (España), DBS Servicios Informáticos
@@ -454,12 +464,12 @@
   main_researcher: M.Á. Latre, P.R. Muro-Medrano
 - title: "Desarrollo de la Red de Información Medio-Ambiental y Geográfica de Galicia"
   organizations:
-  - organization: Galicia. Junta			
+  - organization: Galicia. Junta
   years: 2003-2004
   main_researcher: R. Béjar, P.R. Muro-Medrano
 - title: "IDE-E Advances for an INSPIRE based Nacional Spatial Data Infrastructure in Spain; the feasibility of GeoMedia software components"
   organizations:
-  - organization: Intergraph Mapping and Geospatial Solutions			
+  - organization: Intergraph Mapping and Geospatial Solutions
   years: 2003-2003
   main_researcher: P.R. Muro-Medrano
 - title: "Creación del portal de la Infraestructura de Datos Espaciales Española y del nodo del Instituto Geográfico Nacional de distribución e intermediación de datos y servicios geográficos"
@@ -469,12 +479,12 @@
   main_researcher: P.R. Muro-Medrano
 - title: "Cursos sobre 'Leguaje XML'"
   organizations:
-  - organization: España. Ministerio de Fomento			
+  - organization: España. Ministerio de Fomento
   years: 2003-2003
   main_researcher: P.R. Muro-Medrano
 - title: "Cursos sobre 'Leguaje GML'"
   organizations:
-  - organization: España. Ministerio de Fomento			
+  - organization: España. Ministerio de Fomento
   years: 2003-2003
   main_researcher: P.R. Muro-Medrano
 - title: "Diseño de la evolución hacia una Infraestructura de Datos Espaciales en el Ayuntamiento de Zaragoza, IDEZar"
@@ -490,7 +500,7 @@
   main_researcher: P.R. Muro-Medrano
 - title: "Desarrollo de un cliente WMS para la gestión y combinación de datos geográficos provenientes de distintos servidores predefinidos"
   organizations:
-  - organization: Instituto Cartográfico de Cataluña			
+  - organization: Instituto Cartográfico de Cataluña
   years: 2002-2002
   main_researcher: P.R. Muro-Medrano
 - title: "CEN/ISSS Metadata/Dublin Core Workshop (MMI-DC) Project Team: improving discovery of geographic information in cross-domain searching"
@@ -514,17 +524,17 @@
   main_researcher: M.Á. Latre
 - title: "Georreferenciación de planos y adaptación de visualizador"
   organizations:
-  - organization: Aragón. Departamento de Agricultura			
+  - organization: Aragón. Departamento de Agricultura
   years: 2002-2002
   main_researcher: P.R. Muro-Medrano
 - title: "Desarrollo de la Red de Información Medio-Ambiental y Geográfica de Galicia"
   organizations:
-  - organization: Galicia. Junta			
+  - organization: Galicia. Junta
   years: 2002-2002
   main_researcher: R. Béjar, P.R. Muro-Medrano
 - title: "Almacenamiento, verificación y aseguramiento de la correspondencia geométrica de imágenes aéreas de Aragón, Fase I"
   organizations:
-  - organization: Aragón. Departamento de Agricultura			
+  - organization: Aragón. Departamento de Agricultura
   years: 2002-2003
   main_researcher: P.R. Muro-Medrano
 - title: "Arquitectura, diseño e implementación básica de una GUI para la IPA3SQL"
@@ -536,13 +546,13 @@
   main_researcher: P.R. Muro-Medrano
 - title: "Código fuente del Sistema de Información para la Gestión de Redes de Radiotelefonía Trunking"
   organizations:
-  - organization: Teltronic			
+  - organization: Teltronic
   reference: 2002-P.H.-31-I
   years: 2001-2001
   main_researcher: F.J. Zarazaga-Soria
 - title: "Asistencia Tecnológica para el Desarrollo de un Sistema Business To Business (B2B) Orientado al Turismo en Internet, basado en Tecnología Java y Oracle"
   organizations:
-  - organization: DBS Servicios Informáticos			
+  - organization: DBS Servicios Informáticos
   years: 2001-2002
   main_researcher: P.R. Muro-Medrano
 - title: "Análisis funcional y diseño de los procesos de migración de datos geoespaciales y tabulares de puntos de agua a bases de datos ORACLE"
@@ -554,14 +564,14 @@
   main_researcher: P.R. Muro-Medrano
 - title: "Asistencia Tecnológica para el Desarrollo de un Sistema Business To Business (B2B) Orientado al Turismo en Internet, basado en Tecnología Java y Oracle, parte II"
   organizations:
-  - organization: DBS Servicios Informáticos			
+  - organization: DBS Servicios Informáticos
   years: 2001-2002
   main_researcher: P.R. Muro-Medrano
 - title: "Asistencia tecnológica para el desarrollo de un prototipo de demostración de servicios basados en la localización sobre el módulo de Field Service del CRM Vantive, fase I"
   organizations:
-  - organization: InSynergy Consulting Group (España)			
+  - organization: InSynergy Consulting Group (España)
   years: 2001-2001
-  main_researcher: 
+  main_researcher:
 - title: "Diseño de una versión del sistema de gestión de datos medioambientales"
   organizations:
   - organization: Confederación Hidrográfica del Ebro
@@ -578,37 +588,37 @@
   main_researcher: P.R. Muro-Medrano
 - title: "Asistencia Tecnológica para el Desarrollo de un Sistema de Transacciones en el Ámbito Turístico basado en Tecnología Java y Orientado a Internet"
   organizations:
-  - organization: DBS Servicios Informáticos			
+  - organization: DBS Servicios Informáticos
   years: 2000-2001
   main_researcher: P.R. Muro-Medrano
 - title: "Sistema de visualización de información geográfica de ayuda al reconocimiento de características de parcelas de olivar"
   organizations:
-  - organization: Aragón. Departamento de Agricultura			
+  - organization: Aragón. Departamento de Agricultura
   years: 2000-2001
   main_researcher: P.R. Muro-Medrano
 - title: "Cálculos de georeferenciación y georectificación de imágenes raster de pañoletas"
   organizations:
-  - organization: Aragón. Departamento de Agricultura			
+  - organization: Aragón. Departamento de Agricultura
   years: 2000-2001
   main_researcher: P.R. Muro-Medrano
 - title: "Actualización Base Documental del Sistema de Información Geológico Minero de Aragón"
   organizations:
-  - organization: Aragón. Dirección General de Energía y Minas			
+  - organization: Aragón. Dirección General de Energía y Minas
   years: 2000-2000
   main_researcher: P.R. Muro-Medrano
 - title: "Actualización Base Documental del Sistema de Información Geológico Minero de Aragón"
   organizations:
-  - organization: Aragón. Dirección General de Energía y Minas			
+  - organization: Aragón. Dirección General de Energía y Minas
   years: 2000-2000
   main_researcher: P.R. Muro-Medrano
 - title: "Elaboración del catálogo de fuente de datos de Aragón (Red EIONET de la Agencia Europea del Medio Ambiente)"
   organizations:
-  - organization: Aragón. Departamento de Medio Ambiente			
+  - organization: Aragón. Departamento de Medio Ambiente
   years: 2000-2001
-  main_researcher: 
+  main_researcher:
 - title: "Sistema de información Geológico Minero de Aragón (SIGEMA), 2ª fase: provincias de Zaragoza y Huesca"
   organizations:
-  - organization: Investigaciones Geológicas y Mineras			
+  - organization: Investigaciones Geológicas y Mineras
   years: 1999-2000
   main_researcher: P.R. Muro-Medrano
 - title: "Determinación de las necesidades de la CHE cara a la actuación del GIS Ebro"
@@ -625,17 +635,17 @@
   main_researcher: P.R. Muro-Medrano
 - title: "Sistema Tiempo Real para el control de redes trunking/TETRA con soporte para la interoperabilidad entre nodos"
   organizations:
-  - organization: Teltronic			
+  - organization: Teltronic
   years: 1998-1999
   main_researcher: P.R. Muro-Medrano
 - title: "Asesoramiento y formación en Ingeniería del software"
   organizations:
-  - organization: Teltronic			
+  - organization: Teltronic
   years: 1996-1996
   main_researcher: P.R. Muro-Medrano
 - title: "Sistema de Información para la Gestión de un Sistema Trunking utilizando tecnología de Software Orientado a Objeto"
   organizations:
-  - organization: Teltronic			
+  - organization: Teltronic
   years: 1995-1998
   main_researcher: F.J. Zarazaga-Soria, P.R. Muro-Medrano
 - title: "Sistema Computerizado para el Análisis de la Actividad Física mediante Plataforma de contacto"
