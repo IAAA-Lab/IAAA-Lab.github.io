@@ -1,5 +1,5 @@
-# Importante: dentro de este fichero los artículos tienen que estar ordenados por año 
-# (los más recientes primero) y dentro de cada año primero van los libros, luego los 
+# Importante: dentro de este fichero los artículos tienen que estar ordenados por año
+# (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
 - title: "Improving the geospatial consistency of digital libraries metadata"
@@ -8,7 +8,7 @@
   publication: "Journal of Information Science"
   publication_detail: "vol. 42 nº 4 p. 507-523"
   year: 2016
-  doi: 10.1177/0165551515597364 
+  doi: 10.1177/0165551515597364
   url_oficial: http://jis.sagepub.com/content/42/4/507
 # -------------------
 - title: "Deconstructing the Tower of Babel: a design method to improve empathy and teamwork competences of informatics students"
@@ -22,7 +22,7 @@
   publication: "Data & Knowledge Engineering"
   publication_detail: "vol. 104 p. 1-14. ISSN 0169-023X"
   year: 2016
-  doi: 10.1016/j.datak.2016.05.002 
+  doi: 10.1016/j.datak.2016.05.002
   url_oficial: http://dx.doi.org/10.1016/j.datak.2016.05.002
 # -------------------
 - title: "La gestión y la tecnología de los Identificadores Persistentes"
@@ -45,7 +45,7 @@
   publication: "International Journal of Geographical Information Science"
   publication_detail: "vol. 30 nº 6 p. 1137-1160"
   year: 2016
-  doi: 10.1080/13658816.2015.1108422 
+  doi: 10.1080/13658816.2015.1108422
   url_oficial: http://www.tandfonline.com/doi/10.1080/13658816.2015.1108422
   comments: This is the author's version of the work. It is posted here by permission of Taylor and Francis for personal use, not for redistribution. The definitive version was published in International Journal of Geographical Information Science, 2016.
 # -------------------
@@ -84,6 +84,12 @@
   url: http://inspire.ec.europa.eu/events/conferences/inspire_2016/schedule/submissions/258.html
   authors: F.J. LOPEZ-PELLICER, J. BARRERA, J. GONZÁLEZ, F.J. ZARAZAGA-SORIA, E. LÓPEZ, P. ABAD, A. RODRÍGUEZ
   publication_conference: "INSPIRE Conference, Barcelona, 26-30 September 2016"
+  year: 2016
+# -------------------
+- title: "El desafío de lo sidentificadores persistentes y accionables"
+  url: http://www.jiide.org/Jiide-theme/resources/docs/pdf/articulos/09_art_IAAA_IdentificadoresPersistentesAccionables.pdf
+  authors: F.J. LOPEZ-PELLICER, J. BARRERA, J. GONZÁLEZ, F.J. ZARAZAGA-SORIA, E. LÓPEZ, P. ABAD, A. RODRÍGUEZ
+  publication_conference: "VII Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2016), Barcelona, 27-30 de septiembre de 2016"
   year: 2016
 # -------------------
 - title: "Hubs virtuales para facilitar el acceso y la reutilización de información geográfica abierta"
@@ -187,9 +193,9 @@
   publication: "International Journal of Digital Earth"
   publication_detail: "vol. 7 nº 8 p. 635-649"
   year: 2014
-  doi: 10.1080/17538947.2012.753474 
+  doi: 10.1080/17538947.2012.753474
   url_oficial: http://www.tandfonline.com/doi/full/10.1080/17538947.2012.753474
-  comments: 
+  comments:
 # -------------------
 - title: "Role of Decision Support System for Renewable Energy Outreach"
   url: http://pubs.acs.org/doi/abs/10.1021/es404942h
@@ -197,9 +203,9 @@
   publication: "Environmental Science & Technology"
   publication_detail: "vol. 48 nº 1 p. 15-16"
   year: 2014
-  doi: 10.1021/es404942h 
+  doi: 10.1021/es404942h
   url_oficial: http://dx.doi.org/10.1021/es404942h
-  comments: 
+  comments:
 # -------------------
 - title: "Population of a spatio-temporal knowledge base for jurisdictional domains"
   url: /curriculum/08-Publicaciones-Articulos/art_2014_IJGIS_Population.pdf
@@ -207,9 +213,9 @@
   publication: "International Journal of Geographical Information Science"
   publication_detail: "vol. 28 nº 9 p. 1964-1987"
   year: 2014
-  doi: 10.1080/13658816.2014.911412 
+  doi: 10.1080/13658816.2014.911412
   url_oficial: http://www.tandfonline.com/doi/abs/10.1080/13658816.2014.911412
-  comments: 
+  comments:
 # -------------------
 - title: "A protocol for machine-readable cache policies in OGC web services: Application to the EuroGeoSource information system"
   url: /curriculum/08-Publicaciones-Articulos/art_2014_EMS_Protocol_vdef_author.pdf
@@ -217,7 +223,7 @@
   publication: "Environmental Modelling & Software"
   publication_detail: "vol. 60 p. 346-356"
   year: 2014
-  doi: 10.1016/j.envsoft.2014.06.026 
+  doi: 10.1016/j.envsoft.2014.06.026
   url_oficial: http://doi.org/10.1016/j.envsoft.2014.06.026
   comments: This is the author's version of the work. It is posted here by permission of Elsevier for personal use, not for redistribution. The definitive version was published in Environmental Modelling & Software, 2014.
 # -------------------
@@ -234,9 +240,9 @@
   publication: "Earth Science Informatics"
   publication_detail: "vol. 8 nº 2 p. 427-437"
   year: 2014
-  doi: 10.1007/s12145-014-0172-4 
+  doi: 10.1007/s12145-014-0172-4
   url_oficial: http://link.springer.com/article/10.1007/s12145-014-0172-4
-  comments: 
+  comments:
 # -------------------
 - title: "Gestión del Patrimonio Cultural Arquitectónico 3D mediante estándares abiertos. El torreón de La Muela de Ágreda (Soria)"
   url: http://www.revistadepatrimonio.es/revistas/numero14/gestion/estudios/articulo.php
@@ -354,7 +360,7 @@
   publication: "Environmental Modelling & Software"
   publication_detail: "vol. 48 p. 81-92"
   year: 2013
-  doi: 10.1016/j.envsoft.2013.06.005 
+  doi: 10.1016/j.envsoft.2013.06.005
   url_oficial: http://dx.doi.org/10.1016/j.envsoft.2013.06.005
   comments: This is the author's version of the work. It is posted here by permission of Elsevier for personal use, not for redistribution. The definitive version was published in Environmental Modelling & Software, 2013.
 # -------------------
@@ -364,7 +370,7 @@
   publication: "Data & Knowledge Engineering"
   publication_detail: "vol. 88 p. 94-107. ISSN 0169-023X"
   year: 2013
-  doi: 10.1016/j.datak.2013.10.001 
+  doi: 10.1016/j.datak.2013.10.001
   url_oficial: http://dx.doi.org/10.1016/j.datak.2013.10.001
 # -------------------
 - title: "Automatic Extraction of Figures from Scientific Publications in High-Energy Physics"
@@ -391,9 +397,9 @@
   authors: W. RENTERIA-AGUALIMPIA, F.J. LOPEZ-PELLICER, J. LACASTA, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
   publication_conference: "Proceedings of the 3rd International Conference on Web Intelligence, Mining and Semantics, WIMS 2013, Madrid, Spain, June 12-14"
   year: 2013
-  doi: 10.1145/2479787.2479812 
+  doi: 10.1145/2479787.2479812
   url_oficial: http://dx.doi.org/10.1145/2479787.2479812
-  comments: 
+  comments:
 # -------------------
 - title: "Verificación inteligible de la conformidad de los Servicios de Red en INSPIRE"
   url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2013_JIIDE_Verificacion.pdf
@@ -428,7 +434,7 @@
 # -------------------
 - title: "Providing semantic links to the Invisible Geospatial Web"
   url: /curriculum/07-Publicaciones-Libros/2012_libro_PrensasUZ_Providing.pdf
-  authors: F.J. LOPEZ-PELLICER, R. BÉJAR, F. JAVIER ZARAZAGA-SORIA  					
+  authors: F.J. LOPEZ-PELLICER, R. BÉJAR, F. JAVIER ZARAZAGA-SORIA
   publication: "Zaragoza: Universidad de Zaragoza. Notes in Geoinforrnatics Research/Cuadernos de Investigación en Geoinformática"
   year: 2012
 # -------------------
@@ -456,7 +462,7 @@
   publication: "Computers and Geosciences"
   publication_detail: "vol. 47 p. 13-19"
   year: 2012
-  doi: 10.1016/j.cageo.2011.10.023 
+  doi: 10.1016/j.cageo.2011.10.023
   url_oficial: http://dx.doi.org/10.1016/j.cageo.2011.10.023
 # -------------------
 - title: "Identifying Orthoimages in Web Map Services"
@@ -464,9 +470,9 @@
   publication: "Computers and Geosciences"
   publication_detail: "vol. 47 p. 130-142"
   year: 2012
-  doi: 10.1016/j.cageo.2011.10.017 
+  doi: 10.1016/j.cageo.2011.10.017
   url_oficial: http://dx.doi.org/10.1016/j.cageo.2011.10.017
-  comments: 
+  comments:
 # -------------------
 - title: "An RM-ODP Enterprise View for Spatial Data Infrastructures"
   url: /curriculum/08-Publicaciones-Articulos/art_2011_CSI_RMODP.pdf
@@ -474,7 +480,7 @@
   publication: "Computer Standards & Interfaces"
   publication_detail: "vol. 34 p. 263-272"
   year: 2012
-  doi: 10.1016/j.csi.2011.10.001 
+  doi: 10.1016/j.csi.2011.10.001
   url_oficial: http://dx.doi.org/10.1016/j.csi.2011.10.001
 # -------------------
 - title: "An Ontology for the representation of Spatio-Temporal Jurisdictional Domains in Information Retrieval Systems"
@@ -482,9 +488,9 @@
   publication: "International Journal of Geographical Information Science"
   publication_detail: "vol. 26 nº 4 p. 579-597"
   year: 2012
-  doi: 10.1080/13658816.2011.599811 
+  doi: 10.1080/13658816.2011.599811
   url_oficial: http://www.tandfonline.com/doi/abs/10.1080/13658816.2011.599811
-  comments: 
+  comments:
 # -------------------
 - title: "La aportación española en el Proyecto EuroGEOSS: Hacia un Sistema de Observación Ambiental de la Tierra"
   url: http://www.rcg.cat/articles.php?id=221
@@ -499,7 +505,7 @@
   publication: "Computers and Geosciences"
   publication_detail: "vol. 46 p. 66-72"
   year: 2012
-  doi: 10.1016/j.cageo.2012.04.010 
+  doi: 10.1016/j.cageo.2012.04.010
   url_oficial: http://dx.doi.org/10.1016/j.cageo.2012.04.010
   comments: This is the author's version of the work. It is posted here by permission of Elsevier for personal use, not for redistribution. The definitive version was published in Computers and Geosciences, September 2012.
 # -------------------
@@ -509,7 +515,7 @@
   publication: "Data & Knowledge Engineering"
   publication_detail: "vol. 81-82 p. 118-139. ISSN 0169-023X"
   year: 2012
-  doi: 10.1016/j.datak.2012.09.001 
+  doi: 10.1016/j.datak.2012.09.001
   url_oficial: http://dx.doi.org/10.1016/j.datak.2012.09.001
   comments: This is the author's version of the work. It is posted here by permission of Elsevier for research use, not for redistribution. The definitive version was published in Data & Knowledge Engineering, 2012.
 # -------------------
@@ -519,9 +525,9 @@
   publication: "International Journal of Spatial Data Infrastructures Research"
   publication_detail: "vol. 7 p. 151-172"
   year: 2012
-  doi: 10.2902/1725-0463.2012.07.art8 
+  doi: 10.2902/1725-0463.2012.07.art8
   url_oficial: http://dx.doi.org/10.2902/1725-0463.2012.07.art8
-  comments: 
+  comments:
 # -------------------
 - title: "Gateway MARC21-ISO19115: definition and reference implementation"
   url: http://www.e-perimetron.org/Vol_7_3/Capdevila_et_al.pdf
@@ -536,9 +542,9 @@
   publication: "International Journal of Spatial Data Infrastructures Research"
   publication_detail: "vol. 7 p. 225-248"
   year: 2012
-  doi: 10.2902/1725-0463.2012.07.art12 
+  doi: 10.2902/1725-0463.2012.07.art12
   url_oficial: http://dx.doi.org/10.2902/1725-0463.2012.07.art12
-  comments: 
+  comments:
 # -------------------
 - title: "Etapas de la popularización de las Infraestructuras de Información Geoespacial"
   authors: P.R. MURO-MEDRANO
@@ -632,9 +638,9 @@
   publication: "International Journal of Spatial Data Infrastructures Research"
   publication_detail: "vol. 6 p. 168-186"
   year: 2011
-  doi: 10.2902/1725-0463.2011.06.art8 
+  doi: 10.2902/1725-0463.2011.06.art8
   url_oficial: http://dx.doi.org/10.2902/1725-0463.2011.06.art8
-  comments: 
+  comments:
 # -------------------
 - title: "Discovering geographic web services in search engines"
   url: http://www.emeraldinsight.com/doi/full/10.1108/14684521111193193
@@ -700,7 +706,7 @@
 # -------------------
 - title: "Implantation of OGC geoprocesing services for Geoscience"
   url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2011_JIIDE_Implantation.pdf
-  authors: F.J. LOPEZ-PELLICER, W. RENTERIA-AGUALIMPIA, R. BÉJAR, J. VALIÑO, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO. 
+  authors: F.J. LOPEZ-PELLICER, W. RENTERIA-AGUALIMPIA, R. BÉJAR, J. VALIÑO, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO.
   publication_conference: "Actas de las II Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2011), Barcelona, 9-11 de noviembre de 2011"
   year: 2011
 # -------------------
@@ -730,7 +736,7 @@
 # -------------------
 - title: "CSW2LD: a Linked Data frontend for CSW"
   url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2011_JIIDE_CSW2LD.pdf
-  authors: F.J. LOPEZ-PELLICER, A.J. FLORCZYK, W. RENTERIA-AGUALIMPIA, J. NOGUERAS-ISO, J. VALIÑO, P.R. MURO-MEDRANO. 
+  authors: F.J. LOPEZ-PELLICER, A.J. FLORCZYK, W. RENTERIA-AGUALIMPIA, J. NOGUERAS-ISO, J. VALIÑO, P.R. MURO-MEDRANO.
   publication_conference: "Actas de las II Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2011), Barcelona, 9-11 de noviembre de 2011"
   year: 2011
 # -------------------
@@ -853,7 +859,7 @@
 # -------------------
 - title: "IDEZar 2.0: interacción, usabilidad y accesibilidad"
   url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2010_TECNIMAP_Sistema.pdf
-  authors: C. SANABRIA, J. BARRERA, M. USÓN, A. LUJÁN, A. F. RODRÍGUEZ, A. CASTAÑO, F.J. ZARAZAGA, A. SÁNCHEZ, C. SOTERES					
+  authors: C. SANABRIA, J. BARRERA, M. USÓN, A. LUJÁN, A. F. RODRÍGUEZ, A. CASTAÑO, F.J. ZARAZAGA, A. SÁNCHEZ, C. SOTERES
   publication_conference: "Web de las XI jornadas sobre tecnologías de la información para la modernización de las administraciones públicas (Tenimap 2010). Zaragoza, 6-9 abril, 2010"
   year: 2010
 # -------------------
@@ -955,9 +961,9 @@
   publication: "International Journal of Geographical Information Science"
   publication_detail: "vol. 23 nº 3 p. 271-294"
   year: 2009
-  doi: 10.1080/13658810801905282 
+  doi: 10.1080/13658810801905282
   url_oficial: http://dx.doi.org/10.1080/13658810801905282
-  comments: This is the author's version of the work. It is posted here by permission of Taylor & Francis for personal use, not for redistribution. The definitive version was published in International Journal of Geographical Information Science, January 2008.  
+  comments: This is the author's version of the work. It is posted here by permission of Taylor & Francis for personal use, not for redistribution. The definitive version was published in International Journal of Geographical Information Science, January 2008.
 # -------------------
 - title: "Enabling Geolocating via Ontologies"
   url: /curriculum/08-Publicaciones-Articulos/cap_2009_UrbanOntologies_Enabling.pdf
@@ -1056,7 +1062,7 @@
   authors: F.J. LOPEZ-PELLICER, M. CHAVES, C. RODRIGUES, M.J. SILVA
   publication_conference: "University of Lisbon, Faculty of Sciences, LASIGE"
   year: 2009
-  doi: 10455/3256 
+  doi: 10455/3256
   url_oficial: http://dx.doi.org/10455/3256
 # -------------------
 - title: "An approach to comparing different ontologies in the context of hydrographical information"
@@ -1559,7 +1565,7 @@
 # -------------------
 - title: "Exploiting disambiguated thesauri for information retrieval in metadata catalogs"
   url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2004_LNAI_Exploiting.pdf
-  authors: J. NOGUERAS-ISO, J. LACASTA, J.A. BAÑARES-BAÑARES, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA. 
+  authors: J. NOGUERAS-ISO, J. LACASTA, J.A. BAÑARES-BAÑARES, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA.
   publication_conference: "Current Topics in Artificial Intelligence: 10th Conference of the Spanish Association for Artificial Intelligence, CAEPIA 2003, and 5th Conference on Technology Transfer, TTIA 2003. San Sebastián, Spain, November 2003. Revised Selected Papers. Lecture Notes on Artificial Intelligence (LNAI)"
   publication_detail: "vol. 3040 p. 322-333. ISSN 0302-9743"
   year: 2004
@@ -1592,7 +1598,7 @@
 # -------------------
 - title: "A Software Tool for Thesauri Management, Browsing and Supporting Advanced Searches"
   url: /curriculum/08-Publicaciones-Articulos/cap_2003_IFGI_software.pdf
-  authors: J. NOGUERAS-ISO, J.A. BAÑARES-BAÑARES, J. LACASTA, J. ZARAZAGA-SORIA. 
+  authors: J. NOGUERAS-ISO, J.A. BAÑARES-BAÑARES, J. LACASTA, J. ZARAZAGA-SORIA.
   publication: "Geodaten- und Geodienste-Infrastrukturen - von der Forschung zur praktischen Anwendung. Beiträge zu den Münsteraner GI-Tagen. IfGI prints"
   publication_detail: "vol. 18, p. 105-118"
   year: 2003
@@ -1799,7 +1805,7 @@
 # -------------------
 - title: "El sistema de información GIS-Ebro: Metadatos y catálogo de datos geográficos"
   url: /curriculum/08-Publicaciones-Articulos/art_2001_BOLETIC_sistema.pdf
-  authors: V.M. ARQUED-ESQUÍA, J.A. LOSADA-GARCÍA, F.J. ZARAZAGA-SORIA					
+  authors: V.M. ARQUED-ESQUÍA, J.A. LOSADA-GARCÍA, F.J. ZARAZAGA-SORIA
   publication: "BOLE.TIC"
   publication_detail: "nº 19, p. 83-97"
   year: 2001
@@ -2008,7 +2014,7 @@
 # -------------------
 - title: "LBS for Fleet Tracking and Management Services through the Internet"
   url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2001_ECGIS_LBS.pdf
-  authors: P. ÁLVAREZ, J.A. BAÑARES-BAÑARES, R. BÉJAR, M.Á. LATRE, P. FERNÁNDEZ. 
+  authors: P. ÁLVAREZ, J.A. BAÑARES-BAÑARES, R. BÉJAR, M.Á. LATRE, P. FERNÁNDEZ.
   publication_conference: "Proceedings of the 7th EC-GI&GIS Workshop: EGII: Managing the Mosaic"
   year: 2001
 # -------------------
@@ -2031,7 +2037,7 @@
   year: 2001
 # -------------------
 - title: "Implementación de un Esquema de Representación del Conocimiento para Sistemas de Eventos Discretos"
-  authors: J.A. BAÑARES-BAÑARES, P.R. MURO-MEDRANO, J.L. VILLARROEL-SALCEDO 
+  authors: J.A. BAÑARES-BAÑARES, P.R. MURO-MEDRANO, J.L. VILLARROEL-SALCEDO
   publication_conference: "Actas de la IV Reunión Técnica de la Asociación Española para la Inteligencia Artificial: AEPIA 91"
   publication_detail: "p. 99-113"
   year: 2001
@@ -2258,7 +2264,7 @@
 # -------------------
 - title: "Una aproximación de la asignatura de Proyectos de Software orientada al proyecto. Experiencia y resultados"
   url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1998_Jinformatica_Aproximacion.pdf
-  authors: P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA, J. VALIÑO, J.A. BAÑARES-BAÑARES. 
+  authors: P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA, J. VALIÑO, J.A. BAÑARES-BAÑARES.
   publication_conference: "Actas de las IV Jornadas de Informática"
   publication_detail: "p. 147-153"
   year: 1998
@@ -2346,7 +2352,7 @@
 # -------------------
 - title: "Mecanismo de inferencia tipo OPS5 para un esquema de representación basado en redes de Petri"
   url: /curriculum/08-Publicaciones-Articulos/art_1994_Novatica_mecanismo.pdf
-  authors: J.A. BAÑARES, P.R. MURO-MEDRANO, J.L. VILLARROEL. 
+  authors: J.A. BAÑARES, P.R. MURO-MEDRANO, J.L. VILLARROEL.
   publication: "Novática"
   publication_detail: "nº marz/abr. 1994, 108 p. 5-9"
   year: 1994
