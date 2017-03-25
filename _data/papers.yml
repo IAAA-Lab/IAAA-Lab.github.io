@@ -32,6 +32,11 @@
   publication_detail: "vol. 25 nº 175 p. 64-73. ISSN 1-131-9-100"
   year: 2016
 # -------------------
+- title: "The challenge of resolvable Persistent Identifiers"
+  authors: F.J. LOPEZ-PELLICER, J. BARRERA, J. GONZÁLEZ, F.J. ZARAZAGA-SORIA, E. LÓPEZ, P. ABAD
+  publication_conference: "INSPIRE Conference, Barcelona, 26-30 September 2016"
+  year: 2016
+# -------------------
 - title: "Hubs virtuales para facilitar el acceso a Datos Abiertos"
   url: http://www.mappinginteractivo.es/images/revistas/REVISTA%20MAPPING%20176/files/assets/basic-html/page28.html
   authors: M.Á. LATRE, F.J. LOPEZ-PELLICER, N. KAMALI, M. BAUER, M. PREVITALI, R. BRUMANA, S. BRAUMANN, H. KUECHLY, P. MAZZETTI, S. NATIVI
@@ -86,7 +91,7 @@
   publication_conference: "INSPIRE Conference, Barcelona, 26-30 September 2016"
   year: 2016
 # -------------------
-- title: "El desafío de lo sidentificadores persistentes y accionables"
+- title: "El desafío de los identificadores persistentes y accionables"
   url: http://www.jiide.org/Jiide-theme/resources/docs/pdf/articulos/09_art_IAAA_IdentificadoresPersistentesAccionables.pdf
   authors: F.J. LOPEZ-PELLICER, J. BARRERA, J. GONZÁLEZ, F.J. ZARAZAGA-SORIA, E. LÓPEZ, P. ABAD, A. RODRÍGUEZ
   publication_conference: "VII Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2016), Barcelona, 27-30 de septiembre de 2016"
@@ -148,12 +153,12 @@
 # -------------------
 - title: "Expanding the Utility of Geospatial Knowledge Bases by Linking Concepts to WikiText and Polygonal Boundaries"
   authors: B. MARTINS, F.J. LOPEZ-PELLICER, D. AHLERS
-  publication_conference: "To appear in: Proceedings of the 9th Workshop on Geographic Information Retrieval (GIR?2015), Paris, 25-27 November 2015"
+  publication_conference: "To appear in: Proceedings of the 9th Workshop on Geographic Information Retrieval (GIR 2015), Paris, 25-27 November 2015"
   year: 2015
 # -------------------
 - title: "A Multi-Layer Markup Language for Geospatial Semantic Annotations"
   authors: L. MONCLA, M. GAIO
-  publication_conference: "To appear in: Proceedings of the 9th Workshop on Geographic Information Retrieval (GIR?2015), Paris, 25-27 November 2015"
+  publication_conference: "To appear in: Proceedings of the 9th Workshop on Geographic Information Retrieval (GIR 2015), Paris, 25-27 November 2015"
   year: 2015
 # -------------------
 - title: "ENERGIC-OD Virtual Hubs: a brokered architecture for facilitating Open Data sharing and use"
@@ -239,7 +244,7 @@
   authors: W. RENTERIA-AGUALIMPIA, F.J. LOPEZ-PELLICER, J. LACASTA, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
   publication: "Earth Science Informatics"
   publication_detail: "vol. 8 nº 2 p. 427-437"
-  year: 2014
+  year: 2015
   doi: 10.1007/s12145-014-0172-4
   url_oficial: http://link.springer.com/article/10.1007/s12145-014-0172-4
   comments:
