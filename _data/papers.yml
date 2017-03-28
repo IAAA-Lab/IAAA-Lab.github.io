@@ -77,7 +77,7 @@
 - title: "A software processing chain for evaluating thesaurus quality"
   url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2016_Keystone_Software.pdf
   authors: J. LACASTA, G. FALQUET, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
-  publication_conference: "International KEYSTONE Conference 2016, Cluj-Napoca, Romania, 8-9 September 2016. Lecture Notes in Computer Science, vol 10151 (Semantic Keyword-Based Search on Structured Data Sources. KEYSTONE 2016), pp. 91-99"
+  publication_conference: "International KEYSTONE Conference 2016, Cluj-Napoca, Romania, 8-9 September 2016. Lecture Notes in Computer Science, vol 10151 (Semantic Keyword-Based Search on Structured Data Sources. KEYSTONE 2016), p. 91-99"
   year: 2016
 # -------------------
 - title: "The challenge of resolvable Persistent Identifiers"
@@ -96,6 +96,12 @@
   url: http://www.jiide.org/Jiide-theme/resources/docs/pdf/13_UniZaragoza_HubsVirtuales.pdf
   authors: M.Á. LATRE, F.J. LOPEZ-PELLICER, N. KAMALI, M. PREVITALI, R. BRUMANA, H. KUECHLY, P. MAZZETTI, S. NATIVI
   publication_conference: "VII Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2016), Barcelona, 27-30 de septiembre de 2016"
+  year: 2016
+# -------------------
+- title: "Cost-sensitive learning for Rule Classification: Evaluation of its applicability for Integrated Pest Management"
+  url: https://papiro.unizar.es/ojs/index.php/jji3a/article/view/1617
+  authors: B. ESPEJO-GARCÍA, F.J. LOPEZ-PELLICER, F.J. ZARAZAGA-SORIA
+  publication_conference: "V Jornadas de Jóvenes Investigadores del Instituto de Investigación en Ingeniería de Aragón (I3A)"
   year: 2016
 # -------------------
 - title: "Quality assessment for semantically close geographical properties. PhD Dissertation"
