@@ -1,5 +1,6 @@
 ---
-title: «Zaragoza Histórica»: Discover Zaragoza history through its cartography
+title: Zaragoza Histórica
+subtitle: Discover Zaragoza history through its cartography
 layout: post
 ---
 [**«Zaragoza Histórica»**](http://idezar.zaragoza.es/visorHistorico/) is a new tool that allows citizens the **discovery of the historical evolution of the city through its cartography.**
