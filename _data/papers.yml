@@ -959,12 +959,14 @@
 - title: "DL and GIS: Path to a new collaboration paradigm. Capter XL"
   authors: O. CANTÁN, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
   publication: "Handbook of Research on Digital Libraries: Design, Development, and Impact"
-  publication_detail: "Singapore. IGI Global 2009 p. 390-399. ISBN 978-1-59904-879-6"
+  publication_detail: "Singapore. IGI Global, p. 390-399. ISBN 978-1-59904-879-6"
+  year: 2009
 # -------------------
 - title: "Digital Libraries as a Foundation of Spatial Data Infrastructures. Chapter XXXIX"
   authors: R. BÉJAR, J. NOGUERAS-ISO, M.Á. LATRE, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
   publication: "Handbook of Research on Digital Libraries: Design, Development, and Impact"
-  publication_detail: "Singapore. IGI Global 2009 p. 382-389. ISBN 978-1-59904-879-6"
+  publication_detail: "Singapore. IGI Global, p. 382-389. ISBN 978-1-59904-879-6"
+  year: 2009
 # -------------------
 - title: "An architectural style for Spatial Data Infrastructures"
   url: /curriculum/08-Publicaciones-Articulos/art_2008_IJGIS_Architectural.pdf
