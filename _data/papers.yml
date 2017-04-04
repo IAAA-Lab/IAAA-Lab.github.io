@@ -126,6 +126,16 @@
   publication: "Earthzine"
   year: 2015
 # -------------------
+- title: "Identifying Geospatial inconsistency of Web services metadata using spatial ranking"
+  url: http://link.springer.com/article/10.1007/s12145-014-0172-4
+  authors: W. RENTERIA-AGUALIMPIA, F.J. LOPEZ-PELLICER, J. LACASTA, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication: "Earth Science Informatics"
+  publication_detail: "vol. 8 nº 2 p. 427-437"
+  year: 2015
+  doi: 10.1007/s12145-014-0172-4
+  url_oficial: http://link.springer.com/article/10.1007/s12145-014-0172-4
+  comments:
+# -------------------
 - title: "Git y GitHub aplicados en la docencia"
   url: http://www.unizar.es/CBSantander/jornada/sexta/resumenes/13_lopez-pellicer.pdf
   authors: F.J. LOPEZ-PELLICER, R. BÉJAR, M.Á. LATRE, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
@@ -244,16 +254,6 @@
   publication: "Buenas prácticas en la docencia universitaria con el apoyo de TIC. Experiencias 2013. innova.unizar. Prensas de la Universidad de Zaragoza"
   publication_detail: "vol. 7, p. 259-269"
   year: 2014
-# -------------------
-- title: "Identifying Geospatial inconsistency of Web services metadata using spatial ranking"
-  url: http://link.springer.com/article/10.1007/s12145-014-0172-4
-  authors: W. RENTERIA-AGUALIMPIA, F.J. LOPEZ-PELLICER, J. LACASTA, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
-  publication: "Earth Science Informatics"
-  publication_detail: "vol. 8 nº 2 p. 427-437"
-  year: 2015
-  doi: 10.1007/s12145-014-0172-4
-  url_oficial: http://link.springer.com/article/10.1007/s12145-014-0172-4
-  comments:
 # -------------------
 - title: "Gestión del Patrimonio Cultural Arquitectónico 3D mediante estándares abiertos. El torreón de La Muela de Ágreda (Soria)"
   url: http://www.revistadepatrimonio.es/revistas/numero14/gestion/estudios/articulo.php
