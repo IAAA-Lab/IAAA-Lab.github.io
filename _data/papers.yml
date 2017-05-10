@@ -22,6 +22,11 @@
   doi: 10.1177/0165551515597364
   url_oficial: http://jis.sagepub.com/content/42/4/507
 # -------------------
+- title: "Deconstructing the Tower of Babel: a design method to improve empathy and teamwork competences of informatics students"
+  authors: T. BLANCO, I. LÓPEZ-FORNIÉS, F.J. ZARAZAGA-SORIA
+  publication: "To appear in: International Journal of Technology and Design Education"
+  year: 2016
+# -------------------
 - title: "An automatic method for reporting the quality of thesauri"
   url: /curriculum/08-Publicaciones-Articulos/art_2016_DKE_Automatic.pdf
   authors: J. LACASTA, G. FALQUET, F.J. ZARAZAGA-SORIA, J. NOGUERAS-ISO
@@ -127,15 +132,6 @@
   publication: "Earthzine"
   year: 2015
 # -------------------
-- title: "Deconstructing the Tower of Babel: a design method to improve empathy and teamwork competences of informatics students"
-  url: http://link.springer.com/article/10.1007/s10798-015-9348-6
-  authors: T. BLANCO, I. LÓPEZ-FORNIÉS, F.J. ZARAZAGA-SORIA
-  publication: "International Journal of Technology and Design Education"
-  publication_detail: "p. 1-22"
-  year: 2015
-  doi: 10.1007/s10798-015-9348-6
-  url_oficial: http://link.springer.com/article/10.1007/s10798-015-9348-6
-# -------------------
 - title: "Identifying Geospatial inconsistency of Web services metadata using spatial ranking"
   url: http://link.springer.com/article/10.1007/s12145-014-0172-4
   authors: W. RENTERIA-AGUALIMPIA, F.J. LOPEZ-PELLICER, J. LACASTA, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
@@ -178,15 +174,13 @@
   year: 2015
 # -------------------
 - title: "Expanding the Utility of Geospatial Knowledge Bases by Linking Concepts to WikiText and Polygonal Boundaries"
-  url: http://dl.acm.org/citation.cfm?id=2837693
   authors: B. MARTINS, F.J. LOPEZ-PELLICER, D. AHLERS
-  publication_conference: "Proceedings of the 9th Workshop on Geographic Information Retrieval (GIR 2015), Paris, 25-27 November 2015"
+  publication_conference: "To appear in: Proceedings of the 9th Workshop on Geographic Information Retrieval (GIR 2015), Paris, 25-27 November 2015"
   year: 2015
 # -------------------
 - title: "A Multi-Layer Markup Language for Geospatial Semantic Annotations"
-  url: http://dl.acm.org/citation.cfm?id=2837700
   authors: L. MONCLA, M. GAIO
-  publication_conference: "Proceedings of the 9th Workshop on Geographic Information Retrieval (GIR 2015), Paris, 25-27 November 2015"
+  publication_conference: "To appear in: Proceedings of the 9th Workshop on Geographic Information Retrieval (GIR 2015), Paris, 25-27 November 2015"
   year: 2015
 # -------------------
 - title: "ENERGIC-OD Virtual Hubs: a brokered architecture for facilitating Open Data sharing and use"
@@ -216,7 +210,6 @@
   year: 2015
 # -------------------
 - title: "Towards Geo Decision Support Systems For Renewable Energy Outreach: REDSS"
-  url: https://www.morebooks.de/store/gb/book/towards-geo-decision-support-systems-for-renewable-energy-outreach/isbn/978-3-659-64425-2
   authors: N. SIDDA, F.J. LOPEZ-PELLICER, F.J. ZARAZAGA-SORIA
   publication_book: "Germany: Lambert Academic Publishing"
   year: 2014
@@ -304,7 +297,6 @@
   year: 2014
 # -------------------
 - title: "Servicios Basados en la Localización en Entornos SIN Cobertura 3G"
-  url: http://www.idee.es/resources/presentaciones/JIIDE14/20141106/ServiciosBasadosLocalizacion_presentacion.pdf
   authors: R. PALLÁS, J. LÓPEZ-DE-LARRÍNZAR, R. BLASCO, J. CASCÁN-FERNÁNDEZ, R. PIEDRAFITA
   publication_conference: "V Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2014), Lisboa, 5-7 de noviembre de 2014"
   year: 2014
