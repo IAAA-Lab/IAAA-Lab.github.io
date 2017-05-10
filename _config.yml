@@ -15,9 +15,9 @@ twitter:
 
 # Author details for the jekyll-seo-tag gem
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: IAAA
+  email: iaaa@unizar.es
+  twitter: iaaa_lab
 
 # Social details for the jekyll-seo-tag gem
 social:    
@@ -65,14 +65,14 @@ defaults:
     values:
       image: /images/earth_night.jpg
 
-social_icons:
+#social_icons:
 # - Facebook
 # - Google Plus
 # - Instagram
-  - LinkedIn
+#  - LinkedIn
 # - Pinterest
 # - Tumblr
-  - Twitter
-  - YouTube
-  - GitHub
+#  - Twitter
+#  - YouTube
+#  - GitHub
 # - RSS
