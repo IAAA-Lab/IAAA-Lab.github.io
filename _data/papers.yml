@@ -2,12 +2,6 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
-- title: "IDEZar: La Infraestructura de Datos Abiertos Espaciales del Ayuntamiento de Zaragoza (2004 - )"
-  url: https://zaguan.unizar.es/record/60894?ln=es
-  authors: M.J. FERNÁNDEZ RUÍZ, F.J. ZARAZAGA-SORIA
-  publication_book: "Zaragoza: Universidad de Zaragoza"
-  year: 2017
-# -------------------
 - title: "The quality of thesauri used in geographic metadata"
   authors: D. DÍAZ-CORONA, J. LACASTA, J. NOGUERAS-ISO
   publication_conference: "Accepted for publication in AGILE 2017 conference, Wageningen, The Netherlands, 9-12 May 2017"
