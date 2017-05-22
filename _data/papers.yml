@@ -8,7 +8,7 @@
   publication_book: "Zaragoza: Universidad de Zaragoza"
   year: 2017
 # -------------------
-- title: "Improving the geospatial consistency of digital libraries metadata"
+- title: "Aggregation-based information retrieval system for geospatial data catalogs"
   url: http://www.tandfonline.com/doi/full/10.1080/13658816.2017.1319949
   authors: J. LACASTA, F.J. LOPEZ-PELLICER, B. ESPEJO-GARCÍA, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
   publication: "International Journal of Geographical Information Science"
@@ -28,8 +28,9 @@
   year: 2017
 # -------------------
 - title: "The quality of thesauri used in geographic metadata"
+  url: https://agile-online.org/images/conference_2017/Proceedings2017/shortpapers/82_ShortPaper_in_PDF.pdf
   authors: D. DÍAZ-CORONA, J. LACASTA, J. NOGUERAS-ISO
-  publication_conference: "Accepted for publication in AGILE 2017 conference, Wageningen, The Netherlands, 9-12 May 2017"
+  publication_conference: "AGILE 2017 conference, Wageningen, The Netherlands, 9-12 May 2017"
   year: 2017
 # -------------------
 - title: "Improving the geospatial consistency of digital libraries metadata"
