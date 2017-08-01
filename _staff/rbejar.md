@@ -14,4 +14,4 @@ Rubén Béjar writes in his [blog](http://www.rubenbejar.com) from time to time.
 
 - As [@rubejar](https://twitter.com/rubejar) in Twitter{% include social-icon.html icon='Twitter' %}
 - As [rbejar](https://github.com/rbejar) in GitHub {% include social-icon.html icon='GitHub' %}
-- In [LinkedIn](https://www.linkedin.com/in/rubenbejar/).
+- As [rubenbejar](https://www.linkedin.com/in/rubenbejar/) in LinkedIn {% include social-icon.html icon='LinkedIn' %}.
