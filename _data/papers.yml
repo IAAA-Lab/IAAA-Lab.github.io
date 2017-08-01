@@ -15,16 +15,17 @@
   publication_detail: "vol. 31 nº 8 p. 1583-1605"
   year: 2017
   doi: 10.1080/13658816.2017.1319949
-  url_oficial: http://www.tandfonline.com/doi/full/10.1080/13658816.2017.1319949
 # -------------------
 - title: "Mapas de navegación para la automatización de pruebas de aceptación en aplicaciones móviles"
+  url: http://hdl.handle.net/11705/JISBD/2017/072
   authors: G.J. VALENCIA-VÁSCONEZ, M.Á. LATRE, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO
-  publication_conference: "Accepted for publication in JISBD 2017 conference, La Laguna, Spain, 19-21 July 2017"
+  publication_conference: "JISBD 2017 conference, La Laguna, Spain, 19-21 July 2017"
   year: 2017
 # -------------------
 - title: "Identificadores Persistentes para Objetos Espaciales"
+  url: http://hdl.handle.net/11705/JISBD/2017/017
   authors: F.J. LOPEZ-PELLICER, R. BÉJAR, M.Á. LATRE, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
-  publication_conference: "Accepted for publication in JISBD 2017 conference, La Laguna, Spain, 19-21 July 2017"
+  publication_conference: "JISBD 2017 conference, La Laguna, Spain, 19-21 July 2017"
   year: 2017
 # -------------------
 - title: "The quality of thesauri used in geographic metadata"
