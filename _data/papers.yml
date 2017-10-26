@@ -8,6 +8,14 @@
   publication_book: "Zaragoza: Universidad de Zaragoza"
   year: 2017
 # -------------------
+- title: "A continuous deployment-based approach for the collaborative creation, maintenance, testing and deployment of CityGML models"
+  url: http://www.tandfonline.com/doi/full/10.1080/13658816.2017.1393543
+  authors: I. PRIETO, JOSE LUIS IZKARA, R. BÉJAR
+  publication: "International Journal of Geographical Information Science"
+  publication_detail: "p. 1-20"
+  year: 2017
+  doi: 10.1080/13658816.2017.1393543
+# -------------------
 - title: "Aggregation-based information retrieval system for geospatial data catalogs"
   url: http://www.tandfonline.com/doi/full/10.1080/13658816.2017.1319949
   authors: J. LACASTA, F.J. LOPEZ-PELLICER, B. ESPEJO-GARCÍA, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
