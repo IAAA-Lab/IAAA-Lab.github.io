@@ -22,6 +22,7 @@
   years: 2015-2016
   main_researcher: F.J. Zarazaga-Soria
 - title: "ENERGIC-OD: European NEtwork for Redistributing Geospatial Information to user Communities - Open Data"
+  url: https://www.energic-od.eu/
   organizations:
   - organization: Comisión Europea			
   reference: ENERGIC OD 620400 (CIP-ICT PSP Call 7)
@@ -50,6 +51,7 @@
   years: 2013-2015
   main_researcher: F.J. Zarazaga-Soria
 - title: "WE@EU: Water Efficiency in European Urban Areas"
+  url: http://www.weateu.eu/
   organizations:
   - organization: Comisión Europea			
   reference: REGIONS-CT-2013-320007-WE@EU (7FP-REGIONS-2012-2013-1, Transnational cooperation between regional research-driven clusters, Programme CAPACITIES, Theme Regions of Knowledge)
@@ -156,12 +158,14 @@
   years: 2009-2009
   main_researcher: F.J. Zarazaga-Soria, F.J. Lopez-Pellicer
 - title: "EuroGeoSource, EU Information and Policy Support System for Sustainable Supply of Europe with Energy and Mineral Resources"
+  url: http://www.eurogeosource.eu/
   organizations:
   - organization: Comisión Europea
   reference: CIP-ICT-PSP-2009-3 (7FP, ICT Policy Support Programme, Theme 6 - Public Sector Information)
   years: 2009-2012
   main_researcher: F.J. Zarazaga-Soria
 - title: "EURADIN: European Addresses Infrastructure. Desarrollo de las herramientas de creación de metadatos en el proyecto EURADIN con destino al Centro Nacional de Información Geográfica"
+  url: https://inspire.ec.europa.eu/SDICS/euradin
   organizations:
   - organization: Comisión Europea			
   years: 2008-2010
@@ -203,6 +207,7 @@
   years: 2008-2008
   main_researcher: J. Nogueras-Iso
 - title: "EuroGEOSS, a European approach to GEOSS"
+  url: http://www.eurogeoss.eu/
   organizations:
   - organization: Comisión Europea
   years: 2008-2011
