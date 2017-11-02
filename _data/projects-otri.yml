@@ -17,19 +17,19 @@
     organization_url: https://www.cnig.es/
   years: 2016-2016
   main_researcher: F.J. Lopez-Pellicer
-- title: "Evaluación técnica de las ofertas presentadas al pliego 'Implementación de la plataforma de información, gestión y control de la red de saneamiento de zaragoza'"
-  organizations:
-  - organization: Ecociudad Zaragoza
-  years: 2016-2016
-  main_researcher: F.J. Zarazaga-Soria
-- title: "Actividades de redacción de proyecto o memoria, diseño tecnológico del equipo embarcado y de la antena móvil, diseño del sistema de evaluación de cobertura de comunicaciones y prototipado del equipo embarcado y de la antena móvil dentro del proyecto de 'Seguimiento y Control de la cabaña extensiva de Aragón'"
+- title: "Seguimiento y Control de la cabaña extensiva de Aragón"
+  url: http://www.asajaextensivo.com/
   organizations:
   - organization: Asociación Agraria de Jóvenes Agricultores de Huesca
+    organization_url: http://www.asajahuesca.es/
+  reference: GCP-2016-0035-00
   years: 2016-2018
   main_researcher: F.J. Zarazaga-Soria
-- title: "Actividades de redacción de proyecto o memoria dentro del Proyecto 'Peritación de la Generación de Purines en las explotaciones porcinas aragonesas'"
-  organizations:
+- title: "Peritación de la Generación de Purines en las explotaciones porcinas aragonesas"
+  organizations: http://www.asajaporcino.com/
   - organization: Asociación Agraria de Jóvenes Agricultores de Huesca
+    organization_url: http://www.asajahuesca.es/
+  reference: GCP-2016-0042-01
   years: 2016-2018
   main_researcher: F.J. Zarazaga-Soria
 - title: "Fidelización de clientes mediante el uso de nuevas tecnologías en dispositivos móviles geolocalizados"
