@@ -11,6 +11,30 @@
   - organization: Diputació de Barcelona
   years: 2017-2017
   main_researcher: R. Béjar, F.J. Lopez-Pellicer
+- title: "Grupo Operativo de Generación de Energía Basada en Biomasa"
+  organizations:
+  - organization: Asociación Agraria de Jóvenes Agricultores de Huesca
+    organization_url: http://www.asajahuesca.es
+  - organization: BIOTHEK ECOLOGIC FUEL SL
+    organization_url: http://www.biothekecologic.com
+  - organization: Gobierno de Aragón (Departamento de Desarrollo Rural y Sostenibilidad, programas PDR)
+    organization_url: http://www.aragon.es
+  reference: GGO2017C00300
+  years: 2017-2017
+  main_researcher: F.J. Zarazaga-Soria
+- title: "Grupo Operativo para la Estandarización de la Calidad de la Alfalfa"
+  organizations:
+  - organization: Cooperativa Comarcal del Campo Virgen De La Corona
+    organization_url: http://www.covico.es/
+  - organization: Sociedad Cooperativa Agraria San Licer
+    organization_url: http://www.coopdezuera.es
+  - organization: Sociedad Cooperativa Agraria San Lamberto
+    organization_url: http://www.coop-sanlamberto.com/
+  - organization: Gobierno de Aragón (Departamento de Desarrollo Rural y Sostenibilidad, programas PDR)
+    organization_url: http://www.aragon.es
+  reference: GGO2017C01100
+  years: 2017-2017
+  main_researcher: F.J. Zarazaga-Soria
 - title: "Realización de un prototipo de esquema de asignación de identificadores persistentes (PID) en el marco INSPIRE"
   organizations:
   - organization: Centro Nacional de Información Geográfica (España)
@@ -22,14 +46,18 @@
   organizations:
   - organization: Asociación Agraria de Jóvenes Agricultores de Huesca
     organization_url: http://www.asajahuesca.es/
-  reference: GCP-2016-0035-00
+  - organization: Gobierno de Aragón (Departamento de Desarrollo Rural y Sostenibilidad, programas PDR)
+    organization_url: http://www.aragon.es
+  reference: GCP2016003500
   years: 2016-2018
   main_researcher: F.J. Zarazaga-Soria
 - title: "Peritación de la Generación de Purines en las explotaciones porcinas aragonesas"
   organizations: http://www.asajaporcino.com/
   - organization: Asociación Agraria de Jóvenes Agricultores de Huesca
     organization_url: http://www.asajahuesca.es/
-  reference: GCP-2016-0042-01
+  - organization: Gobierno de Aragón (Departamento de Desarrollo Rural y Sostenibilidad, programas PDR)
+    organization_url: http://www.aragon.es
+  reference: GCP2016004201
   years: 2016-2018
   main_researcher: F.J. Zarazaga-Soria
 - title: "Fidelización de clientes mediante el uso de nuevas tecnologías en dispositivos móviles geolocalizados"
