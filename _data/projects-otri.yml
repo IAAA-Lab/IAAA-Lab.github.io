@@ -60,6 +60,7 @@
   years: 2016-2018
   main_researcher: F.J. Zarazaga-Soria
 - title: "Grupo de Cooperación: Peritación de la Generación de Purines en las explotaciones porcinas aragonesas"
+  url: http://www.asajaporcino.com/
   organizations:
   - organization: Asociación Agraria de Jóvenes Agricultores de Huesca
     organization_url: http://www.asajahuesca.es/
@@ -358,6 +359,7 @@
 - title: "ESA Harmony"
   organizations:
   - organization: Agencia Espacial Europea
+    organization_url: http://www.esa.int
   reference: ESA Harmony-PMM-2005-01
   years: 2005-2005
   main_researcher: P.R. Muro-Medrano
