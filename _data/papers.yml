@@ -2,19 +2,19 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
+- title: "A continuous deployment-based approach for the collaborative creation, maintenance, testing and deployment of CityGML models"
+  url: http://www.tandfonline.com/doi/full/10.1080/13658816.2017.1393543
+  authors: I. PRIETO, J. L. IZKARA, R. BÉJAR
+  publication: "International Journal of Geographical Information Science"
+  publication_detail: "vol. 32 nº 2 p. 282-301"
+  year: 2018
+  doi: 10.1080/13658816.2017.1393543
+# -------------------
 - title: "IDEZar: La Infraestructura de Datos Abiertos Espaciales del Ayuntamiento de Zaragoza (2004 - )"
   url: https://zaguan.unizar.es/record/60894?ln=es
   authors: M.J. FERNÁNDEZ RUÍZ, F.J. ZARAZAGA-SORIA
   publication_book: "Zaragoza: Universidad de Zaragoza"
   year: 2017
-# -------------------
-- title: "A continuous deployment-based approach for the collaborative creation, maintenance, testing and deployment of CityGML models"
-  url: http://www.tandfonline.com/doi/full/10.1080/13658816.2017.1393543
-  authors: I. PRIETO, J. L. IZKARA, R. BÉJAR
-  publication: "International Journal of Geographical Information Science"
-  publication_detail: "p. 1-20"
-  year: 2017
-  doi: 10.1080/13658816.2017.1393543
 # -------------------
 - title: "Aggregation-based information retrieval system for geospatial data catalogs"
   url: http://www.tandfonline.com/doi/full/10.1080/13658816.2017.1319949
