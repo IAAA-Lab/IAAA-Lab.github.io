@@ -1,3 +1,9 @@
+- title: "Trabajos de diseño de procesos para facilitar la gestión de proyectos SIG de código libre"
+  organizations:
+  - organization: Diputació de Barcelona
+    organization_url: http://www.diba.cat/
+  years: 2017-2018
+  main_researcher: R. Béjar, F.J. Lopez-Pellicer
 - title: Servicio de asistencia técnica de consultoría sobre las tareas relacionadas con
          las líneas de trbajo en curso durante 2017 planteadas en el grupo de implementación
          y mantenimiento de la directiva INSPIRE (MIG)
@@ -9,6 +15,7 @@
 - title: "Trabajos de diseño de una arquitectura modular, abierta y distribuida para SITMUN3"
   organizations:
   - organization: Diputació de Barcelona
+    organization_url: http://www.diba.cat/
   years: 2017-2017
   main_researcher: R. Béjar, F.J. Lopez-Pellicer
 - title: "Realización de un prototipo de esquema de asignación de identificadores persistentes (PID) en el marco INSPIRE"
@@ -102,7 +109,8 @@
   main_researcher: F.J. Zarazaga-Soria, M.Á. Latre
 - title: "IDEZar 2.0: La ciudad de Zaragoza según cada ciudadano"
   organizations:
-  - organization: Zaragoza. Ayuntamiento,
+  - organization: Ayuntamiento de Zaragoza (España)
+    organization_url: http://www.zaragoza.es/
   - organization: España. Ministerio de Industria, Turismo y Comercio
     organization_url: http://www.minetur.gob.es/es-ES/Imageninstitucional/logo_MITYC.png
   - organization: GeoSpatiumLab
@@ -111,7 +119,8 @@
   main_researcher: F.J. Zarazaga-Soria, F.J. Lopez-Pellicer
 - title: "Gestión espacial de los recursos en la intranet municipal"
   organizations:
-  - organization: Zaragoza. Ayuntamiento,
+  - organization: Ayuntamiento de Zaragoza (España)
+    organization_url: http://www.zaragoza.es/
   - organization: España. Ministerio de Industria, Turismo y Comercio
     organization_url: http://www.minetur.gob.es/es-ES/Imageninstitucional/logo_MITYC.png
   - organization: GeoSpatiumLab
@@ -127,7 +136,8 @@
   main_researcher: F.J. Zarazaga-Soria, J. Nogueras-Iso
 - title: "Mantenimiento y actualización cartográfica de la Infraestructura de Datos Espaciales de Zaragoza (IDEZar)"
   organizations:
-  - organization: Zaragoza. Ayuntamiento									,
+  - organization: Ayuntamiento de Zaragoza (España)
+    organization_url: http://www.zaragoza.es/
   - organization: GeoSpatiumLab
     organization_url: http://www.geoslab.com
   years: 2009-2009
@@ -149,21 +159,24 @@
   main_researcher: R. Béjar
 - title: "Mejora de la aplicación callejero de la Infraestructura de Datos Espaciales de Zaragoza (IDEZar)"
   organizations:
-  - organization: Zaragoza. Ayuntamiento									,
+  - organization: Ayuntamiento de Zaragoza (España)
+    organization_url: http://www.zaragoza.es/
   - organization: GeoSpatiumLab
     organization_url: http://www.geoslab.com
   years: 2008-2008
   main_researcher: F.J. Zarazaga-Soria, F.J. Lopez-Pellicer
 - title: "Mejoras en la accesibilidad y la portabilidad del callejero de la Web Municipal de Zaragoza"
   organizations:
-  - organization: Zaragoza. Ayuntamiento									,
+  - organization: Ayuntamiento de Zaragoza (España)
+    organization_url: http://www.zaragoza.es/
   - organization: GeoSpatiumLab
     organization_url: http://www.geoslab.com
   years: 2008-2008
   main_researcher: F.J. Zarazaga-Soria, F.J. Lopez-Pellicer
 - title: "Mantenimiento de la Infraestructura de Datos Espaciales de Zaragoza (IDEZar)"
   organizations:
-  - organization: Zaragoza. Ayuntamiento									,
+  - organization: Ayuntamiento de Zaragoza (España)
+    organization_url: http://www.zaragoza.es/
   - organization: GeoSpatiumLab
     organization_url: http://www.geoslab.com
   years: 2008-2008
@@ -268,12 +281,14 @@
   main_researcher: P.R. Muro-Medrano
 - title: "Mantenimiento y evolución de la Infraestructura de Datos Espaciales de Zaragoza (IDEZar)"
   organizations:
-  - organization: Zaragoza. Ayuntamiento
+  - organization: Ayuntamiento de Zaragoza (España)
+    organization_url: http://www.zaragoza.es/
   years: 2006-2006
   main_researcher: P.R. Muro-Medrano,
 - title: "Implementación en IDEZar de un servicio de gestión y consulta de actividades y eventos de interés"
   organizations:
-  - organization: Zaragoza. Ayuntamiento
+  - organization: Ayuntamiento de Zaragoza (España)
+    organization_url: http://www.zaragoza.es/
   years: 2006-2006
   main_researcher: P.R. Muro-Medrano,
 - title: "Colaboración en aplicaciones software para gestión de flotas"
@@ -288,7 +303,8 @@
   main_researcher: R. Béjar
 - title: "Diseño, desarrollo e implantación en la Infraestructura IDEZar de un sistema de identificadores únicos de referencia, la puesta en marcha de nuevas aplicaciones y el mantenimiento y la extensión funcional de las ya existentes"
   organizations:
-  - organization: Zaragoza. Ayuntamiento
+  - organization: Ayuntamiento de Zaragoza (España)
+    organization_url: http://www.zaragoza.es/
   years: 2006-2006
   main_researcher:
 - title: "Creación de un nodo de la Infraestructura Española de Datos Espaciales en la Confederación Hidrográfica del Ebro"
@@ -353,7 +369,8 @@
   main_researcher: R. Béjar, P.R. Muro-Medrano
 - title: "Investigación, desarrollo, formación y transferencia de tecnología para la evolución de la Infraestructura de Datos Espaciales del Ayuntamiento de Zaragoza, IDEZar"
   organizations:
-  - organization: Zaragoza. Ayuntamiento
+  - organization: Ayuntamiento de Zaragoza (España)
+    organization_url: http://www.zaragoza.es/
   years: 2005-2005
   main_researcher: P.R. Muro-Medrano,
 - title: "Desarrollo complementario de la tecnología y metodología de captura de metadatos de información geográfica y del catálogo de metadatos de la Infraestructura de Datos Espaciales de España y del nodo del Instituto Geográfico Nacional de Distribución e Intermediación de datos y servicios geográficos"
@@ -489,7 +506,8 @@
   main_researcher: P.R. Muro-Medrano
 - title: "Diseño de la evolución hacia una Infraestructura de Datos Espaciales en el Ayuntamiento de Zaragoza, IDEZar"
   organizations:
-  - organization: Zaragoza. Ayuntamiento
+  - organization: Ayuntamiento de Zaragoza (España)
+    organization_url: http://www.zaragoza.es/
   years: 2003-2004
   main_researcher: P.R. Muro-Medrano
 - title: "Interoperability Desing Study for Symbology (EUSC-IDSS)"
