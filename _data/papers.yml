@@ -2,6 +2,14 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
+- title: "A continuous deployment-based approach for the collaborative creation, maintenance, testing and deployment of CityGML models"
+  url: http://www.tandfonline.com/doi/full/10.1080/13658816.2017.1393543
+  authors: I. PRIETO, J. L. IZKARA, R. BÉJAR
+  publication: "International Journal of Geographical Information Science"
+  publication_detail: "vol. 32 nº 2 p. 282-301"
+  year: 2018
+  doi: 10.1080/13658816.2017.1393543
+# -------------------
 - title: "IDEZar: La Infraestructura de Datos Abiertos Espaciales del Ayuntamiento de Zaragoza (2004 - )"
   url: https://zaguan.unizar.es/record/60894?ln=es
   authors: M.J. FERNÁNDEZ RUÍZ, F.J. ZARAZAGA-SORIA
@@ -16,6 +24,14 @@
   year: 2017
   doi: 10.1080/13658816.2017.1319949
 # -------------------
+- title: "The digital ‘connected’ earth: open technology for providing location-based services on degraded communication environments"
+  url: http://www.tandfonline.com/doi/abs/10.1080/17538947.2017.1356387?journalCode=tjde20
+  authors: R. PIEDRAFITA, R. BÉJAR, R. BLASCO, A. MARCO, F.J. ZARAZAGA-SORIA
+  publication: "International Journal of Digital Earth"
+  publication_detail: "p. 1-22"
+  year: 2017
+  doi: 10.1080/17538947.2017.1356387
+# -------------------
 - title: "Mapas de navegación para la automatización de pruebas de aceptación en aplicaciones móviles"
   url: http://hdl.handle.net/11705/JISBD/2017/072
   authors: G.J. VALENCIA-VÁSCONEZ, M.Á. LATRE, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO
@@ -26,6 +42,12 @@
   url: http://hdl.handle.net/11705/JISBD/2017/017
   authors: F.J. LOPEZ-PELLICER, R. BÉJAR, M.Á. LATRE, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
   publication_conference: "JISBD 2017 conference, La Laguna, Spain, 19-21 July 2017"
+  year: 2017
+# -------------------
+- title: "Gestión colaborativa de modelos de ciudades 3D durante su ciclo de vida basadas en servicios en la nube"
+  url: https://papiro.unizar.es/ojs/index.php/jji3a/article/view/1935
+  authors: I. PRIETO-FURUNDARENA, J.L. IZKARA, R. BÉJAR
+  publication_conference: "Actas de la VI Jornada de Jóvenes Investigadores del I3A, 2 de junio de 2017"
   year: 2017
 # -------------------
 - title: "The quality of thesauri used in geographic metadata"

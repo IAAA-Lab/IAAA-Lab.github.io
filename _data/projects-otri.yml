@@ -18,25 +18,62 @@
     organization_url: http://www.diba.cat/
   years: 2017-2017
   main_researcher: R. Béjar, F.J. Lopez-Pellicer
+- title: "Grupo Operativo de Generación de Energía Basada en Biomasa"
+  organizations:
+  - organization: Asociación Agraria de Jóvenes Agricultores de Huesca
+    organization_url: http://www.asajahuesca.es
+  - organization: BIOTHEK ECOLOGIC FUEL SL
+    organization_url: http://www.biothekecologic.com
+  - organization: Gobierno de Aragón (Departamento de Desarrollo Rural y Sostenibilidad, programas PDR)
+    organization_url: http://www.aragon.es
+  reference: GGO2017C00300
+  years: 2017-2017
+  main_researcher: F.J. Zarazaga-Soria
+- title: "Grupo Operativo para la Estandarización de la Calidad de la Alfalfa"
+  organizations:
+  - organization: Cooperativa Comarcal del Campo Virgen De La Corona
+    organization_url: http://www.covico.es/
+  - organization: Sociedad Cooperativa Agraria San Licer
+    organization_url: http://www.coopdezuera.es
+  - organization: Sociedad Cooperativa Agraria San Lamberto
+    organization_url: http://www.coop-sanlamberto.com/
+  - organization: Gobierno de Aragón (Departamento de Desarrollo Rural y Sostenibilidad, programas PDR)
+    organization_url: http://www.aragon.es
+  url: http://www.go-alfalfa.es/
+  reference: GGO2017C01100
+  years: 2017-2017
+  main_researcher: F.J. Zarazaga-Soria
+- title: "Curso 'AGRICULTURA 4.0: Tecnologías Digitales para el sector Agroalimentario (1ª Edición)'"
+  organizations:
+  - organization: Fundación Parque Científico Tecnológico de Aula Dei
+    organization_url: http://www.pctauladei.com/
+  url: http://www.pctauladei.com/es/seminario-especializado.html
+  years: 2017-2017
+  main_researcher: F.J. Zarazaga-Soria
 - title: "Realización de un prototipo de esquema de asignación de identificadores persistentes (PID) en el marco INSPIRE"
   organizations:
   - organization: Centro Nacional de Información Geográfica (España)
     organization_url: https://www.cnig.es/
   years: 2016-2016
   main_researcher: F.J. Lopez-Pellicer
-- title: "Evaluación técnica de las ofertas presentadas al pliego 'Implementación de la plataforma de información, gestión y control de la red de saneamiento de zaragoza'"
-  organizations:
-  - organization: Ecociudad Zaragoza
-  years: 2016-2016
-  main_researcher: F.J. Zarazaga-Soria
-- title: "Actividades de redacción de proyecto o memoria, diseño tecnológico del equipo embarcado y de la antena móvil, diseño del sistema de evaluación de cobertura de comunicaciones y prototipado del equipo embarcado y de la antena móvil dentro del proyecto de 'Seguimiento y Control de la cabaña extensiva de Aragón'"
+- title: "Grupo de Cooperación: Seguimiento y Control de la cabaña extensiva de Aragón"
+  url: http://www.asajaextensivo.com/
   organizations:
   - organization: Asociación Agraria de Jóvenes Agricultores de Huesca
+    organization_url: http://www.asajahuesca.es/
+  - organization: Gobierno de Aragón (Departamento de Desarrollo Rural y Sostenibilidad, programas PDR)
+    organization_url: http://www.aragon.es
+  reference: GCP2016003500
   years: 2016-2018
   main_researcher: F.J. Zarazaga-Soria
-- title: "Actividades de redacción de proyecto o memoria dentro del Proyecto 'Peritación de la Generación de Purines en las explotaciones porcinas aragonesas'"
+- title: "Grupo de Cooperación: Peritación de la Generación de Purines en las explotaciones porcinas aragonesas"
+  url: http://www.asajaporcino.com/
   organizations:
   - organization: Asociación Agraria de Jóvenes Agricultores de Huesca
+    organization_url: http://www.asajahuesca.es/
+  - organization: Gobierno de Aragón (Departamento de Desarrollo Rural y Sostenibilidad, programas PDR)
+    organization_url: http://www.aragon.es
+  reference: GCP2016004201
   years: 2016-2018
   main_researcher: F.J. Zarazaga-Soria
 - title: "Fidelización de clientes mediante el uso de nuevas tecnologías en dispositivos móviles geolocalizados"
@@ -46,7 +83,9 @@
   main_researcher: F.J. Zarazaga-Soria
 - title: "GS Soil: assessment and strategic development of Inspire compliant geodata-services for European Soil Data"
   organizations:
-  - organization: Edisoft
+  - organization: Edisoft s.a. (Portugal)
+    organization_url: http://www.edisoft.pt
+  url: https://inspire.ec.europa.eu/SDICS/gs-soil
   years: 2012-2012
   main_researcher: J. Nogueras-Iso
 - title: "Investigación, Desarrollo e Innovación Tecnológica dirigidos a la mejora y ampliación del Geoportal de Referencia de la Infraestructura de Datos Espaciales de España y del Nodo del Instituto Geográfico Nacional de Distribución e Intermediación de Datos y Servicios Geográficos. Año 2012"
@@ -55,165 +94,168 @@
     organization_url: https://www.cnig.es/
   years: 2012-2012
   main_researcher: F.J. Zarazaga-Soria, R. Béjar
-- title: "Curso de Geoserver como servidor de mapas"
-  organizations:
-  - organization: Centro Nacional de Energías Renovables (España)
-  years: 2012-2012
-  main_researcher: P.R. Muro-Medrano
-- title: "Aplicación consulta ciudadana de taxis libres y en parada para dispositivos móviles Android y IPhone"
-  organizations:
-  - organization: iA Soft Aragón,
-  - organization: GeoSpatiumLab
-    organization_url: http://www.geoslab.com
-  years: 2011-2011
-  main_researcher: F.J. Zarazaga-Soria
-- title: "Preparación e integración de información hidrológica de la cuenca del Ebro en el Observatorio Europeo de Sequías. Proyecto Europeo EUROGEOSS"
-  organizations:
-  - organization: Confederación Hidrográfica del Ebro
-    organization_url: http://www.chebro.es/
-  - organization: GeoSpatiumLab
-    organization_url: http://www.geoslab.com
-  years: 2011-2011
-  main_researcher: F.J. Zarazaga-Soria
-- title: "Trabajos de investigación, desarrollo e innovación para la creación de tecnología, servicios y contenidos de la Infraestructura de Datos Espaciales de medio ambiente, territorial y emergencias de Aragón y su geoportal de referencia"
-  organizations:
-  - organization: GeoSpatiumLab
-    organization_url: http://www.geoslab.com
-  years: 2011-2014
-  main_researcher: F.J. Zarazaga-Soria, P.R. Muro-Medrano
+#- title: "Curso de Geoserver como servidor de mapas"
+#  organizations:
+#  - organization: Centro Nacional de Energías Renovables (España)
+#  years: 2012-2012
+#  main_researcher: P.R. Muro-Medrano
+#- title: "Aplicación consulta ciudadana de taxis libres y en parada para dispositivos móviles Android y IPhone"
+#  organizations:
+#  - organization: iA Soft Aragón,
+#  - organization: GeoSpatiumLab
+#    organization_url: http://www.geoslab.com
+#  years: 2011-2011
+#  main_researcher: F.J. Zarazaga-Soria
+#- title: "Preparación e integración de información hidrológica de la cuenca del Ebro en el Observatorio Europeo de Sequías. Proyecto Europeo EUROGEOSS"
+#  organizations:
+#  - organization: Confederación Hidrográfica del Ebro
+#    organization_url: http://www.chebro.es/
+#  - organization: GeoSpatiumLab
+#    organization_url: http://www.geoslab.com
+#  years: 2011-2011
+#  main_researcher: F.J. Zarazaga-Soria
+#- title: "Trabajos de investigación, desarrollo e innovación para la creación de tecnología, servicios y contenidos de la Infraestructura de Datos Espaciales de medio ambiente, territorial y emergencias de Aragón y su geoportal de referencia"
+#  organizations:
+#  - organization: GeoSpatiumLab
+#    organization_url: http://www.geoslab.com
+#  years: 2011-2014
+#  main_researcher: F.J. Zarazaga-Soria, P.R. Muro-Medrano
 - title: "Investigación, Desarrollo e Innovación Tecnológica dirigidos a la mejora y ampliación del Geoportal de Referencia de la Infraestructura de Datos Espaciales de España y del Nodo del Instituto Geográfico Nacional de Distribución e Intermediación de Datos y Servicios Geográficos. Año 2011"
   organizations:
   - organization: Instituto Geográfico Nacional (España)
+    organization_url: http://www.ign.es
   years: 2011-2011
   main_researcher: R. Béjar, P.R. Muro-Medrano
-- title: "Asistencia técnica para la creación de una plataforma web y centro virtual del Club Gourmet Enogastronómico"
-  organizations:
-  - organization: Tecnotur,
-  - organization: GeoSpatiumLab
-    organization_url: http://www.geoslab.com
-  years: 2010-2010
-  main_researcher: F.J. Zarazaga-Soria
-- title: "Asistencia técnica para la creación del portal turístico de la Comarca de Belchite"
-  organizations:
-  - organization: GeoSpatiumLab
-    organization_url: http://www.geoslab.com
-  - organization: Turvalia Soluciones Tecnológicas para el Turismo
-  years: 2010-2010
-  main_researcher: F.J. Zarazaga-Soria
-- title: "Implantación de una aplicación informática para la gestión de la información de la Directiva Marco del Agua y de la planificación hidrológica en la Dirección General del Agua en La Rioja"
-  organizations:
-  - organization: GeoSpatiumLab
-    organization_url: http://www.geoslab.com
-  - organization: La Rioja (Comunidad Autónoma). Gobierno
-  years: 2010-2011
-  main_researcher: F.J. Zarazaga-Soria, M.Á. Latre
-- title: "IDEZar 2.0: La ciudad de Zaragoza según cada ciudadano"
-  organizations:
-  - organization: Ayuntamiento de Zaragoza (España)
-    organization_url: http://www.zaragoza.es/
-  - organization: España. Ministerio de Industria, Turismo y Comercio
-    organization_url: http://www.minetur.gob.es/es-ES/Imageninstitucional/logo_MITYC.png
-  - organization: GeoSpatiumLab
-    organization_url: http://www.geoslab.com
-  years: 2010-2010
-  main_researcher: F.J. Zarazaga-Soria, F.J. Lopez-Pellicer
-- title: "Gestión espacial de los recursos en la intranet municipal"
-  organizations:
-  - organization: Ayuntamiento de Zaragoza (España)
-    organization_url: http://www.zaragoza.es/
-  - organization: España. Ministerio de Industria, Turismo y Comercio
-    organization_url: http://www.minetur.gob.es/es-ES/Imageninstitucional/logo_MITYC.png
-  - organization: GeoSpatiumLab
-    organization_url: http://www.geoslab.com
-  years: 2010-2010
-  main_researcher: F.J. Zarazaga-Soria, F.J. Lopez-Pellicer
-- title: "Estudio, diseño y pruebas de un modelo de catálogo cartográfico para el Registro Cartográfico del Sistema Cartográfico Nacional"
-  organizations:
-  - organization: Instituto Geográfico Nacional (España),
-  - organization: GeoSpatiumLab
-    organization_url: http://www.geoslab.com
-  years: 2009-2009
-  main_researcher: F.J. Zarazaga-Soria, J. Nogueras-Iso
-- title: "Mantenimiento y actualización cartográfica de la Infraestructura de Datos Espaciales de Zaragoza (IDEZar)"
-  organizations:
-  - organization: Ayuntamiento de Zaragoza (España)
-    organization_url: http://www.zaragoza.es/
-  - organization: GeoSpatiumLab
-    organization_url: http://www.geoslab.com
-  years: 2009-2009
-  main_researcher: F.J. Lopez-Pellicer
+#- title: "Asistencia técnica para la creación de una plataforma web y centro virtual del Club Gourmet Enogastronómico"
+#  organizations:
+#  - organization: Tecnotur,
+#  - organization: GeoSpatiumLab
+#    organization_url: http://www.geoslab.com
+#  years: 2010-2010
+#  main_researcher: F.J. Zarazaga-Soria
+#- title: "Asistencia técnica para la creación del portal turístico de la Comarca de Belchite"
+#  organizations:
+#  - organization: GeoSpatiumLab
+#    organization_url: http://www.geoslab.com
+#  - organization: Turvalia Soluciones Tecnológicas para el Turismo
+#  years: 2010-2010
+#  main_researcher: F.J. Zarazaga-Soria
+#- title: "Implantación de una aplicación informática para la gestión de la información de la Directiva Marco del Agua y de la planificación hidrológica en la Dirección General del Agua en La Rioja"
+#  organizations:
+#  - organization: GeoSpatiumLab
+#    organization_url: http://www.geoslab.com
+#  - organization: La Rioja (Comunidad Autónoma). Gobierno
+#  years: 2010-2011
+#  main_researcher: F.J. Zarazaga-Soria, M.Á. Latre
+#- title: "IDEZar 2.0: La ciudad de Zaragoza según cada ciudadano"
+#  organizations:
+#  - organization: Zaragoza. Ayuntamiento,
+#  - organization: España. Ministerio de Industria, Turismo y Comercio
+#    organization_url: http://www.minetur.gob.es/es-ES/Imageninstitucional/logo_MITYC.png
+#  - organization: GeoSpatiumLab
+#    organization_url: http://www.geoslab.com
+#  years: 2010-2010
+#  main_researcher: F.J. Zarazaga-Soria, F.J. Lopez-Pellicer
+#- title: "Gestión espacial de los recursos en la intranet municipal"
+#  organizations:
+#  - organization: Zaragoza. Ayuntamiento,
+#  - organization: España. Ministerio de Industria, Turismo y Comercio
+#    organization_url: http://www.minetur.gob.es/es-ES/Imageninstitucional/logo_MITYC.png
+#  - organization: GeoSpatiumLab
+#    organization_url: http://www.geoslab.com
+#  years: 2010-2010
+#  main_researcher: F.J. Zarazaga-Soria, F.J. Lopez-Pellicer
+#- title: "Estudio, diseño y pruebas de un modelo de catálogo cartográfico para el Registro Cartográfico del Sistema Cartográfico Nacional"
+#  organizations:
+#  - organization: Instituto Geográfico Nacional (España),
+#  - organization: GeoSpatiumLab
+#    organization_url: http://www.geoslab.com
+#  years: 2009-2009
+#  main_researcher: F.J. Zarazaga-Soria, J. Nogueras-Iso
+#- title: "Mantenimiento y actualización cartográfica de la Infraestructura de Datos Espaciales de Zaragoza (IDEZar)"
+#  organizations:
+#  - organization: Zaragoza. Ayuntamiento									,
+#  - organization: GeoSpatiumLab
+#    organization_url: http://www.geoslab.com
+#  years: 2009-2009
+#  main_researcher: F.J. Lopez-Pellicer
 - title: "INSPIRE and NSDI implementation state of play"
   organizations:
   - organization: Comisión Europea, Eurostat (Unión Europea)
+    organization_url: http://ec.europa.eu/eurostat
   years: 2009-2011
   main_researcher: P.R. Muro-Medrano
 - title: "Investigación, Desarrollo e Innovación Tecnológica dirigidos a la mejora y ampliación del Geoportal de Referencia de la Infraestructura de Datos Espaciales de España y del Nodo del Instituto Geográfico Nacional de Distribución e Intermediación de Datos y Servicios Geográficos"
   organizations:
   - organization: Instituto Geográfico Nacional (España)
+    organization_url: http://www.ign.es
   years: 2009-2010
   main_researcher: R. Béjar, P.R. Muro-Medrano
 - title: "Technical advice for the inclusion of the LCCS (Land Cover Classification System) UML model in ISO 19144-2 standard"
   organizations:
   - organization: Organización de las Naciones Unidas para la Agricultura y la Alimentación
+    organization_url: http://www.fao.org
   years: 2008-2008
   main_researcher: R. Béjar
-- title: "Mejora de la aplicación callejero de la Infraestructura de Datos Espaciales de Zaragoza (IDEZar)"
-  organizations:
-  - organization: Ayuntamiento de Zaragoza (España)
-    organization_url: http://www.zaragoza.es/
-  - organization: GeoSpatiumLab
-    organization_url: http://www.geoslab.com
-  years: 2008-2008
-  main_researcher: F.J. Zarazaga-Soria, F.J. Lopez-Pellicer
-- title: "Mejoras en la accesibilidad y la portabilidad del callejero de la Web Municipal de Zaragoza"
-  organizations:
-  - organization: Ayuntamiento de Zaragoza (España)
-    organization_url: http://www.zaragoza.es/
-  - organization: GeoSpatiumLab
-    organization_url: http://www.geoslab.com
-  years: 2008-2008
-  main_researcher: F.J. Zarazaga-Soria, F.J. Lopez-Pellicer
-- title: "Mantenimiento de la Infraestructura de Datos Espaciales de Zaragoza (IDEZar)"
-  organizations:
-  - organization: Ayuntamiento de Zaragoza (España)
-    organization_url: http://www.zaragoza.es/
-  - organization: GeoSpatiumLab
-    organization_url: http://www.geoslab.com
-  years: 2008-2008
-  main_researcher: F.J. Lopez-Pellicer, P.R. Muro-Medrano
-- title: "Certificaciones proyectos I+D+i"
-  organizations:
-  - organization: AENOR
-  years: 2008-2008
-  main_researcher: P.R. Muro-Medrano
+#- title: "Mejora de la aplicación callejero de la Infraestructura de Datos Espaciales de Zaragoza (IDEZar)"
+#  organizations:
+#  - organization: Zaragoza. Ayuntamiento									,
+#  - organization: GeoSpatiumLab
+#    organization_url: http://www.geoslab.com
+#  years: 2008-2008
+#  main_researcher: F.J. Zarazaga-Soria, F.J. Lopez-Pellicer
+#- title: "Mejoras en la accesibilidad y la portabilidad del callejero de la Web Municipal de Zaragoza"
+#  organizations:
+#  - organization: Zaragoza. Ayuntamiento									,
+#  - organization: GeoSpatiumLab
+#    organization_url: http://www.geoslab.com
+#  years: 2008-2008
+#  main_researcher: F.J. Zarazaga-Soria, F.J. Lopez-Pellicer
+#- title: "Mantenimiento de la Infraestructura de Datos Espaciales de Zaragoza (IDEZar)"
+#  organizations:
+#  - organization: Zaragoza. Ayuntamiento									,
+#  - organization: GeoSpatiumLab
+#    organization_url: http://www.geoslab.com
+#  years: 2008-2008
+#  main_researcher: F.J. Lopez-Pellicer, P.R. Muro-Medrano
+#- title: "Certificaciones proyectos I+D+i"
+#  organizations:
+#  - organization: AENOR
+#  years: 2008-2008
+#  main_researcher: P.R. Muro-Medrano
 - title: "Proyecto conjunto para la realización de trabajos de Investigación, Desarrollo e Innovación Tecnológica dirigidos a la mejora y ampliación del Geoportal de Referencia de la Infraestructura de Datos Espaciales de España y del Nodo del Instituto Geográfico Nacional de Distribución e Intermediación de Datos y Servicios Geográficos"
   organizations:
   - organization: Instituto Geográfico Nacional (España)
+    organization_url: http://www.ign.es
   years: 2008-2008
   main_researcher: R. Béjar, P.R. Muro-Medrano
 - title: "UML specification of the LCCS"
   organizations:
   - organization: Organización de las Naciones Unidas para la Agricultura y la Alimentación
+    organization_url: http://www.fao.org
   years: 2008-2008
   main_researcher: R. Béjar
 - title: "Mejoras funcionales para la aplicación de soporte del Sistema de Información de Ocupación del Suelo de España (SIOSE)"
   organizations:
   - organization: Instituto Geográfico Nacional (España). Área de Teledetección
+    organization_url: http://www.ign.es
   years: 2008-2008
   main_researcher: R. Béjar
 - title: "Asesoramiento técnico para el sistema de gestión de proyectos coordinados de Observación de la Tierra. PNOA (Plan Nacional de Ortofotografía Aérea), SIOSE (Sistema de Información de Ocupación del Suelo de España), PNT (Plan Nacional de Teledetección)"
   organizations:
   - organization: Instituto Geográfico Nacional (España). Área de Teledetección
+    organization_url: http://www.ign.es
   years: 2008-2008
   main_researcher: R. Béjar
-- title: "Evaluación del proyecto 068/0421"
-  organizations:
-  - organization: AENOR
-  years: 2007-2007
-  main_researcher: P.R. Muro-Medrano
+#- title: "Evaluación del proyecto 068/0421"
+#  organizations:
+#  - organization: AENOR
+#  years: 2007-2007
+#  main_researcher: P.R. Muro-Medrano
 - title: "Mejora de las consultas, informes y de la explotación de datos desde el sistema I.P.A. para cumplir con los requerimientos de la D.M.A. (2006)"
   organizations:
   - organization: Confederación Hidrográfica del Ebro
+    organization_url: http://www.chebro.es
   reference: 2006-P.H.-14-I
   years: 2007-2006
   main_researcher: M.Á. Latre, P.R. Muro-Medrano
@@ -225,21 +267,24 @@
 - title: "Sistema distribuido de información de la Directiva Marco del Aguas conforme a la Directiva INSPIRE para la gestión de información, reporting y acceso público para confederaciones hidrográficas y CCAA"
   organizations:
   - organization: Zeta Amaltea
+    organization_url: http://www.amaltea.com
   years: 2007-2009
   main_researcher: F.J. Zarazaga-Soria
 - title: "Testing of GeoLinking Service Specification ('Geolink IE')"
   organizations:
-  - organization:
+  - organization: Open Geospatial Consortium (OGC)
+    organization_url: http://www.opengeospatial.org
   years: 2007-2007
   main_researcher: R. Béjar, P.R. Muro-Medrano
-- title: "Evaluación del proyecto 068/0487"
-  organizations:
-  - organization: AENOR
-  years: 2007-2007
-  main_researcher: P.R. Muro-Medrano
+#- title: "Evaluación del proyecto 068/0487"
+#  organizations:
+#  - organization: AENOR
+#  years: 2007-2007
+#  main_researcher: P.R. Muro-Medrano
 - title: "Trabajos de Investigación y Desarrollo dirigidos a la mejora y ampliación del Portal de la Infraestructura de Datos Espaciales de España y del Nodo del Instituto Geográfico Nacional de Distribución e Intermediación de Datos y Servicios Geográficos"
   organizations:
   - organization: Instituto Geográfico Nacional (España)
+    organization_url: http://www.ign.es
   years: 2007-2007
   main_researcher: R. Béjar, P.R. Muro-Medrano
 - title: "Asesoría técnica y científica en el campo de los sistemas de información - año 2006"
@@ -256,21 +301,25 @@
 - title: "EuroGeoNames (EGN). Developing a European geographical names infrastructure and services"
   organizations:
   - organization: Comisión Europea
+    organization_url: http://www.eurogeographics.org/eurogeonames
   years: 2006-2009
   main_researcher: F.J. Zarazaga-Soria, F.J. Lopez-Pellicer
 - title: "Diseño estratégico del Sistema de Información Geográfica GIS-Duero"
   organizations:
   - organization: Confederación Hidrográfica del Duero
+    organization_url: http://www.chduero.es
   years: 2006-2006
   main_researcher: M.Á. Latre, P.R. Muro-Medrano
 - title: "Investigación y Desarrollo tecnológico para la puesta en marcha de una Infraestructura de Datos Espaciales para el ámbito de la Hidro-Geología"
   organizations:
   - organization: Zeta Amaltea
+    organization_url: http://www.amaltea.com
   years: 2006-2008
   main_researcher: M.Á. Latre, P.R. Muro-Medrano
 - title: "Estudio de necesidades de edición cartográfica y valoración de alternativas"
   organizations:
-  - organization: Aragón. Departamento de Presidencia y Relaciones Institucionales
+  - organization: Gobierno de Aragón. Departamento de Presidencia y Relaciones Institucionales
+    organization_url: http://www.aragon.es
   reference: 116/06
   years: 2006-2006
   main_researcher: R. Béjar, P.R. Muro-Medrano
@@ -281,14 +330,14 @@
   main_researcher: P.R. Muro-Medrano
 - title: "Mantenimiento y evolución de la Infraestructura de Datos Espaciales de Zaragoza (IDEZar)"
   organizations:
-  - organization: Ayuntamiento de Zaragoza (España)
-    organization_url: http://www.zaragoza.es/
+  - organization: Ayuntamiento de Zaragoza
+    organization_url: https://www.zaragoza.es/ciudad/idezar
   years: 2006-2006
   main_researcher: P.R. Muro-Medrano,
 - title: "Implementación en IDEZar de un servicio de gestión y consulta de actividades y eventos de interés"
   organizations:
-  - organization: Ayuntamiento de Zaragoza (España)
-    organization_url: http://www.zaragoza.es/
+  - organization: Ayuntamiento de Zaragoza
+    organization_url: https://www.zaragoza.es/ciudad/idezar
   years: 2006-2006
   main_researcher: P.R. Muro-Medrano,
 - title: "Colaboración en aplicaciones software para gestión de flotas"
@@ -298,13 +347,14 @@
   main_researcher: P.R. Muro-Medrano
 - title: "Adecuación del modelo de datos de la cartografía 1:5000 Fase I"
   organizations:
-  - organization: Aragón. Departamento de Presidencia y Relaciones Institucionales, Centro de Documentación e Información Territorial de Aragón
+  - organization: Gobierno de Aragón. Departamento de Presidencia y Relaciones Institucionales, Centro de Documentación e Información Territorial de Aragón
+    organization_url: http://www.aragon.es
   years: 2006-2006
   main_researcher: R. Béjar
 - title: "Diseño, desarrollo e implantación en la Infraestructura IDEZar de un sistema de identificadores únicos de referencia, la puesta en marcha de nuevas aplicaciones y el mantenimiento y la extensión funcional de las ya existentes"
   organizations:
-  - organization: Ayuntamiento de Zaragoza (España)
-    organization_url: http://www.zaragoza.es/
+  - organization: Ayuntamiento de Zaragoza
+    organization_url: https://www.zaragoza.es/ciudad/idezar
   years: 2006-2006
   main_researcher:
 - title: "Creación de un nodo de la Infraestructura Española de Datos Espaciales en la Confederación Hidrográfica del Ebro"
@@ -316,6 +366,7 @@
 - title: "ESA Harmony"
   organizations:
   - organization: Agencia Espacial Europea
+    organization_url: http://www.esa.int
   reference: ESA Harmony-PMM-2005-01
   years: 2005-2005
   main_researcher: P.R. Muro-Medrano
@@ -360,32 +411,37 @@
 - title: "Investigación y desarrollo de la tecnología y metodología adecuada para la creación del Nomenclator Geográfico Nacional Distribuido"
   organizations:
   - organization: Instituto Geográfico Nacional (España)
+    organization_url: http://www.ign.es
   years: 2005-2005
   main_researcher: P.R. Muro-Medrano
 - title: "Optimización y ampliación del portal de la Infraestructura de Datos Espaciales de España y del nodo del Instituto Geográfico Nacional de Distribución e Intermediación de datos y servicios geográficos"
   organizations:
   - organization: Instituto Geográfico Nacional (España)
+    organization_url: http://www.ign.es
   years: 2005-2005
   main_researcher: R. Béjar, P.R. Muro-Medrano
 - title: "Investigación, desarrollo, formación y transferencia de tecnología para la evolución de la Infraestructura de Datos Espaciales del Ayuntamiento de Zaragoza, IDEZar"
   organizations:
-  - organization: Ayuntamiento de Zaragoza (España)
-    organization_url: http://www.zaragoza.es/
+  - organization: Ayuntamiento de Zaragoza
+    organization_url: https://www.zaragoza.es/ciudad/idezar
   years: 2005-2005
   main_researcher: P.R. Muro-Medrano,
 - title: "Desarrollo complementario de la tecnología y metodología de captura de metadatos de información geográfica y del catálogo de metadatos de la Infraestructura de Datos Espaciales de España y del nodo del Instituto Geográfico Nacional de Distribución e Intermediación de datos y servicios geográficos"
   organizations:
   - organization: Instituto Geográfico Nacional (España)
+    organization_url: http://www.ign.es
   years: 2005-2005
   main_researcher: P.R. Muro-Medrano
 - title: "Asesoramiento de los aspectos informáticos para el desarrollo del Sistema de Información de Ocupación del Suelo de España (SIOSE)"
   organizations:
   - organization: Instituto Geográfico Nacional (España)
+    organization_url: http://www.ign.es
   years: 2005-2006
   main_researcher: R. Béjar
 - title: "SDIGER: A cross-border inter-administration Spatial Data Infrastructure to support WFD information access for Adour-Garonne and Ebro River Basins"
   organizations:
   - organization: Eurostat
+    organization_url: http://ec.europa.eu/eurostat
   url: http://sdiger.unizar.es
   years: 2004-2006
   main_researcher: J. Nogueras-Iso
@@ -419,14 +475,15 @@
     organization_url: http://www.chebro.es/
   years: 2004-2006
   main_researcher: M.Á. Latre
-- title: "Evaluación del Proyecto Sistema de Modelización de la Gestión Integral de un Cuenca Hidrográfica, HIDROSIS"
-  organizations:
-  - organization: AENOR
-  years: 2004-2004
-  main_researcher: P.R. Muro-Medrano
+#- title: "Evaluación del Proyecto Sistema de Modelización de la Gestión Integral de un Cuenca Hidrográfica, HIDROSIS"
+#  organizations:
+#  - organization: AENOR
+#  years: 2004-2004
+#  main_researcher: P.R. Muro-Medrano
 - title: "Almacenamiento, verificación y aseguramiento de la correspondencia geométrica de imágenes aéreas de Aragón, Fase II"
   organizations:
-  - organization: Aragón. Departamento de Agricultura
+  - organization: Gobierno de Aragón. Departamento de Agricultura
+    organization_url: http://www.aragon.es
   years: 2004-2004
   main_researcher: R. Béjar, P.R. Muro-Medrano
 - title: "Componentes software interoperables para servidor de rutas y mapas en entorno Web y PDA"
@@ -481,7 +538,8 @@
   main_researcher: M.Á. Latre, P.R. Muro-Medrano
 - title: "Desarrollo de la Red de Información Medio-Ambiental y Geográfica de Galicia"
   organizations:
-  - organization: Galicia. Junta
+  - organization: Xunta de Galicia
+    organization_url: http://www.xunta.gal
   years: 2003-2004
   main_researcher: R. Béjar, P.R. Muro-Medrano
 - title: "IDE-E Advances for an INSPIRE based Nacional Spatial Data Infrastructure in Spain; the feasibility of GeoMedia software components"
@@ -492,38 +550,42 @@
 - title: "Creación del portal de la Infraestructura de Datos Espaciales Española y del nodo del Instituto Geográfico Nacional de distribución e intermediación de datos y servicios geográficos"
   organizations:
   - organization: Instituto Geográfico Nacional (España)
+    organization_url: http://www.ign.es
   years: 2003-2005
   main_researcher: P.R. Muro-Medrano
-- title: "Cursos sobre 'Leguaje XML'"
-  organizations:
-  - organization: España. Ministerio de Fomento
-  years: 2003-2003
-  main_researcher: P.R. Muro-Medrano
-- title: "Cursos sobre 'Leguaje GML'"
-  organizations:
-  - organization: España. Ministerio de Fomento
-  years: 2003-2003
-  main_researcher: P.R. Muro-Medrano
+#- title: "Cursos sobre 'Leguaje XML'"
+#  organizations:
+#  - organization: España. Ministerio de Fomento
+#  years: 2003-2003
+#  main_researcher: P.R. Muro-Medrano
+#- title: "Cursos sobre 'Leguaje GML'"
+#  organizations:
+#  - organization: España. Ministerio de Fomento
+#  years: 2003-2003
+#  main_researcher: P.R. Muro-Medrano
 - title: "Diseño de la evolución hacia una Infraestructura de Datos Espaciales en el Ayuntamiento de Zaragoza, IDEZar"
   organizations:
-  - organization: Ayuntamiento de Zaragoza (España)
-    organization_url: http://www.zaragoza.es/
+  - organization: Ayuntamiento de Zaragoza
+    organization_url: https://www.zaragoza.es/ciudad/idezar
   years: 2003-2004
   main_researcher: P.R. Muro-Medrano
 - title: "Interoperability Desing Study for Symbology (EUSC-IDSS)"
   organizations:
   - organization: Centro de Satélites de la Unión Europea
+    organization_url: https://europa.eu/european-union/about-eu/agencies/satcen_es
   reference: EUSC-IDSS-PMM-DocSpec-01. EUSC-IDSS-PMM-TrngSpec-01. EUSC-IDSS-PMM-CartSpec-01
   years: 2003-2004
   main_researcher: P.R. Muro-Medrano
 - title: "Desarrollo de un cliente WMS para la gestión y combinación de datos geográficos provenientes de distintos servidores predefinidos"
   organizations:
   - organization: Instituto Cartográfico de Cataluña
+    organization_url: http://www.icgc.cat/
   years: 2002-2002
   main_researcher: P.R. Muro-Medrano
 - title: "CEN/ISSS Metadata/Dublin Core Workshop (MMI-DC) Project Team: improving discovery of geographic information in cross-domain searching"
   organizations:
-  - organization:
+  - organization: European Committee for Standardisation
+    organization_url: http://www.cen.eu
   years: 2002-2003
   main_researcher: F.J. Zarazaga-Soria
 - title: "Mejora y aumento de la funcionalidad del módulo de consultas del inventario de puntos de agua"
@@ -542,17 +604,20 @@
   main_researcher: M.Á. Latre
 - title: "Georreferenciación de planos y adaptación de visualizador"
   organizations:
-  - organization: Aragón. Departamento de Agricultura
+  - organization: Gobierno de Aragón. Departamento de Agricultura
+    organization_url: http://www.aragon.es
   years: 2002-2002
   main_researcher: P.R. Muro-Medrano
 - title: "Desarrollo de la Red de Información Medio-Ambiental y Geográfica de Galicia"
   organizations:
-  - organization: Galicia. Junta
+  - organization: Xunta de Galicia
+    organization_url: http://www.xunta.gal
   years: 2002-2002
   main_researcher: R. Béjar, P.R. Muro-Medrano
 - title: "Almacenamiento, verificación y aseguramiento de la correspondencia geométrica de imágenes aéreas de Aragón, Fase I"
   organizations:
-  - organization: Aragón. Departamento de Agricultura
+  - organization: Gobierno de Aragón. Departamento de Agricultura
+    organization_url: http://www.aragon.es
   years: 2002-2003
   main_researcher: P.R. Muro-Medrano
 - title: "Arquitectura, diseño e implementación básica de una GUI para la IPA3SQL"
@@ -562,12 +627,12 @@
   reference: 2001-P.H.-18-I
   years: 2001-2001
   main_researcher: P.R. Muro-Medrano
-- title: "Código fuente del Sistema de Información para la Gestión de Redes de Radiotelefonía Trunking"
-  organizations:
-  - organization: Teltronic
-  reference: 2002-P.H.-31-I
-  years: 2001-2001
-  main_researcher: F.J. Zarazaga-Soria
+#- title: "Código fuente del Sistema de Información para la Gestión de Redes de Radiotelefonía Trunking"
+#  organizations:
+#  - organization: Teltronic
+#  reference: 2002-P.H.-31-I
+#  years: 2001-2001
+#  main_researcher: F.J. Zarazaga-Soria
 - title: "Asistencia Tecnológica para el Desarrollo de un Sistema Business To Business (B2B) Orientado al Turismo en Internet, basado en Tecnología Java y Oracle"
   organizations:
   - organization: DBS Servicios Informáticos
@@ -611,27 +676,32 @@
   main_researcher: P.R. Muro-Medrano
 - title: "Sistema de visualización de información geográfica de ayuda al reconocimiento de características de parcelas de olivar"
   organizations:
-  - organization: Aragón. Departamento de Agricultura
+  - organization: Gobierno de Aragón. Departamento de Agricultura
+    organization_url: http://www.aragon.es
   years: 2000-2001
   main_researcher: P.R. Muro-Medrano
 - title: "Cálculos de georeferenciación y georectificación de imágenes raster de pañoletas"
   organizations:
-  - organization: Aragón. Departamento de Agricultura
+  - organization: Gobierno de Aragón. Departamento de Agricultura
+    organization_url: http://www.aragon.es
   years: 2000-2001
   main_researcher: P.R. Muro-Medrano
 - title: "Actualización Base Documental del Sistema de Información Geológico Minero de Aragón"
   organizations:
-  - organization: Aragón. Dirección General de Energía y Minas
+  - organization: Gobierno de Aragón. Dirección General de Energía y Minas
+    organization_url: http://www.aragon.es
   years: 2000-2000
   main_researcher: P.R. Muro-Medrano
 - title: "Actualización Base Documental del Sistema de Información Geológico Minero de Aragón"
   organizations:
-  - organization: Aragón. Dirección General de Energía y Minas
+  - organization: Gobierno de Aragón. Dirección General de Energía y Minas
+    organization_url: http://www.aragon.es
   years: 2000-2000
   main_researcher: P.R. Muro-Medrano
 - title: "Elaboración del catálogo de fuente de datos de Aragón (Red EIONET de la Agencia Europea del Medio Ambiente)"
   organizations:
-  - organization: Aragón. Departamento de Medio Ambiente
+  - organization: Gobierno de Aragón. Departamento de Medio Ambiente
+    organization_url: http://www.aragon.es
   years: 2000-2001
   main_researcher:
 - title: "Sistema de información Geológico Minero de Aragón (SIGEMA), 2ª fase: provincias de Zaragoza y Huesca"
