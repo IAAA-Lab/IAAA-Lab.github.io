@@ -2,22 +2,23 @@
 layout: page
 ---
 <section class="diagonal">
-	<div class="blog-post text-container">			
-                <p style="text-align:right;">
-                <a class="noselect" href="#papers">Papers &#9660;</a>&nbsp;&nbsp;
-                <a class="noselect" href="#projects">Projects &#9660;</a>
-                </p>
-		<div class="post-content">
-			{{ content }}						
-		</div>		
-	</div>		
-	{% capture author_id_to_pass %}{{ page.author_id }}{% endcapture %}
-        <div class="blog-post text-container">
-                <h1 id="papers">Papers</h1>	                
-                {% include papers-list.html author_id=author_id_to_pass %}                
-	</div>
-	<div class="blog-post text-container">
-                <h1 id="projects">Projects as Lead Researcher</h1>	                
-                {% include projects-list.html author_id=author_id_to_pass %}                
-	</div>
+    <div class="blog-post text-container">
+        <p style="text-align:right;">
+        <a class="noselect" href="#papers">Papers &#9660;</a>&nbsp;&nbsp;
+        <a class="noselect" href="#projects">Projects &#9660;</a>
+        </p>
+		    <div class="post-content">
+			      {{ content }}
+		    </div>
+	  </div>
+	  {% capture author_id_to_pass %}{{ page.author_id }}{% endcapture %}
+    <div class="blog-post text-container">
+        <h1 id="papers">Papers</h1>
+        {% include papers-list.html author_id=author_id_to_pass %}
+	  </div>
+	  <div class="blog-post text-container">
+        <h1 id="projects">Projects as Lead Researcher</h1>
+				<br/>
+        {% include projects-list.html author_id=author_id_to_pass %}
+	  </div>
 </section>
