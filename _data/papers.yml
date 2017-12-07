@@ -32,6 +32,37 @@
   year: 2017
   doi: 10.1080/17538947.2017.1356387
 # -------------------
+- title: "Servicios de visualización INSPIRE basados en teselas vectoriales"
+  url: http://www.dgterritorio.pt/jiide2017/pdfs/Apresentacoes/JIIDE2017_Servicios_visualizacion_INSPIRE_basados_en_teselas_vectoriales_Emilio_Lopez.pdf
+  authors: E. LOPEZ, R. BÉJAR, J. BARRERA, F.J. LOPEZ-PELLICER, A.F. RODRIGUEZ, P. ABAD
+  publication_conference: "VIII Jornadas Ibéricas de Infraestruturas de Dados Espaciais (JIIDE'2017), Lisboa, Portugal, 15-37 September 2017"
+  year: 2017
+# -------------------
+- title: "Consideraciones para el desarrollo de un Sistema de Gestión de Identificadores Persistentes"
+  url: http://www.dgterritorio.pt/jiide2017/pdfs/Apresentacoes/JIIDE2017_Consideraciones_desarrollo_sistema_gestion_identificadores_persistentes_escala_nacional_Francisco_J._Lopez-Pellicer.pdf
+  authors: F.J. LOPEZ-PELLICER, J. BARRERA, J. GONZALEZ, F.J. ZARAZAGA-SORIA, E. LOPEZ, P. ABAD, A.F. RODRIGUEZ
+  publication_conference: "VIII Jornadas Ibéricas de Infraestruturas de Dados Espaciais (JIIDE'2017), Lisboa, Portugal, 15-37 September 2017"
+  year: 2017
+# -------------------
+- title: "Support for Vector Tiles in INSPIRE View Services"
+  url: https://inspire.ec.europa.eu/sites/default/files/presentations/INSPIRE2017_VectorTiles.pdf
+  authors: E. LOPEZ, R. BÉJAR, J. BARRERA, F.J. LOPEZ-PELLICER, A.F. RODRIGUEZ, P. ABAD
+  publication_conference: "INSPIRE Conference 2017, Strasbourg, France, 6-8 September 2017"
+  year: 2017
+# -------------------
+- title: "Developing a national Persistent Identifier Management System"
+  url: https://inspire.ec.europa.eu/sites/default/files/presentations/273_Presentation_ratio_16-9.pdf
+  authors: F.J. LOPEZ-PELLICER, J. BARRERA, J. GONZALEZ, F.J. ZARAZAGA-SORIA, E. LOPEZ, P. ABAD, A.F. RODRIGUEZ
+  publication_conference: "INSPIRE Conference 2017, Strasbourg, France, 6-8 September 2017"
+  year: 2017
+# -------------------
+- title: "Virtual Hubs for Facilitating access to Geospatial Open Data in Open SDI"
+  url: https://inspire.ec.europa.eu/sites/default/files/presentations/04_inspire_open_sdi_energic-od_v1.pdf
+  authors: S. NATIVI, P. MAZZETTI, M.Á. LATRE, F.J. LOPEZ-PELLICER
+  publication_conference: "Workshop on Open Data Access and Harmonisation by Virtual Hub – ENERGIC OD solutions at
+    INSPIRE Conference 2017, Kehl, Germany, 4 September 2017"
+  year: 2017
+# -------------------
 - title: "Mapas de navegación para la automatización de pruebas de aceptación en aplicaciones móviles"
   url: http://hdl.handle.net/11705/JISBD/2017/072
   authors: G.J. VALENCIA-VÁSCONEZ, M.Á. LATRE, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO
@@ -47,7 +78,7 @@
 - title: "Gestión colaborativa de modelos de ciudades 3D durante su ciclo de vida basadas en servicios en la nube"
   url: https://papiro.unizar.es/ojs/index.php/jji3a/article/view/1935
   authors: I. PRIETO-FURUNDARENA, J.L. IZKARA, R. BÉJAR
-  publication_conference: "Actas de la VI Jornada de Jóvenes Investigadores del I3A, 2 de junio de 2017"
+  publication_conference: "Actas de la VI Jornada de Jóvenes Investigadores del I3A, Saragossa, Spain, 2 June 2017"
   year: 2017
 # -------------------
 - title: "The quality of thesauri used in geographic metadata"
@@ -1951,7 +1982,7 @@
 # -------------------
 - title: "Una aproximación Java al desarrollo de sistemas de información georreferenciados, patrones de desarrollos a bajo coste para trabajo en intra/internet"
   url: /curriculum/08-Publicaciones-Articulos/cap_2001_SIG_Aproximacion.pdf
-  publication_detail: "M.Á. LATRE, P. ÁLVAREZ, R. BÉJAR, Ó. CANTÁN-CASBAS, J. VALIÑO"
+  authors: "M.Á. LATRE, P. ÁLVAREZ, R. BÉJAR, Ó. CANTÁN-CASBAS, J. VALIÑO"
   publication: "Sistemas de información geográfica: una aproximación desde la ingeniería del software y las bases de datos. Monografías y publicaciones. Colección ingeniería informática. Madrid"
   publication_detail: "p. 135-150, ISBN 84-931933-1-3"
   year: 2001
