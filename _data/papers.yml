@@ -104,20 +104,20 @@
   year: 2016
   doi: 10.1016/j.datak.2016.05.002
   url_oficial: http://dx.doi.org/10.1016/j.datak.2016.05.002
-# -------------------
-- title: "La gestión y la tecnología de los Identificadores Persistentes"
-  url: http://www.mappinginteractivo.es/images/revistas/REVISTA%20MAPPING%20175/files/assets/basic-html/page66.html
-  authors: F.J. LOPEZ-PELLICER, J. BARRERA, J. GONZÁLEZ, F.J. ZARAZAGA-SORIA, E. LÓPEZ, P. ABAD
-  publication: "Mapping"
-  publication_detail: "vol. 25 nº 175 p. 64-73. ISSN 1-131-9-100"
-  year: 2016
-# -------------------
-- title: "Hubs virtuales para facilitar el acceso a Datos Abiertos"
-  url: http://www.mappinginteractivo.es/images/revistas/REVISTA%20MAPPING%20176/files/assets/basic-html/page28.html
-  authors: M.Á. LATRE, F.J. LOPEZ-PELLICER, N. KAMALI, M. BAUER, M. PREVITALI, R. BRUMANA, S. BRAUMANN, H. KUECHLY, P. MAZZETTI, S. NATIVI
-  publication: "Mapping"
-  publication_detail: "vol. 25 nº 176 p. 26-33. ISSN 1-131-9-100"
-  year: 2016
+# ------------------- Excluir por ser publicación que tiene origen en un congreso
+# - title: "La gestión y la tecnología de los Identificadores Persistentes"
+#  url: http://www.mappinginteractivo.es/images/revistas/REVISTA%20MAPPING%20175/files/assets/basic-html/page66.html
+#  authors: F.J. LOPEZ-PELLICER, J. BARRERA, J. GONZÁLEZ, F.J. ZARAZAGA-SORIA, E. LÓPEZ, P. ABAD
+#  publication: "Mapping"
+#  publication_detail: "vol. 25 nº 175 p. 64-73. ISSN 1131-9100"
+#  year: 2016
+# ------------------- Excluir por ser publicación que tiene origen en un congreso
+#- title: "Hubs virtuales para facilitar el acceso a Datos Abiertos"
+#  url: http://www.mappinginteractivo.es/images/revistas/REVISTA%20MAPPING%20176/files/assets/basic-html/page28.html
+#  authors: M.Á. LATRE, F.J. LOPEZ-PELLICER, N. KAMALI, M. BAUER, M. PREVITALI, R. BRUMANA, S. BRAUMANN, H. KUECHLY, P. MAZZETTI, S. NATIVI
+#  publication: "Mapping"
+#  publication_detail: "vol. 25 nº 176 p. 26-33. ISSN 1131-9100"
+#  year: 2016
 # -------------------
 - title: "Reconstruction of itineraries from annotated text with an informed spanning tree algorithm"
   url: /curriculum/08-Publicaciones-Articulos/art_2016_IJGIS_Reconstruction.pdf
