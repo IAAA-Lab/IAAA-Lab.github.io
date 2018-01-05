@@ -2,7 +2,7 @@
 title: Hub Virtual Europeo
 subtitle: Datos geoespaciales abiertos al alcance de tu mano
 layout: post
-image: /images/posts/energic-od.png
+image: /images/posts/logo_EnergicOD_HD.png
 ---
 
 El proyecto europeo ENERGIC OD finalizó su andadura el pasado 2017. Entre sus resultados más destacados se encuentran el desarrollo y puesta en marcha de un Hub Virtual Europeo: una potente interfaz fácil de usar y gratuita que permite la búsqueda, acceso y reutilización de datos geográficos abiertos que incluye también una interfaz web de programación de aplicaciones (API). Aglutina conjuntos de datos procedentes de distintas fuentes, como GEOSS, INSPIRE, Copernicus y la IDEE, que pueden ser descubiertos y accedidos en distintos formatos y a través de distintas interfaces. El Hub Virtual Europeo está accesible en [http://www.vh.energic-od.eu/inicio/](http://www.vh.energic-od.eu/inicio/).
