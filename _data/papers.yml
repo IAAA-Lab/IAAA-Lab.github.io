@@ -2,6 +2,14 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
+- title: "Multi-scale urban data models for early-stage suitability assessment of energy conservation measures in historic urban areas"
+  url: https://doi.org/10.1016/j.enbuild.2017.12.061
+  authors: A. EGUSQUIZA, I. PRIETO, J. L. IZKARA, R. BÉJAR
+  publication: "Energy and Buildings"
+  publication_detail: "vol. 164 p. 87-98"
+  year: 2018
+  doi: 10.1016/j.enbuild.2017.12.061
+# -------------------
 - title: "A continuous deployment-based approach for the collaborative creation, maintenance, testing and deployment of CityGML models"
   url: http://www.tandfonline.com/doi/full/10.1080/13658816.2017.1393543
   authors: I. PRIETO, J. L. IZKARA, R. BÉJAR
