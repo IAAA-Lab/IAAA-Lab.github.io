@@ -2,6 +2,7 @@
 title: Segunda edición de los premios Pedro R. Muro-Medrano
 subtitle: A trabajos de fin de estudios en el ámbito de las Infraestructuras de Datos Espaciales y los estándares abiertos que las soportan
 layout: post
+image: /images/posts/Pedro_Muro.jpg
 ---
 El [Grupo de Sistemas de Información Avanzados]({{ site.baseurl }}/) y el [Instituto de Investigación en Ingeniería de Aragón](http://i3a.unizar.es) abren la convocatoria para los premios a los trabajos de fin de estudios **defendidos en cualquier universidad española entre el 1 de enero de 2017 y el 31 de diciembre de 2017** que mejor hayan sido valorados en términos de aportación al desarrollo y utilización de tecnologías y estándares abiertos vinculados a las Infraestructuras de Datos Espaciales.
 
