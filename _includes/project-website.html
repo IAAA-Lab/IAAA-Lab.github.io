@@ -1,7 +1,6 @@
 {% assign project = site.data.projects-website[include.internal_id] %}
-{% assign page.title = project.title %}
-<h3>{{project.title}}</h3>
-<p>{{project.descr}}</p>
+<img src="{{site.baseurl}}/{{project.logo}}" width="600" style="margin-bottom: 40px;">
+
 
 <ul>
 {% for partner in project.partners %} 
