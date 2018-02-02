@@ -11,18 +11,10 @@ layout: default
 		{% endif %}		
 	</div>
 </section>
-<section class="diagonal">
-    <div class="blog-post text-container">
-          {% assign position = 'header' %}
-	  {% include project-website.html internal_id=page.internal_id %}			              	   
-    </div>
+<section class="diagonal">    
     <div class="blog-post text-container">        
 		    <div class="post-content">
 			      {{ content }}
 		    </div>
-    </div>
-    <div class="blog-post text-container">            
-          {% assign position = 'footer' %}
-	  {% include project-website.html internal_id=page.internal_id position=footer%}			            	   
-    </div>
+    </div>    
 </section>
