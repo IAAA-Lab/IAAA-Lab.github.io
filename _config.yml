@@ -28,6 +28,10 @@ social:
 collections:
   staff:
     output: true
+  projects:
+    output: true
+    permalink: /:name # Con esto un tin2018.md dentro de _projects tendrá ruta www.iaaa.es/tin2018
+    # Sin la línea anterior, la ruta sería www.iaaa.es/projects/tin2018
 
 paginate: 5
 paginate_path: "/blog/:num/"

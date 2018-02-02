@@ -12,16 +12,17 @@ layout: default
 	</div>
 </section>
 <section class="diagonal">
-    <div class="blog-post text-container">            
-	  {% include project-website.html internal_id=page.internal_id %}			              	   
-	</div>
     <div class="blog-post text-container">
-        <p style="text-align:right;">
-        <a class="noselect" href="#papers">Papers &#9660;</a>&nbsp;&nbsp;
-        <a class="noselect" href="#projects">Projects &#9660;</a>
-        </p>
+          {% assign position = 'header' %}
+	  {% include project-website.html internal_id=page.internal_id %}			              	   
+    </div>
+    <div class="blog-post text-container">        
 		    <div class="post-content">
 			      {{ content }}
 		    </div>
-	  </div>
+    </div>
+    <div class="blog-post text-container">            
+          {% assign position = 'footer' %}
+	  {% include project-website.html internal_id=page.internal_id position=footer%}			            	   
+    </div>
 </section>

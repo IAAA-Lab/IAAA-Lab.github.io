@@ -8,4 +8,5 @@ tin2018:
     organization_url: http://www.wikipedia.com
   years: 2017-2020
   logo: images/other-logos/2_MEIC_Gob_Web_AEI_150dpi.png
-  main_researcher: "Bram Stoker"
+  # Esto permite tener cierta internacionalización de las partes "fijas"
+  txt_entid_financ: "Entidades que financian este proyecto"

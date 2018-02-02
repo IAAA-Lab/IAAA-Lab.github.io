@@ -1,6 +1,6 @@
 {% assign project = site.data.projects-website[include.internal_id] %}
-<img src="{{site.baseurl}}/{{project.logo}}" width="600" style="margin-bottom: 40px;">
 
+{% if position == 'header' %}
 
 <ul>
 {% for partner in project.partners %} 
@@ -8,10 +8,13 @@
 {% endfor %}
 </ul>
 
+{% elsif position == 'footer' %}
 
+</br></br>
+<p>{{project.txt_entid_financ}}</p>
+<img src="{{site.baseurl}}/{{project.logo}}" width="600" style="margin-bottom: 40px;">
 
-
-
+{% endif %}
 
 
 
