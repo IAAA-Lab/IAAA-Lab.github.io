@@ -52,8 +52,7 @@
 										{% if link.social_icon %}
 											{% include social-icon.html icon=link.social_icon %}
 										{% endif %}
-
-										{{ link.name }}
+										{{ link.name }}									
 									</a>
 								</li>
 							{% endfor %}
@@ -70,6 +69,11 @@
 			</div>
 
 			<div class="legal-line">
+                                <p class="container">
+                                    {% for l in site.data.company.logos %}
+                                        <img src="{{ site.baseurl }}/{{ l.path }}" alt ="{{ l.shortname }}" width="{{ l.width }}">
+                                    {% endfor %}
+                                </p>
 				<p class="container">
 					&copy; {{ site.time | date: '%Y' }} {{ site.data.company.title }} (<i>{{ site.data.company.title_es }}</i>)			
 				</p>				

@@ -4,3 +4,7 @@ description:
 contact_email_address: iaaa@unizar.es
 #contact_phone_number: (03) 123 4567
 address: María de Luna 1, 50018, Zaragoza (Spain)
+logos: 
+ - shortname: OGC
+   path: images/other-logos/OGC_Associate_Member_2DR_LowSat.png    
+   width: 120
