@@ -23,6 +23,6 @@ Para conseguir esto, se trabajará en alcanzar los siguientes objetivos:
 Se validará todo el trabajo realizado mediante la integración de los resultados en un caso piloto en un territorio rural en colaboración con los EPO del proyecto. Este piloto será además una pieza clave en la estrategia de transferencia de resultados del proyecto. Finalmente, hay que resaltar que todo el software que se desarrolle se hará público conforme se vaya creando.
 
 ## Financiación
-Este proyecto, con referencia {{ page.code }}, está financiado durante los años {{ page.years }} por:
+Este proyecto, con referencia {{ page.code }}, está financiado durante {{ page.years }} por:
 
 <img src='{{site.baseurl}}/images/other-logos/2_MEIC_Gob_Web_AEI_150dpi.png' width='600' style="margin-bottom: 40px;">
