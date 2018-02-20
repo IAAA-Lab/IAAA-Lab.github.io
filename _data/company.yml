@@ -1,10 +1,11 @@
 title: Advanced Information Systems Laboratory
 title_es: Grupo de Sistemas de Información Avanzados
-description: 
+description:
 contact_email_address: iaaa@unizar.es
 #contact_phone_number: (03) 123 4567
 address: María de Luna 1, 50018, Zaragoza (Spain)
-logos: 
+logos:
  - shortname: OGC
    path: images/other-logos/OGC_Associate_Member_2DR_LowSat.png    
    width: 120
+   url: http://www.opengeospatial.org/ogc/members
