@@ -228,6 +228,12 @@
   url_oficial: http://link.springer.com/article/10.1007/s12145-014-0172-4
   comments:
 # -------------------
+- title: "ENERGIC-OD Virtual Hubs: A brokered architecture for facilitating Open Data sharing and use"
+  url: https://doi.org/10.1109/eCHALLENGES.2015.7441080   
+  authors: P. MAZZETTI, M.Á. LATRE, M. BAUER, R. BRUMANA, S. BRAUMAN, S. NATIVI
+  publication_conference: "eChallenges e-2015 Conference, 2015, Vilnius (Lithuania), 25-26 November 2015"
+  year: 2015
+# -------------------
 - title: "Git y GitHub aplicados en la docencia"
   url: http://www.unizar.es/CBSantander/jornada/sexta/resumenes/13_lopez-pellicer.pdf
   authors: F.J. LOPEZ-PELLICER, R. BÉJAR, M.Á. LATRE, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
