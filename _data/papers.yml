@@ -1,6 +1,15 @@
 # Importante: dentro de este fichero los artículos tienen que estar ordenados por año
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
+- title: "Autenticidad y aprendizaje basado en proyectos en una asignatura sobre diseño de software"
+  authors: R. BÉJAR, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA 
+  publication_conference: "XXIV Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2018), Barcelona, Spain, 4-6 July 2018"
+  year: 2018
+# -------------------
+- title: "Extensión de un proyecto Open Source con un proceso de pruebas bien asentado como modelo de aprendizaje para una asignatura de Verificación y Validación"
+  authors: J. NOGUERAS-ISO, M.Á. LATRE, J. LACASTA, F.J. LOPEZ-PELLICER, R. BÉJAR
+  publication_conference: "XXIV Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2018), Barcelona, Spain, 4-6 July 2018"
+  year: 2018
 # -------------------
 - title: "Multi-scale urban data models for early-stage suitability assessment of energy conservation measures in historic urban areas"
   url: https://doi.org/10.1016/j.enbuild.2017.12.061
@@ -479,7 +488,7 @@
 # -------------------
 - title: "Design and evaluation of a semantic enrichment process for bibliographic databases"
   url: /curriculum/08-Publicaciones-Articulos/art_2013_DKE_Design.pdf
-  authors: J. LACASTA, J.NOGUERAS-ISO, G. FALQUET, J. TELLER, F.J. ZARAZAGA-SORIA
+  authors: J. LACASTA, J. NOGUERAS-ISO, G. FALQUET, J. TELLER, F.J. ZARAZAGA-SORIA
   publication: "Data & Knowledge Engineering"
   publication_detail: "vol. 88 p. 94-107. ISSN 0169-023X"
   year: 2013
@@ -899,7 +908,7 @@
 - title: "Terminological Ontologies: Design, Management and Practical Applications"
   url: /curriculum/07-Publicaciones-Libros/2010_libro_Springer_Terminological_Ontologies.pdf
   authors: J. LACASTA, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
-  publication: "Semantic Web and Beyond. Germany, Springer"
+  publication_book: "Semantic Web and Beyond. Germany, Springer"
   year: 2010
 # -------------------
 - title: "Semantic Selection of Georeferencing Services for Urban Management"
