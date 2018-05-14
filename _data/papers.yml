@@ -1,15 +1,6 @@
 # Importante: dentro de este fichero los artículos tienen que estar ordenados por año
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
-- title: "Autenticidad y aprendizaje basado en proyectos en una asignatura sobre diseño de software"
-  authors: R. BÉJAR, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA 
-  publication_conference: "XXIV Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2018), Barcelona, Spain, 4-6 July 2018"
-  year: 2018
-# -------------------
-- title: "Extensión de un proyecto Open Source con un proceso de pruebas bien asentado como modelo de aprendizaje para una asignatura de Verificación y Validación"
-  authors: J. NOGUERAS-ISO, M.Á. LATRE, J. LACASTA, F.J. LOPEZ-PELLICER, R. BÉJAR
-  publication_conference: "XXIV Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2018), Barcelona, Spain, 4-6 July 2018"
-  year: 2018
 # -------------------
 - title: "Multi-scale urban data models for early-stage suitability assessment of energy conservation measures in historic urban areas"
   url: https://doi.org/10.1016/j.enbuild.2017.12.061
@@ -26,6 +17,16 @@
   publication_detail: "vol. 32 nº 2 p. 282-301"
   year: 2018
   doi: 10.1080/13658816.2017.1393543
+# -------------------
+- title: "Autenticidad y aprendizaje basado en proyectos en una asignatura sobre diseño de software"
+  authors: R. BÉJAR, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA 
+  publication_conference: "XXIV Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2018), Barcelona, Spain, 4-6 July 2018"
+  year: 2018
+# -------------------
+- title: "Extensión de un proyecto Open Source con un proceso de pruebas bien asentado como modelo de aprendizaje para una asignatura de Verificación y Validación"
+  authors: J. NOGUERAS-ISO, M.Á. LATRE, J. LACASTA, F.J. LOPEZ-PELLICER, R. BÉJAR
+  publication_conference: "XXIV Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2018), Barcelona, Spain, 4-6 July 2018"
+  year: 2018
 # -------------------
 - title: "IDEZar: La Infraestructura de Datos Abiertos Espaciales del Ayuntamiento de Zaragoza (2004 - )"
   url: https://zaguan.unizar.es/record/60894?ln=es
