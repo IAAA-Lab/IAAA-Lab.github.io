@@ -2,6 +2,22 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
+- title: "Agricultural recommendation system for crop protection"
+  url: https://doi.org/10.1016/j.compag.2018.06.049
+  authors: J. LACASTA, F.J. LOPEZ-PELLICER, B. ESPEJO-GARCÍA, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication: "Computers and Electronics in Agriculture"
+  publication_detail: "vol. 152 p. 82-89"
+  year: 2018
+  doi: 10.1016/j.compag.2018.06.049
+# -------------------
+- title: "Machine learning for automatic rule classification of agricultural regulations: A case study in Spain"
+  url: https://doi.org/10.1016/j.compag.2018.05.007
+  authors: B. ESPEJO-GARCÍA, J. MARTINEZ-GUANTER, M. PEREZ-RUIZ, F.J. LOPEZ-PELLICER, F.J. ZARAZAGA-SORIA
+  publication: "Computers and Electronics in Agriculture"
+  publication_detail: "vol. 150 p. 343-352"
+  year: 2018
+  doi: 10.1016/j.compag.2018.05.007
+# -------------------
 - title: "Multi-scale urban data models for early-stage suitability assessment of energy conservation measures in historic urban areas"
   url: https://doi.org/10.1016/j.enbuild.2017.12.061
   authors: A. EGUSQUIZA, I. PRIETO, J. L. IZKARA, R. BÉJAR
