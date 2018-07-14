@@ -2,12 +2,6 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
-- title: "Barriers for the access to knowledge models in Linked Data cultural heritage collections"
-  url: https://dl.acm.org/citation.cfm?id=3230615
-  authors: D. DÍAZ-CORONA, J. LACASTA, J. NOGUERAS-ISO 
-  publication_conference: "Proceedings of the 5th Spanish Conference on Information Retrieval, Zaragoza, Spain, 26-27 June 2018"
-  year: 2018
-# -------------------
 - title: "Agricultural recommendation system for crop protection"
   url: https://doi.org/10.1016/j.compag.2018.06.049
   authors: J. LACASTA, F.J. LOPEZ-PELLICER, B. ESPEJO-GARCÍA, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
@@ -39,6 +33,12 @@
   publication_detail: "vol. 32 nº 2 p. 282-301"
   year: 2018
   doi: 10.1080/13658816.2017.1393543
+  # -------------------
+- title: "Barriers for the access to knowledge models in Linked Data cultural heritage collections"
+  url: https://dl.acm.org/citation.cfm?id=3230615
+  authors: D. DÍAZ-CORONA, J. LACASTA, J. NOGUERAS-ISO 
+  publication_conference: "Proceedings of the 5th Spanish Conference on Information Retrieval, Zaragoza, Spain, 26-27 June 2018"
+  year: 2018
 # -------------------
 - title: "Autenticidad y aprendizaje basado en proyectos en una asignatura sobre diseño de software"
   url: http://www.aenui.net/ojs/index.php?journal=actas_jenui&page=article&op=view&path%5B%5D=464&path%5B%5D=622
