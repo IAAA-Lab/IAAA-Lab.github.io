@@ -33,7 +33,13 @@
   publication_detail: "vol. 32 nº 2 p. 282-301"
   year: 2018
   doi: 10.1080/13658816.2017.1393543
-  # -------------------
+# -------------------
+- title: "Análisis de la anotación temática de los recursos culturales en la Web de Datos"
+  url: https://papiro.unizar.es/ojs/index.php/jji3a/article/view/2746
+  authors: D. DÍAZ-CORONA, J. LACASTA, J. NOGUERAS-ISO
+  publication_conference: "Actas de la VII Jornada de Jóvenes Investigadores del I3A, Zaragoza, Spain, 6 July 2018"
+  year: 2018
+# -------------------
 - title: "Barriers for the access to knowledge models in Linked Data cultural heritage collections"
   url: https://dl.acm.org/citation.cfm?id=3230615
   authors: D. DÍAZ-CORONA, J. LACASTA, J. NOGUERAS-ISO 
@@ -120,7 +126,7 @@
 - title: "Gestión colaborativa de modelos de ciudades 3D durante su ciclo de vida basadas en servicios en la nube"
   url: https://papiro.unizar.es/ojs/index.php/jji3a/article/view/1935
   authors: I. PRIETO-FURUNDARENA, J.L. IZKARA, R. BÉJAR
-  publication_conference: "Actas de la VI Jornada de Jóvenes Investigadores del I3A, Saragossa, Spain, 2 June 2017"
+  publication_conference: "Actas de la VI Jornada de Jóvenes Investigadores del I3A, Zaragoza, Spain, 2 June 2017"
   year: 2017
 # -------------------
 - title: "The quality of thesauri used in geographic metadata"
