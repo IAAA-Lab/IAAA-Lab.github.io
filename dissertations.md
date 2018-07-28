@@ -7,12 +7,12 @@ layout: phd_dissertations
 # Ongoing PhD Thesis
 
 - Business Intelligence and Open Data: an approach to the cost of error in the knowledge extraction from data published on the Web following a non-structured format. **Borja Espejo García**
-- Contributions based on cloud services to the problem of collaborative management of 3D city models during their life cycle. **Iñaki Prieto Furundarena**
 - Semantic models in historical resources collections. **Dayany Díaz Corona**
 - Software architectures to support the integration of real time, use-and-dispose data in geographic information infrastructures. **Yaneysy Villalba Beltrán**
 
 # PhD Thesis Recently Completed
 
+- Gestión colaborativa de modelos de ciudades 3D durante su ciclo de vida basada en servicios en la nube (*Cloud-based collaborative 3D city model management along their life cycle*). **Dr. Iñaki Prieto Furundarena**
 - Automatic reconstruction of itineraries from descriptive texts. **Dr. Ludovic Moncla**
 - Acceso semántico a servicios de información geográfica. **Dr. Walter Renteria-Agualimpia**
 - Contributions to the interoperability of hydrological information systems based on spatial data infrastructures. **Dr. Miguel Ángel Latre**
