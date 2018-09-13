@@ -58,6 +58,12 @@
   publication_conference: "XXIV Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2018), Barcelona, Spain, 4-6 July 2018"
   year: 2018
 # -------------------
+- title: "Hacia un software para el reconocimiento automático de talleres de imprenta desde la tipografía de los incunables"
+  url: https://congresolibroantiguo.weebly.com/
+  authors: J. NOGUERAS-ISO, M.J. PEDRAZA-GRACIA, H. NEJI, J. LACASTA
+  publication_conference: "III Congreso Internacional sobre Libro Medieval y Moderno, Zaragoza, Spain, 12-14 September 2018"
+  year: 2018
+# -------------------
 - title: "IDEZar: La Infraestructura de Datos Abiertos Espaciales del Ayuntamiento de Zaragoza (2004 - )"
   url: https://zaguan.unizar.es/record/60894?ln=es
   authors: M.J. FERNÁNDEZ RUÍZ, F.J. ZARAZAGA-SORIA
