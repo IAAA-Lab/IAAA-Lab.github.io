@@ -2,6 +2,14 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
+- title: "A method for checking the quality of geographic metadata based on ISO 19157"
+  url: https://doi.org/10.1080/13658816.2018.1515437
+  authors: M.A. UREÑA-CÁMARA, J. NOGUERAS-ISO, J. LACASTA, F.J. ARIZA-LÓPEZ
+  publication: "International Journal of Geographical Information Science"
+  publication_detail: "Available online"
+  year: 2018
+  doi: 10.1080/13658816.2018.1515437
+# -------------------
 - title: "Agricultural recommendation system for crop protection"
   url: https://doi.org/10.1016/j.compag.2018.06.049
   authors: J. LACASTA, F.J. LOPEZ-PELLICER, B. ESPEJO-GARCÍA, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
