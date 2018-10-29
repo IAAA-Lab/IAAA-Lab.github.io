@@ -66,6 +66,13 @@
   publication_conference: "INSPIRE Conference, Antwerpen, 18-21 September 2018"
   year: 2018
 # -------------------
+- title: "A continuous deployment-based approach for the collaborative creation, maintenance, testing and deployment of CityGML models"
+  url: http://www.tandfonline.com/doi/full/10.1080/13658816.2017.1393543
+  authors: I. PRIETO, J. L. IZKARA, R. BÉJAR
+  publication_conference: "XXIII Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2018), Sevilla, Spain, 17-19 September 2018"
+  publication_detail: "The paper already published with the same title was presented in the category of 'Relevant Contribution' in this conference"
+  year: 2018
+# -------------------
 - title: "Análisis de la anotación temática de los recursos culturales en la Web de Datos"
   url: https://papiro.unizar.es/ojs/index.php/jji3a/article/view/2746
   authors: D. DÍAZ-CORONA, J. LACASTA, J. NOGUERAS-ISO
