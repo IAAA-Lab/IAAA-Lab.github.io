@@ -42,6 +42,12 @@
   year: 2018
   doi: 10.1080/13658816.2017.1393543
 # -------------------
+- title: "SITMUN. Una plataforma de software libre y tenencia múltiple para la gestión territorial local"
+  url: http://www.jiide.org/Jiide-theme/programa/JIIDE2018_SITMUN.pdf
+  authors: R. BÉJAR, M. CODINACHS, R. COTS, X. GUAITA, M. LATORRE, F.J. LOPEZ-PELLICER, H. NUELL, G. PEIX, M. ROSÉS, J.SAEZ
+  publication_conference: "IX Jornadas Ibéricas de Infraestructuras de Datos Espaciales, Mahón, Spain, 17-19 October 2018"
+  year: 2018
+# -------------------
 - title: "Checking the completeness and consistency of geographic metadata is not enough: evolution towards smart contracts for checking accuracy and correctness"
   url: https://inspire.ec.europa.eu/events/conferences/inspire_2018/submissions/9.html
   authors: J. NOGUERAS-ISO, M.A. UREÑA-CÁMARA, J. LACASTA, F.J. ARIZA-LÓPEZ
