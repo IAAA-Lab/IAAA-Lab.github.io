@@ -2,13 +2,6 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
-- title: "Aggregation-based information retrieval system for geospatial data catalogs"
-  url: https://doi.org/10.1080/13658816.2017.1319949
-  authors: J. LACASTA, F.J. LOPEZ-PELLICER, B. ESPEJO-GARCÍA, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA 
-  publication_conference: "Proceedings of the XXIII Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2018) , Sevilla, Spain, 17-19 Septiembre 2018"
-  publication_detail: "(this paper, already published, was presented in the category of 'relevant contribution' in the conference)"
-  year: 2018
-# -------------------
 - title: "A method for checking the quality of geographic metadata based on ISO 19157"
   url: https://doi.org/10.1080/13658816.2018.1515437
   authors: M.A. UREÑA-CÁMARA, J. NOGUERAS-ISO, J. LACASTA, F.J. ARIZA-LÓPEZ
@@ -48,6 +41,13 @@
   publication_detail: "vol. 32 nº 2 p. 282-301"
   year: 2018
   doi: 10.1080/13658816.2017.1393543
+# -------------------
+- title: "Aggregation-based information retrieval system for geospatial data catalogs"
+  url: https://doi.org/10.1080/13658816.2017.1319949
+  authors: J. LACASTA, F.J. LOPEZ-PELLICER, B. ESPEJO-GARCÍA, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA 
+  publication_conference: "Proceedings of the XXIII Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2018) , Sevilla, Spain, 17-19 Septiembre 2018"
+  publication_detail: "(this paper, already published, was presented in the category of 'relevant contribution' in the conference)"
+  year: 2018
 # -------------------
 - title: "Avances en los identificadores persistentes INSPIRE en España"
   url: http://www.jiide.org/Jiide-theme/programa/JIIDE2018_PID_.pdf
