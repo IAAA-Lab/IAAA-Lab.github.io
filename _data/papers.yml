@@ -67,10 +67,28 @@
   publication_conference: "IX Jornadas Ibéricas de Infraestructuras de Datos Espaciales, Mahón, Spain, 17-19 October 2018"
   year: 2018
 # -------------------
+- title: "OGC ® GeoPackage como alternativa a GML y SHP Ejemplos y buenas prácticas"
+  url: http://www.idee.es/resources/presentaciones/JIIDE18/JIIDE2018_GeoPackage.pdf
+  authors: F.J. LOPEZ-PELLICER
+  publication_conference: "Foro OGC-ILAF. IX Jornadas Ibéricas de Infraestructuras de Datos Espaciales, Mahón, Spain, 17-19 October 2018"
+  year: 2018
+# -------------------
 - title: "Checking the completeness and consistency of geographic metadata is not enough: evolution towards smart contracts for checking accuracy and correctness"
   url: https://inspire.ec.europa.eu/events/conferences/inspire_2018/submissions/9.html
   authors: J. NOGUERAS-ISO, M.A. UREÑA-CÁMARA, J. LACASTA, F.J. ARIZA-LÓPEZ
   publication_conference: "INSPIRE Conference, Antwerpen, 18-21 September 2018"
+  year: 2018
+# -------------------
+- title: "Advances in Persistent Identifiers in Spain"
+  url: https://inspire.ec.europa.eu/events/conferences/inspire_2018/submissions/94.html
+  authors: F.J. LOPEZ-PELLICER, J. LÓPEZ DE LARRINZAR, J. GONZÁLEZ, F.J. ZARAZAGA-SORIA, E. LÓPEZ, P. ABAD, A.F. RODRÍGUEZ
+  publication_conference: "IX Jornadas Ibéricas de Infraestructuras de Datos Espaciales, Mahón, Spain, 17-19 October 2018"
+  year: 2018
+# -------------------
+- title: "SITMUN: An Open Source Multitenant SDI to help INSPIRE compliance"
+  url: https://inspire.ec.europa.eu/events/conferences/inspire_2018/submissions/84.html
+  authors: R. BÉJAR, M. CODINACHS, R. COTS, X. GUAITA, M. LATORRE, F.J. LOPEZ-PELLICER, H. NUELL, G. PEIX, M. ROSÉS, J.SAEZ
+  publication_conference: "IX Jornadas Ibéricas de Infraestructuras de Datos Espaciales, Mahón, Spain, 17-19 October 2018"
   year: 2018
 # -------------------
 - title: "A continuous deployment-based approach for the collaborative creation, maintenance, testing and deployment of CityGML models"
@@ -264,7 +282,7 @@
   url: http://inspire.ec.europa.eu/events/conferences/inspire_2016/schedule/submissions/258.html
   authors: F.J. LOPEZ-PELLICER, J. BARRERA, J. GONZÁLEZ, F.J. ZARAZAGA-SORIA, E. LÓPEZ, P. ABAD, A. RODRÍGUEZ
   publication_conference: "INSPIRE Conference, Barcelona, 26-30 September 2016"
-  year: 2016
+  year: 2016I
 # -------------------
 - title: "El desafío de los identificadores persistentes y accionables"
   url: http://www.jiide.org/Jiide-theme/resources/docs/pdf/articulos/09_art_IAAA_IdentificadoresPersistentesAccionables.pdf
@@ -275,6 +293,12 @@
 - title: "Hubs virtuales para facilitar el acceso y la reutilización de información geográfica abierta"
   url: http://www.jiide.org/Jiide-theme/resources/docs/pdf/13_UniZaragoza_HubsVirtuales.pdf
   authors: M.Á. LATRE, F.J. LOPEZ-PELLICER, N. KAMALI, M. PREVITALI, R. BRUMANA, H. KUECHLY, P. MAZZETTI, S. NATIVI
+  publication_conference: "VII Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2016), Barcelona, 27-30 de septiembre de 2016"
+  year: 2016
+# -------------------
+- title: "El observatorio transfronterizo OTALEX-C responde ante el reto de los datos abiertos, enlazados, sensorizados e inteligentes"
+  url: http://www.idee.es/resources/presentaciones/JIIDE16/2016/PDFpresentaciones/29_CNIG_AvancesOTALEXC.pdf
+  authors: P. VIVAS, O. CORCHO, J. BARRERA, F.J. LOPEZ-PELLICER, F. CEBALLOS, R. ÁLVAREZ, T. BATISTA, J. MATEUS
   publication_conference: "VII Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2016), Barcelona, 27-30 de septiembre de 2016"
   year: 2016
 # -------------------
@@ -483,12 +507,6 @@
   publication_detail: "p. 325-339. ISSN 0302-9743"
   year: 2014
 # -------------------
-- title: "Servicios Basados en la Localización en Entornos SIN Cobertura 3G"
-  url: http://www.idee.es/resources/presentaciones/JIIDE14/20141106/ServiciosBasadosLocalizacion_presentacion.pdf
-  authors: R. PALLÁS, J. LÓPEZ-DE-LARRÍNZAR, R. BLASCO, J. CASCÁN-FERNÁNDEZ, R. PIEDRAFITA
-  publication_conference: "V Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2014), Lisboa, 5-7 de noviembre de 2014"
-  year: 2014
-# -------------------
 - title: "Improving the visibility of geospatial data on the Web"
   url: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6970162
   authors: J. LACASTA, J. LOPEZ-PELLICER, W. RENTERIA-AGUALIMPIA, J. NOGUERAS-ISO
@@ -496,16 +514,16 @@
   publication_detail: "p. 155-164"
   year: 2014
 # -------------------
-- title: "Linked Map: maps, Linked Data and INSPIRE"
-  url: http://inspire.ec.europa.eu/events/conferences/inspire_2014/schedule/submissions/93.html
-  authors: F.J. LOPEZ-PELLICER, J. LACASTA, W. RENTERIA-AGUALIMPIA, J. BARRERA, J. LÓPEZ-DE-LARRÍNZAR, J.M. AGUDO
-  publication_conference: "INSPIRE Conference 2014, Infrastructure for Spatial Information in the European Community, Aalborg, Denmark, 18-20 June 2014"
-  year: 2014
-# -------------------
 - title: "Geocoding for texts with fine-grain toponyms: an experiment on a geoparsed hiking descriptions corpus"
   url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2014_ACMSIGSPATIAL_Geocoding.pdf
   authors: L. MONCLA, W. RENTERIA-AGUALIMPIA, J. NOGUERAS-ISO, M. GAIO
   publication_conference: "Proceedings of 22nd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2014), Dallas, Texas, USA, November 4-7, 2014"
+  year: 2014
+# -------------------
+- title: "Linked Map: maps, Linked Data and INSPIRE"
+  url: http://inspire.ec.europa.eu/events/conferences/inspire_2014/schedule/submissions/93.html
+  authors: F.J. LOPEZ-PELLICER, J. LACASTA, W. RENTERIA-AGUALIMPIA, J. BARRERA, J. LÓPEZ-DE-LARRÍNZAR, J.M. AGUDO
+  publication_conference: "INSPIRE Conference 2014, Infrastructure for Spatial Information in the European Community, Aalborg, Denmark, 18-20 June 2014"
   year: 2014
 # -------------------
 - title: "BDD, ISO 19105 and INSPIRE Network Services Conformance"
@@ -528,9 +546,26 @@
   publication_detail: "p. 141-148"
   year: 2014
 # -------------------
+- title: "Servicios Basados en la Localización en Entornos SIN Cobertura 3G"
+  url: http://www.idee.es/resources/presentaciones/JIIDE14/20141106/ServiciosBasadosLocalizacion_presentacion.pdf
+  authors: R. PALLÁS, J. LÓPEZ-DE-LARRÍNZAR, R. BLASCO, J. CASCÁN-FERNÁNDEZ, R. PIEDRAFITA
+  publication_conference: "V Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2014), Lisboa, 5-7 de noviembre de 2014"
+  year: 2014
+# -------------------
+- title: "Upgrading maps with Linked Data"
+  url: http://www.idee.es/resources/presentaciones/JIIDE14/20141106/LinkedMap_presentacion.pdf
+  authors: F.J. LOPEZ-PELLICER, J. LACASTA, W. RENTERIA-AGUALIMPIA, J. BARRERA, J. LÓPEZ-DE-LARRÍNZAR, J.M. AGUDO
+  publication_conference: "V Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2014), Lisboa, 5-7 de noviembre de 2014"
+  year: 2014
+# -------------------
 - title: "Integración de la semántica en las IDE: el callejero semántico de IDEZar"
   authors: M.J. PÉREZ-PÉREZ, J. LÓPEZ-DE-LARRÍNZAR, M.J. FERNÁNDEZ-RUIZ, V. MORLÁN, P. RODRIGO-CARDIEL, M. USÓN
   publication_conference: "V Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2014), Lisboa, 5-7 de noviembre de 2014"
+  year: 2014
+# -------------------
+- title: "Una experiencia de interoperabilidad ISO-OGC-W3C-IETF"
+  authors: F.J. LOPEZ-PELLICER
+  publication_conference: "Foro OGC-ILAF. V Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2014), Lisboa, 5-7 de noviembre de 2014"
   year: 2014
 # -------------------
 - title: "A Workflow for the Semi-Automatic Generation of Low Cost 3D City Models"
@@ -606,8 +641,8 @@
   url_oficial: http://dx.doi.org/10.1145/2479787.2479812
   comments:
 # -------------------
-- title: "Verificación inteligible de la conformidad de los Servicios de Red en INSPIRE"
-  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2013_JIIDE_Verificacion.pdf
+- title: "Una aplicación inteligible de validaciónd de servicios INSPIRE"
+  url: http://www.idee.es/resources/presentaciones/JIIDE13/jueves/25_una%20aplicacion%20inteligible%20Verificaci%C3%B3n_INSPIRE_presentacion.pdf
   authors: F.J. LOPEZ-PELLICER, J. BARRERA, A. RODRÍGUEZ-PASCUAL, P. ABAD-POWER, J. AGUDO, F.J. ZARAZAGA-SORIA
   publication_conference: "IV Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2013), Toledo, 13-15 de noviembre de 2013"
   year: 2013
