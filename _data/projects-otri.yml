@@ -10,8 +10,8 @@
     organization_url: http://www.aragon.es
   - organization: Unión Europea (Fondo Europeo Agrícola de Desarrollo Rural, FEADER)
     organization_url: http://ec.europa.eu/regional_policy/es/policy/what/glossary/e/european-agricultural-fund-for-rural-development    
-  url: http://www.go-alfalfa.es/
-  reference: GGO2017C01100
+  url: https://www.agroslab.com/agroslab-go/
+  reference: GCP2018001800
   years: 2018-2020
   main_researcher: F.J. Zarazaga-Soria
 - title: “Trazabilidad y calidad de la Alfalfa en Aragón”
@@ -26,8 +26,8 @@
     organization_url: http://www.aragon.es
   - organization: Unión Europea (Fondo Europeo Agrícola de Desarrollo Rural, FEADER)
     organization_url: http://ec.europa.eu/regional_policy/es/policy/what/glossary/e/european-agricultural-fund-for-rural-development    
-  url: https://www.agroslab.com/agroslab-go/
-  reference: GCP2018001800
+  url: http://www.go-alfalfa.es/
+  reference: GGO2017C01100
   years: 2018-2020
   main_researcher: F.J. Zarazaga-Soria
 - title: "Trabajos de diseño de procesos para facilitar la gestión de proyectos SIG de código libre"
