@@ -18,6 +18,14 @@
   year: 2018
   doi: 10.1016/j.compag.2018.06.049
 # -------------------
+- title: "A brokered Virtual Hub approach for the generation of web applications based on historical maps"
+  url: https://doi.org/10.1007/s12518-018-0235-1
+  authors: M. PREVITALI, M.Á. LATRE
+  publication: "Applied Geomatics"
+  publication_detail: "p. 1-20"
+  year: 2018
+  doi: 10.1007/s12518-018-0235-1
+# -------------------
 - title: "Machine learning for automatic rule classification of agricultural regulations: A case study in Spain"
   url: https://doi.org/10.1016/j.compag.2018.05.007
   authors: B. ESPEJO-GARCÍA, J. MARTINEZ-GUANTER, M. PEREZ-RUIZ, F.J. LOPEZ-PELLICER, F.J. ZARAZAGA-SORIA
