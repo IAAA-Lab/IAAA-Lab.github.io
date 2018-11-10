@@ -1,3 +1,35 @@
+- title: "Logística Automatizada en la Nube para el Seguimiento y Control del Transporte y Aplicación de Purines"
+  organizations:
+  - organization: GRUPO ARCOIRIS
+    organization_url: http://www.grupoarcoiris.com
+  - organization: 7eData
+    organization_url: http://7edata.com
+  - organization: Cooperativas Agro-alimentarias de Aragón, FACA
+    organization_url: http://www.faca.es
+  - organization: Gobierno de Aragón (Departamento de Desarrollo Rural y Sostenibilidad, programas PDR)
+    organization_url: http://www.aragon.es
+  - organization: Unión Europea (Fondo Europeo Agrícola de Desarrollo Rural, FEADER)
+    organization_url: http://ec.europa.eu/regional_policy/es/policy/what/glossary/e/european-agricultural-fund-for-rural-development    
+  url: https://www.agroslab.com/agroslab-go/
+  reference: GCP2018001800
+  years: 2018-2020
+  main_researcher: F.J. Zarazaga-Soria
+- title: "Trazabilidad y calidad de la Alfalfa en Aragón"
+  organizations:
+  - organization: Cooperativa Comarcal del Campo Virgen De La Corona
+    organization_url: http://www.covico.es/
+  - organization: Sociedad Cooperativa Agraria San Licer
+    organization_url: http://www.coopdezuera.es
+  - organization: Sociedad Cooperativa Agraria San Lamberto
+    organization_url: http://www.coop-sanlamberto.com/
+  - organization: Gobierno de Aragón (Departamento de Desarrollo Rural y Sostenibilidad, programas PDR)
+    organization_url: http://www.aragon.es
+  - organization: Unión Europea (Fondo Europeo Agrícola de Desarrollo Rural, FEADER)
+    organization_url: http://ec.europa.eu/regional_policy/es/policy/what/glossary/e/european-agricultural-fund-for-rural-development    
+  url: http://www.go-alfalfa.es/
+  reference: GGO2017C01100
+  years: 2018-2020
+  main_researcher: F.J. Zarazaga-Soria
 - title: "Trabajos de diseño de procesos para facilitar la gestión de proyectos SIG de código libre"
   organizations:
   - organization: Diputació de Barcelona
@@ -26,6 +58,8 @@
     organization_url: http://www.biothekecologic.com
   - organization: Gobierno de Aragón (Departamento de Desarrollo Rural y Sostenibilidad, programas PDR)
     organization_url: http://www.aragon.es
+  - organization: Unión Europea (Fondo Europeo Agrícola de Desarrollo Rural, FEADER)
+    organization_url: http://ec.europa.eu/regional_policy/es/policy/what/glossary/e/european-agricultural-fund-for-rural-development    
   reference: GGO2017C00300
   years: 2017-2017
   main_researcher: F.J. Zarazaga-Soria
@@ -39,6 +73,8 @@
     organization_url: http://www.coop-sanlamberto.com/
   - organization: Gobierno de Aragón (Departamento de Desarrollo Rural y Sostenibilidad, programas PDR)
     organization_url: http://www.aragon.es
+  - organization: Unión Europea (Fondo Europeo Agrícola de Desarrollo Rural, FEADER)
+    organization_url: http://ec.europa.eu/regional_policy/es/policy/what/glossary/e/european-agricultural-fund-for-rural-development    
   url: http://www.go-alfalfa.es/
   reference: GGO2017C01100
   years: 2017-2017
@@ -63,6 +99,8 @@
     organization_url: http://www.asajahuesca.es/
   - organization: Gobierno de Aragón (Departamento de Desarrollo Rural y Sostenibilidad, programas PDR)
     organization_url: http://www.aragon.es
+  - organization: Unión Europea (Fondo Europeo Agrícola de Desarrollo Rural, FEADER)
+    organization_url: http://ec.europa.eu/regional_policy/es/policy/what/glossary/e/european-agricultural-fund-for-rural-development    
   reference: GCP2016003500
   years: 2016-2018
   main_researcher: F.J. Zarazaga-Soria
@@ -73,6 +111,8 @@
     organization_url: http://www.asajahuesca.es/
   - organization: Gobierno de Aragón (Departamento de Desarrollo Rural y Sostenibilidad, programas PDR)
     organization_url: http://www.aragon.es
+  - organization: Unión Europea (Fondo Europeo Agrícola de Desarrollo Rural, FEADER)
+    organization_url: http://ec.europa.eu/regional_policy/es/policy/what/glossary/e/european-agricultural-fund-for-rural-development    
   reference: GCP2016004201
   years: 2016-2018
   main_researcher: F.J. Zarazaga-Soria
