@@ -32,7 +32,7 @@ El jurado estará compuesto por los siguientes miembros:
 - Francisco Javier Ariza López, Departamento de Ingeniería Cartográfica, Geodésica y Fotogrametría, Director del Grupo de Investigación en Ingeniería Cartográfica, Universidad de Jaén.
 - Javier Nogueras-Iso, Departamento de Informática e Ingeniería de Sistemas, Subdirector TIC del Instituto de Investigación en Ingeniería de Aragón, Universidad de Zaragoza.
 - Joaquín Huerta Guijarro, Departamento de Lenguajes y Sistemas Informáticos, Director del Geotec Research, Universitat Jaume I.
-- José Ramón Ríos Viqueira, Departamento de Electrónica e Computación, Universidade de Santiago de Compostela.
+- José Ramón Ríos Viqueira, Centro Singular de Investigación en Tecnoloxías da Información (CiTIUS), Universidade de Santiago de Compostela.
 - Miguel Ángel Manso Callejo, Departamento de Ingeniería Topográfica y Cartografía, Director del Grupo Mercator, Universidad Politécnica de Madrid.
 - Miguel Ángel Rodríguez Luaces, Departamento de Computación, Coordinador del Máster Universitario en Geoinformática, Universidade da Coruña.
 
