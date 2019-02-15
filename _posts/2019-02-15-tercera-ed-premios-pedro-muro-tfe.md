@@ -40,7 +40,7 @@ El jurado estará compuesto por los siguientes miembros:
 Los criterios de valoración de las candidaturas para la concesión del premio comprenderán:
 
 - La capacidad de la propuesta para transmitir con rigor, extensión y claridad los contenidos del TFE (máximo 30 puntos).
-- La calidad e innovación de los elementos que configuran la propuesta en sí mismos y su presentación (máximo 30 puntos).
+- La calidad e innovación de los elementos que configuran la propuesta y su presentación (máximo 30 puntos).
 - La contribución del TFE al estado del arte y/o su posibilidad de implementación (máximo 40 puntos).
 
 # Fallo
