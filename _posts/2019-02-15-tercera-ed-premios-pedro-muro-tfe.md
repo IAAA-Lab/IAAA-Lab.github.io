@@ -4,7 +4,7 @@ subtitle: A trabajos de fin de estudios en el ámbito de las Infraestructuras de
 layout: post
 image: /images/posts/Pedro_Muro.jpg
 ---
-El [Grupo de Sistemas de Información Avanzados]({{ site.baseurl }}/) y el [Instituto de Investigación en Ingeniería de Aragón](http://i3a.unizar.es) abren la convocatoria para los premios a los trabajos de fin de estudios **defendidos en cualquier universidad española entre el 1 de enero de 2018 y el 31 de diciembre de 2018** que más aporten al desarrollo y utilización de tecnologías y estándares abiertos vinculados a las Infraestructuras de Datos Espaciales.
+El [Grupo de Sistemas de Información Avanzados]({{ site.baseurl }}/) y el [Instituto de Investigación en Ingeniería de Aragón](http://i3a.unizar.es) abren la convocatoria para los premios a los trabajos de fin de estudios **defendidos en cualquier universidad española entre el 1 de enero de 2018 y el 31 de diciembre de 2018** que más aporten al desarrollo y utilización de tecnologías y estándares abiertos vinculados a las Infraestructuras de Datos Espaciales (IDE).
 
 # Objetivo y participantes
 El objetivo de estos premios es fomentar y apoyar la realización de trabajos de aplicación o investigación relacionados con tecnologías y estándares abiertos vinculados a las infraestructuras de datos espaciales.
@@ -41,7 +41,7 @@ Los criterios establecidos de valoración de las candidaturas para la concesión
 
 - La capacidad de la propuesta para transmitir con rigor, extensión y claridad los contenidos del TFE (máximo 30 puntos).
 - La calidad e innovación de los elementos que configuran la propuesta y su presentación (máximo 30 puntos).
-- La contribución del TFE al estado del arte y/o su posibilidad de implementación (máximo 40 puntos).
+- La contribución del TFE al desarrollo de las IDE y su posibilidad de implementación (máximo 40 puntos).
 
 # Fallo
 El jurado, por suma de las puntuaciones asignadas de acuerdo con los criterios anteriores, concederá dos premios: un primer premio y un accésit que corresponderán con los TFE que hayan obtenido las dos puntuaciones más altas entre los presentados. Si a juicio del Jurado no hay dos de los TFE presentados que reúnan la calidad mínima exigible o cubran satisfactoriamente el objeto de la convocatoria, cualquiera de los dos premios o los dos pueden declararse desiertos.
