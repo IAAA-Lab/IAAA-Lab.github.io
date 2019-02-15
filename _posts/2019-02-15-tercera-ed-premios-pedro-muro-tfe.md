@@ -4,7 +4,7 @@ subtitle: A trabajos de fin de estudios en el ámbito de las Infraestructuras de
 layout: post
 image: /images/posts/Pedro_Muro.jpg
 ---
-El [Grupo de Sistemas de Información Avanzados]({{ site.baseurl }}/) y el [Instituto de Investigación en Ingeniería de Aragón](http://i3a.unizar.es) abren la convocatoria para los premios a los trabajos de fin de estudios **defendidos en cualquier universidad española entre el 1 de enero de 2018 y el 31 de diciembre de 2018** que más aporten al desarrollo y utilización de tecnologías y estándares abiertos vinculados a las Infraestructuras de Datos Espaciales (IDE). 
+El [Grupo de Sistemas de Información Avanzados]({{ site.baseurl }}/) y el [Instituto de Investigación en Ingeniería de Aragón](http://i3a.unizar.es) abren la convocatoria para los premios a los trabajos de fin de estudios **defendidos en cualquier universidad española entre el 1 de enero de 2018 y el 31 de diciembre de 2018** que más aporten al desarrollo y utilización de tecnologías y estándares abiertos vinculados a las Infraestructuras de Datos Espaciales (IDE).
 
 # Objetivo y participantes
 El objetivo de estos premios es fomentar y apoyar la realización de trabajos de aplicación o investigación relacionados con tecnologías y estándares abiertos vinculados a las infraestructuras de datos espaciales.
