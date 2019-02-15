@@ -25,7 +25,7 @@ Se deberá adjuntar al correo:
 # Jurado
 El jurado estará compuesto por los siguientes miembros:
 
-- Amparo Nuñez Andrés, Departamento de Ingeniería Civil y Ambiental, Universitat Politécnica de Catalunya.
+- Amparo Núñez Andrés, Departamento de Ingeniería Civil y Ambiental, Universitat Politècnica de Catalunya.
 - Ángel Pueyo Campos, Departamento de Geografía y Ordenación del Territorio, Director del Grupo de Estudio en Ordenación del Territorio, Universidad de Zaragoza.
 - Antonio F. Rodríguez Pascual, Subdirector adjunto del Centro Nacional de Información Geográfica, Instituto Geográfico Nacional de España.
 - F. Javier Zarazaga-Soria, Departamento de Informática e Ingeniería de Sistemas, Director del Grupo de Sistemas de Información Avanzados, Universidad de Zaragoza.
