@@ -4,7 +4,7 @@ subtitle: A trabajos de fin de estudios en el ámbito de las Infraestructuras de
 layout: post
 image: /images/posts/Pedro_Muro.jpg
 ---
-El [Grupo de Sistemas de Información Avanzados]({{ site.baseurl }}/) y el [Instituto de Investigación en Ingeniería de Aragón](http://i3a.unizar.es) abren la convocatoria para los premios a los trabajos de fin de estudios **defendidos en cualquier universidad española entre el 1 de enero de 2018 y el 31 de diciembre de 2018** que mejor hayan sido valorados en términos de aportación al desarrollo y utilización de tecnologías y estándares abiertos vinculados a las Infraestructuras de Datos Espaciales.
+El [Grupo de Sistemas de Información Avanzados]({{ site.baseurl }}/) y el [Instituto de Investigación en Ingeniería de Aragón](http://i3a.unizar.es) abren la convocatoria para los premios a los trabajos de fin de estudios **defendidos en cualquier universidad española entre el 1 de enero de 2018 y el 31 de diciembre de 2018** que más aporten al desarrollo y utilización de tecnologías y estándares abiertos vinculados a las Infraestructuras de Datos Espaciales.
 
 # Objetivo y participantes
 El objetivo de estos premios es fomentar y apoyar la realización de trabajos de aplicación o investigación relacionados con tecnologías y estándares abiertos vinculados a las infraestructuras de datos espaciales.
@@ -13,12 +13,12 @@ Los premios están dirigidos a quienes hayan defendido su trabajo de fin de estu
 # Presentación de propuestas, plazos y documentación a presentar
 **El plazo de recepción de los TFE se inicia el 15 de febrero de 2019 y concluye el 30 de marzo de 2019 a las 14:00 horas.**
 
-Las solicitudes para optar al premio deberán enviarse a la siguiente dirección de correo electrónico: <iaaa@unizar.es> indicando &laquo;Premio TFE&raquo; como asunto del correo electrónico.
+Las solicitudes para optar al premio deberán enviarse a la siguiente dirección de correo electrónico: <iaaa@unizar.es> indicando &laquo;Premio TFE&raquo; como asunto.
 
 Se deberá adjuntar al correo:
 
 - El formulario correspondiente (según [este modelo]({{site.baseurl}}/downloads/Hoja_Solicitud_Premio_Pedro_Muro_TFE.odt)) debidamente cumplimentado y firmado.
-- Resumen ejecutivo del TFE incidiendo en el objetivo, conclusiones, principales aportaciones, así como la justificación de que el trabajo realizado se encuadra dentro de las &laquo;tecnologías y estándares abiertos vinculados a las Infraestructuras de Datos Espaciales&raquo; (máximo 3.000 caracteres).
+- Resumen ejecutivo del TFE incidiendo en el objetivo, conclusiones, principales aportaciones, así como la justificación de que el trabajo realizado se encuadra dentro de las &laquo;tecnologías y estándares abiertos vinculados a las Infraestructuras de Datos Espaciales&raquo; (máximo 3000 caracteres).
 - Enlace a un repositorio de descarga que permita acceder a la memoria del TFE.
 - Un breve *curriculum vitae* del candidato o candidata (máximo 2 páginas).
 
@@ -28,16 +28,16 @@ El jurado estará compuesto por los siguientes miembros:
 - Amparo Núñez Andrés, Departamento de Ingeniería Civil y Ambiental, Universitat Politècnica de Catalunya.
 - Ángel Pueyo Campos, Departamento de Geografía y Ordenación del Territorio, Director del Grupo de Estudio en Ordenación del Territorio, Universidad de Zaragoza.
 - Antonio F. Rodríguez Pascual, Subdirector adjunto del Centro Nacional de Información Geográfica, Instituto Geográfico Nacional de España.
-- F. Javier Zarazaga-Soria, Departamento de Informática e Ingeniería de Sistemas, Director del Grupo de Sistemas de Información Avanzados, Universidad de Zaragoza.
+- F. Javier Zarazaga Soria, Departamento de Informática e Ingeniería de Sistemas, Director del Grupo de Sistemas de Información Avanzados, Universidad de Zaragoza.
 - Francisco Javier Ariza López, Departamento de Ingeniería Cartográfica, Geodésica y Fotogrametría, Director del Grupo de Investigación en Ingeniería Cartográfica, Universidad de Jaén.
-- Javier Nogueras-Iso, Departamento de Informática e Ingeniería de Sistemas, Subdirector TIC del Instituto de Investigación en Ingeniería de Aragón, Universidad de Zaragoza.
+- Javier Nogueras Iso, Departamento de Informática e Ingeniería de Sistemas, Subdirector TIC del Instituto de Investigación en Ingeniería de Aragón, Universidad de Zaragoza.
 - Joaquín Huerta Guijarro, Departamento de Lenguajes y Sistemas Informáticos, Director del Geotec Research, Universitat Jaume I.
 - José Ramón Ríos Viqueira, Centro Singular de Investigación en Tecnoloxías da Información (CiTIUS), Universidade de Santiago de Compostela.
 - Miguel Ángel Manso Callejo, Departamento de Ingeniería Topográfica y Cartografía, Director del Grupo Mercator, Universidad Politécnica de Madrid.
 - Miguel Ángel Rodríguez Luaces, Departamento de Computación, Coordinador del Máster Universitario en Geoinformática, Universidade da Coruña.
 
 # Criterios de valoración
-Los criterios de valoración de las candidaturas para la concesión del premio comprenderán:
+Los criterios establecidos de valoración de las candidaturas para la concesión del premio comprenden:
 
 - La capacidad de la propuesta para transmitir con rigor, extensión y claridad los contenidos del TFE (máximo 30 puntos).
 - La calidad e innovación de los elementos que configuran la propuesta y su presentación (máximo 30 puntos).
