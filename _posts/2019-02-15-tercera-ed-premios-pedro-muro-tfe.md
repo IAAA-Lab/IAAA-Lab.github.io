@@ -44,11 +44,11 @@ Los criterios establecidos de valoración de las candidaturas para la concesión
 - La contribución del TFE al estado del arte y/o su posibilidad de implementación (máximo 40 puntos).
 
 # Fallo
-El jurado, por suma de las puntuaciones asignadas de acuerdo con los criterios anteriores, concederá dos premios: un primer premio y un accésit que corresponderán con los TFE que hayan obtenido las dos puntuaciones más altas entre los presentados. Si a juicio del Jurado ninguno de los TFE presentados reunieran la calidad mínima exigible o no cubrieran satisfactoriamente el objeto de la convocatoria, el/los Premio/s podrá/n declararse desierto/s.
+El jurado, por suma de las puntuaciones asignadas de acuerdo con los criterios anteriores, concederá dos premios: un primer premio y un accésit que corresponderán con los TFE que hayan obtenido las dos puntuaciones más altas entre los presentados. Si a juicio del Jurado no hay dos de los TFE presentados que reúnan la calidad mínima exigible o cubran satisfactoriamente el objeto de la convocatoria, cualquiera de los dos premios o los dos pueden declararse desiertos.
 
-Los premios se fallarán en una acto que está previsto que se celebre en el Ayuntamiento de Zaragoza dentro de la celebración de los 15 años de la [IDEZar](https://www.zaragoza.es/ciudad/idezar), en fechas todavía por concretar. En el caso de que hubiera alguna modificación se notificaría convenientemente a todos los interesados. Para la entrega de los premios se aplicará lo establecido en el vigente Reglamento de Impuesto de la Renta de las Personas Físicas, aprobado en el RD 1841/91 del 30 de diciembre de 1991 y demás disposiciones concordantes.
+El fallo se dará a conocer en un acto en el que se realizará la entrega de premios que está previsto que se celebre en el Ayuntamiento de Zaragoza dentro de la celebración de los 15 años de la [IDEZar](https://www.zaragoza.es/ciudad/idezar), en fechas todavía por concretar. En el caso de que hubiera alguna modificación se notificaría convenientemente a todos los interesados. Para la entrega de los premios se aplicará lo establecido en el vigente Reglamento de Impuesto de la Renta de las Personas Físicas, aprobado en el RD 1841/91 del 30 de diciembre de 1991 y demás disposiciones concordantes.
 
-El fallo del jurado será inapelable, ordenando así mismo las acciones de difusión y publicidad del resultado que, en cada caso, se consideren convenientes.
+El fallo del jurado será inapelable. Se realizarán las acciones de difusión y publicidad del resultado que se consideren convenientes.
 
 # Dotación económica
 El primer premio concedido estará dotado con 500 € y un diploma acreditativo, mientras que el accésit estará dotado con 300 € y un diploma acreditativo.
