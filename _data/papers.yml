@@ -714,6 +714,7 @@
   year: 2012
 # -------------------
 - title: "Availability of the OGC geoprocessing standard: March 2011 reality check"
+  url: https://doi.org/10.1016/j.cageo.2011.10.023
   authors: F.J. LOPEZ-PELLICER, W. RENTERIA-AGUALIMPIA, R. BÉJAR, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
   publication: "Computers and Geosciences"
   publication_detail: "vol. 47 p. 13-19"
@@ -722,6 +723,7 @@
   url_oficial: http://dx.doi.org/10.1016/j.cageo.2011.10.023
 # -------------------
 - title: "Identifying Orthoimages in Web Map Services"
+  url: http://dx.doi.org/10.1016/j.cageo.2011.10.017
   authors: A.J. FLORCZYK, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA, R. BÉJAR
   publication: "Computers and Geosciences"
   publication_detail: "vol. 47 p. 130-142"
@@ -740,6 +742,7 @@
   url_oficial: http://dx.doi.org/10.1016/j.csi.2011.10.001
 # -------------------
 - title: "An Ontology for the representation of Spatio-Temporal Jurisdictional Domains in Information Retrieval Systems"
+  url: http://www.tandfonline.com/doi/abs/10.1080/13658816.2011.599811
   authors: F.J. LOPEZ-PELLICER, J. LACASTA, A. FLORCZYK, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
   publication: "International Journal of Geographical Information Science"
   publication_detail: "vol. 26 nº 4 p. 579-597"
