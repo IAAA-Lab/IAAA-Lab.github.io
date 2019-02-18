@@ -2,6 +2,14 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
+- title: "Development of an open sensorized platform in a smart agriculture context: A vineyard support system for monitoring mildew disease"
+  url: https://doi.org/10.1016/j.suscom.2019.01.011
+  authors: S. TRILLES, J. TORRES-SOSPEDRA, Ó. BELMONTE, F. J. ZARAZAGA-SORIA, A. GONZÁLEZ-PÉREZ, J. HUERTA
+  publication: "Sustainable Computing: Informatics and Systems"
+  publication_detail: "Available online 24 January 2019"
+  year: 2019
+  doi: 10.1016/j.suscom.2019.01.011
+# -------------------
 - title: "A method for checking the quality of geographic metadata based on ISO 19157"
   url: https://doi.org/10.1080/13658816.2018.1515437
   authors: M.A. UREÑA-CÁMARA, J. NOGUERAS-ISO, J. LACASTA, F.J. ARIZA-LÓPEZ
@@ -680,6 +688,12 @@
   publication_conference: "IV Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE'2013), Toledo, 13-15 de noviembre de 2013"
   year: 2013
 # -------------------
+- title: "Search improvement within the geospatial web in the context of spatial data infrastructures. PhD Dissertation"
+  url: http://zaguan.unizar.es/record/10347/files/TESIS-2013-035.pdf
+  authors: A.J. FLORCZYK
+  publication_dissertation: "Zaragoza: Universidad de Zaragoza"
+  year: 2012
+# -------------------
 - title: "Providing semantic links to the Invisible Geospatial Web"
   url: /curriculum/07-Publicaciones-Libros/2012_libro_PrensasUZ_Providing.pdf
   authors: F.J. LOPEZ-PELLICER, R. BÉJAR, F. JAVIER ZARAZAGA-SORIA
@@ -690,12 +704,6 @@
   url: /curriculum/07-Publicaciones-Libros/2012_libro_PrensasUZ_Architectural.pdf
   authors: R. BÉJAR, J. NOGUERAS-ISO, P.R. MURO-MEDRANO
   publication: "Zaragoza: Universidad de Zaragoza. Notes in Geoinforrnatics Research/Cuadernos de Investigación en Geoinformática"
-  year: 2012
-# -------------------
-- title: "Search improvement within the geospatial web in the context of spatial data infrastructures. PhD Dissertation"
-  url: http://zaguan.unizar.es/record/10347/files/TESIS-2013-035.pdf
-  authors: A.J. FLORCZYK
-  publication_dissertation: "Zaragoza: Universidad de Zaragoza"
   year: 2012
 # -------------------
 - title: "The Delft Report: Linked Data and the challenges for geographic information standardization"
