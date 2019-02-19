@@ -6,6 +6,15 @@ image: /images/posts/Pedro_Muro.jpg
 ---
 El [Grupo de Sistemas de Información Avanzados]({{ site.baseurl }}/) y el [Instituto de Investigación en Ingeniería de Aragón](http://i3a.unizar.es) abren la convocatoria para los premios a los trabajos de fin de estudios **defendidos en cualquier universidad española entre el 1 de enero de 2017 y el 31 de diciembre de 2017** que mejor hayan sido valorados en términos de aportación al desarrollo y utilización de tecnologías y estándares abiertos vinculados a las Infraestructuras de Datos Espaciales.
 
+---
+#### Ganadores del premio
+
+El **primer premio** se concedió a D. Iván Moya Honduvilla por el proyecto titulado "GeoCoder para CartoCiudad" realizado en la Universidad Politécnica de Madrid, y el **accésit** a D. David Gayán Asensio por el proyecto titulado "Integración y visualización de mapas históricos" realizado en la Universidad de Zaragoza.
+
+*(Actualizado el 19 de febrero de 2019)*
+
+---
+
 # Objetivo y participantes
 El objetivo de estos premios es fomentar y apoyar la realización de trabajos de aplicación o investigación relacionados con tecnologías y estándares abiertos vinculados a las infraestructuras de datos espaciales.
 Los premios están dirigidos a quienes hayan defendido su trabajo de fin de estudios entre el 1 de enero de 2017 y el 31 de diciembre de 2017 en cualquier titulación de cualquier universidad española. El término trabajo de fin de estudios, en adelante TFE, engloba tanto a trabajos de fin de grado como proyectos fin de carrera o trabajos de fin de máster.

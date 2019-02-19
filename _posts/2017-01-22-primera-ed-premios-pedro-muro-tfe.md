@@ -5,6 +5,15 @@ layout: post
 ---
 El [Grupo de Sistemas de Información Avanzados]({{ site.baseurl }}/) y el [Instituto de Investigación en Ingeniería de Aragón](http://i3a.unizar.es) abren la convocatoria para los premios a los trabajos de fin de estudios **defendidos en cualquier universidad española entre el 1 de octubre de 2015 y el 31 de diciembre de 2016** que mejor hayan sido valorados en términos de aportación al desarrollo y utilización de tecnologías que exploten las infraestructuras de información geográfica.
 
+---
+#### Ganadores del premio
+
+El **primer premio** se concedió a D. Lluís Tartera Ansay por el proyecto titulado "TBCMaps: SIG para el seguimiento de epidemias de tuberculosis" realizado en la Universitat Oberta de Catalunya, y el **accésit** a D. Darío Domingo Ruíz por el proyecto titulado "Estimación de variables dasométricas en masas de Pinus halepensis Mill. mediante datos LiDAR" realizado en la Universidad de Zaragoza.
+
+*(Actualizado el 19 de febrero de 2019)*
+
+---
+
 # Objetivo y participantes
 El objetivo de estos premios es fomentar y apoyar la realización de trabajos de aplicación o investigación relacionados con tecnologías que exploten las infraestructuras de información geográfica.
 Los premios están dirigidos a quienes hayan defendido su trabajo de fin de estudios entre el 1 de octubre de 2015 y el 31 de diciembre de 2016 en cualquier titulación de cualquier universidad española. El término trabajo de fin de estudios, en adelante TFE, engloba tanto a trabajos de fin de grado como proyectos fin de carrera o trabajos de fin de máster.
