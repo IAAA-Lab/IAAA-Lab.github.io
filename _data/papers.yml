@@ -2,6 +2,14 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
+- title: "End-to-end sequence labeling via deep learning for automatic extraction of agricultural regulations"
+  url: https://doi.org/10.1016/j.compag.2019.03.027
+  authors: B. ESPEJO-GARCÍA, F.J. LOPEZ-PELLICER, J. LACASTA, R. PIEDRAFITA, F.J. ZARAZAGA-SORIA
+  publication: "Computers and Electronics in Agriculture"
+  publication_detail: "vol. 162 p. 106-111"
+  year: 2019
+  doi: 10.1016/j.compag.2019.03.027
+# -------------------
 - title: "Development of an open sensorized platform in a smart agriculture context: A vineyard support system for monitoring mildew disease"
   url: https://doi.org/10.1016/j.suscom.2019.01.011
   authors: S. TRILLES, J. TORRES-SOSPEDRA, Ó. BELMONTE, F.J. ZARAZAGA-SORIA, A. GONZÁLEZ-PÉREZ, J. HUERTA
