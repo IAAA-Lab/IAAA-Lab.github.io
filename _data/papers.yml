@@ -2,6 +2,22 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
+- title: "Profiling of knowledge organisation systems for the annotation of Linked Data cultural resources"
+  url: https://doi.org/10.2166/wp.2019.224
+  authors: F.J. LOPEZ-PELLICER, J. LACASTA, R. BÉJAR, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication: "Water Policy"
+  publication_detail: "vol.  p. "
+  year: 2019
+  doi: 10.2166/wp.2019.224
+# -------------------
+- title: "Profiling of knowledge organisation systems for the annotation of Linked Data cultural resources"
+  url: https://doi.org/10.1016/j.is.2019.04.008
+  authors: D. DÍAZ-CORONA, J. LACASTA, M.Á. LATRE, F.J. ZARAZAGA-SORIA, J. NOGUERAS-ISO
+  publication: "Information Systems"
+  publication_detail: "vol. 84 p. 17-28"
+  year: 2019
+  doi: 10.1016/j.is.2019.04.008
+# -------------------
 - title: "End-to-end sequence labeling via deep learning for automatic extraction of agricultural regulations"
   url: https://doi.org/10.1016/j.compag.2019.03.027
   authors: B. ESPEJO-GARCÍA, F.J. LOPEZ-PELLICER, J. LACASTA, R. PIEDRAFITA, F.J. ZARAZAGA-SORIA
