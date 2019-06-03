@@ -2,6 +2,13 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
+- title: "Agricultural recommendation system for crop protection"
+  url: https://doi.org/10.1016/j.compag.2018.06.049
+  authors: J. LACASTA, F.J. LOPEZ-PELLICER, B. ESPEJO-GARCÍA, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Proceedings of the XIX Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2019) , Caceres, Spain, 2-4 Septiembre 2019"
+  publication_detail: "(this paper, already published, was presented in the category of 'relevant contribution' in the conference)"
+  year: 2019
+# -------------------
 - title: "An ontology for exchanging innovation in water management"
   url: https://doi.org/10.2166/wp.2019.224
   authors: F.J. LOPEZ-PELLICER, J. LACASTA, R. BÉJAR, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
