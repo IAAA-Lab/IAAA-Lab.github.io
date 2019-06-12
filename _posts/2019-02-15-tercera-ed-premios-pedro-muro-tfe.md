@@ -2,9 +2,20 @@
 title: Tercera edición de los premios Pedro R. Muro-Medrano
 subtitle: A trabajos de fin de estudios en el ámbito de las Infraestructuras de Datos Espaciales y los estándares abiertos que las soportan
 layout: post
-image: /images/posts/Pedro_Muro.jpg
+image: /images/posts/Premio_PRMuro_2019.jpg
 ---
 El [Grupo de Sistemas de Información Avanzados]({{ site.baseurl }}/) y el [Instituto de Investigación en Ingeniería de Aragón](http://i3a.unizar.es) abren la convocatoria para los premios a los trabajos de fin de estudios **defendidos en cualquier universidad española entre el 1 de enero de 2018 y el 31 de diciembre de 2018** que más aporten al desarrollo y utilización de tecnologías y estándares abiertos vinculados a las Infraestructuras de Datos Espaciales (IDE).
+
+---
+#### Ganadores del premio
+
+El **primer premio** se concedió a D. Sergio Martín Segura por el proyecto titulado "Geolake Search: una nueva forma de buscar datos georreferenciados" realizado en la Universidad de Zaragoza, y el **accésit** a D. Pablo Biénzobas García por el proyecto titulado "Creación de una librería de geocodificación directa de varios proveedores en lenguaje Java" realizado en la Universidad Politécnica de Madrid. Los premios fueron entregados durante la sesión de entrega de diplomas de la Escuela de Ingeniería y Arquitectura de la Universidad de Zaragoza por D. Antonio F. Rodríguez Pascual, Subdirector adjunto del Centro Nacional de Información Geográfica y por D. Javier Nogueras Iso, Subdirector del Instituto de Investigación en Ingeniería de Aragón. D. F. Javier Zarazaga Soria recogió el premio en nombre de Pablo Biénzobas que no pudo asistir al evento.
+
+![Foto de la entrega del premio]({{site.baseurl}}/images/posts/Premio_PRMuro_2019.jpg "Foto de la entrega del premio")
+
+*(Actualizado el 11 de junio de 2019)*
+
+---
 
 # Objetivo y participantes
 El objetivo de estos premios es fomentar y apoyar la realización de trabajos de aplicación o investigación relacionados con tecnologías y estándares abiertos vinculados a las infraestructuras de datos espaciales.
