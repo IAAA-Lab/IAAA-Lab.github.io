@@ -49,6 +49,18 @@
   publication_detail: "(this paper, already published, was presented in the category of 'relevant contribution' in the conference)"
   year: 2019
 # -------------------
+- title: "On the problem of providing unique identifiers for areas with any shape on Discrete Global Grid Systems"
+  url: https://agile-online.org/images/conference_2019/documents/short_papers/58_Upload_your_PDF_file.pdf
+  authors: R. BÉJAR, M.Á. LATRE, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Accepted Short Papers and Posters from the 22nd AGILE Conference on Geo-information Science. Cyprus University of Technology 17-20 June 2019, Limassol, Cyprus"
+  year: 2019
+# -------------------
+- title: "A next-generation geospatial catalogue: a proof of concept"
+  url: https://agile-online.org/images/conference_2019/documents/short_papers/110_Upload_your_PDF_file.pdf
+  authors: S. MARTÍN SEGURA, F.J. LOPEZ-PELLICER, J. VALIÑO-GARCÍA, F.J. ZARAZAGA-SORIA
+  publication_conference: "Accepted Short Papers and Posters from the 22nd AGILE Conference on Geo-information Science. Cyprus University of Technology 17-20 June 2019, Limassol, Cyprus"
+  year: 2019
+# -------------------
 - title: "TRAFAIR: Análisis de los flujos de tráfico para mejorar la calidad del aire urbano"
   url: https://papiro.unizar.es/ojs/index.php/jji3a/article/view/3603
   authors: L. MARRODÁN BRETÓN, R. TRILLO, J. FABRA, J. NOGUERAS-ISO, M.U. ALZUETA
