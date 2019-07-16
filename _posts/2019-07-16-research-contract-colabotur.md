@@ -5,7 +5,7 @@ layout: post
 image: /images/posts/EINA_Ada3.jpg
 ---
 
-The [IAAA Laboratory]({{site.baseurl}}/) invites high-quality applications for an award of a 1-year (extendable), full-time research contract in the area of distributed and collaborative geospatial information systems. We are looking for applicants with a Master degree (level 7 in the European Qualifications Framework) in Computer Science, Software Engineering, Geomatics or related disciplines, possibly interested in pursuing a PhD. The candidates must be able to move to Zaragoza (Spain) for the duration of the contract, and must be legally authorised to work in Spain for that time period. Besides this, **fluency in either spoken English or Spanish is required**.
+The [IAAA Laboratory]({{site.baseurl}}/) invites high-quality applications for a 1-year (extendable), full-time research contract in the area of distributed and collaborative geospatial information systems. We are looking for applicants with a Master degree (level 7 in the European Qualifications Framework) in Computer Science, Software Engineering, Geomatics or related disciplines, possibly interested in pursuing a PhD. The candidates must be able to move to Zaragoza (Spain) for the duration of the contract, and must be legally authorised to work in Spain for that time period. Besides this, **fluency in either spoken English or Spanish is required**.
 
 **Deadline for the application**: September 2, 2019
 
@@ -23,7 +23,7 @@ All documents must be provided either in English or in Spanish.
 
 ## Description
 
-The candidate will participate in the design of a collaborative and distributed geospatial information system within the [COLABOTUR project]({{site.baseurl}}/colabotur/)), and will implement a prototype to evaluate its functionality, usability and performance. The geospatial information in the system will be modeled and georeferenced on a Discrete Global Grid System (DGGS). The system will provide at least one application that will allow users with little or no experience on geographic information systems to mark off geographic areas of their interest that can be easily shared with others on the Internet, and edited in a collaborative fashion by multiple users with minimal coordination among them.
+The candidate will participate in the design of a collaborative and distributed geospatial information system within the [COLABOTUR project]({{site.baseurl}}/colabotur)), and will implement a prototype to evaluate its functionality, usability and performance. The geospatial information in the system will be modeled and georeferenced on a Discrete Global Grid System (DGGS). The system will provide at least one application that will allow users with little or no experience on geographic information systems to mark off geographic areas of their interest that can be easily shared with others on the Internet, and edited in a collaborative fashion by multiple users with minimal coordination among them.
 
 The research will consider the storage and efficient access to large volumes of multi-resolution raster data by multiple users making concurrent reads and writes on them. On the other hand, mechanisms and models will be designed in order to provide contents for the areas of interest created in the system on the DGGS, and algorithms to detect, and implement, possible fusions, combinations, generalizations etc. of them, automatically when possible.
 
