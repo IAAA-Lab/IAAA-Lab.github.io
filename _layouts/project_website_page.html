@@ -2,22 +2,22 @@
 layout: default
 ---
 <section class="hero diagonal">
-	<div class="container" {% if page.full_width %}style="max-width: 100%"{% endif %}>		
+	<div class="container" {% if page.full_width %}style="max-width: 100%"{% endif %}>
 		{% if page.title %}
 			<h2>{{ page.title }}</h2>
 		{% endif %}
 		{% if page.subtitle %}
 			<p class="subtext">{{ page.subtitle }}</p>
                 {% else %}
-                        <p class="subtext">I2DATI ({{ page.years }})</p>
-		{% endif %}		
-				
+                        <p class="subtext">{{page.acron}} ({{ page.years }})</p>
+		{% endif %}
+
 	</div>
 </section>
-<section class="diagonal">    
-    <div class="blog-post text-container">        
+<section class="diagonal">
+    <div class="blog-post text-container">
 		    <div class="post-content">
 			      {{ content }}
 		    </div>
-    </div>    
+    </div>
 </section>
