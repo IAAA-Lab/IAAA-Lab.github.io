@@ -1,9 +1,16 @@
-- title: "TRAFAIR: Understanding Traffic Flows to Improve Air quality "
+- title: "Infraestructura web para el modelado colaborativo sobre una malla geodésica de espacios geográficos con interés turístico"
+  url: https://www.iaaa.es/colabotur
+  organizations:
+  - organization: Gobierno de Aragón
+  reference: Referencia LMP19_18, financiado durante 2019-2020 por fondos FEDER Aragón 2014-2020, ""Construyendo Europa desde Aragón"".
+  years: 2018-2020
+  main_researcher: Á. Pueyo.
+- title: "TRAFAIR: Understanding Traffic Flows to Improve Air quality"
   url: http://trafair.eu/
   organizations:
   - organization: European Commission			
   reference: 2017-EU-IA-0167 (Connecting Europe Facility 2014-2020, TELECOM Calls for proposals 2017)
-  years: 2018-2017
+  years: 2017-2018
   main_researcher: R. Trillo-Lado
 - title: "Infraestructuras de información para el desarrollo y la autogestión de territorios inteligentes"
   url: https://www.iaaa.es/i2dati
