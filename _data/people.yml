@@ -54,3 +54,11 @@ piedrafi:
   position: Professor
   image_path: /images/people/piedrafi.jpg
   url: https://www.linkedin.com/in/ramonpiedrafita
+borjaeg:
+  name: Borja Espejo García
+  papers_name: B. ESPEJO-GARCÍA
+  projects_name: 
+  position: Postdoctoral researcher
+  image_path: /images/people/phd-students/borjaeg.jpg
+  local_url: /staff/borjaeg
+  #url:

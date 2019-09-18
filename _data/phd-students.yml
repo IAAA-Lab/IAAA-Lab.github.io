@@ -1,11 +1,3 @@
-borjaeg:
-  name: Borja Espejo García
-  papers_name: B. ESPEJO-GARCÍA
-  projects_name: 
-  position: PhD Student
-  image_path: /images/people/phd-students/borjaeg.jpg
-  local_url: /staff/borjaeg
-  #url:
 dayany:
   name: Dayany Díaz Corona
   papers_name: D. DÍAZ-CORONA
@@ -21,4 +13,12 @@ yaneisy:
   position: PhD Student
   image_path: /images/people/phd-students/yaneisy.jpg
   local_url: /staff/yaneisy
+  #url:
+segura:
+  name: Sergio Martín Segura
+  papers_name: S. MARTÍN SEGURA
+  projects_name: 
+  position: PhD Student
+  image_path: /images/people/phd-students/segura.jpg
+  local_url: /staff/segura
   #url:
