@@ -67,6 +67,11 @@
   publication_conference: "Actas de la VIII Jornada de Jóvenes Investigadores del I3A, Zaragoza, Spain, 6 June 2019"
   year: 2019
 # -------------------
+- title: "Adversarial Autoencoders for denoising digitized historical documents: the use case of incunabula"
+  authors: H. NEJI, J. NOGUERAS-ISO, J. LACASTA, M. BEN HALIMA, A.M. ALIMI 
+  publication_conference: "3rd International Workshop on Arabic and derived Script Analysis and Recognition (ASAR), September 22, 2019, Sydney, Australia, in conjunction with ICDAR"
+  year: 2019
+  # -------------------
 - title: "Agricultural recommendation system for crop protection"
   url: https://doi.org/10.1016/j.compag.2018.06.049
   authors: J. LACASTA, F.J. LOPEZ-PELLICER, B. ESPEJO-GARCÍA, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
