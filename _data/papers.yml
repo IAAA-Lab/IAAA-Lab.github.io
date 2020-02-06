@@ -2,6 +2,14 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
+- title: "Development of an open sensorized platform in a smart agriculture context: A vineyard support system for monitoring mildew disease"
+  url: https://doi.org/10.1016/j.suscom.2019.01.011
+  authors: S. TRILLES, J. TORRES-SOSPEDRA, Ó. BELMONTE, F.J. ZARAZAGA-SORIA, A. GONZÁLEZ-PÉREZ, J. HUERTA
+  publication: "Sustainable Computing: Informatics and Systems"
+  publication_detail: "Available online 24 January 2019"
+  year: 2020
+  doi: 10.1016/j.suscom.2019.01.011
+# -------------------
 - title: "An ontology for exchanging innovation in water management"
   url: https://doi.org/10.2166/wp.2019.224
   authors: F.J. LOPEZ-PELLICER, J. LACASTA, R. BÉJAR, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
@@ -25,14 +33,6 @@
   publication_detail: "vol. 162 p. 106-111"
   year: 2019
   doi: 10.1016/j.compag.2019.03.027
-# -------------------
-- title: "Development of an open sensorized platform in a smart agriculture context: A vineyard support system for monitoring mildew disease"
-  url: https://doi.org/10.1016/j.suscom.2019.01.011
-  authors: S. TRILLES, J. TORRES-SOSPEDRA, Ó. BELMONTE, F.J. ZARAZAGA-SORIA, A. GONZÁLEZ-PÉREZ, J. HUERTA
-  publication: "Sustainable Computing: Informatics and Systems"
-  publication_detail: "Available online 24 January 2019"
-  year: 2019
-  doi: 10.1016/j.suscom.2019.01.011
 # -------------------
 - title: "A method for checking the quality of geographic metadata based on ISO 19157"
   url: https://doi.org/10.1080/13658816.2018.1515437
