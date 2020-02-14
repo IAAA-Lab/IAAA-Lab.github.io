@@ -8,7 +8,6 @@ layout: phd_dissertations
 
 - A modern approach fot building SDIs. **Sergio Martín Segura**
 - Semantic models in historical resources collections. **Dayany Díaz Corona**
-- Software architectures to support the integration of real time, use-and-dispose data in geographic information infrastructures. **Yaneysy Villalba Beltrán**
 
 # PhD Thesis Recently Completed
 - Site-Specific Rules Extraction in Precision Agriculture. **Dr. Borja Espejo García**
