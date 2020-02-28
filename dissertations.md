@@ -6,19 +6,39 @@ layout: phd_dissertations
 
 # Ongoing PhD Thesis
 
-- A modern approach fot building SDIs. **Sergio Martín Segura**
-- Semantic models in historical resources collections. **Dayany Díaz Corona**
 
-# PhD Thesis Recently Completed
-- Site-Specific Rules Extraction in Precision Agriculture. **Dr. Borja Espejo García**
-- Gestión colaborativa de modelos de ciudades 3D durante su ciclo de vida basada en servicios en la nube (*Cloud-based collaborative 3D city model management along their life cycle*). **Dr. Iñaki Prieto Furundarena**
-- Automatic reconstruction of itineraries from descriptive texts. **Dr. Ludovic Moncla**
-- Acceso semántico a servicios de información geográfica. **Dr. Walter Renteria-Agualimpia**
-- Contributions to the interoperability of hydrological information systems based on spatial data infrastructures. **Dr. Miguel Ángel Latre**
-- Search improvement within the geospatial web in the context of spatial data infrastructures. **Dr. Aneta Florczyk**
-- Semantic linkage of the invisible geospatial web. **Dr. Francisco Javier Lopez-Pellicer**
-- Contributions to the modelling of spatial data infrastructures and their protrayal services. **Dr. Rubén Béjar**
-- Contributions to the problem of knowledge management in spatial data infrastructures. **Dr. Javier Lacasta**
-- Contributions to the Problem of Collections, Interoperability and Information Retrieval of Geographic Information Metadata for Spatial Data Infrastructures. **Dr. Javier Nogueras-Iso**
-- Arquitecturas y patrones de diseño para el modelado e integración de sistemas de información heterogéneos. Una aproximación aplicada al contexto de los servicios basados en la localización. **Dr. Pedro Javier Álvarez Pérez-Aradros**
+- Document deblurring using deep learning. **Hala Neji**.
+  - <span style="color:#999999">Under the supervision of **Mohamed Ben Halima**, **Adel M. Alimi** and **Javier Nogueras**.</span>
+- A modern approach fot building SDIs. **Sergio Martín Segura**.
+  - <span style="color:#999999">Under the supervision of **F. Javier Zarazaga Soria** and **Francisco J. Lopez-Pellicer**.</span>
+- Semantic models in historical resources collections. **Dayany Díaz Corona**.
+  - <span style="color:#999999">Under the supervision of **Javier Nogueras-Iso** and **Javier Lacasta**.</span>
+
+# PhD Thesis Completed
+- Site-Specific Rules Extraction in Precision Agriculture. **Borja Espejo García** (2019).
+  - <span style="color:#999999">Under the supervision of **F. Javier Zarazaga Soria** and **Francisco J. Lopez-Pellicer**.</span>
+- Gestión colaborativa de modelos de ciudades 3D durante su ciclo de vida basada en servicios en la nube (*Cloud-based collaborative 3D city model management along their life cycle*). **Iñaki Prieto Furundarena** (2018). 
+  - <span style="color:#999999">Under the supervision of **Rubén Béjar** and **José Luis Izkara Martínez**.
+- Automatic reconstruction of itineraries from descriptive texts. **Ludovic Moncla** (2015).
+  - <span style="color:#999999">Under the supervision of **Javier Nogueras-Iso** and **Mauro Gaio**.
+- Acceso semántico a servicios de información geográfica. **Walter Renteria-Agualimpia** (2015).
+  - <span style="color:#999999">Under the supervision of **F. Javier Zarazaga Soria** and **Francisco J. Lopez-Pellicer**.
+- Contributions to the interoperability of hydrological information systems based on spatial data infrastructures. **Miguel Ángel Latre** (2014).
+  - <span style="color:#999999">Under the supervision of **F. Javier Zarazaga Soria** and **Pedro R. Muro-Medrano**.
+- Management of scientific images: an approach to the extraction, annotation and retrieval of figures in the field of high energy physics. **Piotr Adam Praczyk** (2013).
+  - <span style="color:#999999">Under the supervision of **Javier Nogueras-Iso** and **Salvatore Mele**. 
+- Towards geo decision support systems for renewable energy outreach. **Naveen Kumar Sidda** (2013).
+  - <span style="color:#999999">Under the supervision of **F. Javier Zarazaga Soria** and **Francisco J. Lopez-Pellicer**.
+- Search improvement within the geospatial web in the context of spatial data infrastructures. **Aneta Florczyk** (2012).
+  - <span style="color:#999999">Under the supervision of **Francisco J. Lopez-Pellicer** and **F. Javier Zarazaga Soria**.
+- Semantic linkage of the invisible geospatial web. **Francisco Javier Lopez-Pellicer** (2011).
+  - <span style="color:#999999">Under the supervision of **Rubén Béjar** and **F. Javier Zarazaga Soria**.
+- Contributions to the problem of knowledge management in spatial data infrastructures. **Javier Lacasta** (2009).
+  - <span style="color:#999999">Under the supervision of **Javier Nogueras-Iso** and **F. Javier Zarazaga Soria**.
+- Contributions to the modelling of spatial data infrastructures and their protrayal services. **Rubén Béjar** (2009).
+  - <span style="color:#999999">Under the supervision of **Javier Nogueras-Iso** and **Pedro R. Muro-Medrano**.
+- Arquitecturas y patrones de diseño para el modelado e integración de sistemas de información heterogéneos. Una aproximación aplicada al contexto de los servicios basados en la localización. **Pedro Javier Álvarez Pérez-Aradros** (2004).
+  - <span style="color:#999999">Under the supervision of **José Ángel Bañares Bañares** and **Pedro R. Muro-Medrano**.
+- Contributions to the Problem of Collections, Interoperability and Information Retrieval of Geographic Information Metadata for Spatial Data Infrastructures. **Javier Nogueras-Iso** (2004).
+  - <span style="color:#999999">Under the supervision of **Pedro R. Muro-Medrano** and **F. Javier Zarazaga Soria**.
 
