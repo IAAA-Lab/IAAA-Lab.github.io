@@ -14,3 +14,11 @@ segura:
   image_path: /images/people/phd-students/segura.jpg
   local_url: /staff/segura
   #url:
+neji:
+  name: Hala Neji
+  papers_name: H. NEJI
+  projects_name: 
+  position: PhD Student
+  image_path: /images/people/person.png
+  local_url: /staff/neji
+  #url:

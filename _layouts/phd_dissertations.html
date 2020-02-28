@@ -1,17 +1,14 @@
 ---
 layout: page
 ---
-<section class="diagonal">        	
-	<div class="text-container">
-            {{ content }}
-	</div>
+<section class="diagonal">        		
 	<div class="container-small">
 	<h1>Current PhD Students</h1>
             <div>				
 		<ul class="image-grid">				
 		<li>{% include phd-student.html member='dayany' %}</li>
 		<li>{% include phd-student.html member='segura' %}</li>
-		<li class="filler"></li>
+		<li>{% include phd-student.html member='neji' %}</li>
 		<li class="filler"></li>		
 		<li class="filler"></li>		
 		{% comment %}
@@ -21,5 +18,8 @@ layout: page
 		{% endcomment %}
 		</ul>
             </div>            
+	</div>
+	<div class="text-container">
+            {{ content }}
 	</div>
 </section>
