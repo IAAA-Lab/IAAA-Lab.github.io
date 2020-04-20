@@ -1,9 +1,45 @@
+- title: "Análisis de Resultados y Estudio de Mejora de Gestión en Proyectos de Recarga de Vehículo Eléctrico Apoyados con Energía Fotovoltaica sobre Demostrador Práctico"
+  organizations:
+  - organization: Energy on Site
+    organization_url: https://www.energyonsite.es
+  years: 2019-2021
+  main_researcher: F.J. Zarazaga-Soria
 - title: "Integración INSPIRE en la infraestructura de datos espaciales de la Diputació de Barcelona (IDEBarcelona)"
   organizations:
   - organization: Diputació de Barcelona
     organization_url: http://www.diba.cat/
   years: 2019-2020
   main_researcher: R. Béjar, F.J. Lopez-Pellicer
+- title: "Integración de Técnicas de Inteligencia Artificial para el Establecimiento del Precio de Referencia de la Carne de Porcino"
+  organizations:
+  - organization: Lonja Agropecuaria de Binefar
+    organization_url: https://www.lonjabinefar.es
+  - organization: 7eData
+    organization_url: https://7edata.com
+  - organization: Gobierno de Aragón (Departamento de Desarrollo Rural y Sostenibilidad, programas PDR)
+    organization_url: https://www.aragon.es
+  - organization: Unión Europea (Fondo Europeo Agrícola de Desarrollo Rural, FEADER)
+    organization_url: https://ec.europa.eu/regional_policy/es/policy/what/glossary/e/european-agricultural-fund-for-rural-development    
+  url: https://www.lonjaporcino.es
+  reference: GCP2019006700
+  years: 2019-2021
+  main_researcher: F.J. Zarazaga-Soria
+- title: "Cuantificación del Impacto Ambiental de la Cabaña Extensiva de Aragón"
+  organizations:
+  - organization: Asociación Agraria de Jóvenes Agricultores de Huesca
+    organization_url: https://www.asajahuesca.es
+  - organization: Sociedad Cooperativa Limitada Agropecuaria del Sobrarbe
+    organization_url: https://www.sclas.com
+  - organization: Instituto Pirenaico de Ecología
+    organization_url: https://www.ipe.csic.es/
+  - organization: Gobierno de Aragón (Departamento de Desarrollo Rural y Sostenibilidad, programas PDR)
+    organization_url: https://www.aragon.es
+  - organization: Unión Europea (Fondo Europeo Agrícola de Desarrollo Rural, FEADER)
+    organization_url: https://ec.europa.eu/regional_policy/es/policy/what/glossary/e/european-agricultural-fund-for-rural-development    
+  url: https://www.asajahuesca.es/info/seguimiento-y-control-de-la-cabana-extensiva-en-aragon
+  reference: GCP2019004100
+  years: 2019-2021
+  main_researcher: F.J. Zarazaga-Soria
 - title: "Logística Automatizada en la Nube para el Seguimiento y Control del Transporte y Aplicación de Purines"
   organizations:
   - organization: GRUPO ARCOIRIS
@@ -99,7 +135,7 @@
   years: 2016-2016
   main_researcher: F.J. Lopez-Pellicer
 - title: "Grupo de Cooperación: Seguimiento y Control de la cabaña extensiva de Aragón"
-  url: http://www.asajaextensivo.com/
+  url: https://www.asajahuesca.es/info/seguimiento-y-control-de-la-cabana-extensiva-en-aragon
   organizations:
   - organization: Asociación Agraria de Jóvenes Agricultores de Huesca
     organization_url: http://www.asajahuesca.es/
@@ -111,7 +147,7 @@
   years: 2016-2018
   main_researcher: F.J. Zarazaga-Soria
 - title: "Grupo de Cooperación: Peritación de la Generación de Purines en las explotaciones porcinas aragonesas"
-  url: http://www.asajaporcino.com/
+  url: https://www.asajahuesca.es/info/peritacion-de-la-generacion-de-purines-en-la-explotaciones-porcinas-aragonesas
   organizations:
   - organization: Asociación Agraria de Jóvenes Agricultores de Huesca
     organization_url: http://www.asajahuesca.es/
