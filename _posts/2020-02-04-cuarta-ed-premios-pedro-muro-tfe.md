@@ -6,6 +6,17 @@ image: /images/posts/Pedro_Muro.jpg
 ---
 El [Grupo de Sistemas de Información Avanzados]({{ site.baseurl }}/) y el [Instituto de Investigación en Ingeniería de Aragón](http://i3a.unizar.es) abren la convocatoria para los premios a los trabajos de fin de estudios **defendidos en cualquier universidad española entre el 1 de enero de 2019 y el 31 de diciembre de 2019** que más aporten al desarrollo y utilización de tecnologías y estándares abiertos vinculados a las Infraestructuras de Datos Espaciales (IDE).
 
+---
+#### Ganadores del premio
+
+El jurado ha decidido conceder los premios *ex aequo* a D. Manuel Garrido Pallarés por el proyecto “Design of the spatial database of rockfalls and creation of a WMS service”, realizado en la Universitat Politècnica de Catalunya, y a D. Sergio Revilla Grau por el proyecto “Clasificación de modelos combustibles a partir del modelo de transferencia radiativa anisotrópica discreta (DART)”, realizado en la Universidad de Zaragoza.
+
+Debido a la situación excepcional derivada por la pandemia del virus COVID-19, el jurado ha decido que en esta edición no habrá entrega presencial de los premios.
+
+*(Actualizado el 25 de junio de 2020)*
+
+---
+
 # Objetivo y participantes
 El objetivo de estos premios es fomentar y apoyar la realización de trabajos de aplicación o investigación relacionados con tecnologías y estándares abiertos vinculados a las infraestructuras de datos espaciales.
 Los premios están dirigidos a quienes hayan defendido su trabajo de fin de estudios entre el 1 de enero de 2019 y el 31 de diciembre de 2019 en cualquier titulación de cualquier universidad española. El término trabajo de fin de estudios, en adelante TFE, engloba tanto a trabajos de fin de grado como proyectos fin de carrera o trabajos de fin de máster.
