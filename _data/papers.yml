@@ -25,6 +25,12 @@
   publication_detail: "Divulgation paper"
   year: 2020
 # -------------------
+- title: "Automatic publication of Open Data from OGC services: the use case of TRAFAIR project"
+  url: https://www.iaria.org/conferences2020/ProgramGEOProcessing20.html
+  authors: J. NOGUERAS-ISO, H. OCHOA-ORTIZ, M.A. JAÑEZ, J.R.R. VIQUEIRA, L. PO, R. TRILLO-LADO
+  publication_conference: "The Twelfth International Conference on Advanced Geographic Information Systems, Applications, and Services, GEOProcessing 2020, Valencia (Spain), 21-25 November 2020"
+  year: 2020
+# -------------------
 - title: "Primeros pasos para manejar por voz la visualización de datos geográficos"
   url: https://www.dgterritorio.gov.pt/jiide2020/pdfs/resumos/JIIDE2020_Primeros_pasos_manejar_voz_visualizacion_datos_geograficos_Guillermo_Reloba.pdf
   authors: G. RELOBA, T. BLANCO, J. LÓPEZ DE LARRINZAR, F.J. ZARAZAGA-SORIA
@@ -52,7 +58,7 @@
 - title: "Enriquecimiento automático de portales culturales mediante modelos de organización del conocimiento"
   url: http://www.ibersid.es/es/programa/
   authors: D. DÍAZ-CORONA, J. LACASTA, J. NOGUERAS-ISO
-  publication_conference: "XXV Encuentros Internacionales sobre Sistemas de Información y Documentación, IBERSID 2020"
+  publication_conference: "XXV Encuentros Internacionales sobre Sistemas de Información y Documentación, IBERSID 2020, Zaragoza (Spain), 30 September - 2 October 2020"
   year: 2020
 # -------------------
 - title: "An ontology for exchanging innovation in water management"
