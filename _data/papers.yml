@@ -2,11 +2,19 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
+- title: "Mobile music recommendations for runners based on location and emotions: The DJ-Running system"
+  url: https://doi.org/10.1016/j.pmcj.2020.101242
+  authors: P. ÁLVAREZ, F.J. ZARAZAGA-SORIA, S. BALDASSARRI
+  publication: "Pervasive and Mobile Computing"
+  publication_detail: "Volume 67, September 2020, 101242"
+  year: 2020
+  doi: 10.1016/j.pmcj.2020.101242
+# -------------------
 - title: "Development of an open sensorized platform in a smart agriculture context: A vineyard support system for monitoring mildew disease"
   url: https://doi.org/10.1016/j.suscom.2019.01.011
   authors: S. TRILLES, J. TORRES-SOSPEDRA, Ó. BELMONTE, F.J. ZARAZAGA-SORIA, A. GONZÁLEZ-PÉREZ, J. HUERTA
   publication: "Sustainable Computing: Informatics and Systems"
-  publication_detail: "Available online 24 January 2019"
+  publication_detail: "Available online 24 January 2019, 100309"
   year: 2020
   doi: 10.1016/j.suscom.2019.01.011
 # -------------------
