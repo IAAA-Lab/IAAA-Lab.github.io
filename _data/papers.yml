@@ -31,6 +31,12 @@
   publication_conference: "The Twelfth International Conference on Advanced Geographic Information Systems, Applications, and Services, GEOProcessing 2020, Valencia (Spain), 21-25 November 2020"
   year: 2020
 # -------------------
+- title: "Diseño y aplicación metodológica para la caracterización multidimensional y análisis de la trayectoria del proceso de decrecimiento a nivel municipal en España"
+  url: https://cist.cnrs.fr/cist2020-139-communications-selectionnees-pour-le-prochain-colloque/
+  authors: A. RUIZ-VARONA, J. NOGUERAS-ISO, J. LACASTA
+  publication_conference: "CIST2020 - Population, temps, territoires, Paris (France), 18-20 November 2020"
+  year: 2020
+# -------------------
 - title: "Primeros pasos para manejar por voz la visualización de datos geográficos"
   url: https://www.dgterritorio.gov.pt/jiide2020/pdfs/resumos/JIIDE2020_Primeros_pasos_manejar_voz_visualizacion_datos_geograficos_Guillermo_Reloba.pdf
   authors: G. RELOBA, T. BLANCO, J. LÓPEZ DE LARRINZAR, F.J. ZARAZAGA-SORIA
