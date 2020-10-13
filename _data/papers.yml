@@ -49,6 +49,12 @@
   publication_conference: "XI Jornadas Ibéricas de Infraestructuras de Datos Espaciales, Edición Virtual, Portugal, 26-30 October 2020"
   year: 2020
 # -------------------
+- title: "Enriquecimiento automático de portales culturales mediante modelos de organización del conocimiento"
+  url: http://www.ibersid.es/es/programa/
+  authors: D. DÍAZ-CORONA, J. LACASTA, J. NOGUERAS-ISO
+  publication_conference: "XXV Encuentros Internacionales sobre Sistemas de Información y Documentación, IBERSID 2020"
+  year: 2020
+# -------------------
 - title: "An ontology for exchanging innovation in water management"
   url: https://doi.org/10.2166/wp.2019.224
   authors: F.J. LOPEZ-PELLICER, J. LACASTA, R. BÉJAR, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
