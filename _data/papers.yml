@@ -22,13 +22,7 @@
   url: https://www.gisresources.com/wp-content/uploads/2020/09/THE-PAST-IS-HERE-GISResources-September2020-page-6-9.pdf
   authors: M. LATRE, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
   publication: "GIS Resources (https://www.gisresources.com)"
-  publication_detail: "Divulgation paper"
-  year: 2020
-# -------------------
-- title: "A mobile application to share georeferenced tourist experiences on a discrete global grid"
-  url: https://www.iaria.org/conferences2020/ProgramGEOProcessing20.html
-  authors: R. BÉJAR, M. UMER, J. MARTÍNEZ-FERNÁNDEZ, J. DIESTE-HERNÁNDEZ, O. KRATOCHVÍL, C. LÓPEZ-ESCOLANO
-  publication_conference: "The Twelfth International Conference on Advanced Geographic Information Systems, Applications, and Services, GEOProcessing 2020, Valencia (Spain), 21-25 November 2020"
+  publication_detail: "Dissemination paper"
   year: 2020
 # -------------------
 - title: "Automatic publication of Open Data from OGC services: the use case of TRAFAIR project"
