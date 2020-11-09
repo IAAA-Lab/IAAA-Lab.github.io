@@ -25,6 +25,12 @@
   publication_detail: "Dissemination paper"
   year: 2020
 # -------------------
+- title: "A Mobile Application to Share Georeferenced Tourist Experiences on a Discrete Global Grid"
+  url: https://www.iaria.org/conferences2020/ProgramGEOProcessing20.html
+  authors: R. BÉJAR, M. UMER, J. MARTÍNEZ-FERNÁNDEZ, J. DIESTE-HERNÁNDEZ, O. KRATOCHVÍL, C. LÓPEZ-ESCOLANO
+  publication_conference: "The Twelfth International Conference on Advanced Geographic Information Systems, Applications, and Services, GEOProcessing 2020, Valencia (Spain), 21-25 November 2020"
+  year: 2020
+# -------------------
 - title: "Automatic publication of Open Data from OGC services: the use case of TRAFAIR project"
   url: https://www.iaria.org/conferences2020/ProgramGEOProcessing20.html
   authors: J. NOGUERAS-ISO, H. OCHOA-ORTIZ, M.A. JAÑEZ, J.R.R. VIQUEIRA, L. PO, R. TRILLO-LADO
@@ -57,7 +63,7 @@
 # -------------------
 - title: "Capturing georeferenced tourist experiences on a global grid-based web mapping application"
   url: https://www.dgterritorio.gov.pt/jiide2020/pdfs/resumos/JIIDE2020_Capturing_georeferenced_tourist_experiences_Muhammad_Umer.pdf
-  authors: M. UMER, R. BÉJAR, J. DIESTE, O. KRATOCHVÍL, J. A. PARRILLA, S. VALDIVIELSO
+  authors: M. UMER, R. BÉJAR, J. DIESTE-HERNÁNDEZ, O. KRATOCHVÍL, J. A. PARRILLA, S. VALDIVIELSO
   publication_conference: "XI Jornadas Ibéricas de Infraestructuras de Datos Espaciales, Edición Virtual, Portugal, 26-30 October 2020"
   year: 2020
 # -------------------
