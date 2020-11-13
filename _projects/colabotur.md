@@ -10,6 +10,7 @@ layout: project_website_page
 
 # Noticias / News
 
+- **2020-10-30**: Presentation of the prototype for capturing emotional data in the [JIIDE 2020 Conference](https://www.dgterritorio.gov.pt/jiide2020/Default.aspx). The presentation is [available](https://www.dgterritorio.gov.pt/jiide2020/pdfs/apresentacoes/JIIDE2020_Sessao_10_UMER_Muhammad.pdf).
 - **2019-07-16**: We offer a [1-year (extendable) research contract]({{site.baseurl}}/2019/07/16/research-contract-colabotur/) within this project. Application deadline: **September 2, 2019**.
 
 # Resumen
