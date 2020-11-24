@@ -10,6 +10,7 @@ layout: project_website_page
 
 # Noticias / News
 
+- **2020-11-24**: The source code of the prototype developed for the project is available at <https://github.com/IAAA-Lab/grid-field>.
 - **2020-11-23**: Presentation at the [GEOProcessing 2020 Conference](https://www.iaria.org/conferences2020/GEOProcessing20.html). The [paper is available](https://www.thinkmind.org/index.php?view=article&articleid=geoprocessing_2020_1_140_30091), and there is also a [video of the presentation](https://youtu.be/NJLLUI9oOG4).
 - **2020-11-20**: [Modelo de procesos: conversión de datos sobre emociones a las mallas DGGS de distintas escalas](https://youtu.be/-CSIoGyw_s8). Tutorial disponible on-line.
 - **2020-11-16**: [Conferencia titulada "Cartografía emocional, cartografía sensible"](https://youtu.be/N9UAcAJcOVI). Formación on-line con sistemas de información geográfica y cartografía temática para la gestión territorial y el cumplimiento de los Objetivos de Desarrollo Sostenible. Colaboración entre el Gobierno de Aragón y la Universidad de Zaragoza para proyectos de cooperación al desarrollo en ámbitos universitarios
