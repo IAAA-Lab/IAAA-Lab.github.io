@@ -510,6 +510,7 @@
   year: 2015
 # -------------------
 - title: "Remembering the SDIGER project 2004-2006"
+  url: https://geospatialworldforum.org/speaker/SpeakersImages/Francisco%20J%20Lopez-Pellicer.pdf
   authors: F.J. LOPEZ-PELLICER
   publication_conference: "Cross border Spatial Data Infrastructures Workshop at INSPIRE Geospatial World Forum 2015, Lisboa, Portugal, 26 May 2015"
   year: 2015
@@ -814,13 +815,13 @@
 - title: "Providing semantic links to the Invisible Geospatial Web"
   url: /curriculum/07-Publicaciones-Libros/2012_libro_PrensasUZ_Providing.pdf
   authors: F.J. LOPEZ-PELLICER, R. BÉJAR, F. JAVIER ZARAZAGA-SORIA
-  publication: "Zaragoza: Universidad de Zaragoza. Notes in Geoinforrnatics Research/Cuadernos de Investigación en Geoinformática"
+  publication: "Zaragoza: Universidad de Zaragoza. Notes in Geoinformatics Research/Cuadernos de Investigación en Geoinformática"
   year: 2012
 # -------------------
 - title: "An architectural view of spatial data infrastructures"
   url: /curriculum/07-Publicaciones-Libros/2012_libro_PrensasUZ_Architectural.pdf
   authors: R. BÉJAR, J. NOGUERAS-ISO, P.R. MURO-MEDRANO
-  publication: "Zaragoza: Universidad de Zaragoza. Notes in Geoinforrnatics Research/Cuadernos de Investigación en Geoinformática"
+  publication: "Zaragoza: Universidad de Zaragoza. Notes in Geoinformatics Research/Cuadernos de Investigación en Geoinformática"
   year: 2012
 # -------------------
 - title: "The Delft Report: Linked Data and the challenges for geographic information standardization"
