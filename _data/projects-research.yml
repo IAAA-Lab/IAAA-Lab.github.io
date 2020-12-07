@@ -8,7 +8,7 @@
 - title: "TRAFAIR: Understanding Traffic Flows to Improve Air quality"
   url: http://trafair.eu/
   organizations:
-  - organization: European Commission			
+  - organization: European Commission
   reference: 2017-EU-IA-0167 (Connecting Europe Facility 2014-2020, TELECOM Calls for proposals 2017)
   years: 2017-2018
   main_researcher: R. Trillo-Lado
@@ -46,13 +46,13 @@
 - title: "ENERGIC-OD: European NEtwork for Redistributing Geospatial Information to user Communities - Open Data"
   url: https://www.energic-od.eu/
   organizations:
-  - organization: Comisión Europea			
+  - organization: Comisión Europea
   reference: ENERGIC OD 620400 (CIP-ICT PSP Call 7)
   years: 2014-2017
   main_researcher: M.Á. Latre
 - title: "Arquitectura software de referencia para la integración de sistemas de información en entornos agrarios"
   organizations:
-  - organization: Instituto Aragonés de Fomento			
+  - organization: Instituto Aragonés de Fomento
   years: 2014-2014
   main_researcher: R. Béjar
 - title: "Herramienta de planificación hidrológica para cumplimiento de los objetivos de la Directiva Marco del Agua"
@@ -75,13 +75,13 @@
 - title: "WE@EU: Water Efficiency in European Urban Areas"
   url: http://www.weateu.eu/
   organizations:
-  - organization: Comisión Europea			
+  - organization: Comisión Europea
   reference: REGIONS-CT-2013-320007-WE@EU (7FP-REGIONS-2012-2013-1, Transnational cooperation between regional research-driven clusters, Programme CAPACITIES, Theme Regions of Knowledge)
   years: 2013-2016
   main_researcher: F.J. Zarazaga-Soria
 - title: "LinkedMap (PlanetData Project)"
   organizations:
-  - organization: Comisión Europea			
+  - organization: Comisión Europea
   reference: FP7-257641 (call identifier FP7-ICT-2009-5)
   years: 2013-2014
   main_researcher: F.J. Lopez-Pellicer
@@ -89,7 +89,7 @@
   organizations:
   - organization: GeoSpatiumLab
     organization_url: http://www.geoslab.com
-  - organization: Diputación General de Aragón			
+  - organization: Diputación General de Aragón
   reference: INNOVA-A1-038-13 (Programa de ayudas para el desarrollo de proyectos de investigación, desarrollo e innovación - Innovaragon)
   years: 2013-2014
   main_researcher: P.R. Muro-Medrano
@@ -142,7 +142,7 @@
   organizations:
   - organization: Fundación Agencia Aragonesa para la Investigación y el Desarrollo
     organization_url: http://www.araid.es/
-  - organization: Zeta Amaltea			
+  - organization: Zeta Amaltea
   years: 2010-2011
   main_researcher: F.J. Zarazaga-Soria, M.Á. Latre
 - title: "Tecnología básica para el desarrollo de servicios de búsqueda y visualización de información geográfica en infraestructuras de datos espaciales"
@@ -189,7 +189,7 @@
 - title: "EURADIN: European Addresses Infrastructure. Desarrollo de las herramientas de creación de metadatos en el proyecto EURADIN con destino al Centro Nacional de Información Geográfica"
   url: https://inspire.ec.europa.eu/SDICS/euradin
   organizations:
-  - organization: Comisión Europea			
+  - organization: Comisión Europea
   years: 2008-2010
   main_researcher: F.J. Zarazaga-Soria, J. Nogueras-Iso
 - title: "Convenio de colaboración con el CNIG para el proyecto CENIT España Virtual"
@@ -209,7 +209,7 @@
   main_researcher: F.J. Zarazaga-Soria
 - title: "Aplicación de técnicas de Web Geo-Semántica para la Gestión del Patrimonio Industrial"
   organizations:
-  - organization: Aragón. Dirección General de Investigación, Innovación y Desarrollo			
+  - organization: Aragón. Dirección General de Investigación, Innovación y Desarrollo
   reference: PI075/08
   years: 2008-2010
   main_researcher: F.J. Zarazaga-Soria
@@ -301,19 +301,19 @@
   main_researcher: 
 - title: "Desarrollo de un prototipo de plataforma para la composición y coordinación de servicios Web. Aplicación al desarrollo de un sistema de detección prematura de riesgos naturales"
   organizations:
-  - organization: Aragón. Dirección General de Investigación, Innovación y Desarrollo			
+  - organization: Aragón. Dirección General de Investigación, Innovación y Desarrollo
   reference: PIP086/2005
   years: 2005-2007
   main_researcher: 
 - title: "Colaboración en el Proyecto Europeo ACE-GIS: Adaptable and Composable E-commerce and Geographic Information Services"
   organizations:
-  - organization: Comisión Europea			
+  - organization: Comisión Europea
   reference: IST-2001-37724 (Programa IST)
   years: 2004-2004
   main_researcher: F.J. Zarazaga-Soria
 - title: "Acceso en línea al Catálogo de Recursos de Información Geográfica de la Universidad de Zaragoza"
   organizations:
-  - organization: Aragón. Dirección General de Tecnologías para la Sociedad de la Información			
+  - organization: Aragón. Dirección General de Tecnologías para la Sociedad de la Información
   years: 2004-2004
   main_researcher: J. Nogueras-Iso
 - title: "Acceso móvil a módulo field service con localización geográfica (Parte II)"
@@ -325,13 +325,13 @@
   main_researcher: 
 - title: "Desarrollo de contenidos digitales de edificios histórico artísticos de Zaragoza y publicación en internet"
   organizations:
-  - organization: Aragón. Dirección General de Tecnologías para la Sociedad de la Información			
+  - organization: Aragón. Dirección General de Tecnologías para la Sociedad de la Información
   reference: 158/2004
   years: 2004-2004
   main_researcher: 
 - title: "Proyecto piloto y de demostración para la creación de servicios de contenidos de información geográfica en el ámbito del sector público"
   organizations:
-  - organization: España. Ministerio de Ciencia y Tecnología			
+  - organization: España. Ministerio de Ciencia y Tecnología
   reference: PROFIT FIT-150500-2003-519  (Programa Nacional de Sociedad de la Información)
   years: 2003-2003
   main_researcher: J. Nogueras-Iso
@@ -344,72 +344,72 @@
   main_researcher: P.R. Muro-Medrano
 - title: "Acceso móvil a módulo field service con localización geográfica (Parte II)"
   organizations:
-  - organization: España. Ministerio de Ciencia y Tecnología			
+  - organization: España. Ministerio de Ciencia y Tecnología
   reference: Profit PROFIT FIT-070000-2003-273 (Programa Nacional de Tecnologías de la Información y las Telecomunicaciones)
   years: 2003-2003
   main_researcher: 
 - title: "Cofinanciación del proyecto 'Desarrollo de servicios distribuidos de catálogo de información geográfica orientados a Internet y basadas en estándares abiertos. Pasos efectivos hacia una Infraestructura Nacional de Información Geográfica'"
   organizations:
-  - organization: Diputación General			
+  - organization: Diputación General
   reference: P089/2001
   years: 2002-2003
   main_researcher: P.R. Muro-Medrano
 - title: "Desarrollo e Implantación de Servicios Públicos Avanzados de Información Territorial. Evolución del SITNA para proporcionar servicios interoperables y abiertos por Internet y capacidades para comercio electrónico de información territorial"
   organizations:
-  - organization: España. Ministerio de Ciencia y Tecnología			
+  - organization: España. Ministerio de Ciencia y Tecnología
   reference: PROFIT FIT-150500-2002-347 (Programa Nacional de Sociedad de la Información)
   years: 2002-2002
   main_researcher: R. Béjar
 - title: "Desarrollo e Implantación de Servicios Públicos Avanzados de Información Territorial. Evolución del SITNA para proporcionar servicios interoperables y abiertos por Internet y capacidades para comercio electrónico de información territorial"
   organizations:
-  - organization: Galicia. Junta			
+  - organization: Galicia. Junta
   reference: FIT-150500-2002-347
   years: 2002-2002
   main_researcher: R. Béjar
 - title: "Centro de servicios de control y seguimiento de flotas de transporte terrestre con acceso por Internet"
   organizations:
-  - organization: España. Ministerio de Ciencia y Tecnología			
+  - organization: España. Ministerio de Ciencia y Tecnología
   reference: TIC2000-0048-P4-02 (proyecto P4)
   years: 2001-2003
   main_researcher: 
 - title: "Desarrollo e Implantación de Servicios Públicos Avanzados de Información Territorial. Evolución del SITNA para proporcionar servicios interoperables y abiertos por Internet y capacidades para comercio electrónico de información territorial"
   organizations:
-  - organization: España. Ministerio de Ciencia y Tecnología			
+  - organization: España. Ministerio de Ciencia y Tecnología
   reference: PROFIT FIT-150400-2001-20 (Programa Nacional de Sociedad de la Información)
   years: 2001-2001
   main_researcher: F.J. Zarazaga-Soria
 - title: "Optimización de sistemas integrados de energías renovables para el abastecimiento de núcleos aislados: desarrollo del programa informático para la integración de energías renovables en la zona de Almudevar, Almuniente, Alcalá de Gurrea, Gurrea de Gállego, Senés de Alcubierre, Tardienta y Torralba de Aragón"
   organizations:
-  - organization: España. Ministerio de Ciencia y Tecnología			
+  - organization: España. Ministerio de Ciencia y Tecnología
   years: 2001-2003
   main_researcher: P.R. Muro-Medrano
 - title: "Desarrollo de servicios distribuidos de catálogo de información geográfica orientados a internet y basados en estándares abiertos. Pasos efectivos hacia una Infraestructura Nacional de Información Geográfica"
   organizations:
-  - organization: España. Ministerio de Ciencia y Tecnología			
+  - organization: España. Ministerio de Ciencia y Tecnología
   reference: TIC2000-1568-C03-01 (proyecto P3 coordinado cicyt)
   years: 2001-2003
   main_researcher: P.R. Muro-Medrano
 - title: "Integración de servicios basados en la localización y capacidades SIG acordes con el estándar OpenGIS en el componente de ?Field Service? del sistema CRM Vantive para acceso por Internet"
   organizations:
-  - organization: España. Ministerio de Ciencia y Tecnología			
+  - organization: España. Ministerio de Ciencia y Tecnología
   reference: Profit FIT-070000-2000-827
   years: 2000-2004
   main_researcher: 
 - title: "ETEMII : European Territorial Management Information Infrastructure"
   organizations:
-  - organization: Comisión Europea			
+  - organization: Comisión Europea
   reference: IST-1999-12096
   years: 1999-2001
   main_researcher: P.R. Muro-Medrano
 - title: "Sistema de Información Orientado a Objeto para geoprocesamiento distribuido basado en los estándares OpenGIS y CORBA"
   organizations:
-  - organization: España. Ministerio de Ciencia y Tecnología			
+  - organization: España. Ministerio de Ciencia y Tecnología
   reference: TIC98-0587
   years: 1998-2000
   main_researcher: P.R. Muro-Medrano
 - title: "Análisis de un sistema de información integrado de posicionamiento global y ayuda a la toma de decisiones para el control de flotas. Aplicación al transporte urbano de Zaragoza"
   organizations:
-  - organization: Diputación General			
+  - organization: Diputación General
   reference: P18/96
   years: 1997-1999
   main_researcher: P.R. Muro-Medrano
@@ -428,7 +428,7 @@
   main_researcher: P.R. Muro-Medrano
 - title: "Aplicación de Técnicas de Programación Orientada a Objeto para el Diseño Basado en el Conocimiento de Software de Control en CIM"
   organizations:
-  - organization: Aragón. Consejo Asesor de Investigación			
+  - organization: Aragón. Consejo Asesor de Investigación
   reference: IT-10/91
   years: 1991-1993
   main_researcher: 
