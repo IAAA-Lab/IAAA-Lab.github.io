@@ -2089,7 +2089,7 @@
 # -------------------
 - title: "Integration of Location Based CRM Systems"
   url: /curriculum/08-Publicaciones-Articulos/art_2002_GeoInformatics_Integration.pdf
-  authors: P. ÁLVAREZ, J.A. BAÑARES-BAÑARES, P.R. MURO-MEDRANO, F.J. ZARAZAGA
+  authors: P. ÁLVAREZ, J.A. BAÑARES-BAÑARES, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
   publication: "Geoinformatics"
   publication_detail: "vol. 5 nº 5, july/august 2002 p. 36-39"
   year: 2002
@@ -2204,7 +2204,7 @@
 # -------------------
 - title: "Integración de capacidades de visualización geográfica en el software de gestión de proyectos LEADER"
   url: /curriculum/08-Publicaciones-Articulos/art_2001_Mapping_Integracion.pdf
-  authors: M.Á. LATRE, J. NOGUERAS-ISO, S. BLASCO-PÉREZ, R. RIOJA, F.J. ZARAZAGA
+  authors: M.Á. LATRE, J. NOGUERAS-ISO, S. BLASCO-PÉREZ, R. RIOJA, F.J. ZARAZAGA-SORIA
   publication: "Mapping"
   publication_detail: "nº 72 p. 43-48"
   year: 2001
@@ -2459,7 +2459,7 @@
 # -------------------
 - title: "La Infraestructura Nacional de Información Geográfica desde la Perspectiva de Bibliotecas Digitales Distribuidas"
   url: /curriculum/09-Otras-Publicaciones-Congresos/cong_2000_JBIDI_Infraestructura.pdf
-  authors: F.J.ZARAZAGA-SORIA, J.A.BAÑARES-BAÑARES, M.A. BERNABÉ, M.GOULD-CARLSON, P.R. MURO-MEDRANO
+  authors: F.J. ZARAZAGA-SORIA, J.A. BAÑARES-BAÑARES, M.A. BERNABÉ, M. GOULD-CARLSON, P.R. MURO-MEDRANO
   publication_conference: "Actas de las I Jornadas de Bibliotecas Digitales"
   publication_detail: "p. 163-172"
   year: 2000
@@ -2544,13 +2544,13 @@
 # -------------------
 - title: "Sistema de información geológico-minero con capacidad de visualización SIG"
   url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1999_ESRI_Sistema.pdf
-  authors: P. FERNÁNDEZ, P. ÁLVAREZ, M.Á. LATRE, R. BÉJAR, J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  authors: P. FERNÁNDEZ, P. ÁLVAREZ, M.Á. LATRE, R. BÉJAR, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
   publication_conference: "Actas de la Conferencia de ESRI 1999"
   year: 1999
 # -------------------
 - title: "Utilización de tecnologías de componentes COM/CORBA para la integración de visualizadores interoperables sobre MapObjects"
   url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1999_ESRI_Utilizacion.pdf
-  authors: S. COMELLA, R. LÓPEZ, P. FERNÁNDEZ. J. NOGUERAS-ISO, J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
+  authors: S. COMELLA, R. LÓPEZ, P. FERNÁNDEZ. J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
   publication_conference: "Actas de la Conferencia de ESRI 1999"
   year: 1999
 # -------------------
@@ -2684,7 +2684,7 @@
 # -------------------
 - title: "Utilización de técnicas de programación basadas en frames para incrementar la potencia de representación en clases de C++ para aplicaciones de sistemas de información"
   url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1997_CAEPIA_Utilizacion.pdf
-  authors: J. VALIÑO, J. ZARAZAGA-SORIA, S. COMELLA, J.NOGUERAS-ISO, P.R. MURO-MEDRANO
+  authors: J. VALIÑO, F.J. ZARAZAGA-SORIA, S. COMELLA, J.NOGUERAS-ISO, P.R. MURO-MEDRANO
   publication_conference: "Actas de la VII Conferencia de la Asociación Española para la Inteligenccia Artificial: CAEPIA´97"
   publication_detail: "p. 135-144"
   year: 1997
