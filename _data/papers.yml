@@ -2,6 +2,13 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
+- title: "The DJ who runs with you"
+  url: https://www.geoconnexion.com/publication-articles/the-dj-who-runs-with-you
+  authors: S. BALDASSARRI, F.J. ZARAZAGA-SORIA, P. ÁLVAREZ
+  publication: "GeoConnexion International Magazine (https://www.geoconnexion.com/publications)"
+  publication_detail: "January/February 2021, Volume 20 - Issue 1. Dissemination paper"
+  year: 2021
+# -------------------
 - title: "Mobile music recommendations for runners based on location and emotions: The DJ-Running system"
   url: https://doi.org/10.1016/j.pmcj.2020.101242
   authors: P. ÁLVAREZ, F.J. ZARAZAGA-SORIA, S. BALDASSARRI
