@@ -2,6 +2,14 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
+- title: "Real-Time Extensive Livestock Monitoring Using LPWAN Smart Wearable and Infrastructure"
+  url: https://www.mdpi.com/2076-3417/11/3/1240
+  authors: R. CASAS, A. HERMOSO, A. MARCO, T,. BLANCO, F.J. ZARAZAGA-SORIA
+  publication: "Applied Sciences"
+  publication_detail: "Volume 11, no. 3, 1240"
+  year: 2021
+  doi: doi.org/10.3390/app11031240
+# -------------------
 - title: "The DJ who runs with you"
   url: https://www.geoconnexion.com/publication-articles/the-dj-who-runs-with-you
   authors: S. BALDASSARRI, F.J. ZARAZAGA-SORIA, P. ÁLVAREZ
