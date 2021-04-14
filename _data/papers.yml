@@ -2,9 +2,17 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
-- title: "Real-Time Extensive Livestock Monitoring Using LPWAN Smart Wearable and Infrastructure"
+- title: "Blur2Sharp: A GAN-Based Model for Document Image Deblurring"
+  url: https://www.atlantis-press.com/journals/ijcis/125955415
+  authors: H. NEJI, M. BEN HALIMA, T.M. HAMDANI, J. NOGUERAS-ISO, A.M. ALIMI
+  publication: "International Journal of Computational Intelligence Systems"
+  publication_detail: "Available online 13 April 2021"
+  year: 2021
+  doi: doi.org/10.3390/app11031240
+# -------------------
+  - title: "Real-Time Extensive Livestock Monitoring Using LPWAN Smart Wearable and Infrastructure"
   url: https://www.mdpi.com/2076-3417/11/3/1240
-  authors: R. CASAS, A. HERMOSO, A. MARCO, T,. BLANCO, F.J. ZARAZAGA-SORIA
+  authors: R. CASAS, A. HERMOSO, A. MARCO, T. BLANCO, F.J. ZARAZAGA-SORIA
   publication: "Applied Sciences"
   publication_detail: "Volume 11, no. 3, 1240"
   year: 2021
@@ -29,7 +37,7 @@
   url: https://doi.org/10.1016/j.suscom.2019.01.011
   authors: S. TRILLES, J. TORRES-SOSPEDRA, Ó. BELMONTE, F.J. ZARAZAGA-SORIA, A. GONZÁLEZ-PÉREZ, J. HUERTA
   publication: "Sustainable Computing: Informatics and Systems"
-  publication_detail: "Available online 24 January 2019, 100309"
+  publication_detail: "Volume 28, December 2020, 100309"
   year: 2020
   doi: 10.1016/j.suscom.2019.01.011
 # -------------------
