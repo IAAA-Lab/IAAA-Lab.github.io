@@ -2,13 +2,21 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
+- title: "Quality of Metadata in Open Data Portals"
+  url: https://doi.org/10.1109/ACCESS.2021.3073455
+  authors: J. NOGUERAS-ISO, J. LACASTA, M.A. UREÑA-CÁMARA, F.J. ARIZA-LÓPEZ
+  publication: "IEEE Access"
+  publication_detail: "In press, available online 15 April 2021"
+  year: 2021
+  doi: 10.1109/ACCESS.2021.3073455
+# -------------------
 - title: "Blur2Sharp: A GAN-Based Model for Document Image Deblurring"
-  url: https://www.atlantis-press.com/journals/ijcis/125955415
+  url: https://dx.doi.org/10.2991/ijcis.d.210407.001
   authors: H. NEJI, M. BEN HALIMA, T.M. HAMDANI, J. NOGUERAS-ISO, A.M. ALIMI
   publication: "International Journal of Computational Intelligence Systems"
-  publication_detail: "Available online 13 April 2021"
+  publication_detail: "In press, available online 13 April 2021"
   year: 2021
-  doi: doi.org/10.2991/ijcis.d.210407.001
+  doi: 10.2991/ijcis.d.210407.001
 # -------------------
 - title: "Real-Time Extensive Livestock Monitoring Using LPWAN Smart Wearable and Infrastructure"
   url: https://www.mdpi.com/2076-3417/11/3/1240
@@ -16,7 +24,7 @@
   publication: "Applied Sciences"
   publication_detail: "Volume 11, no. 3, 1240"
   year: 2021
-  doi: doi.org/10.3390/app11031240
+  doi: 10.3390/app11031240
 # -------------------
 - title: "The DJ who runs with you"
   url: https://www.geoconnexion.com/publication-articles/the-dj-who-runs-with-you
