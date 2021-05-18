@@ -7,6 +7,15 @@ image: /images/posts/Pedro_Muro.jpg
 El [Grupo de Sistemas de Información Avanzados]({{ site.baseurl }}/) y el [Instituto de Investigación en Ingeniería de Aragón](http://i3a.unizar.es) abren la convocatoria para los premios a los trabajos de fin de estudios **defendidos en cualquier universidad española entre el 1 de enero de 2020 y el 31 de diciembre de 2020** que más aporten al desarrollo y utilización de tecnologías y estándares abiertos vinculados a las Infraestructuras de Información Geográfica.
 
 ---
+#### Ganadores del premio
+
+El jurado ha decidido conceder el primer premio a D. Manuel Ángel Jañez García por el proyecto “Modelado, publicación y análisis de la calidad de los datos de motorización de calidad del aire en el contexto del proyecto TRAFAIR”, realizado en la Universidad de Zaragoza, y el accésit a D. Sergio Martín Segura por el proyecto “Un Modelo de Infraestructura para la Monitorización de la Calidad de un Catálogo de Datos Espaciales”, realizado en la Universidad de Zaragoza.
+
+Debido a la situación excepcional derivada por la pandemia del virus COVID-19, el jurado ha decido que en esta edición no habrá entrega presencial de los premios.
+
+*(Actualizado el 18 de mayo de 2021)*
+
+---
 
 # Objetivo y participantes
 El objetivo de estos premios es fomentar y apoyar la realización de trabajos de aplicación o investigación relacionados con tecnologías y estándares abiertos vinculados a las infraestructuras de información geográfica.
