@@ -11,7 +11,7 @@ El [Grupo de Sistemas de Información Avanzados]({{ site.baseurl }}/) y el [Inst
 
 El jurado ha decidido conceder el primer premio a D. Manuel Ángel Jañez García por el proyecto “Modelado, publicación y análisis de la calidad de los datos de motorización de calidad del aire en el contexto del proyecto TRAFAIR”, realizado en la Universidad de Zaragoza, y el accésit a D. Sergio Martín Segura por el proyecto “Un Modelo de Infraestructura para la Monitorización de la Calidad de un Catálogo de Datos Espaciales”, realizado en la Universidad de Zaragoza.
 
-Debido a la situación excepcional derivada por la pandemia del virus COVID-19, el jurado ha decido que en esta edición no habrá entrega presencial de los premios.
+Debido a la situación excepcional derivada de la pandemia de la COVID-19, el jurado ha decido que en esta edición no habrá entrega presencial de los premios.
 
 *(Actualizado el 18 de mayo de 2021)*
 
