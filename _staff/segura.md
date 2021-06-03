@@ -4,7 +4,7 @@ author_id: segura
 layout: phdstudent_page
 ---
 
-# Professional career
+## Professional career
 
 Software Engineer (2018), currently finishing a Master of Science in Informatics Engineering at the Universidad Zaragoza. Working with the Advanced Information Systems Laboratory since 2018 developing new ways of designing, building and deploying Spatial Data Infrastructures. 
 

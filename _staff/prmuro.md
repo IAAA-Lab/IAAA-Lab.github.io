@@ -4,7 +4,7 @@ author_id: prmuro
 layout: member_page
 ---
 
-# Professional career
+## Professional career
 
 Dr. Pedro R. Muro-Medrano held MS and PhD degrees in industrial engineering from the Universidad Zaragoza (Zaragoza, Spain), previously he studied at the Universidad Laboral de Cheste (Valencia, Spain) and the Universidad Laboral de Logroño (La Rioja, Spain). He worked in the private industry for 2 years and held different visiting research positions at the Intelligent Systems Laboratory of the Robotics Institute at Carnegie Mellon University (Pittsburgh, PA, USA), the Computer Integrated Manufacturing Laboratory at the University of Maryland (College Park, MD, USA) and the US National Institutes of Health (Bethesda, MD, USA). With more than 30 years of experience with R&D activities in software development and engineering, he was full professor of computer science at the Universidad de Zaragoza (Spain), where he has been teaching since 1988. He co-authored 3 books and over 200 national and international articles published in books, journals and conference proceedings. He has participated in over 180 R&D national, european and international projects supported by public and private funding and has been principal investigator in over 70. He has registered the intellectual co-property of over 20 computer programs.
 

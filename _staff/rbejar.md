@@ -4,7 +4,7 @@ author_id: rbejar
 layout: member_page
 ---
 
-# Professional career
+## Professional career
 
 Rubén Béjar holds a master's degree and a Ph.D. in Computer Science from the [University of Zaragoza](https://www.unizar.es/university-zaragoza). Currently he is an Associate Professor at the [Computer Science and Systems Engineering Department](https://diis.unizar.es/), and a member of the [Aragón Institute of Engineering Research](http://www.i3a.es/en).
 
