@@ -2,6 +2,14 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
+- title: "An Analysis of Existing Production Frameworks for Statistical and Geographic Information: Synergies, Gaps and Integration"
+  url: https://doi.org/10.3390/ijgi10060374
+  authors: F.J. ARIZA-LÓPEZ, A. RODRÍGUEZ-PASCUAL, F.J. LOPEZ-PELLICER, L.M. VILCHES-BLAZQUEZ, A. VILLAR-IGLESIAS, J. MASÓ, E. DÍAZ-DÍAZ, M.A. UREÑA-CÁMARA, A. GONZÁLEZ-YANES
+  publication: "ISPRS International Journal of Geo-Information"
+  publication_detail: "vol. 10. nº 6, 374"
+  year: 2021
+  doi: 10.3390/ijgi10060374
+# -------------------
 - title: "Quality of Metadata in Open Data Portals"
   url: https://doi.org/10.1109/ACCESS.2021.3073455
   authors: J. NOGUERAS-ISO, J. LACASTA, M.A. UREÑA-CÁMARA, F.J. ARIZA-LÓPEZ
