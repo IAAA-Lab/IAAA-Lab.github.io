@@ -18,14 +18,6 @@
   year: 2021
   doi: 10.1109/ACCESS.2021.3073455
 # -------------------
-- title: "Revisión de la calidad de los conjuntos de datos abiertos sobre presupuestos"
-  url: https://www.revistasipgh.org/index.php/rcar/article/view/1026
-  authors: M.A. UREÑA-CÁMARA, J. NOGUERAS-ISO, J. LACASTA
-  publication: "Revista Cartográfica"
-  publication_detail: "vol. 103 p. 145-163"
-  year: 2021
-  doi: 10.35424/rcarto.i103.1026
-# -------------------
 - title: "Blur2Sharp: A GAN-Based Model for Document Image Deblurring"
   url: https://dx.doi.org/10.2991/ijcis.d.210407.001
   authors: H. NEJI, M. BEN HALIMA, T.M. HAMDANI, J. NOGUERAS-ISO, A.M. ALIMI
@@ -41,6 +33,21 @@
   publication_detail: "Volume 11, no. 3, 1240"
   year: 2021
   doi: 10.3390/app11031240
+# -------------------
+- title: "Enriquecimiento automático de portales culturales mediante modelos de organización del conocimiento"
+  url: https://www.ibersid.eu/ojs/index.php/scire/article/view/4740
+  authors: D. DÍAZ-CORONA, J. LACASTA, J. NOGUERAS-ISO
+  publication: "SCIRE"
+  publication_detail: "vol. 27(1) p. 23-29"
+  year: 2021
+# -------------------
+- title: "Revisión de la calidad de los conjuntos de datos abiertos sobre presupuestos"
+  url: https://www.revistasipgh.org/index.php/rcar/article/view/1026
+  authors: M.A. UREÑA-CÁMARA, J. NOGUERAS-ISO, J. LACASTA
+  publication: "Revista Cartográfica"
+  publication_detail: "vol. 103 p. 145-163"
+  year: 2021
+  doi: 10.35424/rcarto.i103.1026
 # -------------------
 - title: "The DJ who runs with you"
   url: https://www.geoconnexion.com/publication-articles/the-dj-who-runs-with-you
@@ -112,12 +119,6 @@
   url: https://www.dgterritorio.gov.pt/jiide2020/pdfs/resumos/JIIDE2020_Capturing_georeferenced_tourist_experiences_Muhammad_Umer.pdf
   authors: M. UMER, R. BÉJAR, J. DIESTE-HERNÁNDEZ, O. KRATOCHVÍL, J. A. PARRILLA, S. VALDIVIELSO
   publication_conference: "XI Jornadas Ibéricas de Infraestructuras de Datos Espaciales, Edición Virtual, Portugal, 26-30 October 2020"
-  year: 2020
-# -------------------
-- title: "Enriquecimiento automático de portales culturales mediante modelos de organización del conocimiento"
-  url: http://www.ibersid.es/es/programa/
-  authors: D. DÍAZ-CORONA, J. LACASTA, J. NOGUERAS-ISO
-  publication_conference: "XXV Encuentros Internacionales sobre Sistemas de Información y Documentación, IBERSID 2020, Zaragoza (Spain), 30 September - 2 October 2020"
   year: 2020
 # -------------------
 - title: "An ontology for exchanging innovation in water management"
