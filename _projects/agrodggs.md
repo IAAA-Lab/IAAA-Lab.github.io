@@ -35,9 +35,6 @@ DGGSs offer a number of potential advantages over the current models, although i
 This project proposes to advance the knowledge and to create the technology required to set up a standards-based geospatial information infrastructure for data modelled on a DGGS, to develop the necessary data discovery, retrieval, quality assurance and transformation pipelines, to create an in-situ data capture application to test the integrability of data created at different scales, and to use this information infrastructure to support a geospatial information system for the management of the sustainable use of pesticides in a farm, as a relevant example of digitalization in the agricultural sector.
 
 ## Financiación (Funding)
-Este proyecto, con referencia {{ page.code }}, está financiado durante {{ page.years }} por:
+Proyecto {{ page.code }} financiado por:
 
-<!-- PENDIENTE DE ACTUALIZAR LOGOTIPO CUANDO NOS COMUNIQUEN CUÁL SE PONE -->
-
-<!--
-<img src='{{site.baseurl}}/images/other-logos/2_MEIC_Gob_Web_AEI_150dpi.png' width='600' style="margin-bottom: 40px;">-->
+<img src='{{site.baseurl}}/images/other-logos/micin-aei-conv1920.png' width='600' style="margin-bottom: 40px;">
