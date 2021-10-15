@@ -2,6 +2,12 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
+- title: "The role of Dublin Core in the publication of Open Geospatial Data"
+  url: https://www.dublincore.org/conferences/2021/presentations/the_role_of_dublin_core_in_the_publication_of_open_geospatial_data/
+  authors: J. NOGUERAS-ISO
+  publication_conference: "DCMI Virtual 2021, Online, 4-15 October 2021"
+  year: 2021
+# -------------------
 - title: "An Analysis of Existing Production Frameworks for Statistical and Geographic Information: Synergies, Gaps and Integration"
   url: https://doi.org/10.3390/ijgi10060374
   authors: F.J. ARIZA-LÓPEZ, A. RODRÍGUEZ-PASCUAL, F.J. LOPEZ-PELLICER, L.M. VILCHES-BLAZQUEZ, A. VILLAR-IGLESIAS, J. MASÓ, E. DÍAZ-DÍAZ, M.A. UREÑA-CÁMARA, A. GONZÁLEZ-YANES
