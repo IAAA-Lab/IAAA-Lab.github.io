@@ -2,6 +2,13 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
+- title: "Towards value-creating and sustainable open data ecosystems: A comparative case study and a research agenda"
+  url: https://jedem.org/index.php/jedem/article/view/644
+  authors: B. VAN LOENEN, A. ZUIDERWIJK, G. VANCAUWENBERGHE, F.J. LOPEZ-PELLICER, I. MULDER, C. ALEXOPOULOS, R. MAGNUSSEN, M. SADDIQA, M. DULONG DE ROSNAY, J. CROMPVOETS, A. POLINI, B. RE, C. CASIANO FLORES
+  publication: "JeDEM - EJournal of EDemocracy and Open Government"
+  publication_detail: "vol. 13. nº 2, 1-27"
+  year: 2021
+  doi: 10.29379/jedem.v13i2.644
 - title: "An Analysis of Existing Production Frameworks for Statistical and Geographic Information: Synergies, Gaps and Integration"
   url: https://doi.org/10.3390/ijgi10060374
   authors: F.J. ARIZA-LÓPEZ, A. RODRÍGUEZ-PASCUAL, F.J. LOPEZ-PELLICER, L.M. VILCHES-BLAZQUEZ, A. VILLAR-IGLESIAS, J. MASÓ, E. DÍAZ-DÍAZ, M.A. UREÑA-CÁMARA, A. GONZÁLEZ-YANES
@@ -131,7 +138,7 @@
   url: https://doi.org/10.2166/wp.2019.224
   authors: F.J. LOPEZ-PELLICER, J. LACASTA, R. BÉJAR, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
   publication: "Water Policy"
-  publication_detail: "vol. 21 (4) p. 894–910"
+  publication_detail: "vol. 21 (4) p. 894-910"
   year: 2019
   doi: 10.2166/wp.2019.224
 # -------------------
@@ -330,7 +337,7 @@
   year: 2017
   doi: 10.1080/13658816.2017.1319949
 # -------------------
-- title: "The digital ‘connected’ earth: open technology for providing location-based services on degraded communication environments"
+- title: "The digital 'connected' earth: open technology for providing location-based services on degraded communication environments"
   url: http://www.tandfonline.com/doi/abs/10.1080/17538947.2017.1356387?journalCode=tjde20
   authors: R. PIEDRAFITA, R. BÉJAR, R. BLASCO, A. MARCO, F.J. ZARAZAGA-SORIA
   publication: "International Journal of Digital Earth"
@@ -365,7 +372,7 @@
 - title: "Virtual Hubs for Facilitating access to Geospatial Open Data in Open SDI"
   url: https://inspire.ec.europa.eu/sites/default/files/presentations/04_inspire_open_sdi_energic-od_v1.pdf
   authors: S. NATIVI, P. MAZZETTI, M.Á. LATRE, F.J. LOPEZ-PELLICER
-  publication_conference: "Workshop on Open Data Access and Harmonisation by Virtual Hub – ENERGIC OD solutions at
+  publication_conference: "Workshop on Open Data Access and Harmonisation by Virtual Hub - ENERGIC OD solutions at
     INSPIRE Conference 2017, Kehl, Germany, 4 September 2017"
   year: 2017
 # -------------------
@@ -2660,14 +2667,14 @@
 - title: "Aspectos docentes de la asignatura de Inteligencia Artificial e Ingeniería del Conocimiento I del plan de estudios de Ingeniería Informática de la Universidad de Zaragoza"
   url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1997_JENUI_IA.pdf
   authors: J.A. BAÑARES-BAÑARES, J. RUBIO-GARCÍA, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
-  publication_conference: "Actas de las III Jornadas de Enseñanza Universitaria: Jenui´97"
+  publication_conference: "Actas de las III Jornadas de Enseñanza Universitaria: Jenui'97"
   publication_detail: "p. 215-219"
   year: 1998
 # -------------------
 - title: "Aspectos docentes de la asignatura de Proyectos de Software del plan de estudios de Ingeniería Informática de la Universidad de Zaragoza"
   url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1997_JENUI_Proyectos.pdf
   authors: P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA, J. VALIÑO
-  publication_conference: "Actas de las III Jornadas de Enseñanza Universitaria: Jenui´97"
+  publication_conference: "Actas de las III Jornadas de Enseñanza Universitaria: Jenui'97"
   publication_detail: "p. 47-52"
   year: 1998
 # -------------------
@@ -2733,14 +2740,14 @@
 # -------------------
 - title: "Comparación de los algoritmos de reconocimiento de patrones de reglas RETE y TREAT para su aplicación a la interpretación de RdPAN"
   authors: J.A. BAÑARES-BAÑARES, J.L. VILLARROEL-SALCEDO, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
-  publication_conference: "Actas de la VII Conferencia de la Asociación Española para la Inteligenccia Artificial: CAEPIA´97"
+  publication_conference: "Actas de la VII Conferencia de la Asociación Española para la Inteligenccia Artificial: CAEPIA'97"
   publication_detail: "p. 437-448"
   year: 1997
 # -------------------
 - title: "Utilización de técnicas de programación basadas en frames para incrementar la potencia de representación en clases de C++ para aplicaciones de sistemas de información"
   url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1997_CAEPIA_Utilizacion.pdf
   authors: J. VALIÑO, F.J. ZARAZAGA-SORIA, S. COMELLA, J.NOGUERAS-ISO, P.R. MURO-MEDRANO
-  publication_conference: "Actas de la VII Conferencia de la Asociación Española para la Inteligenccia Artificial: CAEPIA´97"
+  publication_conference: "Actas de la VII Conferencia de la Asociación Española para la Inteligenccia Artificial: CAEPIA'97"
   publication_detail: "p. 135-144"
   year: 1997
 # -------------------
@@ -2766,7 +2773,7 @@
 # -------------------
 - title: "Aspectos de comunicación y herencia en un esquema de representación del conocimiento para sistemas discretos concurrentes"
   authors: J.A. BAÑARES-BAÑARES, J.L. VILLARROEL, J.A. PÉREZ, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
-  publication_conference: "Actas de la VI Conferencia de la Asociación Española para la Inteligenccia Artificial: CAEPIA´95"
+  publication_conference: "Actas de la VI Conferencia de la Asociación Española para la Inteligenccia Artificial: CAEPIA'95"
   publication_detail: "p. 56-69"
   year: 1995
 # -------------------
@@ -2825,7 +2832,7 @@
 # -------------------
 - title: "Un mecanismo de inferencia para modelos basados en redes de Petri"
   authors: J.A. BAÑARES-BAÑARES, P.R. MURO-MEDRANO, J.L. VILLARROEL-SALCEDO
-  publication_conference: "Actas de la V Conferencia de la Asociación Española para la Inteligencia Artificial: CAEPIA´93"
+  publication_conference: "Actas de la V Conferencia de la Asociación Española para la Inteligencia Artificial: CAEPIA'93"
   publication_detail: "p. 111-121"
   year: 1993
 # -------------------
