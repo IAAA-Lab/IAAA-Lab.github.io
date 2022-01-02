@@ -2,6 +2,14 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
+- title: "The Problem of Reference Rot in Spatial Metadata Catalogues"
+  url: https://www.mdpi.com/2220-9964/11/1/27/htm
+  authors: S. MARTIN-SEGURA, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, J. LACASTA, F.J. ZARAZAGA-SORIA
+  publication: "ISPRS International Journal of Geo-Information"
+  publication_detail: "vol. 11. nº 1, 27"
+  year: 2022
+  doi: 10.3390/ijgi11010027
+# -------------------
 - title: "Towards value-creating and sustainable open data ecosystems: A comparative case study and a research agenda"
   url: https://jedem.org/index.php/jedem/article/view/644
   authors: B. VAN LOENEN, A. ZUIDERWIJK, G. VANCAUWENBERGHE, F.J. LOPEZ-PELLICER, I. MULDER, C. ALEXOPOULOS, R. MAGNUSSEN, M. SADDIQA, M. DULONG DE ROSNAY, J. CROMPVOETS, A. POLINI, B. RE, C. CASIANO FLORES
@@ -9,6 +17,7 @@
   publication_detail: "vol. 13. nº 2, 1-27"
   year: 2021
   doi: 10.29379/jedem.v13i2.644
+# -------------------
 - title: "An Analysis of Existing Production Frameworks for Statistical and Geographic Information: Synergies, Gaps and Integration"
   url: https://doi.org/10.3390/ijgi10060374
   authors: F.J. ARIZA-LÓPEZ, A. RODRÍGUEZ-PASCUAL, F.J. LOPEZ-PELLICER, L.M. VILCHES-BLAZQUEZ, A. VILLAR-IGLESIAS, J. MASÓ, E. DÍAZ-DÍAZ, M.A. UREÑA-CÁMARA, A. GONZÁLEZ-YANES
@@ -181,7 +190,7 @@
 # -------------------
 - title: "A next-generation geospatial catalogue: a proof of concept"
   url: https://agile-online.org/images/conference_2019/documents/short_papers/110_Upload_your_PDF_file.pdf
-  authors: S. MARTÍN SEGURA, F.J. LOPEZ-PELLICER, J. VALIÑO-GARCÍA, F.J. ZARAZAGA-SORIA
+  authors: S. MARTIN-SEGURA, F.J. LOPEZ-PELLICER, J. VALIÑO-GARCÍA, F.J. ZARAZAGA-SORIA
   publication_conference: "Accepted Short Papers and Posters from the 22nd AGILE Conference on Geo-information Science. Cyprus University of Technology 17-20 June 2019, Limassol, Cyprus"
   year: 2019
 # -------------------
