@@ -1,48 +1,48 @@
 ---
-title: RELLENAR
-subtitle: RELLENAR
+title: Towards a sustainable Open Data ECOsystem
 acron: ODECO
-code: RELLENAR
-keywords: Palabra clave 1, Palabra clave 2, Palabra clave 3
-years: 2021-2024
+code: Marie Skłodowska-Curie grant agreement No 955569
+keywords: Open Data, Data Science
+years: 2021-2025
 layout: project_website_page
 ---
 
-# Noticias / News
-
-- **2020-11-24**: The source code of the prototype developed for the project is available at <https://github.com/IAAA-Lab/grid-field>.
-- **2020-11-23**: Presentation at the [GEOProcessing 2020 Conference](https://www.iaria.org/conferences2020/GEOProcessing20.html). The [paper is available](https://www.thinkmind.org/index.php?view=article&articleid=geoprocessing_2020_1_140_30091), and there is also a [video of the presentation](https://youtu.be/NJLLUI9oOG4).
-- **2020-11-20**: [Modelo de procesos: conversión de datos sobre emociones a las mallas DGGS de distintas escalas](https://youtu.be/-CSIoGyw_s8). Tutorial disponible on-line.
-- **2020-11-16**: [Conferencia titulada "Cartografía emocional, cartografía sensible"](https://youtu.be/N9UAcAJcOVI). Formación on-line con sistemas de información geográfica y cartografía temática para la gestión territorial y el cumplimiento de los Objetivos de Desarrollo Sostenible. Colaboración entre el Gobierno de Aragón y la Universidad de Zaragoza para proyectos de cooperación al desarrollo en ámbitos universitarios
-- **2020-10-30**: Presentation of the prototype for capturing emotional data in the [JIIDE 2020 Conference](https://www.dgterritorio.gov.pt/jiide2020/Default.aspx). The presentation is [available](https://www.dgterritorio.gov.pt/jiide2020/pdfs/apresentacoes/JIIDE2020_Sessao_10_UMER_Muhammad.pdf).
-- **2019-07-16**: We offer a [1-year (extendable) research contract]({{site.baseurl}}/2019/07/16/research-contract-colabotur/) within this project. Application deadline: **September 2, 2019**.
-
 # Resumen
 
-Este proyecto propone el desarrollo de una **infraestructura web** que permita avances científico-técnicos en el campo de las **aplicaciones colaborativas y la neogeografía**, dando soporte a la creación y mantenimiento de información geográfica en el ámbito del turismo, y con un fuerte énfasis en la posibilidad de compartir vivencias y experiencias personales y emocionales. El proyecto se demostrará sobre un prototipo de aplicación web turística para una comarca de Aragón.
+La economía de datos europea está valorada en alrededor de 739 000 millones de euros y se espera que crezca. Sin embargo, los ecosistemas de datos abiertos se desarrollan con mayor frecuencia en varios dominios, separados entre sí, por lo que los usuarios potenciales a menudo quedan excluidos de este proceso. Esto tiene un efecto profundo en la interoperabilidad y la reutilización de datos abiertos para los usuarios, la innovación y la creación de nuevos bienes y servicios, entre otros. Para abordar este problema, el proyecto **ODECO** - una iniciativa de la Red de Formación Innovadora de Acciones Marie Skłodowska-Curie financiado por la UE - capacitará a investigadores en una etapa inicial en de **datos abiertos** a abordar los desafíos actuales y futuros de la realización de un ecosistema de datos abiertos circular e inclusivo impulsado por los usuarios.
 
-La georreferenciación de las localizaciones geográficas en esta infraestructura se basará en una **malla geodésica**, sobre la que emprendedores y operadores turísticos, los habitantes de las zonas turísticas y los propios turistas podrán diseñar y compartir colaborativamente lugares de potencial interés turístico y vivencias asociadas a ellos. El software de infraestructura desarrollado se publicará como software libre.
+El objetivo central de la red del consorcio ODECO es capacitar a la próxima generación de investigadores de datos abiertos creativos e innovadores en las primeras etapas, para desbloquear su potencial creativo e innovador para abordar los desafíos actuales y futuros en la creación de ecosisemas de datos abiertos circulares e inclusivos impulsados por el usuario. Los desarrollos actuales en el campo de los datos abiertos se caracterizan por estar muy fragmentados. Los ecosistemas de datos abiertos a menudo se desarrollan en diferentes dominios de forma aislada entre sí y con poca participación de los usuarios potenciales, lo que da como resultado enfoques que limitan significativamente la reutilización de datos abiertos para los usuarios. Esto reduce la innovación y la capacidad de crear nuevos bienes y servicios con valor agregado. Los dominios aislados también socavan la interoperabilidad para los usuarios que actúan como una barrera para el intercambio de datos. Los esfuerzos también están descoordinados en la capacitación e investigación de datos abiertos, donde los enfoques multidisciplinarios son escasos. 
 
-La neogeografía ha propiciado una mayor colaboración entre expertos y el público general a la hora de crear y mantener actualizados distintos tipos de datos geográficos. Esta colaboración debe permitirnos profundizar cada vez más en el conocimiento del espacio físico, espacio que hoy en día hay que considerar bajo nuevas dimensiones ligadas a la revolución tecnológica y digital, a lo que hemos denominado genéricamente como espacio **flexidimensional**, que además requiere de nuevas soluciones de cartografía temática para poder explorarse adecuadamente, algo que también se abordará en el proyecto.
+Al reunir diferentes sectores (investigación, sector privado, gobierno, organizaciones sin fines de lucro) y diferentes perspectivas (administración pública, derecho, negocios, ingeniería), ODECO tiene como objetivo abordar el desafío central de realizar un ecosistema de datos abiertos, circular e inclusivo impulsado por los usuarios. A través de su novedoso programa de investigación y capacitación, ODECO proporcionará a los investigadores en etapa inicial conocimientos, habilidades y experiencias de investigación relevantes sobre datos abiertos que abarcan disciplinas, dominios y sectores. ODECO prestará especial atención al papel y la participación de los múltiples grupos de usuarios en el ecosistema de datos abiertos, dentro de su programa de investigación y a través de sus actividades de participación pública. La participación de dieciséis organizaciones asociadas especializadas en el consorcio, además del beneficiario no académico experto y los beneficiarios académicos, ayudará a los investigadores a comprender mejor las necesidades de los ciudadanos, periodistas, estudiantes, grandes empresas y pymes, ONG, gobiernos y otras partes interesadas en el ecosistema de datos abiertos.
 
-El sistema aborda especialmente los aspectos de creación, edición y propiedad compartida de datos geográficos, incluyendo aquellos que la cartografía clásica no suele considerar, como las valoraciones emocionales (un espacio tranquilo donde disfrutar de un café), áreas difusas y temporales (la zona de tu barrio donde has organizado una “búsqueda del tesoro” con tus amigos), lugares semiprivados (mi rincón favorito del parque), o áreas de límites difusos y opinables (una “zona de tapas”). La necesidad de definir y compartir este tipo de datos geográficos surge de manera natural en el contexto de las experiencias turísticas, donde cada vez se valora más disfrutar, descubrir y compartir experiencias y vivencias más personales, algo que refleja por ejemplo el auge de portales como TripAdvisor.
-
-La infraestructura web requiere crear las localizaciones geográficas sobre conjuntos de celdas seleccionados de una malla geodésica (localizadas e identificadas de manera única, y con soporte para resoluciones múltiples), y cada una de estas localizaciones tiene por construcción una URL (dirección web) única, que es un requisito esencial para su integración en la Web. No hay distintos tipos de geometrías (puntos, líneas, polígonos u otras), ni problemas de integración derivados de partir de información georreferenciada en base a distintos sistemas de coordenadas, datums o elipsoides. Tampoco hay que definir clases de Features o Spatial Things y asignar identificadores únicos a sus instancias a posteriori, ni se requiere que exista, o que haya que crear, un topónimo al que asociar la información.
+El proyecto se realiza entre octubre de 2021 y septiembre de 2025 y ofrecerá 15 títulos de doctorado, en supervisión conjunta y capacitación entre los sectores público y privado.
 
 # Summary
 
-This project proposes the development of a **web infrastructure** that will allow scientific-technical advances in the field of **collaborative applications and neogeography**, supporting the creation and maintenance of geographic information related to tourism, and with a strong emphasis on the possibility of sharing personal and emotional experiences. The project will be demonstrated on a prototype tourist web application for a *comarca* (an administrative area) of Aragon.
+The European data economy is valued to be around EUR 739 billion, and it is expected to grow. However, open data ecosystems are more than often developed in various domains, separate from each other, whereby potential users are often excluded from this process. This has a profound effect on the interoperability and open data reusability for users, innovation, and the creation of new goods and services, amongst others. Addressing this, the EU-funded ODECO project – a Marie Skłodowska-Curie Actions-Innovative Training Network initiative – will train early-stage open data researchers to tackle the current and future challenges of realising a user-driven, circular and inclusive open data ecosystem.
 
-The georeferencing of locations in this infrastructure will be based on a **geodesic grid**, on which entrepreneurs and tour operators, the inhabitants of tourist destinations and tourists themselves will be able to design and share collaboratively places of potential tourist interest and some experiences associated with them. The software infrastructure developed will be published as free/open software.
+The central aim of the ODECO consortium network is to train the next generation of creative and innovative early-stage open data researchers, to unlock their creative and innovative potential to address current and future challenges in the creation of user driven, circular and inclusive open data ecosystems. Current developments in the field of open data are characterised as highly fragmented. Open data ecosystems are often developed in different domains in isolation of each other and with little involvement of potential users, resulting in approaches that significantly limit open data reusability for users. This reduces innovation and the ability to create new valued added goods and services. Isolated domains also undermine interoperability for users acting as a barrier to data sharing. Efforts are also uncoordinated in open data training and research, where multidisciplinary approaches are scant. 
 
-Neogeography has led to a greater collaboration between experts and the general public in creating and keeping different types of geographical data up to date. This collaboration should allow us to go deeper and deeper into the knowledge of the physical space, space that today must be considered under new dimensions linked to the technological and digital revolution, what we have generically called as **flexidimensional** space, which also requires new thematic cartography solutions to be properly explored, something that will also be addressed in the project.
+Bringing together different sectors (research, private sector, government, non-profit) and different perspectives (public administration, law, business, engineering), ODECO aims to address the central challenge of realizing a user driven, circular and inclusive open data ecosystem. Through its novel research and training programme, ODECO will provide early stage researchers with relevant open data knowledge, skills and research experiences that cut across disciplines, domains and sectors. ODECO will pay particular attention to the role and involvement of the multiple user groups in the open data ecosystem, within its research programme and through its public engagement activities. The involvement of sixteen specialist partner organizations in the consortium, in addition to the expert non-academic beneficiary and academic beneficiaries, will help researchers better understand the needs of citizens, journalists, students, large companies and SMEs, NGOs, governments and other stakeholders in the open data ecosystem.
 
-The system addresses especially the aspects of creation, edition and shared ownership of geographic data, including those that classic cartography does not usually consider, such as emotional valuations (a quiet space where to enjoy a coffee), diffuse and temporal areas (the area of your neighborhood where you have organized a "treasure hunt" with your friends), semi-private places (my favorite corner of the park), or areas of diffuse and debatable boundaries (a "*tapas* area"). The need to define and share this type of geographic data arises naturally in the context of tourist experiences, where it is increasingly valued to enjoy, discover and share more personal experiences, something that is shown for example on the rise of portals such as TripAdvisor.
-
-The web infrastructure requires the creation of geographic locations on sets of cells selected from a geodesic grid (located and uniquely identified, and with support for multiple resolutions), and each of these locations has, by construction, a unique URL (web address), which is an essential requirement for its integration into the Web. There are no different types of geometries (points, lines, polygons or others), nor integration problems derived from georeferenced information based on different coordinate systems, datums or ellipsoids. There is also no need to define Features or Spatial Things classes and assign unique identifiers to their instances *a posteriori*, nor it is required that there exists, or that there is a need to create, a toponym to associate the information with.
-
+The programme runs between October 2021 and September 2025 and will deliver 15 PhD degrees, in joint supervision and training between the public and private sectors.
 
 ## Financiación
-Este proyecto, con referencia {{ page.code }}, está financiado durante {{ page.years }} por fondos FEDER Aragón 2014-2020, "Construyendo Europa desde Aragón".
-
-<img src='{{site.baseurl}}/images/other-logos/european_union_official_flag_yellow_600x401.jpg' width='300' style="margin-bottom: 40px;">
+<table>
+<tr>
+<td>
+<img src='{{site.baseurl}}/images/other-logos/european_union_official_flag_yellow_600x401.jpg' width='220'>
+</td>
+<td style="vertical-align: bottom"><p style="margin: 0 0 5px 0">Este proyecto está financiado por el programa de investigación e innovación Horizon 2020 de la Unión Europea por el acuerdo de subvención Marie Skłodowska-Curie No 955569.</p>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
+<img src='{{site.baseurl}}/images/other-logos/european_union_official_flag_yellow_600x401.jpg' width='220'>
+</td>
+<td style="vertical-align: bottom"><p style="margin: 0 0 5px 0">This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 955569.</p>
+</td>
+</tr>
+</table>
