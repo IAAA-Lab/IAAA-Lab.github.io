@@ -6,9 +6,11 @@ layout: phd_dissertations
 
 ## Ongoing PhD Thesis
 
+- Collaborative work on geospatial data modelled on discrete global grid systems. **Muhammad Umer**.
+  - <span style="color:#999999">Under the supervision of **R. Béjar**.</span>
 - Document deblurring using deep learning. **Hala Neji**.
   - <span style="color:#999999">Under the supervision of **Mohamed Ben Halima**, **Adel M. Alimi** and **Javier Nogueras**.</span>
-- A modern approach fot building SDIs. **Sergio Martín Segura**.
+- A modern approach for building SDIs. **Sergio Martín Segura**.
   - <span style="color:#999999">Under the supervision of **F. Javier Zarazaga Soria** and **Francisco J. Lopez-Pellicer**.</span>
 - Semantic models in historical resources collections. **Dayany Díaz Corona**.
   - <span style="color:#999999">Under the supervision of **Javier Nogueras-Iso** and **Javier Lacasta**.</span>
@@ -35,7 +37,7 @@ layout: phd_dissertations
   - <span style="color:#999999">Under the supervision of **Rubén Béjar** and **F. Javier Zarazaga Soria**.</span>
 - Contributions to the problem of knowledge management in spatial data infrastructures. **Javier Lacasta** (2009).
   - <span style="color:#999999">Under the supervision of **Javier Nogueras-Iso** and **F. Javier Zarazaga Soria**.</span>
-- Contributions to the modelling of spatial data infrastructures and their protrayal services. **Rubén Béjar** (2009).
+- Contributions to the modelling of spatial data infrastructures and their portrayal services. **Rubén Béjar** (2009).
   - <span style="color:#999999">Under the supervision of **Javier Nogueras-Iso** and **Pedro R. Muro-Medrano**.</span>
 - Arquitecturas y patrones de diseño para el modelado e integración de sistemas de información heterogéneos. Una aproximación aplicada al contexto de los servicios basados en la localización. **Pedro Javier Álvarez Pérez-Aradros** (2004).
   - <span style="color:#999999">Under the supervision of **José Ángel Bañares Bañares** and **Pedro R. Muro-Medrano**.</span>
