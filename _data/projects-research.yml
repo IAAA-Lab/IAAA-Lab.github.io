@@ -51,6 +51,13 @@
   reference: RTC-2016-4790-2 (Programa Estatal de I+D+i Orientada a los Retos de la Sociedad - Retos Colaboración)
   years: 2016-2019
   main_researcher: F.J. Zarazaga-Soria
+- title: "Reutilización de datos abiertos y georreferenciables para crear infraestructuras de información en ciudades inteligentes"
+  organizations:
+  - organization: Universidad de Zaragoza
+    organization_url: http://www.unizar.es/
+  reference: UZ2016-TEC-05 (Proyecto Puente de Investigación)
+  years: 2016-2016
+  main_researcher: J. Nogueras-Iso
 - title: "AgroOffLine: Integración funcional para facilitar la operatividad de profesionales del mundo agrario en trabajos de campo sin cobertura de datos"
   organizations:
   - organization: España. Ministerio de Industria, Energía y Turismo
@@ -64,6 +71,13 @@
   reference: INNOVA-A1-057-15 (Programa de ayudas para el desarrollo de proyectos de investigación, desarrollo e innovación - Innovaragon)
   years: 2015-2016
   main_researcher: F.J. Zarazaga-Soria
+- title: "Mejora de la visibilidad de servicios geo-espaciales en la Web"
+  organizations:
+  - organization: Universidad de Zaragoza
+    organization_url: http://www.unizar.es/
+  reference: JIUZ-2014-TEC-05 (Proyecto de Jóvenes Investigadores)
+  years: 2015-2015
+  main_researcher: J. Lacasta
 - title: "ENERGIC-OD: European NEtwork for Redistributing Geospatial Information to user Communities - Open Data"
   url: https://www.energic-od.eu/
   organizations:
@@ -71,11 +85,23 @@
   reference: ENERGIC OD 620400 (CIP-ICT PSP Call 7)
   years: 2014-2017
   main_researcher: M.Á. Latre
+- title: "Integración de diversas fuentes de datos georreferenciados en aplicaciones de visualización geográfica 3D con tecnologías HTML5"
+  organizations:
+  - organization: Universidad de Zaragoza
+  reference: JIUZ-2013-TEC-04 (Proyecto de Jóvenes Investigadores)
+  years: 2014-2014
+  main_researcher: R. Béjar
 - title: "Arquitectura software de referencia para la integración de sistemas de información en entornos agrarios"
   organizations:
   - organization: Instituto Aragonés de Fomento
   years: 2014-2014
   main_researcher: R. Béjar
+- title: "KEYSTONE - semantic keyword-based search on structured data sources"
+  organizations:
+  - organization: European Cooperation in the field of Scientific and Technical Research - COST
+  reference: oc-2012-2-12581
+  years: 2013-2017
+  main_researcher: R. Trillo-Lado  
 - title: "Herramienta de planificación hidrológica para cumplimiento de los objetivos de la Directiva Marco del Agua"
   organizations:
   - organization: Zaragoza (Provincia). Diputación Provincial, Zeta Amaltea
@@ -136,6 +162,12 @@
   reference: TSI-020100-2011-21 (Proyecto AVANZA Competitividad I+D+i)
   years: 2011-2012
   main_researcher: J. Nogueras-Iso
+- title: "Red Temática de Linked Data"
+  organizations:
+  - organization: España. Ministerio de Ciencia e Innovación
+    organization_url: http://www.micinn.es/stfls/MICINN/Prensa/Logos/bandgobminis_M%20CIEN%20e%20INN.gif
+  years: 2011-2011
+  main_researcher: F.J. Zarazaga-Soria  
 - title: "Avances en Geoparsing y Geocoding automático para la explotación de la semántica geo-espacial de infraestructuras de información"
   organizations:
   - organization: España. Ministerio de Ciencia e Innovación
@@ -263,6 +295,11 @@
   reference: CENIT2008-1030
   years: 2008-2012
   main_researcher: R. Béjar, P.R. Muro-Medrano
+- title: "eSDI-Net+ - European Network on Geographic Information Enrichment and Reuse - Network for promotion of cross border dialogue and exchange of best practices on Spatial Data Infrastructures (SDIs) throughout Europe"
+  organizations:
+  - organization: INI-GraphicsNet Foundation
+  years: 2007-2010
+  main_researcher: P.R. Muro-Medrano
 - title: "Modelización conceptual del Patrimonio orientada a su gestión basada en sus propiedades geográficas"
   organizations:
   - organization: Universidad de Zaragoza
@@ -294,6 +331,12 @@
   reference: TIN2007-65341 (Proyecto CICYT)
   years: 2007-2009
   main_researcher: P.R. Muro-Medrano
+- title: "Red Temática de Red Semántica"
+  organizations:
+  - organization: España. Ministerio de Educación y Ciencia
+    organization_url: http://www.educacion.gob.es
+  years: 2007-2008
+  main_researcher: 
 - title: "Avances en la Interoperabilidad de Información Geoespacial y e-servicios basada en Metadatos: aplicación a la Gestión de Emergencias"
   organizations:
   - organization: España. Ministerio de Educación y Ciencia
@@ -320,6 +363,13 @@
   reference: "Profit FIT-350100-2005-130 (Programa Nacional de Tecnologías de Servicios de la Sociedad de la Información / Prioridades temáticas multidisciplinares: e-negocio, e-pyme, e-formación, e-administración, e-hogar)"
   years: 2005-2005
   main_researcher: 
+- title: "Red Temática de Tecnologías de la Información Geográfica"
+  organizations:
+  - organization: España. Ministerio de Educación y Ciencia
+    organization_url: http://www.educacion.gob.es
+  reference: TSI2004-20019-E (Acciones Complementarias en el marco de algunos Programas Nacionales del Plan Nacional de Investigación Científica, Desarrollo e Innovación Tecnológica 2004-2007)
+  years: 2005-2005
+  main_researcher: P.R. Muro-Medrano
 - title: "Desarrollo de un prototipo de plataforma para la composición y coordinación de servicios Web. Aplicación al desarrollo de un sistema de detección prematura de riesgos naturales"
   organizations:
   - organization: Aragón. Dirección General de Investigación, Innovación y Desarrollo
@@ -374,6 +424,12 @@
   - organization: Diputación General
   reference: P089/2001
   years: 2002-2003
+  main_researcher: P.R. Muro-Medrano
+- title: "Red de Tecnologías de la Información y el Medio Natural y Territorial del Pirineo"
+  organizations:
+  - organization: Diputación General
+  reference: CTPR 01/2001
+  years: 2002-2002
   main_researcher: P.R. Muro-Medrano
 - title: "Desarrollo e Implantación de Servicios Públicos Avanzados de Información Territorial. Evolución del SITNA para proporcionar servicios interoperables y abiertos por Internet y capacidades para comercio electrónico de información territorial"
   organizations:
