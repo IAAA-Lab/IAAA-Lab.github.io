@@ -16,5 +16,5 @@ As a result of his research activity, F. Javier Zarazaga-Soria is coauthor of mo
 - As [jazarso](https://www.linkedin.com/in/jazarso/) in LinkedIn {% include social-icon.html icon='LinkedIn' %}.
 - As [0000-0002-6557-2494](https://orcid.org/0000-0002-6557-2494) in ORCID 
 
-[Full CV](https://janovas.unizar.es/sideral/CV/francisco-javier-zarazaga-soria) available at Unizar 
+[Official CV](https://janovas.unizar.es/sideral/CV/francisco-javier-zarazaga-soria) available at Unizar 
 
