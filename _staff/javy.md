@@ -13,8 +13,8 @@ He has collaborated in more than 50 R+D projects with public funds (half of them
 As a result of his research activity, F. Javier Zarazaga-Soria is coauthor of more than 200 research and dissemination papers published in international journals, book chapters and conference proceedings.
 
 - As [@jazarso](https://twitter.com/jazarso) in Twitter{% include social-icon.html icon='Twitter' %}
-- As [jazarso](https://www.linkedin.com/in/jazarso/) in LinkedIn {% include social-icon.html icon='LinkedIn' %}.
-- As [0000-0002-6557-2494](https://orcid.org/0000-0002-6557-2494) in ORCID 
+- As [jazarso](https://www.linkedin.com/in/jazarso/) in LinkedIn {% include social-icon.html icon='LinkedIn' %}
+- As [0000-0002-6557-2494](https://orcid.org/0000-0002-6557-2494) in ORCID.
 
-[Official CV](https://janovas.unizar.es/sideral/CV/francisco-javier-zarazaga-soria) available at Unizar 
+[Official CV](https://janovas.unizar.es/sideral/CV/francisco-javier-zarazaga-soria) available at Unizar.
 
