@@ -1,3 +1,18 @@
+- title: "APOYAS: Agricultura de Precisión en Almendro y Olivar de Secano"
+  organizations:
+  - organization: COOP del Campo Nuestra Señora de los Pueyos
+    organization_url: https://cooperativapueyos.com
+  - organization: Asociación Cluster de Maquinaria Agrícola de Aragón (CMAA) 
+    organization_url: https://campag.es
+  - organization: BMC Agrícola
+    organization_url: https://bmc-agricola.es/
+  - organization: Gobierno de Aragón (Departamento de Desarrollo Rural y Sostenibilidad, programas PDR)
+    organization_url: https://www.aragon.es
+  - organization: Unión Europea (Fondo Europeo Agrícola de Desarrollo Rural, FEADER)
+    organization_url: https://ec.europa.eu/regional_policy/es/policy/what/glossary/e/european-agricultural-fund-for-rural-development    
+  reference: _GCP2021002100
+  years: 2022-2024
+  main_researcher: F.J. Zarazaga-Soria
 - title: "Análisis de Resultados y Estudio de Mejora de Gestión en Proyectos de Recarga de Vehículo Eléctrico Apoyados con Energía Fotovoltaica sobre Demostrador Práctico"
   organizations:
   - organization: Energy on Site
