@@ -2,6 +2,14 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congresos
 # -------------------
+- title: "Self-Organizing Maps to Evaluate Multidimensional Trajectories of Shrinkage in Spain"
+  url: https://www.mdpi.com/2220-9964/11/2/77
+  authors: A. RUIZ-VARONA, J. LACASTA, J. NOGUERAS-ISO
+  publication: "ISPRS International Journal of Geo-Information"
+  publication_detail: "vol. 11. nº 2, 77"
+  year: 2022
+  doi: 10.3390/ijgi11020077
+# -------------------
 - title: "The Problem of Reference Rot in Spatial Metadata Catalogues"
   url: https://www.mdpi.com/2220-9964/11/1/27/htm
   authors: S. MARTIN-SEGURA, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, J. LACASTA, F.J. ZARAZAGA-SORIA
