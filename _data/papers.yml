@@ -348,6 +348,14 @@
   publication_conference: "III Congreso Internacional sobre Libro Medieval y Moderno, Zaragoza, Spain, 12-14 September 2018"
   year: 2018
 # -------------------
+- title: "The digital 'connected' earth: open technology for providing location-based services on degraded communication environments"
+  url: http://www.tandfonline.com/doi/abs/10.1080/17538947.2017.1356387?journalCode=tjde20
+  authors: R. PIEDRAFITA, R. BÉJAR, R. BLASCO, A. MARCO, F.J. ZARAZAGA-SORIA
+  publication: "International Journal of Digital Earth"
+  publication_detail: "vol. 11, no. 8, pp. 761-782"
+  year: 2018
+  doi: 10.1080/17538947.2017.1356387
+# -------------------
 - title: "IDEZar: La Infraestructura de Datos Abiertos Espaciales del Ayuntamiento de Zaragoza (2004 - )"
   url: https://zaguan.unizar.es/record/60894?ln=es
   authors: M.J. FERNÁNDEZ RUÍZ, F.J. ZARAZAGA-SORIA
@@ -361,14 +369,6 @@
   publication_detail: "vol. 31 nº 8 p. 1583-1605"
   year: 2017
   doi: 10.1080/13658816.2017.1319949
-# -------------------
-- title: "The digital 'connected' earth: open technology for providing location-based services on degraded communication environments"
-  url: http://www.tandfonline.com/doi/abs/10.1080/17538947.2017.1356387?journalCode=tjde20
-  authors: R. PIEDRAFITA, R. BÉJAR, R. BLASCO, A. MARCO, F.J. ZARAZAGA-SORIA
-  publication: "International Journal of Digital Earth"
-  publication_detail: "p. 1-22"
-  year: 2017
-  doi: 10.1080/17538947.2017.1356387
 # -------------------
 - title: "Servicios de visualización INSPIRE basados en teselas vectoriales"
   url: http://www.dgterritorio.pt/jiide2017/pdfs/Apresentacoes/JIIDE2017_Servicios_visualizacion_INSPIRE_basados_en_teselas_vectoriales_Emilio_Lopez.pdf
