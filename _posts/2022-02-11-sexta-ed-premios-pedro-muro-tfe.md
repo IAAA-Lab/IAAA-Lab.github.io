@@ -1,6 +1,6 @@
 ---
 title: Sexta edición de los premios Pedro R. Muro-Medrano
-subtitle: A trabajos de fin de estudios en el ámbito de las Infraestructuras de Información Geográfica y los estándares abiertos que las soportan
+subtitle: A trabajos de fin de estudios en el ámbito de las Infraestructuras de Información Geográfica
 layout: post
 image: /images/posts/Pedro_Muro.jpg
 ---
@@ -26,15 +26,15 @@ Se deberá adjuntar al correo:
 # Jurado
 El jurado estará compuesto por los siguientes miembros:
 
-- Amparo Núñez Andrés, Departamento de Ingeniería Civil y Ambiental, Universitat Politècnica de Catalunya.
-- F. Javier Zarazaga Soria, Departamento de Informática e Ingeniería de Sistemas, Director del Grupo de Sistemas de Información Avanzados, Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza.
 - Francisco Javier Ariza López, Departamento de Ingeniería Cartográfica, Geodésica y Fotogrametría, Director del Grupo de Investigación en Ingeniería Cartográfica, Universidad de Jaén.
-- Javier Nogueras Iso, Departamento de Informática e Ingeniería de Sistemas, Grupo de Sistemas de Información Avanzados,  Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza.
 - Joaquín Huerta Guijarro, Departamento de Lenguajes y Sistemas Informáticos, Director del Geotec Research, Universitat Jaume I.
+- Miguel Ángel Manso Callejo, Departamento de Ingeniería Topográfica y Cartografía, Director del Grupo Mercator, Universidad Politécnica de Madrid.
+- Javier Nogueras Iso, Departamento de Informática e Ingeniería de Sistemas, Grupo de Sistemas de Información Avanzados,  Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza.
+- Amparo Núñez Andrés, Departamento de Ingeniería Civil y Ambiental, Universitat Politècnica de Catalunya.
+- Miguel Ángel Rodríguez Luaces, Departamento de Computación, Coordinador del Máster Universitario en Geoinformática, Universidade da Coruña.
 - José Ramón Ríos Viqueira, Centro Singular de Investigación en Tecnoloxías da Información (CiTIUS), Universidade de Santiago de Compostela.
 - María Sebastián López, Departamento de Didácticas Específicas, Universidad de Zaragoza.
-- Miguel Ángel Manso Callejo, Departamento de Ingeniería Topográfica y Cartografía, Director del Grupo Mercator, Universidad Politécnica de Madrid.
-- Miguel Ángel Rodríguez Luaces, Departamento de Computación, Coordinador del Máster Universitario en Geoinformática, Universidade da Coruña.
+- F. Javier Zarazaga Soria, Departamento de Informática e Ingeniería de Sistemas, Director del Grupo de Sistemas de Información Avanzados, Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza.
 
 # Criterios de valoración
 Los criterios establecidos de valoración de las candidaturas para la concesión del premio comprenden:
