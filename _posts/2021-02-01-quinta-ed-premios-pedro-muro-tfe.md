@@ -57,7 +57,7 @@ Los criterios establecidos de valoración de las candidaturas para la concesión
 # Fallo
 El jurado, por suma de las puntuaciones asignadas de acuerdo con los criterios anteriores, concederá dos premios: un primer premio y un accésit que corresponderán con los TFE que hayan obtenido las dos puntuaciones más altas entre los presentados. Si a juicio del Jurado no hay dos de los TFE presentados que reúnan la calidad mínima exigible o cubran satisfactoriamente el objeto de la convocatoria, cualquiera de los dos premios o los dos pueden declararse desiertos.
 
-El fallo se dará a conocer durante el acto de entrega de diplomas y premios extraordinarios a titulados en el curso 2020-2021 de la [Escuela de Ingeniería y Arquitectura de la Universidad de Zaragoza](http://eina.unizar.es/) en fechas todavía por concretar. En el caso de que hubiera alguna modificación se notificaría convenientemente a todos los interesados.
+El fallo se dará a conocer durante el acto de entrega de diplomas y premios extraordinarios a titulados en el curso 2019-2020 de la [Escuela de Ingeniería y Arquitectura de la Universidad de Zaragoza](http://eina.unizar.es/) en fechas todavía por concretar. En el caso de que hubiera alguna modificación se notificaría convenientemente a todos los interesados.
 
 Para la entrega de los premios se aplicará lo establecido en el vigente Reglamento de Impuesto de la Renta de las Personas Físicas, aprobado en el RD 1841/91 del 30 de diciembre de 1991 y demás disposiciones concordantes.
 
