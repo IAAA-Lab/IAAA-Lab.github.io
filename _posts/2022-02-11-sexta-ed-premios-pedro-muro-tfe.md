@@ -1,6 +1,6 @@
 ---
 title: Sexta edición de los premios Pedro R. Muro-Medrano
-subtitle: A trabajos de fin de estudios en el ámbito de las Infraestructuras de Información Geográfica
+subtitle: A trabajos de fin de estudios en el ámbito de las Infraestructuras de Información Geográfica y los estándares abiertos que las soportan
 layout: post
 image: /images/posts/Pedro_Muro.jpg
 ---
