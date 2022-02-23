@@ -5,6 +5,7 @@
 - title: "Approaches for the Clustering of Geographic Metadata and the Automatic Detection of Quasi-Spatial Dataset Series"
   url: https://www.mdpi.com/2220-9964/11/2/87
   alt_pdf_url: https://zaguan.unizar.es/record/110559/files/texto_completo.pdf
+  github_url: https://zaguan.unizar.es/record/110559/files/texto_completo.pdf
   authors: J. LACASTA, F.J. LOPEZ-PELLICER, F.J. ZARAZAGA-SORIA, R. BÉJAR, J. NOGUERAS-ISO
   publication: "ISPRS International Journal of Geo-Information"
   publication_detail: "vol. 11. nº 2, 87"
@@ -201,6 +202,7 @@
 # -------------------
 - title: "On the problem of providing unique identifiers for areas with any shape on Discrete Global Grid Systems"
   url: https://agile-online.org/images/conference_2019/documents/short_papers/58_Upload_your_PDF_file.pdf
+  github_url: https://github.com/IAAA-Lab/dggs-auids
   authors: R. BÉJAR, M.Á. LATRE, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
   publication_conference: "Accepted Short Papers and Posters from the 22nd AGILE Conference on Geo-information Science. Cyprus University of Technology 17-20 June 2019, Limassol, Cyprus"
   year: 2019

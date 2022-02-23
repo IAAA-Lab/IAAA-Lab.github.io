@@ -73,11 +73,15 @@
         
         {% if paper.alt_pdf_url %}
             {% if paper.alt_pdf_url contains '/curriculum/' %}                            
-                <a href="{{site.baseurl}}{{ paper.alt_pdf_url }}">                 
+                <a href="{{site.baseurl}}{{ paper.alt_pdf_url }}">
             {% else %}
-                <a href="{{ paper.alt_pdf_url }}">              
-            {% endif %}
-            <img alt="Alternative PDF Download" src="{{site.baseurl}}/images/pdficon.svg" width="30" height="30"></a>
+                <a href="{{ paper.alt_pdf_url }}">
+            {% endif %}            
+            <img title="Alternative PDF download" src="{{site.baseurl}}/images/pdficon.svg"></a>
+        {% endif %}
+        {% if paper.github_url %}                       
+            <a href="{{ paper.github_url }}">
+            <img title="Code and/or data in GitHub" src="{{site.baseurl}}/images/githubicon.svg"></a>            
         {% endif %}
         </li>
     {% endif %}            
