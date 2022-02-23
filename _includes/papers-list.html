@@ -44,10 +44,12 @@
                 <a href="{{site.baseurl}}{{ paper.url }}">{{ paper.title }}.</a>
             {% else %}
                 <a href="{{ paper.url }}">{{ paper.title }}.</a>
-            {% endif %}
+            {% endif %}        
         {% else %}
             {{ paper.title }}.
         {% endif %}
+                
+        
         {{ paper.authors }}.
         <i>
         {% if paper.publication %}
@@ -68,6 +70,15 @@
         {% if paper.comments %}
             <i style="font-size: 0.8em">{{paper.comments}}</i>
         {% endif %}        
+        
+        {% if paper.alt_pdf_url %}
+            {% if paper.alt_pdf_url contains '/curriculum/' %}                            
+                <a href="{{site.baseurl}}{{ paper.alt_pdf_url }}">                 
+            {% else %}
+                <a href="{{ paper.alt_pdf_url }}">              
+            {% endif %}
+            <img alt="Alternative PDF Download" src="{{site.baseurl}}/images/pdficon.svg" width="30" height="30"></a>
+        {% endif %}
         </li>
     {% endif %}            
 {% endfor %}	

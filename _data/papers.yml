@@ -4,6 +4,7 @@
 # -------------------
 - title: "Approaches for the Clustering of Geographic Metadata and the Automatic Detection of Quasi-Spatial Dataset Series"
   url: https://www.mdpi.com/2220-9964/11/2/87
+  alt_pdf_url: https://zaguan.unizar.es/record/110559/files/texto_completo.pdf
   authors: J. LACASTA, F.J. LOPEZ-PELLICER, F.J. ZARAZAGA-SORIA, R. BÉJAR, J. NOGUERAS-ISO
   publication: "ISPRS International Journal of Geo-Information"
   publication_detail: "vol. 11. nº 2, 87"
@@ -248,6 +249,7 @@
 # -------------------
 - title: "Multi-scale urban data models for early-stage suitability assessment of energy conservation measures in historic urban areas"
   url: https://doi.org/10.1016/j.enbuild.2017.12.061
+  alt_pdf_url: https://zaguan.unizar.es/record/86988/files/texto_completo.pdf
   authors: A. EGUSQUIZA, I. PRIETO, J. L. IZKARA, R. BÉJAR
   publication: "Energy and Buildings"
   publication_detail: "vol. 164 p. 87-98"
@@ -256,6 +258,7 @@
 # -------------------
 - title: "A continuous deployment-based approach for the collaborative creation, maintenance, testing and deployment of CityGML models"
   url: http://www.tandfonline.com/doi/full/10.1080/13658816.2017.1393543
+  alt_pdf_url: https://zaguan.unizar.es/record/75668/files/texto_completo.pdf
   authors: I. PRIETO, J. L. IZKARA, R. BÉJAR
   publication: "International Journal of Geographical Information Science"
   publication_detail: "vol. 32 nº 2 p. 282-301"
@@ -264,6 +267,7 @@
 # -------------------
 - title: "The digital 'connected' earth: open technology for providing location-based services on degraded communication environments"
   url: http://www.tandfonline.com/doi/abs/10.1080/17538947.2017.1356387?journalCode=tjde20
+  alt_pdf_url: https://zaguan.unizar.es/record/71184/files/texto_completo.pdf
   authors: R. PIEDRAFITA, R. BÉJAR, R. BLASCO, A. MARCO, F.J. ZARAZAGA-SORIA
   publication: "International Journal of Digital Earth"
   publication_detail: "vol. 11, no. 8, pp. 761-782"
@@ -817,6 +821,7 @@
 # -------------------
 - title: "Spatial Data Infrastructures for Environmental E-government Services: the case of Water Abstractions Authorisations"
   url: /curriculum/08-Publicaciones-Articulos/art_2013_EMS_Spatial_vdef_author.pdf
+  alt_pdf_url: https://zaguan.unizar.es/record/70203/files/texto_completo.pdf
   authors: M.Á. LATRE, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, R. BÉJAR, F.J. ZARAZAGA-SORIA, P.R. MURO-MEDRANO
   publication: "Environmental Modelling & Software"
   publication_detail: "vol. 48 p. 81-92"
