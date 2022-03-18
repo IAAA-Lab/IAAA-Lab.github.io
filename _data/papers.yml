@@ -21,6 +21,7 @@
 # -------------------
 - title: "The Problem of Reference Rot in Spatial Metadata Catalogues"
   url: https://www.mdpi.com/2220-9964/11/1/27/htm
+  alt_pdf_url: https://zaguan.unizar.es/record/109651/files/texto_completo.pdf  
   authors: S. MARTIN-SEGURA, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, J. LACASTA, F.J. ZARAZAGA-SORIA
   publication: "ISPRS International Journal of Geo-Information"
   publication_detail: "vol. 11. nº 1, 27"
@@ -45,6 +46,7 @@
 # -------------------
 - title: "Quality of Metadata in Open Data Portals"
   url: https://doi.org/10.1109/ACCESS.2021.3073455
+  alt_pdf_url: https://zaguan.unizar.es/record/109641/files/texto_completo.pdf  
   authors: J. NOGUERAS-ISO, J. LACASTA, M.A. UREÑA-CÁMARA, F.J. ARIZA-LÓPEZ
   publication: "IEEE Access"
   publication_detail: "vol. 9 p. 60364-60382"
@@ -53,6 +55,7 @@
 # -------------------
 - title: "Blur2Sharp: A GAN-Based Model for Document Image Deblurring"
   url: https://dx.doi.org/10.2991/ijcis.d.210407.001
+  alt_pdf_url: https://zaguan.unizar.es/record/109649/files/texto_completo.pdf
   authors: H. NEJI, M. BEN HALIMA, T.M. HAMDANI, J. NOGUERAS-ISO, A.M. ALIMI
   publication: "International Journal of Computational Intelligence Systems"
   publication_detail: "vol 14(1) p. 1315 - 1321"
@@ -186,6 +189,7 @@
 # -------------------
 - title: "A method for checking the quality of geographic metadata based on ISO 19157"
   url: https://doi.org/10.1080/13658816.2018.1515437
+  alt_pdf_url: https://zaguan.unizar.es/record/84362/files/texto_completo.pdf
   authors: M.A. UREÑA-CÁMARA, J. NOGUERAS-ISO, J. LACASTA, F.J. ARIZA-LÓPEZ
   publication: "International Journal of Geographical Information Science"
   publication_detail: "vol. 33 nº 1 p. 1-27"
@@ -226,6 +230,7 @@
   # -------------------
 - title: "Agricultural recommendation system for crop protection"
   url: https://doi.org/10.1016/j.compag.2018.06.049
+  alt_pdf_url: https://zaguan.unizar.es/record/71174/files/texto_completo.pdf
   authors: J. LACASTA, F.J. LOPEZ-PELLICER, B. ESPEJO-GARCÍA, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
   publication: "Computers and Electronics in Agriculture"
   publication_detail: "vol. 152 p. 82-89"
