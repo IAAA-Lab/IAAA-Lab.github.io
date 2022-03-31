@@ -8,15 +8,17 @@ layout: phd_dissertations
 
 - Collaborative work on geospatial data modelled on discrete global grid systems. **Muhammad Umer**.
   - <span style="color:#999999">Under the supervision of **R. Béjar**.</span>
-- Document deblurring using deep learning. **Hala Neji**.
-  - <span style="color:#999999">Under the supervision of **Mohamed Ben Halima**, **Adel M. Alimi** and **Javier Nogueras**.</span>
 - A modern approach for building SDIs. **Sergio Martín Segura**.
   - <span style="color:#999999">Under the supervision of **F. Javier Zarazaga Soria** and **Francisco J. Lopez-Pellicer**.</span>
 - Semantic models in historical resources collections. **Dayany Díaz Corona**.
   - <span style="color:#999999">Under the supervision of **Javier Nogueras-Iso** and **Javier Lacasta**.</span>
+- User interface design: optimising findability. **Dagoberto José Herrera-Murillo**.
+  - <span style="color:#999999">Under the supervision of **Javier Nogueras-Iso**.</span>
 
 ## PhD Thesis Completed
 
+- Documents deblurring using Deep Learning (University of Gabes, Tunisia). **Hala Neji** (2022).
+  - <span style="color:#999999">Under the supervision of **Adel M. Alimi**, **Mohamed Ben Halima**  and **Javier Nogueras-Iso**.</span>
 - Site-Specific Rules Extraction in Precision Agriculture. **Borja Espejo García** (2019).
   - <span style="color:#999999">Under the supervision of **F. Javier Zarazaga Soria** and **Francisco J. Lopez-Pellicer**.</span>
 - Gestión colaborativa de modelos de ciudades 3D durante su ciclo de vida basada en servicios en la nube (*Cloud-based collaborative 3D city model management along their life cycle*). **Iñaki Prieto Furundarena** (2018).
