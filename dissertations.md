@@ -14,6 +14,8 @@ layout: phd_dissertations
   - <span style="color:#999999">Under the supervision of **Javier Nogueras-Iso** and **Javier Lacasta**.</span>
 - User interface design: optimising findability. **Dagoberto José Herrera-Murillo**.
   - <span style="color:#999999">Under the supervision of **Javier Nogueras-Iso**.</span>
+- Technical aspects for inclusiveness across user domains in data portals. **Abdul Aziz**.
+  - <span style="color:#999999">Under the supervision of **Francisco J. Lopez-Pellicer**.</span>
 
 ## PhD Thesis Completed
 
