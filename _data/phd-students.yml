@@ -30,3 +30,11 @@ umer:
   image_path: /images/people/phd-students/umer.jpg
   local_url: /staff/umer
   #url:
+dherrera:
+  name: Dagoberto José Herrera-Murillo
+  papers_name: D.J.HERRERA-MURILLO
+  projects_name: 
+  position: PhD Student
+  image_path: /images/people/phd-students/dherrera.png
+  local_url: /staff/dherrera
+  #url:
