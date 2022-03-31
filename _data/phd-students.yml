@@ -38,3 +38,11 @@ dherrera:
   image_path: /images/people/phd-students/dherrera.jpg
   local_url: /staff/dherrera
   #url:
+aziz:
+  name: Abdul Aziz
+  papers_name: A. AZIZ
+  projects_name: 
+  position: PhD Student
+  image_path: /images/people/phd-students/aziz.jpg
+  local_url: /staff/aziz
+  #url:
