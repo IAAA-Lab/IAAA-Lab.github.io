@@ -1,6 +1,14 @@
 # Importante: dentro de este fichero los artículos tienen que estar ordenados por año
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
-# artículos de revista y capítulos de libro y finalmente los artículos de congresos
+# artículos de revista y capítulos de libro y finalmente los artículos de congreso 
+# -------------------
+- title: "Tracing the origins of incunabula through the automatic identification of fonts in digitised documents"
+  url: https://link.springer.com/article/10.1007/s11042-022-13108-3
+  authors: J. LACASTA, J. NOGUERAS-ISO,  F.J. ZARAZAGA-SORIA, MANUEL-JOSE PEDRAZA-GRACIA 
+  publication: "Multimedia Tools and Applications"
+  publication_detail: "Online Open Access"
+  year: 2022
+  doi: 10.1007/s11042-022-13108-3
 # -------------------
 - title: "Approaches for the Clustering of Geographic Metadata and the Automatic Detection of Quasi-Spatial Dataset Series"
   url: https://www.mdpi.com/2220-9964/11/2/87
