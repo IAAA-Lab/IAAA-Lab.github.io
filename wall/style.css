@@ -3,7 +3,7 @@
     --front-secondary: #ffe8c7;
     --back: #e89728;
     --back-image: url(orange.svg);
-    --logo: url(https://www.iaaa.es/images/logo-share.svg);
+    --logo: url(/images/logo-share.svg);
     --top-offset: 33%
 }
 
@@ -12,7 +12,7 @@
     --front-secondary: #fdb95a;
     --back: white;
     --back-image: url(light.svg);
-    --logo: url(https://www.iaaa.es/images/logo-share.svg);
+    --logo: url(/images/logo-share.svg);
     --top-offset: 50%
 }
 
@@ -21,7 +21,7 @@
     --front-secondary: white;
     --back: #383838;
     --back-image: url(dark.svg);
-    --logo: url(https://www.iaaa.es/images/logo.svg);
+    --logo: url(/images/logo.svg);
     --top-offset: 50%
 }
 
