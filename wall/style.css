@@ -1,0 +1,85 @@
+.theme-orange {
+    --front: white;
+    --front-secondary: #ffe8c7;
+    --back: #e89728;
+    --back-image: url(orange.svg);
+    --logo: url(https://www.iaaa.es/images/logo-share.svg);
+    --top-offset: 33%
+}
+
+.theme-light {
+    --front: #e89728;
+    --front-secondary: #fdb95a;
+    --back: white;
+    --back-image: url(light.svg);
+    --logo: url(https://www.iaaa.es/images/logo-share.svg);
+    --top-offset: 50%
+}
+
+.theme-dark {
+    --front: #fdb95a;
+    --front-secondary: white;
+    --back: #383838;
+    --back-image: url(dark.svg);
+    --logo: url(https://www.iaaa.es/images/logo.svg);
+    --top-offset: 50%
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    background-color: var(--back);
+    background-image: var(--back-image);
+    
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+
+}
+p {
+    margin: 0;
+    padding: 0;
+}
+#clock {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: var(--top-offset);
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+
+#date {
+    color: var(--front-secondary);
+    font-size: 3em;
+    letter-spacing: 0.1em;
+}
+
+#time {
+    color: var(--front);
+    font-size: 6em;
+    letter-spacing: 0.05em;
+}
+
+#title {
+    color: var(--front-secondary);
+    font-size: 4em;
+    letter-spacing: 0.05em;
+    /* color: #fdb95a; */
+}
+
+#logo {
+    content: var(--logo);
+    margin: 1em;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 10;
+    height: 4em;
+}
