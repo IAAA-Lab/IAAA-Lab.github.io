@@ -2,7 +2,7 @@
     --front: white;
     --front-secondary: #ffe8c7;
     --back: #e89728;
-    --back-image: url(orange.svg);
+    --back-image: url(./orange.svg);
     --logo: url(/images/logo-share.svg);
     --top-offset: 33%
 }
@@ -11,7 +11,7 @@
     --front: #e89728;
     --front-secondary: #fdb95a;
     --back: white;
-    --back-image: url(light.svg);
+    --back-image: url(./light.svg);
     --logo: url(/images/logo-share.svg);
     --top-offset: 50%
 }
@@ -20,7 +20,7 @@
     --front: #fdb95a;
     --front-secondary: white;
     --back: #383838;
-    --back-image: url(dark.svg);
+    --back-image: url(./dark.svg);
     --logo: url(/images/logo.svg);
     --top-offset: 50%
 }
