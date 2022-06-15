@@ -6,6 +6,21 @@ image: /images/posts/Pedro_Muro.jpg
 ---
 El [Grupo de Sistemas de Información Avanzados]({{ site.baseurl }}/) y el [Instituto de Investigación en Ingeniería de Aragón](http://i3a.unizar.es) abren la convocatoria para los premios a los trabajos de fin de estudios **defendidos en cualquier universidad española entre el 1 de enero de 2021 y el 31 de diciembre de 2021** que más aporten al desarrollo y utilización de tecnologías y estándares abiertos vinculados a las Infraestructuras de Información Geográfica.
 
+---
+#### Ganadores del premio
+
+El jurado ha decidido conceder el primer premio a D. Borja Rodríguez Fernández por el proyecto “Publicación de un Geoportal IDE del Camino de Santiago con información geográfica armonizada procedente de diversos organismos”, realizado en la Universidad del País Vasco / Euskal Herriko Unibertsitatea, y el accésit a D. Carles Martí Montolío por el proyecto "Implementación del plugin ETL para la plataforma gvSIG online", realizado en la Universidad Internacional de Valencia.
+
+Aunque no era lo previsto inicialmente, finalmente la entrega de premios se ha realizado en una videoconferencia:
+
+![Entrega del premio a Borja Rodríguez]({{ site.baseurl }}/images/posts/premio_PRMuro_2022_Borja.jpg){:class="img-responsive"}
+
+![Entrega del premio a Carles Martí]({{ site.baseurl }}/images/posts/premio_PRMuro_2022_Carles.jpg){:class="img-responsive"}
+
+*(Actualizado el 15 de junio de 2022)*
+
+---
+
 # Objetivo y participantes
 El objetivo de estos premios es fomentar y apoyar la realización de trabajos de aplicación o investigación relacionados con tecnologías y estándares abiertos vinculados a las infraestructuras de información geográfica.
 
