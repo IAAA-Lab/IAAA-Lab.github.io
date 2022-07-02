@@ -16,6 +16,8 @@ layout: phd_dissertations
   - <span style="color:#999999">Under the supervision of **Javier Nogueras-Iso**.</span>
 - Technical aspects for inclusiveness across user domains in data portals. **Abdul Aziz**.
   - <span style="color:#999999">Under the supervision of **Francisco J. Lopez-Pellicer**.</span>
+- Use of artificial intelligence methods to study the behaviour of agricultural markets. **Mario Esteban Suaza-Medina**.
+  - <span style="color:#999999">Under the supervision of **Javier Lacasta*.</span>
 
 ## PhD Thesis Completed
 
