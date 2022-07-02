@@ -46,3 +46,11 @@ aziz:
   image_path: /images/people/phd-students/aziz.jpg
   local_url: /staff/aziz
   #url:
+mario:
+  name: Mario Esteban Suaza Medina
+  papers_name: M.E. SUAZA-MEDINA
+  projects_name: 
+  position: PhD Student
+  image_path: /images/people/phd-students/mario.jpg
+  local_url: /staff/mario
+  #url:
