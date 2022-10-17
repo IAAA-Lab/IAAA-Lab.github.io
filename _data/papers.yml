@@ -50,6 +50,13 @@
   publication_detail: "Lecture Notes in Computer Science, vol. 13541, p. 175–186"
   year: 2022
 # -------------------
+- title: "The Problem of Reference Rot in Spatial Metadata Catalogues"
+  url: http://hdl.handle.net/11705/JISBD/2022/5904
+  authors: S. MARTIN-SEGURA, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, J. LACASTA, F.J. ZARAZAGA-SORIA
+  publication_conference: "Proceedings of XXVI Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2022) , Santiago de Compostela, Spain, 5-7 September 2022"
+  publication_detail: "(this paper, already published, was presented in the category of 'relevant contribution' in the conference)"
+  year: 2019
+# -------------------
 - title: "Towards value-creating and sustainable open data ecosystems: A comparative case study and a research agenda"
   url: https://jedem.org/index.php/jedem/article/view/644
   authors: B. VAN LOENEN, A. ZUIDERWIJK, G. VANCAUWENBERGHE, F.J. LOPEZ-PELLICER, I. MULDER, C. ALEXOPOULOS, R. MAGNUSSEN, M. SADDIQA, M. DULONG DE ROSNAY, J. CROMPVOETS, A. POLINI, B. RE, C. CASIANO FLORES
@@ -219,9 +226,9 @@
   doi: 10.1080/13658816.2018.1515437
 # -------------------
 - title: "Agricultural recommendation system for crop protection"
-  url: https://doi.org/10.1016/j.compag.2018.06.049
+  url: http://hdl.handle.net/11705/JISBD/2019/010
   authors: J. LACASTA, F.J. LOPEZ-PELLICER, B. ESPEJO-GARCÍA, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
-  publication_conference: "Proceedings of the XIX Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2019) , Caceres, Spain, 2-4 Septiembre 2019"
+  publication_conference: "Proceedings of XXIV Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2019) , Caceres, Spain, 2-4 Septiembre 2019"
   publication_detail: "(this paper, already published, was presented in the category of 'relevant contribution' in the conference)"
   year: 2019
 # -------------------
