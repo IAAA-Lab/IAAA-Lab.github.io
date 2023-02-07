@@ -2,6 +2,14 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congreso 
 # -------------------
+- title: "First Steps toward Voice User Interfaces for Web-Based Navigation of Geographic Information: A Spanish Terms Study"
+  url: https://www.mdpi.com/2076-3417/13/4/2083
+  authors: T. BLANCO, S. MARTIN-SEGURA, J. LÓPEZ DE LARRINZAR, R. BÉJAR, F.J. ZARAZAGA-SORIA 
+  publication: "Applied Sciences"
+  publication_detail: "2023, 13(4), 2083"
+  year: 2023
+  doi: https://doi.org/10.3390/app13042083
+# -------------------
 - title: "Tracing the origins of incunabula through the automatic identification of fonts in digitised documents"
   url: https://link.springer.com/article/10.1007/s11042-022-13108-3
   authors: J. LACASTA, J. NOGUERAS-ISO,  F.J. ZARAZAGA-SORIA, M.J. PEDRAZA-GRACIA 
