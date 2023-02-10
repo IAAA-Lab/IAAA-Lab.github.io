@@ -12,7 +12,7 @@ El objetivo de estos premios es fomentar y apoyar la realización de trabajos de
 Los premios están dirigidos a quienes hayan defendido su trabajo de fin de estudios entre el 1 de enero de 2022 y el 31 de diciembre de 2022 en cualquier titulación de cualquier universidad española. El término trabajo de fin de estudios, en adelante TFE, engloba tanto a trabajos de fin de grado como proyectos fin de carrera o trabajos de fin de máster.
 
 # Presentación de propuestas, plazos y documentación a presentar
-**El plazo de recepción de los TFE se inicia el 27 de febrero de 2023 y concluye el 16 de abril de 2023 a las 14:00 horas.**
+**El plazo de recepción de los TFE concluye el 16 de abril de 2023 a las 14:00 horas.**
 
 Las solicitudes para optar al premio deberán enviarse a la siguiente dirección de correo electrónico: <iaaa@unizar.es> indicando &laquo;Premio TFE&raquo; como asunto.
 
