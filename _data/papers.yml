@@ -2,6 +2,14 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congreso 
 # -------------------
+- title: "Discrete Global Grid Systems with quadrangular cells as reference frameworks for the current generation of Earth observation data cubes"
+  url: https://doi.org/10.1016/j.envsoft.2023.105656
+  authors: R. BÉJAR, J. LACASTA, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO
+  publication: "Environmental Modelling & Software"
+  publication_detail: "2023"
+  year: 2023
+  doi: https://doi.org/10.1016/j.envsoft.2023.105656
+# -------------------
 - title: "First Steps toward Voice User Interfaces for Web-Based Navigation of Geographic Information: A Spanish Terms Study"
   url: https://www.mdpi.com/2076-3417/13/4/2083
   authors: T. BLANCO, S. MARTIN-SEGURA, J. LÓPEZ DE LARRINZAR, R. BÉJAR, F.J. ZARAZAGA-SORIA 
