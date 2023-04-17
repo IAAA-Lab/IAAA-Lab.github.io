@@ -80,6 +80,12 @@
   publication_detail: "(this paper, already published, was presented in the category of 'relevant contribution' in the conference)"
   year: 2022
 # -------------------
+- title: "Nuevo SITMUN, código abierto y reutilización de API"
+  url: https://www.idee.es/resources/presentaciones/JIIDE22/Resumenes/53.pdf
+  authors: R. COTS TORRELLES, M. ROSÉS ARBONÉS, G. PEIX, J. SAEZ BURGAYA, F.J. LOPEZ-PELLICER, H. NUELL
+  publication_conference: "XIII Jornadas Ibéricas de IDE (JIIDE 2022) , Sevilla, Spain, 25-27 October 2022"
+  year: 2022
+# -------------------
 - title: "Towards value-creating and sustainable open data ecosystems: A comparative case study and a research agenda"
   url: https://jedem.org/index.php/jedem/article/view/644
   authors: B. VAN LOENEN, A. ZUIDERWIJK, G. VANCAUWENBERGHE, F.J. LOPEZ-PELLICER, I. MULDER, C. ALEXOPOULOS, R. MAGNUSSEN, M. SADDIQA, M. DULONG DE ROSNAY, J. CROMPVOETS, A. POLINI, B. RE, C. CASIANO FLORES
