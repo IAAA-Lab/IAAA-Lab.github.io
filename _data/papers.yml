@@ -2,13 +2,21 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congreso 
 # -------------------
+- title: "Deep architecture for super-resolution and deblurring of text images"
+  url: https://doi.org/10.1007/s11042-023-15340-x
+  authors:  H. NEJI, M. BEN HALIMA, J. NOGUERAS-ISO, T.M. HAMDANI, A.M. QAHTANI, O. ALMUTIRY, H. DHARI, A.M. ALIMI
+  publication: "Multimedia Tools and Applications"
+  publication_detail: "Available online"
+  year: 2023
+  doi: 10.1007/s11042-023-15340-x
+# -------------------
 - title: "Discrete Global Grid Systems with quadrangular cells as reference frameworks for the current generation of Earth observation data cubes"
   url: https://doi.org/10.1016/j.envsoft.2023.105656
   authors: R. BÉJAR, J. LACASTA, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO
   publication: "Environmental Modelling & Software"
   publication_detail: "162 (2023) 105656"
   year: 2023
-  doi: https://doi.org/10.1016/j.envsoft.2023.105656
+  doi: 10.1016/j.envsoft.2023.105656
 # -------------------
 - title: "First Steps toward Voice User Interfaces for Web-Based Navigation of Geographic Information: A Spanish Terms Study"
   url: https://www.mdpi.com/2076-3417/13/4/2083
@@ -16,7 +24,7 @@
   publication: "Applied Sciences"
   publication_detail: "2023, 13(4), 2083"
   year: 2023
-  doi: https://doi.org/10.3390/app13042083
+  doi: 10.3390/app13042083
 # -------------------
 - title: "Tracing the origins of incunabula through the automatic identification of fonts in digitised documents"
   url: https://link.springer.com/article/10.1007/s11042-022-13108-3
