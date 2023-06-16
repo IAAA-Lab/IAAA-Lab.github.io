@@ -26,6 +26,13 @@
   year: 2023
   doi: 10.3390/app13042083
 # -------------------
+- title: "Discrete Global Grid Systems with quadrangular cells as reference frameworks for the current generation of Earth observation data cubes"
+  url: http://www.tandfonline.com/doi/full/10.1080/13658816.2017.1393543
+  authors: R. BÉJAR, J. LACASTA, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO
+  publication_conference: "35th International Conference on Advanced Information Systems Engineering (CAiSE 2023), Zaragoza, Spain, 14-16 June 2023"
+  publication_detail: "(this paper, already published, was presented in the 'journal first track' in the conference)"
+  year: 2023
+# -------------------
 - title: "Tracing the origins of incunabula through the automatic identification of fonts in digitised documents"
   url: https://link.springer.com/article/10.1007/s11042-022-13108-3
   authors: J. LACASTA, J. NOGUERAS-ISO,  F.J. ZARAZAGA-SORIA, M.J. PEDRAZA-GRACIA 
@@ -42,13 +49,6 @@
   publication_detail: "vol. 11. nº 2, 87"
   year: 2022
   doi: 10.3390/ijgi11020087
-# -------------------
-- title: "Discrete Global Grid Systems with quadrangular cells as reference frameworks for the current generation of Earth observation data cubes"
-  url: http://www.tandfonline.com/doi/full/10.1080/13658816.2017.1393543
-  authors: R. BÉJAR, J. LACASTA, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO
-  publication_conference: "35th International Conference on Advanced Information Systems Engineering (CAiSE 2023), Zaragoza, Spain, 14-16 June 2023"
-  publication_detail: "(this paper, already published, was presented in the 'journal first track' in the conference)"
-  year: 2023
 # -------------------
 - title: "Self-Organizing Maps to Evaluate Multidimensional Trajectories of Shrinkage in Spain"
   url: https://www.mdpi.com/2220-9964/11/2/77
