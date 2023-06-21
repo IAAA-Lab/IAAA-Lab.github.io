@@ -6,6 +6,21 @@ image: /images/posts/Pedro_Muro.jpg
 ---
 El [Grupo de Sistemas de Información Avanzados]({{ site.baseurl }}/) y el [Instituto de Investigación en Ingeniería de Aragón](http://i3a.unizar.es) abren la convocatoria para los premios a los trabajos de fin de estudios **defendidos en cualquier universidad española entre el 1 de enero de 2022 y el 31 de diciembre de 2022** que más aporten al desarrollo y utilización de tecnologías y estándares abiertos vinculados a las Infraestructuras de Información Geográfica.
 
+---
+#### Ganadores del premio
+
+El jurado ha decidido conceder el primer premio a D. Omar García González por el proyecto “Identificación, evaluación y predicción de cambios en los usos del suelo en la provincia de Valladolid”, realizado en la Universidad de Zaragoza, y el accésit a D. Diego Facenda López por el proyecto "Análisis de la accesibilidad de la red ferroviaria de Galicia mediante GTFS y SIG", realizado en la Universidad de Zaragoza.
+
+Aunque no era lo previsto inicialmente, finalmente la entrega de premios se ha realizado en una videoconferencia:
+
+![Entrega del premio a Omar García]({{ site.baseurl }}/images/posts/premio_PRMuro_2023_Omar.jpg){:class="img-responsive"}
+
+![Entrega del premio a Diego Facenda]({{ site.baseurl }}/images/posts/premio_PRMuro_2023_Diego.jpg){:class="img-responsive"}
+
+*(Actualizado el 21 de junio de 2023)*
+
+---
+
 # Objetivo y participantes
 El objetivo de estos premios es fomentar y apoyar la realización de trabajos de aplicación o investigación relacionados con tecnologías y estándares abiertos vinculados a las infraestructuras de información geográfica.
 
