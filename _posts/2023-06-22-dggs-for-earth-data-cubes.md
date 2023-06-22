@@ -2,9 +2,10 @@
 title: Discrete Global Grid Systems with Quadrangular Cells as Reference Frameworks for the Current Generation of Earth Observation Data Cubes
 subtitle:
 layout: post
+categories: [Paper overview]
 ---
 
-Discrete global grid systems (DGGSs) are spatial reference frameworks that associate information to multi-resolution grids of uniquely identified cells. In simpler terms, DGGSs divide the whole surface of the Earth into non-overlapping cells, each with a unique identifier. The main advantage of DGGSs over traditional geographic projections is that they do not have any singularities, that all the cells in a certain resolution are equal-area, what makes it easier and faster to carry out many common spatial computations, and that they work well for very large areaas, or even for the whole Earth. We have used the [rHEALPix DGGS](https://iopscience.iop.org/article/10.1088/1755-1315/34/1/012012) as shown in Figure 2.
+Discrete global grid systems (DGGSs) are spatial reference frameworks that associate information to multi-resolution grids of uniquely identified cells. In simpler terms, DGGSs divide the whole surface of the Earth into non-overlapping cells, each with a unique identifier. The main advantage of DGGSs over traditional geographic projections is that they do not have any singularities, that all the cells in a certain resolution are equal-area, what makes it easier and faster to carry out many common spatial computations, and that they work well for very large areas, or even for the whole Earth. We have used the [rHEALPix DGGS](https://iopscience.iop.org/article/10.1088/1755-1315/34/1/012012) as shown in Figure 2.
 
 ![Figure 2: (1,0)-rHEALPix resolution 1 cells with Nside = 3 and prime meridian at 10º]({{ site.baseurl }}/images/posts/2023-06-22-fig2-rHEALPixWorld.png){: .center-image width="80%"}
 
