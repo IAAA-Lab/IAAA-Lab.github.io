@@ -17,6 +17,7 @@
   publication_detail: "162 (2023) 105656"
   year: 2023
   doi: 10.1016/j.envsoft.2023.105656
+  github_url: https://github.com/IAAA-Lab/rhealpix-opendatacube-docker
 # -------------------
 - title: "First Steps toward Voice User Interfaces for Web-Based Navigation of Geographic Information: A Spanish Terms Study"
   url: https://www.mdpi.com/2076-3417/13/4/2083
