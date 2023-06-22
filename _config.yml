@@ -34,7 +34,9 @@ collections:
 
 paginate: 5
 paginate_path: "/blog/:num/"
-permalink: pretty
+# Si mantenemos pretty, añade la categoría al link, lo que no
+# me gusta nada (y rompe links viejos)
+permalink: /:year/:month/:day/:title/
 
 plugins:
   - "jekyll-feed"
