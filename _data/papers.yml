@@ -2,6 +2,14 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congreso 
 # -------------------
+- title: "Effects of data time lag in a decision-making system using machine learning for pork price prediction"
+  url: https://doi.org/10.1007/s00521-023-08730-7
+  authors:  M.E. SUAZA-MEDINA, F.J. ZARAZAGA-SORIA, J. PINILLA-LÓPEZ, F.J. LOPEZ-PELLICER, J. LACASTA
+  publication: "Neural Computing and Applications"
+  publication_detail: "Available online"
+  year: 2023
+  doi: 10.1007/s00521-023-08730-7
+# -------------------
 - title: "Deep architecture for super-resolution and deblurring of text images"
   url: https://doi.org/10.1007/s11042-023-15340-x
   authors:  H. NEJI, M. BEN HALIMA, J. NOGUERAS-ISO, T.M. HAMDANI, A.M. QAHTANI, O. ALMUTIRY, H. DHARI, A.M. ALIMI
