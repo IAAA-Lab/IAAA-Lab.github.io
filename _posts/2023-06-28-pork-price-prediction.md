@@ -20,7 +20,7 @@ Table 2 shows the results of each model using public information (with two weeks
 
 We have developed a decision support system prototype, integrating the most effective prediction algorithm (the public side of this system is available [here](https://www.preciolonja.es)). This prototype aimed to give market agents real-time insights into price evolution and predict prices, empowering them to make informed pricing decisions. The decision support system aims to improve fairness in price negotiation and general decision-making in the pork market by using machine learning and deep learning algorithms. Figure 4 compares the proposals made by the prediction system and the price agreed upon in the "Lonja" process from May 2022 till the middle of October 2022.
 
-![Figure 4: Comparing Lonja’s proposal and the predicted proposal]({{ site.baseurl }}/images/posts/2023-06-28-Fig4.png){: .center-image width="80%"}
+![Figure 4: Comparing Lonja’s proposal and the predicted proposal]({{ site.baseurl }}/images/posts/2023-06-28-Fig4.png){: .center-image width="50%"}
 <h4><center><b>Figure 4: Comparing Lonja’s proposal and the predicted proposal</b></center></h4>
 
 The accurate prediction of agricultural prices, such as pork meat, holds immense value in ensuring stability and facilitating informed decision-making for producers in the agricultural market. By evaluating the effect of data acquisition delay and exploring various prediction algorithms, we can enhance price forecasts' accuracy, enabling producers to navigate risks effectively and optimize their product management strategies. As the agricultural sector evolves, leveraging advanced prediction systems becomes increasingly crucial for sustainable growth and success.
