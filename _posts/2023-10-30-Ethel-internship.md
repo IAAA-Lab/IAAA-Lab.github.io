@@ -7,7 +7,6 @@ image: /images/posts/EthelGarcia2023.jpeg
 We welcome Ethel García from the Universidad del Norte (Barranquilla, Colombia). Ethel will be part of our team during the next three months as an internship in her PhD studies.
 
 ![Ethel Garcia]({{ site.baseurl }}/images/posts/EthelGarcia2023.jpeg)
-{: .center-image width="80%"}
 
 
 *"As a student in the field of industrial engineering, I have always been passionate about improving processes and ensuring product quality. I embarked on this academic journey with a deep interest in understanding and optimizing industrial systems. After completing my undergraduate studies, I pursued a master's degree in industrial engineering, which further refined my knowledge and skills in this discipline.*
