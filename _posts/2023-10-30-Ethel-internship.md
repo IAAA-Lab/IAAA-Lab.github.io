@@ -2,6 +2,7 @@
 title: We welcome Ethel García from the Universidad del Norte
 subtitle: Ethel will be part of our team during the next three months as an internship in her PhD studies
 layout: post
+image: /images/posts/EthelGarcia2023.jpeg
 ---
 We welcome Ethel García from the Universidad del Norte (Barranquilla, Colombia). Ethel will be part of our team during the next three months as an internship in her PhD studies.
 
