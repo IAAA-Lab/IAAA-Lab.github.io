@@ -2,7 +2,6 @@
 title: PhD Thesis Supervised
 #subtitle: Ongoing and finished PhD thesis
 layout: phd_dissertations
-layout: phd_dissertations
 ---
 
 ## Ongoing PhD Thesis
@@ -11,8 +10,6 @@ layout: phd_dissertations
   - <span style="color:#999999">Under the supervision of **R. Béjar**.</span>
 - A modern approach for building SDIs. **Sergio Martín Segura**.
   - <span style="color:#999999">Under the supervision of **F. Javier Zarazaga Soria** and **Francisco J. Lopez-Pellicer**.</span>
-- Semantic models in historical resources collections. **Dayany Díaz Corona**.
-  - <span style="color:#999999">Under the supervision of **Javier Nogueras-Iso** and **Javier Lacasta**.</span>
 - User interface design: optimising findability. **Dagoberto José Herrera-Murillo**.
   - <span style="color:#999999">Under the supervision of **Javier Nogueras-Iso**.</span>
 - Technical aspects for inclusiveness across user domains in data portals. **Abdul Aziz**.
