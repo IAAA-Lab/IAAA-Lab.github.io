@@ -61,3 +61,11 @@ jgarcia:
   position: Full Professor
   image_path: /images/people/jgarcia.jpg
   url: https://janovas.unizar.es/sideral/CV/francisco-javier-garcia-marco
+neji:
+  name: Hala Neji
+  papers_name: H. NEJI
+  projects_name: 
+  position: PhD Researcher
+  image_path: /images/people/phd-students/hala.jpg
+  local_url: /staff/neji
+  #url:
