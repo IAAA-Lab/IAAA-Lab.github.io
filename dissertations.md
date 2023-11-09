@@ -2,6 +2,7 @@
 title: PhD Thesis Supervised
 #subtitle: Ongoing and finished PhD thesis
 layout: phd_dissertations
+layout: phd_dissertations
 ---
 
 ## Ongoing PhD Thesis
