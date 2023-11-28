@@ -2,6 +2,14 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congreso 
 # -------------------
+- title: "Providing a Common Approach to Designing Dataset-Based Learning Activities Based on a Literature Review"
+  url: https://www.mdpi.com/2076-3417/13/23/12704
+  authors:  L. DÍAZ-PÉREZ, F.J. LOPEZ-PELLICER, P. BRUFAU, J. LACASTA, R. TRILLO-LADO, J.A. YAGÜE-FABRA, F.J. ZARAZAGA-SORIA
+  publication: "Applied Sciences"
+  publication_detail: "13(23), 12704"
+  year: 2023
+  doi: https://doi.org/10.3390/app132312704
+# -------------------
 - title: "Doc-Attentive-GAN: attentive GAN for historical document denoising"
   url: https://doi.org/10.1007/s11042-023-15340-x
   authors:  H. NEJI, M. BEN HALIMA, J. NOGUERAS-ISO, T.M. HAMDANI, J. LACASTA, H. CHABCHOUB, A.M. ALIMI
