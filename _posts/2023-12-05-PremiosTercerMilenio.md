@@ -13,7 +13,7 @@ Ayer estuvimos en la entrega de la [novena edición premios Tercer Milenio](http
 
 Que toda una institución de nivel nacional (aunque se publique a nivel regional, Tercer Milenio es reconocido como uno de los suplementos de ciencia más prestigiosos de España) reconozca tu trabajo de esta manera es un orgullo que te anima a seguir trabajando de la misma manera.
 
-![Recepción del premio Tercer Milenio]({{ site.baseurl }}/images/posts/PremioTercerMilenio_1.jpg){: .center-image width="50%"}
+![Recepción del premio Tercer Milenio]({{ site.baseurl }}/images/posts/PremioTercerMilenio_3.jpg){: .center-image width="50%"}
 <h4><center><b>Recepción del premio Tercer Milenio</b></center></h4>
 
 En los 30 años de historia de nuestro grupo de investigación, la transferencia ha sido un eje vertebrador de nuestro trabajo. En este sentido, es un orgullo haber podido colaborar con tantas empresas y administraciones públicas y, de este modo, devolver a la Sociedad lo que ha puesto a nuestra disposición. 
