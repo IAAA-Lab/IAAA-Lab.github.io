@@ -21,7 +21,7 @@ En los 30 años de historia de nuestro grupo de investigación, la transferencia
 ![Recordando a Pedro Muro]({{ site.baseurl }}/images/posts/PremioTercerMilenio_2.jpg){: .center-image width="50%"}
 <h4><center><b>Recordando a Pedro Muro</b></center></h4>
 
-De este premio hubiera estado muy orgulloso nuestro fundador Pedro Muro, de cuyo fallecimiento se cumplieron 8 años el día 3 de diciembre. Él nos decía que no tenemos que inventar problemas, que la realidad nos provee con suficientes. Lo que tenemos que hacer es abstraer esos problemas, proponer soluciones y luego tratar de transferirlas a diferentes dominios. Sin ser pretencioso, creemos que hemos sido buenos alumnos.
+De este premio hubiera estado muy orgulloso nuestro fundador Pedro Muro, de cuyo fallecimiento se cumplieron 8 años el día 3 de diciembre. Él nos decía que no tenemos que inventar problemas, que la realidad nos provee con suficientes. Lo que tenemos que hacer es abstraer esos problemas, proponer soluciones y luego tratar de transferirlas a diferentes dominios. Sin ser pretenciosos, creemos que hemos sido buenos alumnos.
 
 ![Foto de familia de premios Tercer Milenio]({{ site.baseurl }}/images/posts/PremioTercerMilenio_4.jpg){: .center-image width="50%"}
 <h4><center><b>Foto de familia de premios Tercer Milenio</b></center></h4>
