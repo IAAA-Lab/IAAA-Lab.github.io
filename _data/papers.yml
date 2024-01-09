@@ -2,6 +2,22 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congreso 
 # -------------------
+- title: "Doc-Attentive-GAN: attentive GAN for historical document denoising"
+  url: https://link.springer.com/article/10.1007/s11042-023-17476-2
+  authors:  H. NEJI, M. BEN HALIMA, J. NOGUERAS-ISO, T.M. HAMDANI, J. LACASTA, H. CHABCHOUB, A.M. ALIMI
+  publication: "Multimedia Tools and Applications"
+  publication_detail: "Available online"
+  year: 2024
+  doi: 10.1007/s11042-023-17476-2
+# -------------------
+- title: "Deep architecture for super-resolution and deblurring of text images"
+  url: https://link.springer.com/article/10.1007/s11042-023-15340-x
+  authors:  H. NEJI, M. BEN HALIMA, J. NOGUERAS-ISO, T.M. HAMDANI, A.M. QAHTANI, O. ALMUTIRY, H. DHARI, A.M. ALIMI
+  publication: "Multimedia Tools and Applications"
+  publication_detail: "83, pp 3945–3961"
+  year: 2024
+  doi: 10.1007/s11042-023-15340-x
+# -------------------
 - title: "Providing a Common Approach to Designing Dataset-Based Learning Activities Based on a Literature Review"
   url: https://www.mdpi.com/2076-3417/13/23/12704
   authors:  L. DÍAZ-PÉREZ, F.J. LOPEZ-PELLICER, P. BRUFAU, J. LACASTA, R. TRILLO-LADO, J.A. YAGÜE-FABRA, F.J. ZARAZAGA-SORIA
@@ -10,14 +26,6 @@
   year: 2023
   doi: https://doi.org/10.3390/app132312704
 # -------------------
-- title: "Doc-Attentive-GAN: attentive GAN for historical document denoising"
-  url: https://link.springer.com/article/10.1007/s11042-023-17476-2
-  authors:  H. NEJI, M. BEN HALIMA, J. NOGUERAS-ISO, T.M. HAMDANI, J. LACASTA, H. CHABCHOUB, A.M. ALIMI
-  publication: "Multimedia Tools and Applications"
-  publication_detail: "Available online"
-  year: 2023
-  doi: 10.1007/s11042-023-17476-2
-# -------------------
 - title: "Effects of data time lag in a decision-making system using machine learning for pork price prediction"
   url: https://doi.org/10.1007/s00521-023-08730-7
   authors:  M.E. SUAZA-MEDINA, F.J. ZARAZAGA-SORIA, J. PINILLA-LÓPEZ, F.J. LOPEZ-PELLICER, J. LACASTA
@@ -25,14 +33,6 @@
   publication_detail: "Available online"
   year: 2023
   doi: 10.1007/s00521-023-08730-7
-# -------------------
-- title: "Deep architecture for super-resolution and deblurring of text images"
-  url: https://link.springer.com/article/10.1007/s11042-023-15340-x
-  authors:  H. NEJI, M. BEN HALIMA, J. NOGUERAS-ISO, T.M. HAMDANI, A.M. QAHTANI, O. ALMUTIRY, H. DHARI, A.M. ALIMI
-  publication: "Multimedia Tools and Applications"
-  publication_detail: "Available online"
-  year: 2023
-  doi: 10.1007/s11042-023-15340-x
 # -------------------
 - title: "Discrete Global Grid Systems with quadrangular cells as reference frameworks for the current generation of Earth observation data cubes"
   url: https://doi.org/10.1016/j.envsoft.2023.105656
