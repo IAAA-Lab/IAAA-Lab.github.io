@@ -5,7 +5,7 @@ layout: post
 image: /images/posts/hala_post2024.jpg
 categories: [People]
 ---
-We welcome Hala Neji, who rejoins IAAA lab as a post-doctoral researcher after ending her PhD in Tunisia. She will focus her research on machine learning techniques applied to the processing of historical documents giving a boost to ths research line from our team.
+We welcome Hala Neji, who rejoins IAAA lab as a post-doctoral researcher after ending her PhD in Tunisia. She will focus her research on machine learning techniques applied to the processing of historical documents giving a boost to this research line from our team.
 
 ![Hala Neji]({{ site.baseurl }}/images/posts/hala_post2024.jpg)
 
