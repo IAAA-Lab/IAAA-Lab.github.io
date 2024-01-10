@@ -2,12 +2,12 @@
 title: We welcome Hala Neji, who rejoins IAAA lab as a post-doctoral researcher
 subtitle: She will focus her research on machine learning techniques applied to the processing of historical documents
 layout: post
-image: /images/posts/EthelGarcia2023.jpg
+image: /images/posts/hala_post2024.jpg
 categories: [People]
 ---
 We welcome Hala Neji, who rejoins IAAA lab as a post-doctoral researcher after ending her PhD in Tunisia. She will focus her research on machine learning techniques applied to the processing of historical documents giving a boost to ths research line from our team.
 
-![Hala Neji]({{ site.baseurl }}/images/people/phd-students/hala.jpg)
+![Hala Neji]({{ site.baseurl }}/images/posts/hala_post2024.jpg)
 
 *"I defended my PhD in 2022 at the Electrical Engineering Doctorate Programme of the Doctoral School of “Sciences, Engineering and Society” from the National School of Engineers of Gabes (ENIG) at University of Gabes (Tunisia) under the supervision of Mohamed Ben Halima and Adel M. Alimi from the Research Groups in Intelligent Machines (REGIM) Lab of the University of Sfax (Tunisia) and Javier Nogueras from the IAAA lab.* 
 
