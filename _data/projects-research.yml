@@ -39,7 +39,7 @@
   years: 2021-2022
   main_researcher: F.J. Zarazaga-Soria, J. Lacasta
 - title: "Towards a sustainable Open Data ECOsystem"
-  url: ../odeco
+  url: https://www.iaaa.es/odeco
   organizations:
   - organization: European Union
   reference: Marie Skłodowska-Curie grant agreement No 955569
@@ -53,14 +53,14 @@
   years: 2021-2023
   main_researcher: J.A. Yague-Fabra
 - title: "Los sistemas de mallas globales discretas como nueva infraestructura geográfica para soportar la transformación digital del sector agrario"
-  url: ../agrodggs
+  url: https://www.iaaa.es/agrodggs
   organizations:
   - organization: Ministerio de Ciencia e Innovación. Agencia Estatal de Investigación
   reference: Proyecto PID2020-113353RB-I00
   years: 2021-2024
   main_researcher: R. Béjar, J. Nogueras-Iso
 - title: "Infraestructura web para el modelado colaborativo sobre una malla geodésica de espacios geográficos con interés turístico"
-  url: ../colabotur
+  url: https://www.iaaa.es/colabotur
   organizations:
   - organization: Gobierno de Aragón
   reference: Referencia LMP19_18, financiado durante 2019-2020 por fondos FEDER Aragón 2014-2020, "Construyendo Europa desde Aragón"
@@ -74,10 +74,10 @@
   years: 2017-2018
   main_researcher: R. Trillo-Lado
 - title: "Infraestructuras de información para el desarrollo y la autogestión de territorios inteligentes"
-  url: ../i2dati
+  url: https://www.iaaa.es/i2dati
   organizations:
   - organization: España. Ministerio de Economía y Competitividad
-    organization_url: ../images/other-logos/2_MEIC_Gob_Web_AEI_150dpi.png
+    organization_url: https://www.iaaa.es/images/other-logos/2_MEIC_Gob_Web_AEI_150dpi.png
   reference: TIN2017-88002-R (Programa Estatal de I+D+i orientada a los Retos de la Sociedad - Proyectos I+D+i)
   years: 2018-2020
   main_researcher: J. Nogueras-Iso, F.J. Zarazaga-Soria
