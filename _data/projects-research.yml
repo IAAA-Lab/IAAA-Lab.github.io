@@ -474,15 +474,9 @@
 - title: "Desarrollo e Implantación de Servicios Públicos Avanzados de Información Territorial. Evolución del SITNA para proporcionar servicios interoperables y abiertos por Internet y capacidades para comercio electrónico de información territorial"
   organizations:
   - organization: España. Ministerio de Ciencia y Tecnología
-  reference: PROFIT FIT-150500-2002-347 (Programa Nacional de Sociedad de la Información)
+  reference: PROFIT FIT-150500-2002-347
   years: 2002-2002
-  main_researcher: R. Béjar
-- title: "Desarrollo e Implantación de Servicios Públicos Avanzados de Información Territorial. Evolución del SITNA para proporcionar servicios interoperables y abiertos por Internet y capacidades para comercio electrónico de información territorial"
-  organizations:
-  - organization: Galicia. Junta
-  reference: FIT-150500-2002-347
-  years: 2002-2002
-  main_researcher: R. Béjar
+  main_researcher: R. Béjar  
 - title: "Centro de servicios de control y seguimiento de flotas de transporte terrestre con acceso por Internet"
   organizations:
   - organization: España. Ministerio de Ciencia y Tecnología
