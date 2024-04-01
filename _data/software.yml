@@ -1,0 +1,32 @@
+# Importante: dentro de este fichero las entradas tienen que estar ordenadas por año
+# (los más recientes primero)
+# -------------------
+- title: "Metadata-monitoring web portal"
+  url: https://github.com/IAAA-Lab/Metadata-Monitoring
+  github_url: https://github.com/IAAA-Lab/Metadata-Monitoring
+  authors:  F.J. ARIZA LÓPEZ, J. LACASTA, S. MARTÍNEZ MARTÍN, M.A. UREÑA CÁMARA, F.J. ZARAZAGA-SORIA  
+  year: 2023
+
+- title: "Geo-interfaz de usuario basado en voz"
+  url: https://github.com/IAAA-Lab/VUI_Prototype/releases/tag/v0.1.0
+  github_url: https://github.com/IAAA-Lab/VUI_Prototype
+  authors:  R. BÉJAR, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, S. MARTIN-SEGURA, F.J. ZARAZAGA-SORIA  
+  year: 2022 
+
+- title: "Frontier"
+  url: https://github.com/IAAA-Lab/frontier
+  github_url: https://github.com/IAAA-Lab/frontier
+  authors:  R. BÉJAR, J. LACASTA, M.Á. LATRE, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA  
+  year: 2022 
+
+- title: "DB Doc"
+  url: https://github.com/IAAA-Lab/dbdoc
+  github_url: https://github.com/IAAA-Lab/dbdoc
+  authors:  R. BÉJAR, J. LACASTA, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA  
+  year: 2022 
+
+- title: "Sistema de gestión de PID INSPIRE"
+  url: https://github.com/IAAA-Lab/pid-ms
+  github_url: https://github.com/IAAA-Lab/pid-ms
+  authors:  R. BÉJAR, M.Á. LATRE, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA  
+  year: 2018

@@ -10,8 +10,12 @@ layout: page
 		</div>		
 	</div>
 	{% capture author_id_to_pass %}{{ page.author_id }}{% endcapture %}
-        <div class="blog-post text-container">
+    <div class="blog-post text-container">
                 <h1 id="papers">Papers</h1>	                
                 {% include papers-list.html author_id=author_id_to_pass %}                
 	</div>
+	<div class="blog-post text-container">
+		<h1 id="software">Registered software</h1>	                
+		{% include software-list.html author_id=author_id_to_pass %}                
+</div>
 </section>
