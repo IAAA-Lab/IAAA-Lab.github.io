@@ -22,12 +22,14 @@
   authors: S. MARTIN-SEGURA, R. BÉJAR, F.J. ZARAZAGA-SORIA
   publication_conference: "Accepted Short Papers and Posters from the 27th AGILE Conference on Geo-information Science. University of Glasgow, Glasgow, UK, 4-7 June 2024"
   year: 2024
+  url: https://doi.org/10.5194/agile-giss-5-40-2024
   doi: 10.5194/agile-giss-5-40-2024
 # -------------------
 - title: "Process Analysis in Humanitarian Voluntary Geographic Information: the case of the HOT Tasking Manager"
   authors: D.J. HERRERA-MURILLO, H. OCHOA-ORTIZ, U. AHMED, F.J. LOPEZ-PELLICER, B. RE, A. POLINI, J. NOGUERAS-ISO
   publication_conference: "Accepted Full Papers from the 27th AGILE Conference on Geo-information Science. University of Glasgow, Glasgow, UK, 4-7 June 2024"
   year: 2024
+  url: https://doi.org/10.5194/agile-giss-5-5-2024
   doi: 10.5194/agile-giss-5-5-2024
 # -------------------
 - title: "Providing a Common Approach to Designing Dataset-Based Learning Activities Based on a Literature Review"
