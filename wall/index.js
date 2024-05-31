@@ -45,9 +45,10 @@ function currentTime() {
 
     // Hour
     var [hh, mm, ss] = [dt.getHours(), dt.getMinutes(), dt.getSeconds()];
-    
+
     const session = (hh > 12) ? "PM" : "AM";
     hh = hh % 12;
+    if (hh == 0) hh = 12;
 
     [hh, mm, ss] = [pad(hh), pad(mm), pad(ss)];
     const time = `${hh}:${mm}:${ss} ${session}`;
