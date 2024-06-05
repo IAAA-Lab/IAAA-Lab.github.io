@@ -2,6 +2,22 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congreso 
 # -------------------
+- title: "An empirical study of the limitations of minimum bounding boxes for defining the extent of geospatial resources: the use of DGGS and other alternatives for improving the performance of spatial searches"
+  url: https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2361274
+  authors:   S. MARTIN-SEGURA, F.J. LOPEZ-PELLICER, R. BÉJAR, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
+  publication: "International Journal of Geographical Information Science"
+  publication_detail: "p. 1 - 20"
+  year: 2024
+  doi: 10.1080/13658816.2024.2361274
+# -------------------
+- title: "Evaluating the efficiency of NDVI and climatic data in maize harvest prediction using machine learning"
+  url: https://www.tandfonline.com/doi/full/10.1080/17538947.2024.2359565
+  authors:   M.E. SUAZA-MEDINA, J. LAGUNA, R. BÉJAR, F.J. ZARAZAGA-SORIA, J. LACASTA
+  publication: "International Journal of Digital Earth"
+  publication_detail: "vol. 17(1), p. 1 - 20"
+  year: 2024
+  doi: 10.1080/17538947.2024.2359565
+# -------------------
 - title: "Doc-Attentive-GAN: attentive GAN for historical document denoising"
   url: https://link.springer.com/article/10.1007/s11042-023-17476-2
   authors:  H. NEJI, M. BEN HALIMA, J. NOGUERAS-ISO, T.M. HAMDANI, J. LACASTA, H. CHABCHOUB, A.M. ALIMI
