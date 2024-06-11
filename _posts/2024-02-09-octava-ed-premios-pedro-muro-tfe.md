@@ -7,6 +7,23 @@ image: /images/posts/Pedro_Muro.jpg
 
 El [Grupo de Sistemas de Información Avanzados]({{ site.baseurl }}/) y el [Instituto de Investigación en Ingeniería de Aragón](http://i3a.unizar.es) abren la convocatoria para los premios a los trabajos de fin de estudios **defendidos en cualquier universidad española entre el 1 de enero de 2023 y el 31 de diciembre de 2023** que más aporten al desarrollo y explotación de los datos abiertos. Aunque en anteriores ediciones este premio ha estado restringido a trabajos realizados con datos geográficos abiertos, a partir de esta edición el premio quiere incluir el reconocimiento del trabajo en otros ámbitos y problemas, siempre que estén relacionados con los datos abiertos.
 
+---
+#### Ganadores del premio
+
+El jurado ha decidido conceder el primer premio a Dª Natalia Crespo Lera por el proyecto “Asignación automática de parcelas del Inventario Forestal Nacional a municipios usando datos abiertos enlazados”, realizado en la Universidad de Valladolid, y el accésit a Dª María Soguero García por el proyecto "Simulación con CLUMondo de la evolución de los usos y cubiertas del suelo para 2050 en las comarcas de La Jacetania y Alto Gállego", realizado en la Universidad de Zaragoza.
+
+Aunque no era lo previsto inicialmente, finalmente la entrega de premios se ha realizado en una videoconferencia:
+
+
+![Entrega del premio a Natalia Crespo]({{ site.baseurl }}/images/posts/premio_PRMuro_2024_Natalia.jpg){:class="img-responsive"}
+
+![Entrega del premio a María Soguero]({{ site.baseurl }}/images/posts/premio_PRMuro_2024_Maria.jpg){:class="img-responsive"}
+
+
+*(Actualizado el 11 de junio de 2024)*
+
+---
+
 # Objetivo y participantes
 El objetivo de estos premios es fomentar y apoyar la realización de trabajos de aplicación o investigación relacionados con la explotación de los datos abiertos.
 
