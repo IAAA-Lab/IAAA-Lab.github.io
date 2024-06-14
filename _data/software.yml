@@ -2,6 +2,12 @@
 # (los más recientes primero). Y los autores en orden alfabético (se asume que están
 # en ese orden en la web donde se muestran).
 # -------------------
+- title: "DGGSTools 1"
+  url: https://doi.org/10.5281/zenodo.10659071
+  github_url: https://github.com/IAAA-Lab/dggstools
+  authors:  R. BÉJAR, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, S. MARTIN-SEGURA, F.J. ZARAZAGA-SORIA  
+  year: 2024
+
 - title: "Metadata-monitoring web portal"
   url: https://github.com/IAAA-Lab/Metadata-Monitoring
   github_url: https://github.com/IAAA-Lab/Metadata-Monitoring
