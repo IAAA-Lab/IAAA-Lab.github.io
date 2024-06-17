@@ -2,6 +2,14 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congreso 
 # -------------------
+- title: "First steps towards a platform for the analysis of civil law documentary heritage"
+  url: https://doi.org/10.54886/scire.v30i1.5018
+  authors: H. NEJI, J. NOGUERAS-ISO, F.J. GARCÍA-MARCOG, C. BAYOD LÓPEZ
+  publication: "SCIRE"
+  publication_detail: "vol. 30(1) p. 75-83"
+  year: 2024
+  doi: 10.54886/scire.v30i1.5018
+# -------------------
 - title: "An empirical study of the limitations of minimum bounding boxes for defining the extent of geospatial resources: the use of DGGS and other alternatives for improving the performance of spatial searches"
   url: https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2361274
   authors:   S. MARTIN-SEGURA, F.J. LOPEZ-PELLICER, R. BÉJAR, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
