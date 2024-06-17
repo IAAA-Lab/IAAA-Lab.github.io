@@ -2,9 +2,17 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congreso 
 # -------------------
+- title: "Identifying the evolution of Open Government Data initiatives and their user engagement"
+  url: https://doi.org/10.1109/ACCESS.2024.3414282
+  authors: A. AZIZ, D.J. HERRERA-MURILLO, J. NOGUERAS-ISO, J. LACASTA, F.J. LOPEZ-PELLICER
+  publication: "International Journal of Geographical Information Science"
+  publication_detail: "Available online"
+  year: 2024
+  doi: 10.1109/ACCESS.2024.3414282
+# -------------------
 - title: "First steps towards a platform for the analysis of civil law documentary heritage"
   url: https://doi.org/10.54886/scire.v30i1.5018
-  authors: H. NEJI, J. NOGUERAS-ISO, F.J. GARCÍA-MARCOG, C. BAYOD LÓPEZ
+  authors: H. NEJI, J. NOGUERAS-ISO, F.J. GARCÍA-MARCO, C. BAYOD LÓPEZ
   publication: "SCIRE"
   publication_detail: "vol. 30(1) p. 75-83"
   year: 2024
