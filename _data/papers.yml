@@ -58,6 +58,13 @@
   url: https://doi.org/10.5194/agile-giss-5-40-2024
   doi: 10.5194/agile-giss-5-40-2024
 # -------------------
+- title: "Estudio de las capacidades geográficas de los LLMs: Integración de GPT 3.5 en la interfaz de voz de un visor de mapas"
+  authors: R. LÓPEZ-FRANCO, S. MARTIN-SEGURA, F.J. ZARAZAGA-SORIA
+  publication_conference: "XX Conferencia de la Asociación Española para la Inteligencia Artificial, CAEPIA 2024, 19-21 June 2024 A Coruña, ES"
+  publication_detail: "In proceedings p. 95 - 100. ISBN: 978-84-09-62724-0"
+  year: 2024
+  url: https://caepia24.aepia.org/inicio_files/XX%20Caepia_2024_Actas_General.pdf
+# -------------------
 - title: "Process Analysis in Humanitarian Voluntary Geographic Information: the case of the HOT Tasking Manager"
   authors: D.J. HERRERA-MURILLO, H. OCHOA-ORTIZ, U. AHMED, F.J. LOPEZ-PELLICER, B. RE, A. POLINI, J. NOGUERAS-ISO
   publication_conference: "27th AGILE Conference on Geographic Information Science, 4-7 June 2024 Glasgow, UK"
