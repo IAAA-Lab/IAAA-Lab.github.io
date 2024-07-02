@@ -51,6 +51,13 @@
   year: 2024
   doi: 10.1007/s11042-023-15340-x
 # -------------------
+- title: "Towards the Development of Interoperable Open Data Ecosystems: Harnessing the Technical, Semantic, Legal, and Organizational (TSLO) Interoperability Framework"
+  authors: M. ALI, G. PAPAGEORGIOU, A. AZIZ, E. LOUKIS, Y. CHARALABIDIS, F.J. LOPEZ-PELLICER
+  publication_conference: "dg.o'24: 25th Annual International Conference on Digital Government Research June 11–14, 2024, Taipei, Taiwan"
+  year: 2024
+  url: https://doi.org/10.1145/3657054.3657160
+  doi: 10.1145/3657054.3657160
+# -------------------
 - title: "DGGSTools: An Open Source Python Package for the Manipulation of Vector and Raster Datasets in the rHEALPix Discrete Global Grid System"
   authors: S. MARTIN-SEGURA, R. BÉJAR, F.J. ZARAZAGA-SORIA
   publication_conference: "27th AGILE Conference on Geographic Information Science, 4-7 June 2024 Glasgow, UK"
