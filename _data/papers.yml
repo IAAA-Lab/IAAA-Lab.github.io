@@ -51,6 +51,19 @@
   year: 2024
   doi: 10.1007/s11042-023-15340-x
 # -------------------
+- title: "Métodos de investigación de experiencia de usuario al servicio de las IDE: Análisis de las aplicaciones de localización y descarga del Centro Nacional de Información Geográfica"
+  authors: D.J. HERRERA-MURILLO, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO
+  publication_conference: "XV Jornadas Ibéricas de IDE (JIIDE 2024), Vitoria, Spain, 13-15 November 2024"
+  year: 2024
+  url: https://www.idee.es/resources/presentaciones/JIIDE24-IIIgeoEuskadi/Resumenes/57.pdf
+# -------------------
+- title: "Estudio de las capacidades geográficas de los LLMs: Integración de GPT 3.5 en la interfaz de voz de un visor de mapas"
+  authors: R. LÓPEZ-FRANCO, S. MARTIN-SEGURA, F.J. ZARAZAGA-SORIA
+  publication_conference: "XX Conferencia de la Asociación Española para la Inteligencia Artificial, CAEPIA 2024, 19-21 June 2024 A Coruña, ES"
+  publication_detail: "In proceedings p. 95 - 100. ISBN: 978-84-09-62724-0"
+  year: 2024
+  url: https://caepia24.aepia.org/inicio_files/XX%20Caepia_2024_Actas_General.pdf
+# -------------------
 - title: "Towards the Development of Interoperable Open Data Ecosystems: Harnessing the Technical, Semantic, Legal, and Organizational (TSLO) Interoperability Framework"
   authors: M. ALI, G. PAPAGEORGIOU, A. AZIZ, E. LOUKIS, Y. CHARALABIDIS, F.J. LOPEZ-PELLICER
   publication_conference: "dg.o'24: 25th Annual International Conference on Digital Government Research June 11–14, 2024, Taipei, Taiwan"
@@ -64,18 +77,6 @@
   year: 2024
   url: https://doi.org/10.5194/agile-giss-5-40-2024
   doi: 10.5194/agile-giss-5-40-2024
-# -------------------
-- title: "Métodos de investigación de experiencia de usuario al servicio de las IDE: Análisis de las aplicaciones de localización y descarga del Centro Nacional de Información Geográfica"
-  authors: D.J. HERRERA-MURILLO, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO
-  publication_conference: "XV Jornadas Ibéricas de IDE (JIIDE 2024), Vitoria, Spain, 13-15 November 2024"
-  year: 2024
-  url: https://www.idee.es/resources/presentaciones/JIIDE24-IIIgeoEuskadi/Resumenes/57.pdf
-- title: "Estudio de las capacidades geográficas de los LLMs: Integración de GPT 3.5 en la interfaz de voz de un visor de mapas"
-  authors: R. LÓPEZ-FRANCO, S. MARTIN-SEGURA, F.J. ZARAZAGA-SORIA
-  publication_conference: "XX Conferencia de la Asociación Española para la Inteligencia Artificial, CAEPIA 2024, 19-21 June 2024 A Coruña, ES"
-  publication_detail: "In proceedings p. 95 - 100. ISBN: 978-84-09-62724-0"
-  year: 2024
-  url: https://caepia24.aepia.org/inicio_files/XX%20Caepia_2024_Actas_General.pdf
 # -------------------
 - title: "Process Analysis in Humanitarian Voluntary Geographic Information: the case of the HOT Tasking Manager"
   authors: D.J. HERRERA-MURILLO, H. OCHOA-ORTIZ, U. AHMED, F.J. LOPEZ-PELLICER, B. RE, A. POLINI, J. NOGUERAS-ISO
