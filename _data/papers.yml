@@ -85,7 +85,7 @@
   publication: "Applied Sciences"
   publication_detail: "13(23), 12704"
   year: 2023
-  doi: https://doi.org/10.3390/app132312704
+  doi: 10.3390/app132312704
 # -------------------
 - title: "Effects of data time lag in a decision-making system using machine learning for pork price prediction"
   url: https://doi.org/10.1007/s00521-023-08730-7
