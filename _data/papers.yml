@@ -64,6 +64,13 @@
   year: 2024
   url: https://caepia24.aepia.org/inicio_files/XX%20Caepia_2024_Actas_General.pdf
 # -------------------
+- title: "La ingeniería del software en la investigación geográfica"
+  authors: R. BÉJAR
+  publication_conference: "XX Congreso de Tecnologías de la Información Geográfica, Palma, (Mallorca, Illes Balears), Spain, 14-16 October 2024"
+  publication_detail: "Closing keynote (invited talk)"
+  year: 2024
+  url: https://www.iaaa.es/downloads/KeynoteTIGXX.pdf
+# -------------------
 - title: "Towards the Development of Interoperable Open Data Ecosystems: Harnessing the Technical, Semantic, Legal, and Organizational (TSLO) Interoperability Framework"
   authors: M. ALI, G. PAPAGEORGIOU, A. AZIZ, E. LOUKIS, Y. CHARALABIDIS, F.J. LOPEZ-PELLICER
   publication_conference: "dg.o'24: 25th Annual International Conference on Digital Government Research June 11–14, 2024, Taipei, Taiwan"

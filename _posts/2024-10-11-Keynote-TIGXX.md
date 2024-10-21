@@ -1,6 +1,6 @@
 ---
 title: Conferencia invitada en el XX Congreso de Tecnologías de la Información Geográfica
-subtitle: 14-16 de octubre de 2024, Palma de Mallorca (España)
+subtitle: 14-16 de octubre de 2024, Palma, Mallorca, Illes Balears (España)
 layout: post
 image: /images/people/rbejar.jpg
 categories: [Event]
