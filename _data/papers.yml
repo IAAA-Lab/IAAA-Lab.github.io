@@ -19,6 +19,15 @@
   year: 2024
   doi: 10.54886/scire.v30i1.5018
 # -------------------
+- title: "A model for predicting academic performance on standardised tests for lagging regions based on machine learning and Shapley
+additive explanations"
+  url: https://doi.org/10.1038/s41598-024-76596-3
+  authors: M.E. SUAZA-MEDINA, R. PEÑABAENA-NIEBLES, M. JUBIZ-DIAZ
+  publication: "Scientific Reports"
+  publication_detail: "vol. 14, 25306"
+  year: 2024
+  doi: 10.1038/s41598-024-76596-3
+# -------------------
 - title: "An empirical study of the limitations of minimum bounding boxes for defining the extent of geospatial resources: the use of DGGS and other alternatives for improving the performance of spatial searches"
   url: https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2361274
   authors:   S. MARTIN-SEGURA, F.J. LOPEZ-PELLICER, R. BÉJAR, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA
