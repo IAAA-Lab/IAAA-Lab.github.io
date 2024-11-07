@@ -1,6 +1,6 @@
 ---
 title: Mario in Bologna
-subtitle: Mario is working with professors from teh University of Bologna
+subtitle: Mario is working with professors from the University of Bologna
 layout: post
 image: /images/posts/2024-11-07-MarioEnBolonia2.jpg
 categories: [People]
