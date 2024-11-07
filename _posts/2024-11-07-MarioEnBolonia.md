@@ -10,7 +10,7 @@ As part of his research, [Mario](https://www.iaaa.es/staff/mario/) is collaborat
 
 ![Mario in Bologna]({{ site.baseurl }}/images/posts/2024-11-07-MarioEnBolonia1.jpg)
 
-"The University of Bologna is renowned as one of the oldest and most prestigious academic institutions in Europe. Its Department of Agricultural and Food Sciences provides an exceptional opportunity to integrate areas of study such as agricultural production, food economics, and consumer sciences, offering both the academic environment and technical resources essential for expanding the scope of my research."
+*"The University of Bologna is renowned as one of the oldest and most prestigious academic institutions in Europe. Its Department of Agricultural and Food Sciences provides an exceptional opportunity to integrate areas of study such as agricultural production, food economics, and consumer sciences, offering both the academic environment and technical resources essential for expanding the scope of my research."*
 
 This collaboration began in September 2024, and it is officially set to conclude at the end of December 2024, though our research team plans to build on it as a foundation for exploring new opportunities.
 
