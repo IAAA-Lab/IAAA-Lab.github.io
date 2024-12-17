@@ -2,6 +2,14 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congreso 
 # -------------------
+- title: "A Framework for the Multi-Dimensional Assessment of Interoperability for Open Data Ecosystems Development"
+  url: https://doi.org/10.1177/15701255241297172
+  authors: M. ALI, G. PAPAGEORGIOU, A. AZIZ, E. LOUKIS, Y. CHARALABIDIS, C. ALEXOPOULOS, F.J. LOPEZ-PELLICER
+  publication: "Information Polity"
+  publication_detail: "first published online December 16"
+  year: 2024
+  doi: 10.1177/15701255241297172
+# -------------------
 - title: "Identifying the evolution of Open Government Data initiatives and their user engagement"
   url: https://doi.org/10.1109/ACCESS.2024.3414282
   authors: A. AZIZ, D.J. HERRERA-MURILLO, J. NOGUERAS-ISO, J. LACASTA, F.J. LOPEZ-PELLICER
