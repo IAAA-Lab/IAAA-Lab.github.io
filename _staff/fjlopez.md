@@ -6,23 +6,11 @@ layout: member_page
 
 ## Professional career
 
-Francisco J. Lopez-Pellicer holds a PhD in Computer Science(April 2011), an MS degrees in Computer Science (July 2005) and an MS degree in Economics and Business (June 1992) from the Universidad Zaragoza.
-Francisco J. Lopez-Pellicer is member of the Advanced Information Systems Laboratory (IAAA) since February 2004.
-Francisco is Associate Professor at the Universidad Zaragoza since November 2015.
-Previously, he was Assistant Professor at the same University since November 2007.
+Francisco Javier López Pellicer holds a Ph.D. in Computer Engineering from the University of Zaragoza (2011), where he also obtained his degree in Computer Engineering (2006). His academic background is complemented by a Bachelor’s degree in Economics and Business Administration from the same university (1992). Since 2004, he has been an active member of the Advanced Information Systems Group (IAAA), where he has developed a research career focused on open and geospatial data infrastructures, applied machine learning, and technological innovation in information systems. His trajectory includes contributions to the development of advanced methodologies and practical applications that address challenges in the management and analysis of open and geospatial data, sustainability, and digitalisation. 
 
-Francisco has focused his research efforts in how data and metadata are used in the multidisciplinary area of the data infrastructures, with a strong focus in the spatial domain.
-His current research interests are the development of metadata and data-related technologies, the discovery and indexing of web resources, and the reuse of data.
-He is author and coauthor of more than 50 articles published in journals, books and national and international conference proceedings and workshops.
-He has also participated in public R+D call for tender, and in national and European research technology transfer contracts.
+Regarding his scientific output, he is a co-author of 25 articles in JCR-indexed journals, 3 articles in high-impact international conferences (GII-GRIN-SCIE), 5 articles in non-indexed journals, 2 research books, and over 50 contributions to national and Iberian conferences and workshops. Additionally, he serves as a reviewer for 14 JCR SCIE-indexed journals and has supervised 4 Ph.D. theses. 
 
-Areas of expertise:
-
-- Open data
-- Linked open data
-- Web and information systems
-- Software Design & Development
-- Geo-information and spatial data
+He has participated in more than 60 R&D&I projects, acting as the principal investigator in 13 of them, including 2 European projects: ODECO (2021-2025) and LinkedMap (2013-2014). He has also been involved in over 60 technology transfer contracts. In the field of standardisation, he collaborates with national committees (UNE CTN 148 Geographic Information and CTN 178 Smart Cities) and international committees (ISO TC/211 and OGC).
 
 You can discover more about him at:
 
