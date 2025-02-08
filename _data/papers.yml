@@ -3,7 +3,8 @@
 # artículos de revista y capítulos de libro y finalmente los artículos de congreso 
 # -------------------
 - title: "A Framework for the Multi-Dimensional Assessment of Interoperability for Open Data Ecosystems Development"
-  url: https://doi.org/10.1177/15701255241297172
+  url: https://journals.sagepub.com/doi/10.1177/15701255241297172
+  doi: https://doi.org/10.1177/15701255241297172
   authors: M. ALI, G. PAPAGEORGIOU, A. AZIZ, E. LOUKIS, Y. CHARALABIDIS, C. ALEXOPOULOS, F.J. LOPEZ-PELLICER
   publication: "Information Polity"
   publication_detail: "first published online December 16"
