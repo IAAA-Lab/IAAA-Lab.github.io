@@ -9,20 +9,20 @@ description: Next generation spatial data infrastructures and location intellige
 
 # Other data for the jekyll-seo-tag gem
 logo: /images/logo-share.svg
-twitter:
-    username: iaaa_lab
+#twitter:
+#    username: iaaa_lab
 
 # Author details for the jekyll-seo-tag gem
 author:
   name: IAAA
   email: iaaa@unizar.es
-  twitter: iaaa_lab
+  # twitter: iaaa_lab
 
 # Social details for the jekyll-seo-tag gem
 social:    
   links:
     - https://github.com/iaaa-lab
-    - https://twitter.com/iaaa_lab
+    - https://bsky.app/profile/iaaa-lab.bsky.social
 
 collections:
   staff:

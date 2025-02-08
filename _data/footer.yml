@@ -10,9 +10,9 @@
       link: /contact/
 - title: Social
   links:
-    - name: Twitter
-      link: https://twitter.com/iaaa_lab
-      social_icon: Twitter
+    - name: Bluesky
+      link: https://bsky.app/profile/iaaa-lab.bsky.social
+      social_icon: Bluesky
       new_window: true
     - name: GitHub
       link: https://github.com/IAAA-Lab
