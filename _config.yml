@@ -23,6 +23,7 @@ social:
   links:
     - https://github.com/iaaa-lab
     - https://bsky.app/profile/iaaa-lab.bsky.social
+    - https://www.linkedin.com/company/iaaalab
 
 collections:
   staff:
@@ -74,7 +75,7 @@ defaults:
 # - Facebook
 # - Google Plus
 # - Instagram
-#  - LinkedIn
+# - LinkedIn
 # - Pinterest
 # - Tumblr
 #  - Twitter
