@@ -43,7 +43,7 @@ Los criterios establecidos de valoración de las candidaturas para la concesión
 
 - La capacidad de la propuesta para transmitir con rigor, extensión y claridad los contenidos del TFE (máximo 30 puntos).
 - La calidad e innovación de los elementos que configuran la propuesta y su presentación (máximo 30 puntos).
-- La contribución del TFE al desarrollo o explotación de las infraestructuras de datos abiertos (máximo 40 puntos).
+- La contribución del TFE al desarrollo y explotación de datos abiertos o datos geográficos (máximo 40 puntos).
 
 # Fallo
 El jurado, por suma de las puntuaciones asignadas de acuerdo con los criterios anteriores, concederá dos premios: un primer premio y un accésit que corresponderán con los TFE que hayan obtenido las dos puntuaciones más altas entre los presentados. Si a juicio del jurado no hay dos de los TFE presentados que reúnan la calidad mínima exigible o cubran satisfactoriamente el objeto de la convocatoria, cualquiera de los dos premios o los dos pueden declararse desiertos.
