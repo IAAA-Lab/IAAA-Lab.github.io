@@ -4,12 +4,12 @@
 # -------------------
 - title: "Collective Intelligence in Humanitarian Voluntary Geographic Information: The Case of the HOT Tasking Manager"
   url: https://doi.org/10.1145/3733600
-  doi: https://doi.org/10.1177/15701255241297172
   authors: D.J. HERRERA-MURILLO, H. OCHOA-ORTIZ, U. AHMED, F.J. LOPEZ-PELLICER, B. RE, A. POLINI, J. NOGUERAS-ISO
   publication: "ACM Transactions on Computer-Human Interaction"
   publication_detail: "Online"
   year: 2025
   doi: 10.1145/3733600
+  github_url: https://github.com/IAAA-Lab/Collective-Intelligence-in-Humanitarian-Voluntary-Geographic-Information-ODECO-HOT-TM
 # -------------------
 - title: "A Framework for the Multi-Dimensional Assessment of Interoperability for Open Data Ecosystems Development"
   url: https://doi.org/10.1177/15701255241297172
