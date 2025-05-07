@@ -2,12 +2,20 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congreso 
 # -------------------
-- title: "A Framework for the Multi-Dimensional Assessment of Interoperability for Open Data Ecosystems Development"
-  url: https://journals.sagepub.com/doi/10.1177/15701255241297172
+- title: "Collective Intelligence in Humanitarian Voluntary Geographic Information: The Case of the HOT Tasking Manager"
+  url: https://doi.org/10.1145/3733600
   doi: https://doi.org/10.1177/15701255241297172
+  authors: D.J. HERRERA-MURILLO, H. OCHOA-ORTIZ, U. AHMED, F.J. LOPEZ-PELLICER, B. RE, A. POLINI, J. NOGUERAS-ISO
+  publication: "ACM Transactions on Computer-Human Interaction"
+  publication_detail: "Online"
+  year: 2025
+  doi: 10.1145/3733600
+# -------------------
+- title: "A Framework for the Multi-Dimensional Assessment of Interoperability for Open Data Ecosystems Development"
+  url: https://doi.org/10.1177/15701255241297172
   authors: M. ALI, G. PAPAGEORGIOU, A. AZIZ, E. LOUKIS, Y. CHARALABIDIS, C. ALEXOPOULOS, F.J. LOPEZ-PELLICER
   publication: "Information Polity"
-  publication_detail: "first published online December 16"
+  publication_detail: "vol. 29(4), p. 439-466"
   year: 2024
   doi: 10.1177/15701255241297172
 # -------------------
