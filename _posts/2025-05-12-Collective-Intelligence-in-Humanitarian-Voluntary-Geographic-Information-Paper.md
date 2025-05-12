@@ -16,7 +16,7 @@ Drawing on data from 746 humanitarian mapping projects completed between Decembe
 - What evidence can we find of intelligent behavior emerging from the collective?
 
 
-![Fig. 7. Frequency and duration map of task states and transitions (85% of most frequent traces)]({{ site.baseurl }}/images/posts/2025-05-12-map.png){: .center-image width="50%"}
+![Fig. 7. Frequency and duration map of task states and transitions (85% of most frequent traces)]({{ site.baseurl }}/images/posts/2025-05-12-map.png){: .center-image width="100%"}
 <h4><center><b>Fig. 7. Frequency and duration map of task states and transitions (85% of most frequent traces)</b></center></h4>
 
 
@@ -27,7 +27,7 @@ While this structure effectively meets the short-term objectives of rapid map pr
 To uncover these insights, we combined quantitative profiling, process mining, and logistic regression analyses, providing one of the most comprehensive empirical explorations of humanitarian mapping dynamics to date.
 
 
-![Fig. 11. Handover of mapping tasks]({{ site.baseurl }}/images/posts/2025-05-12-handover.png){: .center-image width="50%"}
+![Fig. 11. Handover of mapping tasks]({{ site.baseurl }}/images/posts/2025-05-12-handover.png){: .center-image width="100%"}
 <h4><center><b>Fig. 11. Handover of mapping tasks</b></center></h4>
 
 
