@@ -33,4 +33,6 @@ To uncover these insights, we combined quantitative profiling, process mining, a
 
 ---
 [Collective Intelligence in Humanitarian Voluntary Geographic Information: The Case of the HOT Tasking Manager.](https://dl.acm.org/doi/10.1145/3733600)  D.J. HERRERA-MURILLO, H. OCHOA-ORTIZ, U. UMAIR, F.J. LOPEZ-PELLICER, B. RE, A. POLINI, J. NOGUERAS-ISO. ACM Transactions on Computer-Human Interaction, online, 2025.
+
+
 ---
