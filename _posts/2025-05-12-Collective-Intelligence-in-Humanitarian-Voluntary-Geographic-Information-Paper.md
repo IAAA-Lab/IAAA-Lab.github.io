@@ -2,7 +2,7 @@
 title: Collective Intelligence in Humanitarian Voluntary Geographic Information
 subtitle: The Case of the HOT Tasking Manager 
 layout: post
-image: /images/posts/2025-05-12-handover.png
+image: /images/posts/2025-05-12-map.png
 categories: [Paper overview]
 ---
 
