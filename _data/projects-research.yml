@@ -1,3 +1,40 @@
+- title: "Gemelo Digital de Explotaciones de Alfalfa"
+  url: 
+  organizations:
+  - organization: Gobierno de Aragón
+  reference: PROY_T04_24
+  years: 2024-2026
+  main_researcher: J. Lacasta
+- title: "Experimentación destinada a la validación de tecnologías de base para el desarrollo de un componente software para la fijación de precio óptimo de combustibles para vehículos"
+  url: 
+  organizations:
+  - organization: PROGRAMA DE APOYO A DIGITAL INNOVATION HUBS (DIH_01). EDIH:ARAGON EDIH/ARAGON EUROPEAN DIGITAL INNOVATION HUB
+  - organization: Ministerio de Industria, Comercio y Turismo
+  - organization: European Union - Next Generation 
+  - organization: ADVANCE SOLUCIONES DE NEGOCIO, s.l. 
+  reference: 2023/DIH_01/000414
+  years: 2024
+  main_researcher: J. Lacasta
+- title: "Tecnología base para el desarrollo de un agregador de noticias agrarias basado en procesado de lenguaje natural"
+  url: 
+  organizations:
+  - organization: PROGRAMA DE APOYO A DIGITAL INNOVATION HUBS (DIH_01). EDIH:ARAGON EDIH/ARAGON EUROPEAN DIGITAL INNOVATION HUB
+  - organization: Ministerio de Industria, Comercio y Turismo
+  - organization: European Union - Next Generation 
+  - organization: 7eData Business, s.l. 
+  reference: 2023/DIH_01/000320
+  years: 2024
+  main_researcher: J. Lacasta
+- title: "Experimentación destinada a la validación del uso de imágenes de satélite para poder identificar emisiones de calor en zonas urbanas con sensores no diseñados con este fin"
+  url: 
+  organizations:
+  - organization: PROGRAMA DE APOYO A DIGITAL INNOVATION HUBS (DIH_01). EDIH:ARAGON EDIH/ARAGON EUROPEAN DIGITAL INNOVATION HUB
+  - organization: Ministerio de Industria, Comercio y Turismo
+  - organization: European Union - Next Generation  
+  - organization: Geospatiumlab, s.l.   
+  reference: 2023/DIH_01/000240
+  years: 2024
+  main_researcher: J. Lacasta
 - title: "SIH: Simbiosis Industrial Hídrica mediante sensórica e inteligencia de reutilización"
   url: https://zinnae.org/proyectos/sih/
   organizations:
