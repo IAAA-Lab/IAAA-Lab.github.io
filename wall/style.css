@@ -2,6 +2,7 @@
     --front: white;
     --front-secondary: #ffe8c7;
     --back: #e89728;
+    --red: #f42a2a;
     --back-image: url(./orange.svg);
     --logo: url(/images/logo-share.svg);
     --top-offset: 33%
@@ -11,6 +12,7 @@
     --front: #e89728;
     --front-secondary: #fdb95a;
     --back: white;
+    --red: #f42a2a;
     --back-image: url(./light.svg);
     --logo: url(/images/logo-share.svg);
     --top-offset: 50%
@@ -20,6 +22,7 @@
     --front: #fdb95a;
     --front-secondary: white;
     --back: #383838;
+    --red: #f42a2a;
     --back-image: url(./dark.svg);
     --logo: url(/images/logo.svg);
     --top-offset: 50%
@@ -76,8 +79,12 @@ p {
     font-size: 4em;
     max-width: 80%;
     max-height: 10em;
-    /* letter-spacing: 0.05em; */
-    /* color: #fdb95a; */
+    position: absolute;
+    left: 50%;
+    top: calc(var(--top-offset) + 30%);
+    transform: translate(-50%, -50%);
+    width: 80%;
+    resize: vertical;
 }
 
 #logo {
@@ -89,4 +96,78 @@ p {
     right: 0;
     z-index: 10;
     height: 4em;
+}
+
+#countdown-container {
+    margin-top: 1em;
+    transition: all 0.3s ease-in-out;
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+#time-input-container {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.2em;
+    margin-bottom: 0.5em;
+}
+
+.time-digit {
+    background-color: transparent;
+    border: 2px solid var(--front-secondary);
+    color: var(--front-secondary);
+    padding: 0.5em;
+    border-radius: 4px;
+    font-size: 1.2em;
+    width: 2em;
+    text-align: center;
+    transition: all 0.2s ease;
+}
+
+.time-digit:focus {
+    outline: none;
+    border-color: var(--front);
+    box-shadow: 0 0 5px var(--front-secondary);
+}
+
+.time-separator {
+    color: var(--front-secondary);
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+#countdown {
+    color: var(--red);
+    font-size: 4em;
+    letter-spacing: 0.05em;
+    text-align: center;
+    margin: 0;
+    text-shadow: 0 0 10px rgba(255, 107, 107, 0.3);
+}
+
+#clock:hover #countdown-container.hidden {
+    display: block;
+    animation: slideDown 0.3s ease-in-out;
+}
+
+#time-input-container:not(:focus-within) {
+    display: none;
+}
+
+#clock:hover #time-input-container {
+    display: inline-flex;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }

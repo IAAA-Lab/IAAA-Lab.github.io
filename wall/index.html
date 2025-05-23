@@ -13,9 +13,20 @@
     <div id="clock">
         <p id="date">00/00/0000</p>
         <p id="time">00:00:00 AM</p>
-        <textarea id="text" rows="4" style="width: 100%; resize: vertical;"></textarea>
+        
+        <div id="countdown-container" class="hidden">
+            <div id="time-input-container">
+                <input type="text" class="time-digit" maxlength="2" pattern="[0-9]*" placeholder="00">
+                <span class="time-separator">:</span>
+                <input type="text" class="time-digit" maxlength="2" pattern="[0-9]*" placeholder="00">
+                <span class="time-separator">:</span>
+                <input type="text" class="time-digit" maxlength="2" pattern="[0-9]*" placeholder="00">
+            </div>
+        </div>
+        <p id="countdown" class="hidden">--:--:--</p>
     </div>
     
+    <textarea id="text" rows="4"></textarea>
     <img id="logo" onclick="switch_theme"/>
 
   </body>
