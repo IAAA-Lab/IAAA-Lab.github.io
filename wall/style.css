@@ -67,14 +67,21 @@ p {
     letter-spacing: 0.05em;
 }
 
-#title {
+#text,
+#text:focus {
     color: var(--front-secondary);
+    text-align: center;
+    background-color: transparent;
+    border: none;
     font-size: 4em;
-    letter-spacing: 0.05em;
+    max-width: 80%;
+    max-height: 10em;
+    /* letter-spacing: 0.05em; */
     /* color: #fdb95a; */
 }
 
 #logo {
+    cursor: pointer;
     content: var(--logo);
     margin: 1em;
     position: absolute;

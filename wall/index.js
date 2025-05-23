@@ -18,16 +18,26 @@ function pad(n){
 var title = '';
 var date = '';
 
-function currentTime() {
-
-
-    // Title
-    const newtitle = unescape(window.location.hash.substring(1))
-    if (newtitle != title){
-        title = newtitle
-        document.getElementById("title").innerText = title
-
+function updateTextFromURL() {
+    const newtitle = unescape(window.location.hash.substring(1));
+    if (newtitle != title) {
+        title = newtitle;
+        document.getElementById("text").value = title;
     }
+}
+
+function updateURLFromText() {
+    const textarea = document.getElementById("text");
+    const newText = textarea.value;
+    if (newText !== title) {
+        title = newText;
+        window.location.hash = escape(newText);
+    }
+}
+
+function currentTime() {
+    // Title
+    updateTextFromURL();
 
     const dt = new Date();
     
@@ -57,3 +67,6 @@ function currentTime() {
     const t = setTimeout(function(){ currentTime() }, 1000);
 }
 currentTime();
+
+// Add event listener for textarea changes
+document.getElementById("text").addEventListener("input", updateURLFromText);
