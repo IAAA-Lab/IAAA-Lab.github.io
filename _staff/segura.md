@@ -1,7 +1,7 @@
 ---
 title: Sergio Martín Segura
 author_id: segura
-layout: phdstudent_page
+layout: member_page
 ---
 
 ## Professional career
