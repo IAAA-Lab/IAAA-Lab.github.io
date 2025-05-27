@@ -6,14 +6,6 @@ dayany:
   image_path: /images/people/phd-students/dayany.jpg
   local_url: /staff/dayany
   #url:
-segura:
-  name: Sergio Martín Segura
-  papers_name: S. MARTIN-SEGURA
-  projects_name: 
-  position: PhD Student
-  image_path: /images/people/phd-students/segura.jpg
-  local_url: /staff/segura
-  #url:
 umer:
   name: Muhammad Umer
   papers_name: M. UMER
