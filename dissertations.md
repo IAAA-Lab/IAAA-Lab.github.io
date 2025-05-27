@@ -8,17 +8,17 @@ layout: phd_dissertations
 
 - Collaborative work on geospatial data modelled on discrete global grid systems. **Muhammad Umer**.
   - <span style="color:#999999">Under the supervision of **R. Béjar**.</span>
-- A modern approach for building SDIs. **Sergio Martín Segura**.
-  - <span style="color:#999999">Under the supervision of **F. Javier Zarazaga Soria** and **Francisco J. Lopez-Pellicer**.</span>
 - User interface design: optimising findability. **Dagoberto José Herrera-Murillo**.
   - <span style="color:#999999">Under the supervision of **Javier Nogueras-Iso**.</span>
 - Technical aspects for inclusiveness across user domains in data portals. **Abdul Aziz**.
   - <span style="color:#999999">Under the supervision of **Francisco J. Lopez-Pellicer**.</span>
-- Use of artificial intelligence methods to study the behaviour of agricultural markets. **Mario Esteban Suaza-Medina**.
-  - <span style="color:#999999">Under the supervision of **Javier Lacasta**.</span>
 
 ## PhD Thesis Completed
 
+- Artificial Intelligence-Based Solutions for the Efficient Management of the Agricultural Sector. **Mario Esteban Suaza-Medina** (2025).
+  - <span style="color:#999999">Under the supervision of **Javier Lacasta**.</span>
+- Improving Access and Discovery of Spatial Resources in Catalogues. **Sergio Martín Segura** (2025). 
+  - <span style="color:#999999">Under the supervision of **F. Javier Zarazaga Soria** and **Francisco J. Lopez-Pellicer**.</span>
 - Documents deblurring using Deep Learning (University of Gabes, Tunisia). **Hala Neji** (2022).
   - <span style="color:#999999">Under the supervision of **Adel M. Alimi**, **Mohamed Ben Halima**  and **Javier Nogueras-Iso**.</span>
 - Site-Specific Rules Extraction in Precision Agriculture. **Borja Espejo García** (2019).
