@@ -38,3 +38,11 @@ mario:
   image_path: /images/people/phd-students/mario.jpg
   local_url: /staff/mario
   #url:
+jlagunar:
+  name: Jorge Laguna
+  papers_name: J. LAGUNA
+  projects_name: 
+  position: PhD Student
+  image_path: /images/people/jlagunar.jpg
+  local_url: /staff/jlagunar
+  #url:
