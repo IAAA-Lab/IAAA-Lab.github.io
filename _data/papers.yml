@@ -2,6 +2,14 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congreso 
 # -------------------
+- title: "Detection of changes in the heat emissions signature of buildings related to indoor activity using publicly available satellite data"
+  url: https://doi.org/10.1007/s12145-025-01926-6
+  authors:  M.E. SUAZA-MEDINA, J. LACASTA, F.J. LOPEZ-PELLICER, R. BÉJAR, F.J. ZARAZAGA-SORIA 
+  publication: "Earth Science Informatics"
+  publication_detail: "Volume 18, article number 420, (2025)"
+  year: 2025
+  doi: 10.1007/s12145-025-01926-6
+# -------------------
 - title: "Collective Intelligence in Humanitarian Voluntary Geographic Information: The Case of the HOT Tasking Manager"
   url: https://doi.org/10.1145/3733600
   authors: D.J. HERRERA-MURILLO, H. OCHOA-ORTIZ, U. AHMED, F.J. LOPEZ-PELLICER, B. RE, A. POLINI, J. NOGUERAS-ISO
