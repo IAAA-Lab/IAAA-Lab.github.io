@@ -8,6 +8,15 @@ image: /images/posts/Pedro_Muro.jpg
 
 El [Grupo de Sistemas de Información Avanzados]({{ site.baseurl }}/) y el [Instituto de Investigación en Ingeniería de Aragón](http://i3a.unizar.es) abren la convocatoria para los premios a los trabajos de fin de estudios **defendidos en cualquier universidad española entre el 1 de enero de 2024 y el 31 de diciembre de 2024** que más aporten al desarrollo y explotación de datos abiertos o datos geográficos.
 
+---
+#### Ganadores del premio
+
+El jurado ha decidido conceder el primer premio a D. Yaoyao Zhao por el proyecto "Geo-tools for monitoring the shoreline and megacusps at regional level using sentinel-2", realizado en la Universitat Politècnica de Catalunya, y el accésit a D. Rodrigo Arévalo-González por el proyecto "Capacidad de acogida de las comarcas de los Ancares, el Bierzo, la Cabrera y la Cepeda (León) para albergar megaproyectos de producción energética eólica", realizado en la Universidad de León.
+
+*(Actualizado el 06 de junio de 2025)*
+
+---
+
 # Objetivo y participantes
 El objetivo de estos premios es fomentar y apoyar la realización de trabajos de final de estudios que creen y/o integren tecnologías para el tratamiento de datos abiertos, datos geográficos o que aborden la integración de datos de múltiples fuentes.
 
