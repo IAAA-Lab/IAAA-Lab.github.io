@@ -2,6 +2,7 @@
 title: Detection of changes in the heat emissions signature of buildings related to indoor activity using publicly available satellite data
 subtitle:
 layout: post
+image: /images/posts/2025-06-06-Fig3.png
 categories: [Paper overview]
 ---
 
