@@ -11,6 +11,9 @@ function switch_theme() {
 switch_theme()
 document.getElementById("logo").onclick = switch_theme
 
+// Add 12h/24h toggle functionality
+let is24Hour = true;
+
 function pad(n){
     return (n < 10) ? "0" + n : n;
 }
@@ -56,17 +59,31 @@ function currentTime() {
     // Hour
     var [hh, mm, ss] = [dt.getHours(), dt.getMinutes(), dt.getSeconds()];
 
-    const session = (hh > 12) ? "PM" : "AM";
-    hh = hh % 12;
-    if (hh == 0) hh = 12;
-
-    [hh, mm, ss] = [pad(hh), pad(mm), pad(ss)];
-    const time = `${hh}:${mm}:${ss} ${session}`;
+    let time;
+    if (is24Hour) {
+        [hh, mm, ss] = [pad(hh), pad(mm), pad(ss)];
+        time = `${hh}:${mm}:${ss}`;
+    } else {
+        const session = (hh > 12) ? "PM" : "AM";
+        hh = hh % 12;
+        if (hh == 0) hh = 12;
+        [hh, mm, ss] = [pad(hh), pad(mm), pad(ss)];
+        time = `${hh}:${mm}:${ss} ${session}`;
+    }
 
     document.getElementById("time").innerText = time;
     const t = setTimeout(function(){ currentTime() }, 1000);
 }
 currentTime();
+
+// Add click event listener to clock for format toggle
+document.getElementById("clock").addEventListener("click", function(e) {
+    // Don't toggle if clicking on countdown elements
+    if (e.target.closest('#countdown-container') || e.target.closest('#countdown')) {
+        return;
+    }
+    is24Hour = !is24Hour;
+});
 
 // Add event listener for textarea changes
 document.getElementById("text").addEventListener("input", updateURLFromText);
