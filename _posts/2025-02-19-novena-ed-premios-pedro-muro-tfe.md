@@ -13,7 +13,11 @@ El [Grupo de Sistemas de Información Avanzados]({{ site.baseurl }}/) y el [Inst
 
 El jurado ha decidido conceder el primer premio a Dª. Yaoyao Zhao por el proyecto "Geo-tools for monitoring the shoreline and megacusps at regional level using sentinel-2", realizado en la Universitat Politècnica de Catalunya, y el accésit a D. Rodrigo Arévalo-González por el proyecto "Capacidad de acogida de las comarcas de los Ancares, el Bierzo, la Cabrera y la Cepeda (León) para albergar megaproyectos de producción energética eólica", realizado en la Universidad de León.
 
-*(Actualizado el 06 de junio de 2025)*
+La entraga se llevó a cabo en una videoconferencia:
+
+![Entrega del premios]({{ site.baseurl }}/images/posts/premio_PRMuro_2025.jpg){:class="img-responsive"}
+
+*(Actualizado el 24 de junio de 2025)*
 
 ---
 
