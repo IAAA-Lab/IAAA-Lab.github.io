@@ -28,9 +28,10 @@ A modo de conclusión última, se puede afirmar que este trabajo establece una b
 Los resultados del trabajo a llevar a cabo se sustentan en dos entregables:
 ●	El presente informe en el que se recoge todas las experimentaciones llevadas a cabo durante el proyecto, así como las conclusiones extraídas del análisis de las mismas.
 ●	El código fuente de todas las mencionadas experimentaciones. Este código fuente permitirá a la empresa repetir los experimentos que se han llevado a cabo, así como servir de base para el diseño de nuevos que puedan ser considerados necesarios.
+  
 Desarrollado para: Geospatiumlab, s.l. 
- 
- 
+  
+  
 # Tecnología base para el desarrollo de un agregador de noticias agrarias basado en procesado de lenguaje natural (2023/DIH_01/000320)
 
 La agricultura tradicional ha formado parte de la actividad humana desde tiempos antiguos, en los que las tareas en el campo eran realizadas manualmente. Con el paso del tiempo, se empezó a contar con la ayuda de animales para llevar a cabo las tareas más arduas, y posteriormente, las máquinas fueron incorporadas a la actividad agrícola con el fin de aligerar el esfuerzo humano en las labores de cultivo. Actualmente, la tendencia natural es delegar cada vez más dichas tareas a máquinas y sistemas automatizados, siempre bajo la supervisión y dirección de los seres humanos, y con la asistencia de sistemas inteligentes que permiten tomar decisiones óptimas, mejorando así la eficiencia y reduciendo los costes asociados a la producción agrícola.
@@ -44,9 +45,10 @@ El trabajo técnico desarrollado ha buscado determinar cuál es la mejor aproxim
 •	A continuación, se ha abordado el problema de la permanencia viva de los contenidos en la web. Para ello, se ha planteado la necesidad de contar con un revisor de noticias que sea capaz de controlar la accesibilidad a las mismas (siguen estando disponibles), así como si han sido actualizadas.
 Finalmente, se ha elaborado una propuesta de API de acceso a los componentes tecnológicos realizados, junto con un prototipo demostrador que pueda servir de referencia para que la empresa lleve a cabo sus futuros desarrollos tecnológicos en la línea de lo ya expuesto.
 Como resultado de estos trabajos, la empresa ha recibido el presente informe, así como el código fuente desarrollado para las pruebas y mecanismos de evaluación desarrollados, así como el prototipo construido. Todo ello va a permitir a la PYME la puesta en marcha de un desarrollo tecnológico propio que pueda integrarse como parte de sus productos.
+  
 Desarrollado para: 7eData Business, s.l.
- 
- 
+  
+  
 # Experimentación destinada a la validación de tecnologías de base para el desarrollo de un componente software para la fijación de precio óptimo de combustibles para vehículos (2023/DIH_01/000414)
 
 El incremento del precio de los carburantes en los últimos años ha llevado a que consumidores/as estudien con más detalle el precio que se ofrece por las estaciones de servicio para decidir en cuál se compra. Así mismo, la obligación de notificar al Ministerio para la Transición Ecológica las modificaciones de los precios de venta casi en tiempo real, y la correspondiente exposición pública de estos precios por parte de esta entidad, lleva a que profesionales y ciudadanía en general cuenten con cada vez más información para tomar sus decisiones de compra de carburantes.
@@ -57,6 +59,7 @@ El objetivo de este proyecto ha sido establecer cuál es el mejor modelo de inte
 Los resultados del trabajo a llevar a cabo se sustentan en dos entregables:
 •	El presente informe en el que se recoge todas las experimentaciones llevadas a cabo durante el proyecto, así como las conclusiones extraídas del análisis de las mismas.
 •	El código fuente de todas las mencionadas experimentaciones. Este código fuente permitirá a la empresa repetir los experimentos que se han llevado a cabo, así como servir de base para el diseño de nuevos que puedan ser considerados necesarios.
-Desarrollado para: ADVANCE SOLUCIONES DE NEGOCIO, s.l. 
-
   
+Desarrollado para: ADVANCE SOLUCIONES DE NEGOCIO, s.l. 
+ 
+   
