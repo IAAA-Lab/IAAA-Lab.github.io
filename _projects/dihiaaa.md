@@ -23,19 +23,19 @@ Adicionalmente, el trabajo ha incluido: Una revisión del estado del arte en det
   
 Los resultados obtenidos a lo largo de todo el trabajo desarrollado se pueden resumir en:
   
-•	Análisis de Sentinel-2 y Sentinel-3: Se comprobó que no existía correlación suficiente para mejorar la resolución de las imágenes térmicas urbanas.
+●	Análisis de Sentinel-2 y Sentinel-3: Se comprobó que no existía correlación suficiente para mejorar la resolución de las imágenes térmicas urbanas.
   
-•	Mapas de islas de calor en Zaragoza: Se replicaron mapas existentes usando imágenes satelitales y se aplicó el método de interpolación Kriging, obteniendo resultados precisos en áreas con datos meteorológicos confiables. De este modo, se comprobó que la metodología del Ayuntamiento de Zaragoza es replicable con datos adecuados.
+●	Mapas de islas de calor en Zaragoza: Se replicaron mapas existentes usando imágenes satelitales y se aplicó el método de interpolación Kriging, obteniendo resultados precisos en áreas con datos meteorológicos confiables. De este modo, se comprobó que la metodología del Ayuntamiento de Zaragoza es replicable con datos adecuados.
   
-•	Uso de estaciones privadas: Se exploró el uso de redes meteorológicas privadas para generar mapas térmicos urbanos. Tras aplicar filtros de calidad, se logró obtener datos útiles para la modelización de islas de calor. De este modo, se puede concluir que las estaciones meteorológicas privadas pueden ser una alternativa viable en ausencia de datos oficiales.
+●	Uso de estaciones privadas: Se exploró el uso de redes meteorológicas privadas para generar mapas térmicos urbanos. Tras aplicar filtros de calidad, se logró obtener datos útiles para la modelización de islas de calor. De este modo, se puede concluir que las estaciones meteorológicas privadas pueden ser una alternativa viable en ausencia de datos oficiales.
   
-•	Desarrollo de IA: Se diseñó una red neuronal inspirada en U-Net para predecir zonas de calor sin datos meteorológicos. Se logró una precisión alta, con un error medio de 0.11°C, mucho menor que el de modelos tradicionales. Así, se puede establecer que la IA permite predecir con alta precisión las zonas afectadas por islas de calor sin necesidad de sensores físicos.
+●	Desarrollo de IA: Se diseñó una red neuronal inspirada en U-Net para predecir zonas de calor sin datos meteorológicos. Se logró una precisión alta, con un error medio de 0.11°C, mucho menor que el de modelos tradicionales. Así, se puede establecer que la IA permite predecir con alta precisión las zonas afectadas por islas de calor sin necesidad de sensores físicos.
   
 A modo de conclusión última, se puede afirmar que este trabajo establece una base sólida para futuros desarrollos en la detección de islas de calor mediante técnicas avanzadas de teledetección e inteligencia artificial.
   
 Los resultados del trabajo a llevar a cabo se sustentan en dos entregables:
   
-●	El presente informe en el que se recoge todas las experimentaciones llevadas a cabo durante el proyecto, así como las conclusiones extraídas del análisis de las mismas.
+●	Un informe en el que se recoge todas las experimentaciones llevadas a cabo durante el proyecto, así como las conclusiones extraídas del análisis de las mismas.
   
 ●	El código fuente de todas las mencionadas experimentaciones. Este código fuente permitirá a la empresa repetir los experimentos que se han llevado a cabo, así como servir de base para el diseño de nuevos que puedan ser considerados necesarios.
   
@@ -49,23 +49,23 @@ La agricultura tradicional ha formado parte de la actividad humana desde tiempos
   
 En los últimos años, se ha observado un incremento exponencial en la cantidad de información útil para dichos sistemas automáticos disponible en la red, lo cual ha sido posible gracias al crecimiento vertiginoso de los medios digitales y las redes sociales. No obstante, dicha información se encuentra dispersa en una amplia variedad de fuentes y formatos, lo que dificulta en gran medida su procesamiento y análisis por parte de los interesados en la materia. Este hecho puede resultar particularmente problemático en un sector como la agricultura, en el que la información actualizada y precisa puede ser crucial para la toma de decisiones acertadas en áreas como la gestión de recursos, el control de plagas y enfermedades, y la mejora de la productividad y la calidad de los cultivos.
   
-En este contexto, la empresa se ha embarcado en el diseño y la implementación de un buscador y clasificador de noticias especializado en el ámbito agrícola. Este buscador y clasificador tiene como objetivo recopilar y estructurar de manera eficiente la información disponible en la red sobre agricultura. Además, este buscador y clasificador de noticias sobre agricultura facilitará la tarea de mantenerse actualizado en un campo tan dinámico. Los usuarios podrán acceder de manera rápida y sencilla a información relevante, como avances tecnológicos en el sector agrícola, investigaciones científicas, políticas y regulaciones vigentes, tendencias de mercado, consejos prácticos y casos de éxito en la industria.
+En este contexto, la empresa se ha embarcado en el diseño y la implementación de un buscador y clasificador de noticias especializado en el ámbito agrícola. Este buscador y clasificador ●	ne como objetivo recopilar y estructurar de manera eficiente la información disponible en la red sobre agricultura. Además, este buscador y clasificador de noticias sobre agricultura facilitará la tarea de mantenerse actualizado en un campo tan dinámico. Los usuarios podrán acceder de manera rápida y sencilla a información relevante, como avances tecnológicos en el sector agrícola, investigaciones científicas, políticas y regulaciones vigentes, tendencias de mercado, consejos prácticos y casos de éxito en la industria.
   
 Como elemento de base para poder construir el sistema que se plantea, se necesita disponer de las adecuadas herramientas y tecnologías avanzadas en los campos de la ciencia de datos y el procesamiento de lenguaje natural que posibiliten la extracción de datos relevantes provenientes de diversas fuentes, su adaptación a un formato común y su almacenamiento y clasificación en una base de datos centralizada. 
   
 El trabajo técnico desarrollado ha buscado determinar cuál es la mejor aproximación tecnológica para la integración de los recursos de noticias agrarias en el sistema agregador, así como sobre qué modelos y herramientas de procesado de lenguaje natural se debería construir el sistema que la empresa quiere desarrollar. Concretamente, se ha llevado a cabo los siguientes trabajos:
   
-•	El primer problema abordado ha correspondido con la extracción, transformación y almacenamiento de datos de las noticias que se encuentran publicadas en los diferentes sitios web. 
+●	El primer problema abordado ha correspondido con la extracción, transformación y almacenamiento de datos de las noticias que se encuentran publicadas en los diferentes sitios web. 
   
-•	Seguidamente ha sido necesario poder establecer cuál debe ser el flujo de trabajo para que el desarrollo de un agregador pueda escalar y evolucionar según lo hace la publicación de contenidos de referencia. 
+●	Seguidamente ha sido necesario poder establecer cuál debe ser el flujo de trabajo para que el desarrollo de un agregador pueda escalar y evolucionar según lo hace la publicación de contenidos de referencia. 
   
-•	Como tercer paso se ha abordado el problema de la indexación de las noticias. Para ello, se ha hecho un exhaustivo análisis de las posibilidades que ofrecen tanto los modelos de embeddings generalistas, como los especializados.
+●	Como tercer paso se ha abordado el problema de la indexación de las noticias. Para ello, se ha hecho un exhaustivo análisis de las posibilidades que ofrecen tanto los modelos de embeddings generalistas, como los especializados.
   
-•	A continuación, se ha abordado el problema de la permanencia viva de los contenidos en la web. Para ello, se ha planteado la necesidad de contar con un revisor de noticias que sea capaz de controlar la accesibilidad a las mismas (siguen estando disponibles), así como si han sido actualizadas.
+●	A continuación, se ha abordado el problema de la permanencia viva de los contenidos en la web. Para ello, se ha planteado la necesidad de contar con un revisor de noticias que sea capaz de controlar la accesibilidad a las mismas (siguen estando disponibles), así como si han sido actualizadas.
   
 Finalmente, se ha elaborado una propuesta de API de acceso a los componentes tecnológicos realizados, junto con un prototipo demostrador que pueda servir de referencia para que la empresa lleve a cabo sus futuros desarrollos tecnológicos en la línea de lo ya expuesto.
   
-Como resultado de estos trabajos, la empresa ha recibido el presente informe, así como el código fuente desarrollado para las pruebas y mecanismos de evaluación desarrollados, así como el prototipo construido. Todo ello va a permitir a la PYME la puesta en marcha de un desarrollo tecnológico propio que pueda integrarse como parte de sus productos.
+Como resultado de estos trabajos, la empresa ha recibido un completo informe, así como el código fuente desarrollado para las pruebas y mecanismos de evaluación desarrollados, así como el prototipo construido. Todo ello va a permitir a la PYME la puesta en marcha de un desarrollo tecnológico propio que pueda integrarse como parte de sus productos.
   
 Desarrollado para: 7eData Business, s.l.
   
@@ -85,9 +85,9 @@ El objetivo de este proyecto ha sido establecer cuál es el mejor modelo de inte
   
 Los resultados del trabajo a llevar a cabo se sustentan en dos entregables:
   
-•	El presente informe en el que se recoge todas las experimentaciones llevadas a cabo durante el proyecto, así como las conclusiones extraídas del análisis de las mismas.
+●	Un informe en el que se recoge todas las experimentaciones llevadas a cabo durante el proyecto, así como las conclusiones extraídas del análisis de las mismas.
   
-•	El código fuente de todas las mencionadas experimentaciones. Este código fuente permitirá a la empresa repetir los experimentos que se han llevado a cabo, así como servir de base para el diseño de nuevos que puedan ser considerados necesarios.
+●	El código fuente de todas las mencionadas experimentaciones. Este código fuente permitirá a la empresa repetir los experimentos que se han llevado a cabo, así como servir de base para el diseño de nuevos que puedan ser considerados necesarios.
   
 Desarrollado para: ADVANCE SOLUCIONES DE NEGOCIO, s.l. 
  
