@@ -12,7 +12,7 @@ layout: project_website_page
 SUBVENCIONES PARA EL DESARROLLO DE PROYECTOS DE I+D+i EN LÍNEAS PRIORITARIAS Y DE CARÁCTER MULTIDISCIPLINAR. CONVOCATORIA 2024-2026 (Gobierno de Aragón)
 
 
-<img src='{{site.baseurl}}/images/other-logos/DGA_Departamento_de_Empleo,_Ciencia_y_Universidades.png' width='400' style="margin-bottom: 40px;">
+<img src='{{site.baseurl}}/images/other-logos/DGA_Departamento_de_Empleo,_Ciencia_y_Universidades.png' width='200' style="margin-bottom: 40px;">
 
 
 # Gemelo Digital de Explotaciones de Alfalfa (PROY_T04_24)
