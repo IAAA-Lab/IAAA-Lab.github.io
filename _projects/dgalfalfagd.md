@@ -34,7 +34,9 @@ Para comprender mejor este objetivo general, se detallan a continuación los obj
 Desarrollado en colaboración con [7eData Business, s.l.](https://https://7edata.com)
   
 Resultados del proyecto presentados en:  
+
 ---
+
 [A platform to support the fast development of digital twins for agricultural holdings.](https://doi.org/10.1016/j.compind.2025.104347) J. LAGUNA, M.E. SUAZA-MEDINA, R. BÉJAR, J. LACASTA, F.J. ZARAZAGA-SORIA. Computers in Industry, Volume 172, November 2025, 104347, 2025. 
 
 ---
