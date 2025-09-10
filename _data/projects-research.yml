@@ -5,6 +5,13 @@
   reference: PROY_T04_24
   years: 2024-2026
   main_researcher: J. Lacasta
+- title: "Plataforma para el análisis del patrimonio documental del Derecho Foral Aragonés"
+  url: https://www.migueldelmolino.es
+  organizations:
+  - organization: Gobierno de Aragón
+  reference: PROY_S11_24
+  years: 2024-2026
+  main_researcher: C. Bayod
 - title: "Integración de servicios basados en inteligencia artificial para optimizar la relación entre pacientes y fisioterapeutas"
   url: https://iaaa.es/dihiaaa
   organizations:
