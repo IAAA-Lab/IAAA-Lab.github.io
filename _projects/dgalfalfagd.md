@@ -31,7 +31,7 @@ Para comprender mejor este objetivo general, se detallan a continuación los obj
 
 ●	OE5: Disponer de un prototipo de plataforma que valide todos los avances del proyecto. Finalmente, es necesario contar con un demostrador de validación de los avances del proyecto que, a su vez, sirva como herramienta de base para mostrar posibilidades operativas y funcionales, y generar oportunidades de transferencia.
 
-Desarrollado en colaboración con [7eData, s.l.](https://https://7edata.com)
+Desarrollado en colaboración con [7eData Business, s.l.](https://https://7edata.com)
   
 Resultados del proyecto presentados en:  
 ---
