@@ -39,7 +39,7 @@ Los resultados del trabajo a llevar a cabo se sustentan en dos entregables:
   
 ●	El código fuente de todas las mencionadas experimentaciones. Este código fuente permitirá a la empresa repetir los experimentos que se han llevado a cabo, así como servir de base para el diseño de nuevos que puedan ser considerados necesarios.
   
-Desarrollado para: Geospatiumlab, s.l. 
+Desarrollado para: [Geospatiumlab, s.l.](https://www.geoslab.com)
   
   
   
@@ -67,7 +67,7 @@ Finalmente, se ha elaborado una propuesta de API de acceso a los componentes tec
   
 Como resultado de estos trabajos, la empresa ha recibido un completo informe, así como el código fuente desarrollado para las pruebas y mecanismos de evaluación desarrollados, así como el prototipo construido. Todo ello va a permitir a la PYME la puesta en marcha de un desarrollo tecnológico propio que pueda integrarse como parte de sus productos.
   
-Desarrollado para: 7eData Business, s.l.
+Desarrollado para: [7eData Business, s.l.](https://https://7edata.com)
   
   
   
@@ -89,6 +89,6 @@ Los resultados del trabajo a llevar a cabo se sustentan en dos entregables:
   
 ●	El código fuente de todas las mencionadas experimentaciones. Este código fuente permitirá a la empresa repetir los experimentos que se han llevado a cabo, así como servir de base para el diseño de nuevos que puedan ser considerados necesarios.
   
-Desarrollado para: ADVANCE SOLUCIONES DE NEGOCIO, s.l. 
+Desarrollado para: [ADVANCE SOLUCIONES DE NEGOCIO, s.l. ](https://www.advancesoluciones.com/)
  
    
