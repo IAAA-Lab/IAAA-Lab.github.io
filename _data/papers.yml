@@ -36,6 +36,11 @@
   doi: 10.1145/3733600
   github_url: https://github.com/IAAA-Lab/Collective-Intelligence-in-Humanitarian-Voluntary-Geographic-Information-ODECO-HOT-TM
 # -------------------
+- title: "Catalogación automatizada de incunables con la herramienta CACIN"
+  authors: H. NEJI, J. NOGUERAS-ISO, J. LACASTA, M.J. PEDRAZA-GRACIA
+  publication_conference: "VII Congreso de la Sociedad Internacional de Humanidades Digitales Hispánicas, Valencia, Spain, 22-24 October 2025"
+  year: 2025
+# -------------------
 - title: "A Framework for the Multi-Dimensional Assessment of Interoperability for Open Data Ecosystems Development"
   url: https://doi.org/10.1177/15701255241297172
   authors: M. ALI, G. PAPAGEORGIOU, A. AZIZ, E. LOUKIS, Y. CHARALABIDIS, C. ALEXOPOULOS, F.J. LOPEZ-PELLICER
@@ -111,6 +116,7 @@
   publication_conference: "XV Jornadas Ibéricas de IDE (JIIDE 2024), Vitoria, Spain, 13-15 November 2024"
   year: 2024
   url: https://www.idee.es/resources/presentaciones/JIIDE24-IIIgeoEuskadi/Resumenes/57.pdf
+# -------------------
 - title: "Instalación y configuración de un visor IDE mediante la plataforma SITMUN"
   authors: F.J. LOPEZ-PELLICER, M. ROSES
   publication_conference: "Workshops XV Jornadas Ibéricas de IDE (JIIDE 2024), Vitoria, Spain, 13-14 November 2024"
