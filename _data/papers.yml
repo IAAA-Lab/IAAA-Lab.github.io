@@ -36,6 +36,18 @@
   doi: 10.1145/3733600
   github_url: https://github.com/IAAA-Lab/Collective-Intelligence-in-Humanitarian-Voluntary-Geographic-Information-ODECO-HOT-TM
 # -------------------
+- title: "Predicción de tendencias en la lonja del bovino con aprendizaje automático"
+  authors: V. JARRETA, J. LAGUNA, M.E. SUAZA-MEDINA, F.J. ZARAZAGA-SORIA, J. LACASTA
+  publication_conference: "XXIX Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2025). Sistedes (2025), Córdoba, Spain, 9 - 11 September 2025"
+  year: 2025
+  url: https://hdl.handle.net/11705/JISBD/2025/13
+# -------------------
+- title: "Edge-Pair Coverage: herramienta para la medición de cobertura de código mediante la técnica de caminos con profundidad de nivel 2 en Java"
+  authors: J. CATALÁN BERNAL, M.Á. LATRE, S. MARTIN-SEGURA, J. NOGUERAS-ISO
+  publication_conference: "XXIX Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2025). Sistedes (2025), Córdoba, Spain, 9 - 11 September 2025"
+  year: 2025
+  url: https://hdl.handle.net/11705/JISBD/2025/122
+# -------------------
 - title: "Catalogación automatizada de incunables con la herramienta CACIN"
   authors: H. NEJI, J. NOGUERAS-ISO, J. LACASTA, M.J. PEDRAZA-GRACIA
   publication_conference: "VII Congreso de la Sociedad Internacional de Humanidades Digitales Hispánicas, Valencia, Spain, 22-24 October 2025"
