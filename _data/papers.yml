@@ -2,6 +2,13 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congreso 
 # -------------------
+- title: "A framework for the acceptance testing of geospatial search engines"
+  url: https://doi.org/10.1016/j.envsoft.2025.106692
+  authors:D.J. HERRERA-MURILLO, J. NOGUERAS-ISO, P. ABAD-POWER, M.Á. LATRE, F.J. LOPEZ-PELLICER
+  publication: "Environmental Modelling & Software"
+  publication_detail: "available online"
+  year: 2025
+  doi: 10.1016/j.envsoft.2025.106692
 - title: "Roundtrip feedback in open data portals: analysis of input and output channels"
   url: https://doi.org/10.1108/OIR-12-2024-0807
   authors: A. AZIZ, M. ALI, J. NOGUERAS-ISO, C. ALEXOPOULOS, F.J. LOPEZ-PELLICER
@@ -15,7 +22,7 @@
   url: https://doi.org/10.1016/j.compind.2025.104347
   authors:  J. LAGUNA, M.E. SUAZA-MEDINA, R. BÉJAR, J. LACASTA, F.J. ZARAZAGA-SORIA 
   publication: "Computers in Industry"
-  publication_detail: "Volume 172, November 2025, 104347"
+  publication_detail: "vol. 172, November 2025, 104347"
   year: 2025
   doi: 10.1016/j.compind.2025.104347
 # -------------------
@@ -23,7 +30,7 @@
   url: https://doi.org/10.1007/s12145-025-01926-6
   authors:  M.E. SUAZA-MEDINA, J. LACASTA, F.J. LOPEZ-PELLICER, R. BÉJAR, F.J. ZARAZAGA-SORIA 
   publication: "Earth Science Informatics"
-  publication_detail: "Volume 18, article number 420, (2025)"
+  publication_detail: "vol. 18, article number 420, (2025)"
   year: 2025
   doi: 10.1007/s12145-025-01926-6
 # -------------------
@@ -31,7 +38,7 @@
   url: https://doi.org/10.1145/3733600
   authors: D.J. HERRERA-MURILLO, H. OCHOA-ORTIZ, U. AHMED, F.J. LOPEZ-PELLICER, B. RE, A. POLINI, J. NOGUERAS-ISO
   publication: "ACM Transactions on Computer-Human Interaction"
-  publication_detail: "Online"
+  publication_detail: "available online"
   year: 2025
   doi: 10.1145/3733600
   github_url: https://github.com/IAAA-Lab/Collective-Intelligence-in-Humanitarian-Voluntary-Geographic-Information-ODECO-HOT-TM
