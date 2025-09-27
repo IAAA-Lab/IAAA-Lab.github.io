@@ -6,9 +6,10 @@
   url: https://doi.org/10.1016/j.envsoft.2025.106692
   authors: D.J. HERRERA-MURILLO, J. NOGUERAS-ISO, P. ABAD-POWER, M.Á. LATRE, F.J. LOPEZ-PELLICER
   publication: "Environmental Modelling & Software"
-  publication_detail: "available online"
+  publication_detail: "vol. 194, 106692"
   year: 2025
   doi: 10.1016/j.envsoft.2025.106692
+  github_url: https://github.com/IAAA-Lab/Acceptance-testing-of-geospatial-semantic-search-engines-ODECO-CNIG
 # -------------------
 - title: "Roundtrip feedback in open data portals: analysis of input and output channels"
   url: https://doi.org/10.1108/OIR-12-2024-0807
