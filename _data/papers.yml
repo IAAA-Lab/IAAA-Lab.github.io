@@ -2,6 +2,15 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congreso 
 # -------------------
+- title: "Multivariate integration of time series with ML for corn price forecasting in Colombia"
+  url: https://doi.org/10.1016/j.eswa.2025.129822
+  authors: A. OJEDA-BELTRAN, M.E. SUAZA-MEDINA, F.J. ZARAZAGA-SORIA, E. DE-LA-HOZ-FRANCO, J. ESCORCIA-GUTIERREZ 
+  publication: "EExpert Systems with Applications"
+  publication_detail: "Available online 27 September 2025, 129822"
+  year: 2025
+  doi: 10.1016/j.eswa.2025.129822
+  alt_pdf_url: https://iaaa.es/curriculum/08-Publicaciones-Articulos/art_2025_prev_MaizeColombia.pdf 
+# -------------------
 - title: "A framework for the acceptance testing of geospatial search engines"
   url: https://doi.org/10.1016/j.envsoft.2025.106692
   authors: D.J. HERRERA-MURILLO, J. NOGUERAS-ISO, P. ABAD-POWER, M.Á. LATRE, F.J. LOPEZ-PELLICER
