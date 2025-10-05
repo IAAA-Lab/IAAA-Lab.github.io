@@ -30,12 +30,14 @@
   github_url: https://github.com/IAAA-Lab/ODP-Feedback-Mechanisms
 # -------------------
 - title: "A platform to support the fast development of digital twins for agricultural holdings"
-  url: https://doi.org/10.1016/j.compind.2025.104347
   authors:  J. LAGUNA, M.E. SUAZA-MEDINA, R. BÉJAR, J. LACASTA, F.J. ZARAZAGA-SORIA 
   publication: "Computers in Industry"
   publication_detail: "vol. 172, November 2025, 104347"
   year: 2025
   doi: 10.1016/j.compind.2025.104347
+  url: https://doi.org/10.1016/j.compind.2025.104347
+  github_url: https://github.com/IAAA-Lab/AgriculturalDigitalTwinPlatform
+  open_repo_url: https://doi.org/10.5281/zenodo.15697049
 # -------------------
 - title: "Detection of changes in the heat emissions signature of buildings related to indoor activity using publicly available satellite data"
   url: https://doi.org/10.1007/s12145-025-01926-6
