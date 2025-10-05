@@ -83,6 +83,10 @@
             <a href="{{ paper.github_url }}">
             <img title="Code and/or data in GitHub" src="{{site.baseurl}}/images/githubicon.svg"></a>            
         {% endif %}
+        {% if paper.open_repo_url %}                       
+            <a href="{{ paper.open_repo_url }}">
+            <img title="Additional research results in an open repository" src="{{site.baseurl}}/images/archive-icon.svg"></a>            
+        {% endif %}
         </li>
     {% endif %}            
 {% endfor %}	
