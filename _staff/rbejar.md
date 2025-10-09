@@ -12,6 +12,7 @@ He has co-authored dozens of papers on geographic information systems and spatia
 
 Rubén Béjar writes in his [blog](https://www.rubenbejar.com) from time to time. You can find him:
 
-- As [@rubejar](https://twitter.com/rubejar) in Twitter{% include social-icon.html icon='Twitter' %}
+- As [@rubejar](https://mastodon.social/@rubejar) in Mastodon{% include social-icon.html icon='Mastodon' %}
+- As [@rubejar](https://bsky.app/profile/rubejar.bsky.social) in Bluesky{% include social-icon.html icon='Bluesky' %}
 - As [rbejar](https://github.com/rbejar) in GitHub {% include social-icon.html icon='GitHub' %}
 - As [rubenbejar](https://www.linkedin.com/in/rubenbejar/) in LinkedIn {% include social-icon.html icon='LinkedIn' %}.
