@@ -1,5 +1,5 @@
 ---
-title: Roundtrip feedback in open dataportals
+title: Roundtrip feedback in open data portals
 subtitle: analysis of input and output channels 
 layout: post
 image: /images/posts/2025-10-19-methodology.png
