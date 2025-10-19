@@ -6,10 +6,9 @@ image: /images/posts/2025-10-19-methodology.png
 categories: [Paper overview]
 ---
 
-
 Open Government Data (OGD) portals aim to enhance accountability and transparency by serving as central access points for all government data at local, regional and national levels. To enhance user engagement with OGD portals, it is essential to understand the feedback mechanisms of open data portals and how they can be used to evaluate the data quality and the effectiveness of user engagement. While existing research highlights the importance of feedback in OGD portals, it mainly focuses on the flow from users to data publishers through input channels.
 
-Our recently published study, “Roundtrip feedback in open data portals: analysis of input and output channels” aims to analyse the current status of feedback mechanisms as a foundation for OGD portals’ future improvement to strengthen user engagement and to advance in accountability and transparency. The novelty of this work lies in examining not only input channels but also the return flow from data publishers to users through output channels. We tested our methodology by reviewing the literature to construct a comprehensive conceptual definition of the feedback mechanism, fine-tuning it through case studies, and then automating the analysis of input and output channels provided by 29 open data portals, including 26 European OGD initiatives, to extend the feedback analysis. 
+Our recently published study, "Roundtrip feedback in open data portals: analysis of input and output channels" aims to analyse the current status of feedback mechanisms as a foundation for OGD portals future improvement to strengthen user engagement and to advance in accountability and transparency. The novelty of this work lies in examining not only input channels but also the return flow from data publishers to users through output channels. We tested our methodology by reviewing the literature to construct a comprehensive conceptual definition of the feedback mechanism, fine-tuning it through case studies, and then automating the analysis of input and output channels provided by 29 open data portals, including 26 European OGD initiatives, to extend the feedback analysis. 
 
 
 ![Figure 2. General modelling of feedback interaction]({{ site.baseurl }}/images/posts/2025-10-19-methodology.png){: .center-image width="100%"}
