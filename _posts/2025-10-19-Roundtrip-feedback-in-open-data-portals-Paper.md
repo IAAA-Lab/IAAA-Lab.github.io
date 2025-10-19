@@ -11,7 +11,7 @@ Open Government Data (OGD) portals aim to enhance accountability and transparenc
 Our recently published study, "Roundtrip feedback in open data portals: analysis of input and output channels" aims to analyse the current status of feedback mechanisms as a foundation for OGD portals future improvement to strengthen user engagement and to advance in accountability and transparency. The novelty of this work lies in examining not only input channels but also the return flow from data publishers to users through output channels. We tested our methodology by reviewing the literature to construct a comprehensive conceptual definition of the feedback mechanism, fine-tuning it through case studies, and then automating the analysis of input and output channels provided by 29 open data portals, including 26 European OGD initiatives, to extend the feedback analysis. 
 
 
-![Figure 2. General modelling of feedback interaction]({{ site.baseurl }}/images/posts/2025-10-19-methodology.png){: .center-image width="100%"}
+![Figure 2. General modelling of feedback interaction]({{ site.baseurl }}/images/posts/2025-10-19-methodology.png){: .center-image width="75%"}
 <h4><center><b>Figure 2. General modelling of feedback interaction</b></center></h4>
 
 After our study, we have observed that France and Poland have the biggest number of feedback channels on their respective open data portals. In contrast, the open data portals in Malta and Greece have the fewest number of feedback channels. The more feedback channels an open data portal has, the more chances there are for user involvement to connect with the open data portal. To enhance user engagement, it is essential to ensure that feedback mechanisms within the open data portal are used to their fullest potential.
