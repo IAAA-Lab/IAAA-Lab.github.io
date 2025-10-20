@@ -8,7 +8,7 @@ categories: [Paper overview]
 
 Geospatial search engines are an essential component of spatial data infrastructures and enable a broad spectrum of environmental applications. The back-end implementation of these search engines has evolved from traditional text-based information retrieval systems into more specialised search engines. However, to assess the actual improvement brought by this evolution, thorough testing is needed. 
 
-Our recently published paper, “A framework for the acceptance testing of geospatial search engines”, proposes a framework for the acceptance testing of geospatial search engines that assesses their functionality, effectiveness, and user-friendliness. For each quality attribute, the framework proposes different testing design techniques and guidelines for their practical implementation. 
+Our recently published paper, "A framework for the acceptance testing of geospatial search engines", proposes a framework for the acceptance testing of geospatial search engines that assesses their functionality, effectiveness, and user-friendliness. For each quality attribute, the framework proposes different testing design techniques and guidelines for their practical implementation. 
 
 ![Graphical abstract]({{ site.baseurl }}/images/posts/2025-10-20-graphical-abstract.jpg){: .center-image width="100%"}
 <h4><center><b>Graphical abstract</b></center></h4>
