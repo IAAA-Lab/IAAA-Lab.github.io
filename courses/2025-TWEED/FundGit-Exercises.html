@@ -1,0 +1,275 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/styles/default.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markdown-it-texmath/css/texmath.min.css">
+<link rel="stylesheet" href="file:////home/rbejar/.vscode-oss/extensions/goessner.mdmath-2.7.4/themes/default/style.css">
+
+</head>
+<body class="markdown-body">
+<span id="markdown-mermaid" aria-hidden="true"
+                    data-dark-mode-theme="dark"
+                    data-light-mode-theme="default"
+                    data-max-text-size="50000"></span>
+                <h1 dir="auto" id="some-initial-notes-1">Some Initial Notes</h1>
+<p dir="auto">To run the Git commands for the following exercises, you can use Git Bash if you're on Windows, or the Terminal application on MacOS/Ubuntu, Konsole on KDE or the Terminal window in Visual Studio Code. The exercises usually mention Git Bash, but use what you want.</p>
+<p dir="auto">It is a common convention, but maybe not out of place to remind it: in these exercises, we indicate the commands you should write preceded by a <code>$</code> (the basic command prompt). So, in general, what you need to execute are the commands preceded by <code>$</code>, and the rest of the fixed-width text is the output of those commands, which will vary slightly between different environments.</p>
+<p dir="auto">If your Git isn't configured with your data and GitHub access credentials, the first thing you need to do is:</p>
+<ul dir="auto">
+<li dir="auto">Enter your email and name. This is necessary for making commits, as that information is included in them. Open Git Bash and type:</li>
+</ul>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git config --global user.email you@example.com</span>
+<span class="hljs-meta prompt_">$ </span><span class="language-bash">git config --global user.name <span class="hljs-string">&quot;Your Name&quot;</span></span>
+</code></pre>
+<ul dir="auto">
+<li dir="auto">Optionally, you can modify the default branch name of the repositories you create. By default, it will be called master. If you prefer to have it called main (to follow the same convention as GitHub), you'll need to do this:</li>
+</ul>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git config --global init.defaultBranch main</span>
+</code></pre>
+<ul dir="auto">
+<li dir="auto">Finally, when trying to access a remote repository (such as those on GitHub) for the first time, you'll be asked to provide your GitHub username and password (or maybe token). Git will offer to open a browser, and there you'll need to log in to GitHub. Once done, that computer will remember your password, and it won't ask again.</li>
+</ul>
+<h1 dir="auto" id="exercise-1-creating-a-local-git-repository-1">Exercise 1: Creating a Local Git Repository</h1>
+<p dir="auto">Create a directory called Exercise1 wherever you want. For example, on your Desktop or in your $HOME.
+Create a text file inside it with the content you want. For example, create one with this &quot;hello world&quot; Python code:</p>
+<pre><code class="code-line language-python" dir="auto"><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;hello world&quot;</span>)
+</code></pre>
+<p dir="auto">At this point, we have an unversioned file. If we want to start controlling changes, we need to create a Git repository in that same directory. To do so, navigate to that directory in your Terminal application (right-clicking on the directory will give you the option &quot;Open Git Bash Here&quot;, &quot;Open in Terminal&quot; or similar depending on your environment). Once there, create a Git repository:</p>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git init</span>
+</code></pre>
+<p dir="auto">The repository is created, but nothing is yet under version control. We can see the current state with:</p>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git status</span>
+On branch main
+No commits yet
+Untracked files:
+  (use &quot;git add &lt;file&gt;...&quot; to include in what will be committed)
+        helloworld.py
+nothing added to commit but untracked files present (use &quot;git add&quot; to track)
+</code></pre>
+<p dir="auto">We are on the main branch (it may be master depending on your configuration) because it is the only one created by default when initializing a repository. Git sees that there is a file (helloworld.py), but indicates that it is untracked and tells us what to do to put it under control.</p>
+<h2 dir="auto" id="creating-a-commit-1">Creating a Commit</h2>
+<p dir="auto">Let's make a commit. Remember that commits in Git have two phases: first, we add changes to the staging area and then we actually make the commit:</p>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git add helloworld.py</span>
+<span class="hljs-meta prompt_">$ </span><span class="language-bash">git status</span>
+On branch main
+No commits yet
+Changes to be committed:
+  (use &quot;git rm --cached &lt;file&gt;...&quot; to unstage)
+        new file:   helloworld.py
+</code></pre>
+<p dir="auto">After adding to the staging area, the state is that there are pending changes to be confirmed (i.e., pending on whether we decide to make the commit).</p>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git commit -m <span class="hljs-string">&quot;Created hello world&quot;</span></span>
+[main (root-commit) eb9ef13] Created hello world.
+1 file changed, 1 insertion(+)
+create mode 100644 helloworld.py
+</code></pre>
+<p dir="auto">The <code>git commit</code> command has taken the changes from the staging area and created a commit with them. It is the root-commit of the repository (the first one), it's on the main branch, and its unique identifier (SHA-1 hash) starts with eb9ef13. The commit message is mandatory, but we can put whatever we want. If we don't put anything with <code>-m &quot;message&quot;</code>, a text editor will open for us to put something.</p>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git status</span>
+On branch main
+nothing to commit, working tree clean
+</code></pre>
+<p dir="auto">Running <code>git status</code> again allows us to see that now there's nothing to make a commit. In other words, everything in that directory is already under version control and saved in the Git repository.</p>
+<h2 dir="auto" id="viewing-the-commit-history-of-the-repository-1">Viewing the Commit History of the Repository</h2>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git <span class="hljs-built_in">log</span> --oneline --decorate --graph</span>
+* eb9ef13 (HEAD -&gt; main) Created hello world.
+</code></pre>
+<p dir="auto"><strong>Note:</strong> In recent versions of Git and some environments, outputs from commands like this <code>git log</code> may pass through the <code>less</code> tool by default. This allows you to access large text outputs in the terminal as if it were a read-only text editor: you can navigate forward and backward through the text, even perform searches. For the purposes of these exercises, all you need to know is that if this happens, you'll notice because the output will stay blocked, without returning to the command prompt, and possibly showing an <code>(END)</code> message. Pressing the <code>q</code> key (quit) will return things to normal.</p>
+<p dir="auto">This <code>git log</code> command shows us the commit history of the repository. Right now, there's only one, so what we see isn't very interesting yet. Let's make some more commits.</p>
+<p dir="auto">First, modify the file <code>helloworld.py</code>. Add another line so it looks like this:</p>
+<pre><code class="code-line language-Python" dir="auto"><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;hello world&quot;</span>)
+<span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;...the world does not answer&quot;</span>)
+</code></pre>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git status</span>
+On branch main
+Changes not staged for commit:
+  (use &quot;git add &lt;file&gt;...&quot; to update what will be committed)
+  (use &quot;git restore &lt;file&gt;...&quot; to discard changes in working directory)
+        modified:   helloworld.py
+no changes added to commit (use &quot;git add&quot; and/or &quot;git commit -a&quot;)
+</code></pre>
+<p dir="auto">The <code>git status</code> tells us that there's a modified file, but it hasn't been added to the commit. We know how to make a commit (remember it is in two phases: add and then commit).</p>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git add .</span>
+<span class="hljs-meta prompt_">$ </span><span class="language-bash">git commit -m <span class="hljs-string">&quot;Modified hello world.&quot;</span></span>
+[main 6b5457c] Modified hello world.
+1 file changed, 2 insertions(+)
+</code></pre>
+<p dir="auto">In the <code>git add</code> command, we put a <code>.</code>. This is a way of telling Git to add all changes to the stage. If we had modified many things, it would be a good time-saver. In this case, we only used it to save some typing. If you want to know the details of how Git interprets that <code>.</code>, take a look at the <a href="https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpathspecapathspec">pathspec specification</a>.</p>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git <span class="hljs-built_in">log</span> --oneline --decorate --graph</span>
+* 6b5457c (HEAD -&gt; main) Modified hello world.
+* eb9ef13 Created hello world.
+</code></pre>
+<p dir="auto">Now the <code>git log</code> is a bit more interesting. We see that there are two commits (in reverse chronological order). We can see that the branch <code>main</code> points to the last one we created, and the pointer <code>HEAD</code> points to the branch <code>main</code>.</p>
+<h1 dir="auto" id="exercise-2-clone-a-github-repository-and-push-changes-1">Exercise 2: Clone a GitHub Repository and Push Changes</h1>
+<p dir="auto">To do this exercise, give your GitHub account to the professor so they can grant you write access to a shared repository on GitHub.
+Once done, clone the repository. Open a terminal in the Desktop or your <code>$HOME</code> directory and run:</p>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git <span class="hljs-built_in">clone</span> https://github.com/rbejar/sandbox-rse.git</span>
+</code></pre>
+<p dir="auto">This command creates a directory called <code>sandbox-rse</code>, and within that directory (which will be the working directory of the repository), it copies the files as they are in the last commit of the <code>main</code> branch of the shared repository.
+Now, create a text file with your name inside that directory using any text editor.</p>
+<p dir="auto">To share it with others, first, you need to create a local commit:</p>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git add .</span>
+<span class="hljs-meta prompt_">$ </span><span class="language-bash">git commit -m <span class="hljs-string">&quot;Created my file.&quot;</span></span>
+</code></pre>
+<p dir="auto">At this point, your local repository has a commit that is not in the shared repository on GitHub, so no one can see it. To share it, first, you need to synchronize your changes locally with any changes that might have been made to the remote repository (the one on GitHub) while you were making yours.</p>
+<pre><code class="code-line language-console" dir="auto">git pull
+</code></pre>
+<p dir="auto">This should work without conflicts. Remember that a <code>pull</code> downloads commits from the remote repository and merges them with your current commit, and a merge can cause conflicts. But if each person has created a different file, there shouldn't be any issues for this merge to be automatic.</p>
+<p dir="auto">Once the changes are merged locally, you can share them by pushing them up to the remote:</p>
+<pre><code class="code-line language-console" dir="auto">git push
+</code></pre>
+<p dir="auto">This <code>push</code> might fail if someone else has pushed their changes to the GitHub repository between your <code>pull</code> and <code>push</code>. In that case, you'll need to go back and do another <code>pull</code> to integrate the remote changes into your local repository, and then again a <code>push</code> to share them.</p>
+<p dir="auto">At this point, if you open <a href="https://github.com/rbejar/sandbox-rse">https://github.com/rbejar/sandbox-rse</a> in a web browser, you should see your file there.</p>
+<h1 dir="auto" id="exercise-3-working-with-branches-1">Exercise 3: Working with Branches</h1>
+<p dir="auto">First, you will clone a repository that has two branches and some commits already created:</p>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git <span class="hljs-built_in">clone</span> https://github.com/rbejar/history-sandbox-rse.git</span>
+</code></pre>
+<p dir="auto">We can see the history of the repository with <code>git log</code>:</p>
+<pre><code class="code-line language-console" dir="auto">git log --oneline --decorate --graph --all
+</code></pre>
+<p dir="auto">The <code>--all</code> option was not used before. This repository has several branches and we want to see the history of all, so we put it on. On screen you will see something similar to this:</p>
+<pre><code class="code-line language-console" dir="auto">* 388ace6 (HEAD -&gt; main, origin/main, origin/HEAD) byeworld now has social issues
+* 9808b79 helloworld is now more social
+| * c9cc877 (origin/branch-comments) Commented out byeworld.
+| * cc13826 Commented out helloworld.
+|/  
+* 029d3ca Created byeworld.
+* 8f7f122 Created helloworld
+* 9092073 Initial commit
+</code></pre>
+<p dir="auto">Although it may seem a bit cryptic, in reality it looks very similar to the diagrams of commits we have seen in theory (only that this is depicted vertically instead of horizontally). For example, we can see that from the commit 029d3ca the repository history diverges: the branch painted on the right, origin/branch-comments, adds two commits from there (the cc13826 and the c9cc877), while the main branch continues on the left and also adds two commits from there (the 9808b79 and the 388ace6).</p>
+<h2 dir="auto" id="git-tools-in-vs-code-1">Git Tools in VS Code</h2>
+<p dir="auto">Let's take advantage of the opportunity to see a little bit of the functionality of Git integrated in Visual Studio Code. To do this, open Visual Studio Code and in the left bar choose the option &quot;Source control&quot;:</p>
+<p dir="auto"><img src="img//sourcecontrol_vscode.png" alt="VS Code screenshot with Source Control button highlighted" data-src="img//sourcecontrol_vscode.png"></p>
+<p dir="auto">Choose &quot;Clone repository&quot; and enter the cloning URL: <code>https://github.com/rbejar/history-sandbox-rse.git</code>. You can tell it to clone in the Desktop or in your <code>$HOME</code>. When it asks you, say that you want to open it in the same window where you are and that you trust the authors of the repository.</p>
+<p dir="auto">In VS Code status bar (bottom) you will see that you are on the main branch (that is, that the HEAD pointer of the repository points to the main branch). If you open the file helloworld.py in VS Code itself you will see this:</p>
+<pre><code class="code-line language-python" dir="auto"><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;Hello World&quot;</span>)
+<span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;How are you?&quot;</span>)
+</code></pre>
+<p dir="auto">If we wanted to switch to the other branch that there is (origin/branch-comments) we could use the command <code>git checkout</code>. But being on VS Code, we can also do a click below where it says main, and choose between the options that offers us which one says &quot;origin/branch-comments&quot;:</p>
+<p dir="auto"><img src="img//checkout_vscode.png" alt="VS Code screenshot with options that shows after clicking on main in status bar" data-src="img//checkout_vscode.png"></p>
+<p dir="auto">Doing this not only changes which branch we are on (below in the status bar you will see that we are in branch-comments) but also changes the files in the working directory. Now the file helloworld.py has this:</p>
+<pre><code class="code-line language-python" dir="auto"><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;Hello World&quot;</span>)
+<span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;How are you?&quot;</span>)
+</code></pre>
+<p dir="auto"><strong>Note:</strong> What we actually did in VS Code was not a standard checkout. The branch origin/branch-comments is a reference to a remote branch, not a normal branch, and we cannot do much with it locally. To be able to work locally, we need to create a local branch that tracks the remote branch. By default, our main branch tracks origin/main; what we usually want is this relationship between each local and remote branch we want to work with. In modern versions of Git, this can be done directly with a command like <code>git switch branch-comments</code>, which is what VS Code did: it created a local branch called branch-comments and configured it as a remote tracking branch for origin/branch-comments.</p>
+<p dir="auto">To see the history of the repository, the basic functionality of VS Code is limited. We can select a file in the integrated explorer and below display its timeline, where we will see the list of commits where that particular file was modified, and we can click on each commit to view these changes. However, we cannot see a global vision of the repository or multiple branches simultaneously etc.</p>
+<p dir="auto"><img src="img//timeline_vscode.png" alt="VS Code screenshot with file timeline" data-src="img//timeline_vscode.png"></p>
+<p dir="auto"><strong>Note:</strong> There are VS Code extensions that allow us to see all this, such as <a href="https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory">Git History</a>, free, or <a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens">GitLens</a>, partially free but with some functionality only available under subscription.</p>
+<h2 dir="auto" id="merge-without-conflicts-1">Merge without conflicts</h2>
+<p dir="auto">Remember that in the repository we have two branches, main and branch-comments. As long as we don't merge them, both branches are parallel: some changes are only on one branch and others are only on the other. Let's assume we want to combine the comments added in the branch-comments branch with the extended code we have in the main branch.</p>
+<p dir="auto">First, let's switch to the main branch:</p>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git checkout main</span>
+</code></pre>
+<p dir="auto">And then merge the changes from the branch-comments branch onto this main branch:</p>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git merge branch-comments --m <span class="hljs-string">&quot;Merging branch-comments into main&quot;</span></span>
+Auto-merging byeworld.py
+Auto-merging helloworld.py
+Merge made by the &#x27;ort&#x27; strategy.
+byeworld.py  | 1 +
+helloworld.py | 1 +
+2 files changed, 2 insertions(+)
+</code></pre>
+<p dir="auto">The merge was automatic. There were no conflicts between the two branches and the changes could be integrated without issues. If we look at the files byeworld.py and helloworld.py in our working directory, now we will see that they have everything we had put separately on the two branches. And if we look at the repository history:</p>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git <span class="hljs-built_in">log</span> --oneline --decorate --graph --all</span>
+*   2766fdf (HEAD -&gt; main) Merging branch-comments into main
+|\
+| * c9cc877 (origin/branch-comments, branch-comments) Commented out byeworld.
+| * cc13826 Commented out helloworld.
+* | 388ace6 (origin/main, origin/HEAD) byeworld now has social problems
+* | 9808b79 helloworld is now more sociable
+|/
+* 029d3ca Created byeworld.
+* 8f7f122 Created helloworld
+* 9092073 Initial commit
+</code></pre>
+<p dir="auto">We see that there's a new commit (here it's the 2766fdf, at the top, but the ID will be different in your case) that integrates both branches (it has two predecessors: the commit 029d3ca and the c9cc877).</p>
+<h2 dir="auto" id="merge-with-conflicts-1">Merge with Conflicts</h2>
+<p dir="auto">First, you will clone a new repository that also has some previous history and whose URL is <a href="https://github.com/rbejar/history-sandbox-rse-2.git">https://github.com/rbejar/history-sandbox-rse-2.git</a>. Do it with VS Code in the same way as we've seen in the previous section. Open the helloworld.py file to see its content.
+This repository has two branches: main and rama-conflictiva (i.e., conflictive branch). The changes in the rama-conflictiva branch cannot be merged automatically into the main branch, doing so will provoke a conflict that needs to be resolved.</p>
+<p dir="auto">Select Source Control on the left bar, click on its three dots, and choose Branch &gt; Merge... from the menu:</p>
+<p dir="auto"><img src="img//menu_merge_vscode.png" alt="VS Code screenshot with the Branch &gt; Merge... menu" data-src="img//menu_merge_vscode.png"></p>
+<p dir="auto">Among the options that appear, choose <code>origin/rama-conflictiva</code>. We're going to mix the changes in this branch over the main branch.</p>
+<p dir="auto">In the VS Code editor, you'll now see conflicts:</p>
+<p dir="auto"><img src="img//conflictos_vscode.png" alt="VS Code screenshot with the editor showing conflicts" data-src="img//conflictos_vscode.png"></p>
+<p dir="auto">The conflicts are marked with special symbols (e.g., <code>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</code>) that are standardized and can be resolved in various tools. <strong>Note:</strong> These markers are normal text, so even if we didn't have a specialized tool to process them, deleting them in any text editor and leaving the file as you'd like it to stay would also resolve the conflict.</p>
+<p dir="auto">The part between <code>=======</code> and <code>&gt;&gt;&gt;&gt;&gt;&gt;&gt; origin/rama-conflictiva</code> is in the helloworld.py file of the main branch (which our HEAD currently points at), but there's a conflicting change from the other branch. You can click on the blue button marked &quot;Resolve in Merge Editor&quot; to help VS Code resolve it for you.</p>
+<p dir="auto">You'll see this:</p>
+<p dir="auto"><img src="img//conflict_resolve_vscode.png" alt="VS Code screenshot with the conflict resolution editor" data-src="img//conflict_resolve_vscode.png"></p>
+<p dir="auto">The VS Code shows a split editor divided into three parts: Incoming (the branch whose changes we want to merge, in this case origin/rama-conflictiva), Current (the branch we're currently on, which is now main), and Result (which will show the final result after resolution). Although you can do several things, many conflicts are resolved by preferring the changes of one branch or the other. To do that, you can click where it says <code>Accept Incoming</code> or <code>Accept Current</code> for each conflict in that file (in this case, there's only one).</p>
+<p dir="auto">You can also indicate <code>Accept Combination</code>, and let VS Code propose a combination of both. Do that. You'll see how the Result part (on the right) now shows part of the Incoming and part of the Current, and it indicates <code>0 Conflicts Remaining</code>. Once you've resolved the conflict, click on the blue button <code>Complete Merge</code> and you'll see that now there's a blue button on the left indicating <code>Commit</code>:</p>
+<p dir="auto"><img src="img//commit_solved_conflict_vscode.png" alt="VS Code screenshot after resolving a conflict" data-src="img//commit_solved_conflict_vscode.png"></p>
+<p dir="auto">Click on that, and the merge will be completed with the corresponding commit.</p>
+<p dir="auto"><strong>Note:</strong> At this point you'll see a blue button saying something like <code>Sync Changes 2 ^</code>. With that button, you could push those changes to the GitHub repository (you can't because you don't have write access to that repository). What I want to highlight here is that there's no command called <code>Sync</code> in Git. VS Code uses this term both for pulls and pushes. Each code editor has its own interface, and their own way of calling things, which may not be the same as the actual Git commands. Despite Git's massive popularity, there are other version control systems out there. This is another reason to learn how to use Git from the command line: you'll always be able to open a Terminal and execute the commands you know, without having to figure out what that <code>Sync</code> button actually does.</p>
+<h1 dir="auto" id="exercise-4-revert-changes-1">Exercise 4: Revert Changes</h1>
+<p dir="auto">Although we haven't seen it in theory, we can try some basic tools to undo unwanted changes in Git.</p>
+<p dir="auto">First, let's clone a repository with some history:</p>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git <span class="hljs-built_in">clone</span> https://github.com/UNIZAR-30245-ARQS/country-data-mvc.git</span>
+</code></pre>
+<h2 dir="auto" id="go-back-in-time-1">Go Back in Time</h2>
+<p dir="auto">One of the important things about a version control system is to be able to restore the project to a point in its past. Let's see how it can be done.</p>
+<p dir="auto">Once cloned, if you look at the work directory, you'll see two shell files (<code>mv.sh</code> and <code>mvp-passive_view.sh</code>) created to launch the application easily from Bash and compatible environments. Let's go back to the point before these files were created. Execute the command:</p>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git <span class="hljs-built_in">log</span> --oneline</span>
+</code></pre>
+<p dir="auto">The output on screen gives you a summary of the repository commits (with the most recent ones at the top). Look for one with a commit message &quot;Added bash scripts to quickly launch the applications&quot;. Note the hash of the commit that is <strong>just before</strong> this one. Execute the command:</p>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git checkout EL-HASH-ANOTADO</span>
+</code></pre>
+<p dir="auto">If you look at the output, it tells you that you're in detached HEAD state, i.e., the HEAD pointer, which marks the current commit where we are at each moment, does not point to a branch but directly to a commit, which is not usual. This is not necessarily bad, but we don't want to be in this state more than occasionally, and we certainly don't want to save changes while we're in it.</p>
+<p dir="auto">If you look at the work directory of the repository now, you'll see that the shell files are no longer there. What's in that directory is what was there just before the commit where I added those two files. You could examine the project, compile it, and even make some changes. But remember that you don't want to save those changes (or add them or commit them) while you're in detached HEAD state.</p>
+<p dir="auto">You can go back to the initial state by executing:</p>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git checkout master</span>
+</code></pre>
+<p dir="auto">This makes the HEAD pointer point to the <code>master</code> branch (which is the only one there in the repository). And since this branch still points to the last commit of the repository, you'll be back to having all the latest changes that were in the repository.</p>
+<h2 dir="auto" id="undoing-unwanted-changes-with-revert-1">Undoing Unwanted Changes with Revert</h2>
+<p dir="auto">If everyone did everything correctly all the time, there would be no need to undo unwanted changes because they wouldn't have happened. But it's normal to have to undo something from time to time. Let's see the two main options.</p>
+<p dir="auto">We'll start with the repository again in its initial state (if you had any problems with the previous task, delete the directory and clone the repository again).
+Delete the file <code>README.md</code>. Do an add+commit (and put something like “README.md deleted” in the commit message). If you do a <code>git log --oneline</code>, the top commit will be the one called “README.md deleted”.</p>
+<p dir="auto">Oops, you've just deleted the file that wasn't supposed to be deleted!
+You might think that going back to the past strategy from the previous task could be useful. The problem is that if you check out the previous commit, you'll be in &quot;detached HEAD&quot; mode and you'd have to find a way to get the main branch pointing to that commit so things can go on as if nothing had happened. This can be done, but it's not the usual or best solution for this problem.
+A better alternative is to do a <code>git revert</code>. If you execute</p>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git revert HEAD</span>
+</code></pre>
+<p dir="auto">Git <strong>will create a new commit</strong> that essentially reverts the changes made in the last
+commit that was made and <strong>adds it to the history</strong> of the repository. Do it, then run
+<code>git log --oneline</code>. You'll see that the top commit has a message by default that is “Revert README.md deleted”, the previous one follows (the one called “README.md deleted”) and if you look at the directory you'll see that the file has come back to its place.</p>
+<h2 dir="auto" id="undoing-unwanted-changes-with-reset-1">Undoing Unwanted Changes with Reset</h2>
+<p dir="auto">The <code>revert</code> is necessary when working with shared repositories and the commit that wants to be undone has already been shared with others. This is because this reversal is treated as a new commit that can be shared and integrated with other changes just like any other.</p>
+<p dir="auto">But if the change hasn't gone out of your repository yet, and you haven't integrated changes from other repositories into yours (e.g., you haven't done any <code>git pull</code>), there's another option to keep it under wraps: using the <code>git reset</code> command.
+Delete the file <code>README.md</code>. Do an add+commit (and put something like “README.md deleted again” in the commit message). If you do a <code>git log --oneline</code>, the top commit will be the one called “README.md deleted again”.
+Oops, you've just deleted the file that wasn't supposed to be deleted... again!
+Do a <code>git log --oneline</code> and note down the hash of the commit you want to go back to. In reality, it's the one before all this pointless destruction of README files you've been causing, and it's marked in history as “Update README.md”. Run</p>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git reset --hard EL-HASH-ANOTADO</span>
+</code></pre>
+<p dir="auto">The output from the command will tell you that HEAD now points to this commit, but it won't tell you that you're detached because you're not. If you do a <code>git log --oneline</code>, you'll see that the top commit is the one you wanted (“Update README.md”) and the others have simply disappeared from history. And if you look at the directory, you'll see that the file README.md has come back.
+The <strong>reset command is dangerous</strong>, it can make changes that cannot be undone, and it's complicated because it does different things depending on the parameters you use with it. The <code>revert</code> command is less &quot;discreet&quot; but also safer. In general, the reset command should only be used to undo changes made in private branches (those you create with the intention of never sharing them outside your local repository).</p>
+<h2 dir="auto" id="more-things-about-revert-and-reset-1">More things about revert and reset</h2>
+<p dir="auto">Let's assume you have this tree of commits (if you want to try the commands in this section, create a repository with something and make changes and commits until you have 4):</p>
+<pre><code class="code-line language-console" dir="auto">c1 &lt;- c2 &lt;- c3 &lt;- c4 (HEAD -&gt; main)
+</code></pre>
+<p dir="auto">and you want to discard <code>c2</code>, <code>c3</code> and <code>c4</code>. To do that, you would do <code>git reset c1</code>. That command would leave this tree of commits:<code>c1 (HEAD -&gt; main)</code> and <code>c2</code>, <code>c3</code> and <code>c4</code> would be orphaned (they will be removed by Git at some point). This is fine if you hadn't made the changes public and it's what you wanted. By default, reset is <code>--mixed</code>: moves the pointers, leaves the stage as in <code>c1</code> and any change we had in the stage in <code>c4</code> passes to the working directory. If you put <code>--hard</code>, moves the pointers and leaves the stage and the working directory as in <code>c1</code>. The changes that were in the stage or the working directory would be lost. And if you put <code>--soft</code>, only moves the pointers; and I haven't found a sensible use case for this option, but there must be one.</p>
+<p dir="auto">The <code>git revert</code> is easy if you only want to undo the changes of a specific commit. For example, with the original tree of commits <code>c1 &lt;- c2 &lt;- c3 &lt;- c4 (HEAD -&gt; main)</code>, if you want to discard the changes made in <code>c2</code> (but not in <code>c3</code> or <code>c4</code>) you would do <code>git revert c2</code> and the tree would stay like this: <code>c1 &lt;- c2 &lt;- c3 &lt;- c4 &lt;- c2-undo (HEAD -&gt; main)</code>. But if you really want to discard several commits with revert it's also possible:</p>
+<p dir="auto">First, prepare a new commit undoing the last 3 commits:</p>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git revert -n HEAD~3..HEAD</span>
+</code></pre>
+<p dir="auto">And then we make the commit.</p>
+<pre><code class="code-line language-console" dir="auto"><span class="hljs-meta prompt_">$ </span><span class="language-bash">git commit -m <span class="hljs-string">&quot;Sorry, I&#x27;m undoing the last 3 commits because of a failure&quot;</span></span>
+</code></pre>
+<p dir="auto">And we can share this commit if it's needed so that others can also undo those changes:</p>
+<pre><code class="code-line language-console" dir="auto">git push
+</code></pre>
+<p dir="auto">The <code>-n</code> parameter we've put on revert tells it to make the undoes without automatically making the commit. In exchange, it allows us to undo several commits at once without having to create a revert commit for each one.</p>
+<p dir="auto">The <code>HEAD~3</code> that we've put is a way of referencing commits in a relative manner. We can reference commits absolutely with their hashes. But we can also reference them relatively to others. For example, <code>HEAD~3</code> is the &quot;great-grandfather&quot; (the father of the father of the father) of <code>HEAD</code>. There are other ways to reference commits relatively and when the trees of commits get complicated this becomes complicated too (for example think about what is <code>HEAD~3</code> if HEAD is a merge commit (and therefore has more than one father)?). There are rules for that (take a look at <code>$ man gitrevisions</code>), but it is unlikely that you will have to know all that.</p>
+<h1 dir="auto" id="exercise-5-sharing-branches-1">Exercise 5: Sharing Branches</h1>
+<p dir="auto">We haven't seen this in theory, but if you want to try creating a branch and sharing it with another person, the essential idea is:</p>
+<ul dir="auto">
+<li dir="auto">Create a local branch (we can do it and switch to it directly with <code>git checkout -b test</code>), make some commits on it and push it to a shared repository (one on GitHub for example) with <code>git push origin test</code>. By doing this, in addition to pushing the branch to the shared repository, a remote tracking branch will be created locally, which in this case would be called <code>origin/test</code>.</li>
+<li dir="auto">Another person clones the same GitHub repository (to try this, you can be yourself from another clone of that repository in a different folder) and then downloads that branch with <code>git fetch origin test</code>. We make a fetch because if we did a <code>git pull origin test</code>, it would download the branch test, but immediately try to merge it with the branch where HEAD was at that moment (typically main or master); and this last one is usually not what you want to do automatically when downloading branches.</li>
+<li dir="auto">This second person works on the branch making commits. To do that, they first need to create a local branch that has the same name and tracks the one created by the fetch command, because the <code>fetch</code> command has created a branch called <code>origin/test</code>, but this one doesn't work for local work. This can be done with the command <code>git branch test origin/test</code>. If they didn't want to make commits (for example, only wanted to download the test branch and merge it with an existing local branch), they wouldn't need to create a local branch; they could do the merge directly with the <code>origin/test</code> branch.</li>
+<li dir="auto">Once they've made the changes they want, they can push them to the shared repository (just like the other person pushed them), or maybe they want to merge them with their local main branch and push that one:</li>
+<li dir="auto">Finally, it's possible that once combined with the main branch we want to delete the test branch. To delete a remote branch, the command is <code>git push origin -d potato</code>. If we find ourselves with local branches that track some remote branch (something like <code>origin/test</code>) but the remote branch called <code>test</code> has already been deleted (and therefore that local tracking branch doesn't serve us anymore), we can do a cleanup with the command <code>git fetch origin -p</code> which will make a normal fetch (bring everything that is in the remote repository that we don't have locally without trying to merge it with anything) and then delete the local branches that track a remote one that has been deleted.</li>
+</ul>
+
+</body>
+</html>
