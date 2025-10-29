@@ -1,0 +1,283 @@
+<h1 id="some-initial-notes">Some initial notes</h1>
+<p>To solve the object-oriented programming exercises proposed below, it is recommended to use the VS Code development environment. Please refer to the <a href="https://code.visualstudio.com/docs/python/python-tutorial">tool’s tutorial</a> to create a Python workspace (folder) and set up a specific virtual environment.</p>
+<p>It is also recommended to clone the <a href="https://github.com/javierni/oop-examples">repository with the code samples</a> that have been shown in class.</p>
+<h1 id="exercise-1-definition-of-attributes-and-methods">Exercise 1: Definition of attributes and methods</h1>
+<p>We are going to build a class called “Time” to represent the time of day by specifying separately the hour, minutes and seconds.</p>
+<p>The following UML class diagram shows the attributes and operations we intend to add to the class throughout the exercise by following the steps below.</p>
+<figure>
+<img src="./img/time.png" alt="" /><figcaption>Class diagram: Time class</figcaption>
+</figure>
+<h2 id="definition-of-attributes">Definition of attributes</h2>
+<p>Create the file “time.py” to edit the Python script of this exercise and add the definition of the class “Time” with the attributes “time”, “minutes” and “seconds”. Remember that the attributes must be defined inside the <code>__init__</code> constructor method using the reference “self” to the object just instantiated:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a><span class="kw">class</span> Time:</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true"></a>   <span class="kw">def</span> <span class="fu">__init__</span>(<span class="va">self</span>, hour, ...):</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true"></a>      <span class="va">self</span>.hour <span class="op">=</span> hour</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true"></a>      ...</span></code></pre></div>
+<h2 id="creation-of-instance-methods">Creation of instance methods</h2>
+<p>Now add a method that returns a string representation of this time in universal format: “hh:mm:ss”. In this format the hours are represented by an integer value between 0 and 23.</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true"></a><span class="kw">class</span> Time:</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true"></a>      ...</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true"></a>      <span class="kw">def</span> to_universal_format_string(<span class="va">self</span>):</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true"></a>        <span class="cf">return</span> <span class="ss">f&quot;</span><span class="sc">{</span><span class="va">self</span><span class="sc">.</span>hour<span class="sc">}</span><span class="ss">:...&quot;</span></span></code></pre></div>
+<p>Create now a main program inside the file “time.py”. Define within this program a variable and initialise it with an object of type “Time”. Use the function “print” to show the result of the invocation to the method “to_universal_format_string” of the variable you have just created.</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true"></a><span class="cf">if</span> <span class="va">__name__</span> <span class="op">==</span> <span class="st">&#39;__main__&#39;</span>:</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true"></a>    time <span class="op">=</span> Time(<span class="dv">0</span>,<span class="dv">30</span>,<span class="dv">30</span>)</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true"></a>    <span class="bu">print</span>(time.to_universal_format_string()) <span class="co"># 0:30:30</span></span></code></pre></div>
+<h2 id="creation-of-special-method-to-return-a-string-representation-of-the-object">Creation of special method to return a string representation of the object</h2>
+<p>Instead of a direct invocation of the “to_universal_format_string” method, we can define the special method <code>__str__</code> in the “Time” class to automatically return a string representation of the object. Define this <code>__str__</code> method to return the result of the “to_universal_format_string” method:</p>
+<div class="sourceCode" id="cb4"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true"></a><span class="kw">class</span> Time:</span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true"></a>      ...</span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true"></a>      <span class="kw">def</span> <span class="fu">__str__</span>(<span class="va">self</span>):</span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true"></a>          <span class="cf">return</span> <span class="va">self</span>.to_universal_format_string()</span></code></pre></div>
+<p>Update your main program now to make invoking “print” easier:</p>
+<div class="sourceCode" id="cb5"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true"></a><span class="cf">if</span> <span class="va">__name__</span> <span class="op">==</span> <span class="st">&#39;__main__&#39;</span>:</span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true"></a>    time <span class="op">=</span> Time(<span class="dv">0</span>,<span class="dv">30</span>,<span class="dv">30</span>)</span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true"></a>    <span class="bu">print</span>(time) <span class="co"># 0:30:30</span></span></code></pre></div>
+<p>Now add the method “to_standard_format_string” to the “Time” class to return a string representation in standard format: “hh:mm:ss AM/PM”. In this format the hours are represented by an integer value between 1 and 12. In addition, “AM” or “PM” is added at the end of the string to indicate whether the time refers to morning or afternoon.</p>
+<p>Add also an attribute called “format” in the “Time” class to indicate which format is used for each object. Remember that you will need to add an additional parameter in the <code>__init__</code> method and define this new attribute there. If you think it is convenient, you can give a default value to this parameter:</p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true"></a><span class="kw">class</span> Time:</span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true"></a>   <span class="kw">def</span> <span class="fu">__init__</span>(<span class="va">self</span>, hour, ..., <span class="bu">format</span><span class="op">=</span><span class="st">&#39;universal&#39;</span>):</span>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true"></a>      ...</span>
+<span id="cb6-4"><a href="#cb6-4" aria-hidden="true"></a>      <span class="va">self</span>.<span class="bu">format</span> <span class="op">=</span> <span class="bu">format</span></span></code></pre></div>
+<p>Modify also the <code>__str__</code> method to return either the universal format or the standard format depending on the value of the format attribute.</p>
+<p>Now modify the main program to request the time from the user by keyboard and display the time received as input in the two possible formats:</p>
+<div class="sourceCode" id="cb7"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true"></a><span class="cf">if</span> <span class="va">__name__</span> <span class="op">==</span> <span class="st">&#39;__main__&#39;</span>:</span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true"></a>    <span class="cf">while</span> (<span class="va">True</span>):</span>
+<span id="cb7-3"><a href="#cb7-3" aria-hidden="true"></a>      hour <span class="op">=</span> <span class="bu">int</span>(<span class="bu">input</span>(<span class="st">&#39;Time: &#39;</span>))</span>
+<span id="cb7-4"><a href="#cb7-4" aria-hidden="true"></a>      minutes <span class="op">=</span> <span class="bu">int</span>(<span class="bu">input</span> (<span class="st">&#39;Minutes: &#39;</span>))</span>
+<span id="cb7-5"><a href="#cb7-5" aria-hidden="true"></a>      seconds <span class="op">=</span> <span class="bu">int</span>(<span class="bu">input</span> (<span class="st">&#39;Seconds: &#39;</span>))</span>
+<span id="cb7-6"><a href="#cb7-6" aria-hidden="true"></a>      <span class="bu">format</span> <span class="op">=</span> <span class="bu">input</span>(<span class="st">&#39;Formato (universal/standard):&#39;</span>)</span>
+<span id="cb7-7"><a href="#cb7-7" aria-hidden="true"></a>      <span class="cf">if</span> <span class="bu">len</span>(<span class="bu">format</span>) <span class="op">==</span> <span class="dv">0</span>:</span>
+<span id="cb7-8"><a href="#cb7-8" aria-hidden="true"></a>         time <span class="op">=</span> Time(hour,minutes,seconds)</span>
+<span id="cb7-9"><a href="#cb7-9" aria-hidden="true"></a>      <span class="cf">else</span>:</span>
+<span id="cb7-10"><a href="#cb7-10" aria-hidden="true"></a>         time <span class="op">=</span> Time(hour,minutes,seconds,<span class="bu">format</span>)</span>
+<span id="cb7-11"><a href="#cb7-11" aria-hidden="true"></a>      <span class="bu">print</span>(<span class="st">&quot;You have just entered the time: &quot;</span><span class="op">+</span> <span class="bu">str</span>(time))</span>
+<span id="cb7-12"><a href="#cb7-12" aria-hidden="true"></a>      <span class="cf">continue</span> <span class="op">=</span> <span class="bu">input</span>(<span class="st">&#39;Continue(Y)? &#39;</span>)</span>
+<span id="cb7-13"><a href="#cb7-13" aria-hidden="true"></a>      <span class="cf">if</span> <span class="cf">continue</span>.capitalize() <span class="op">!=</span> <span class="st">&#39;Y&#39;</span>:</span>
+<span id="cb7-14"><a href="#cb7-14" aria-hidden="true"></a>         <span class="cf">break</span></span></code></pre></div>
+<p>Notice that in the main program above we reconvert the string entered by the user for the hours to an integer value. This is necessary because probably in the “to_standard_format_string” method you need to apply an operation between integers.</p>
+<h1 id="exercise-2-encapsulation">Exercise 2: Encapsulation</h1>
+<p>We are going to build a class called “Fraction” to represent fractions or broken numbers composed of a numerator and a denominator. The numerator is an integer value. The denominator is an integer value other than 0.</p>
+<p>The following UML class diagram shows the attributes and operations we intend to add to the class throughout the exercise by following the steps below.</p>
+<figure>
+<img src="./img/fraction.png" alt="" /><figcaption>Class diagram: Fraction class</figcaption>
+</figure>
+<h2 id="definition-of-private-attributes">Definition of private attributes</h2>
+<p>Create the file “fraction.py” to edit the Python script of this exercise and add the definition of the “Fraction” class. Remember that the attributes must be defined within the <code>__init__</code> constructor method and that to indicate that the attributes corresponding to the numerator and denominator are not public they should use an identifier whose first character is an underscore:</p>
+<div class="sourceCode" id="cb8"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true"></a><span class="kw">class</span> Fraction:</span>
+<span id="cb8-2"><a href="#cb8-2" aria-hidden="true"></a>    <span class="kw">def</span> <span class="fu">__init__</span>(<span class="va">self</span>, num, ...):</span>
+<span id="cb8-3"><a href="#cb8-3" aria-hidden="true"></a>        <span class="va">self</span>._num <span class="op">=</span> num</span>
+<span id="cb8-4"><a href="#cb8-4" aria-hidden="true"></a>        ...</span></code></pre></div>
+<p>Define also the <code>__str__</code> special method to return a string representation of objects of type “Fraction”:</p>
+<div class="sourceCode" id="cb9"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true"></a>    <span class="kw">def</span> <span class="fu">__str__</span>(<span class="va">self</span>):</span>
+<span id="cb9-2"><a href="#cb9-2" aria-hidden="true"></a>        <span class="cf">return</span> <span class="ss">f&quot;</span><span class="sc">{</span><span class="va">self</span><span class="sc">.</span>_num<span class="sc">}</span><span class="ss">/</span><span class="sc">{</span><span class="va">self</span><span class="sc">.</span>_den<span class="sc">}</span><span class="ss">&quot;</span></span></code></pre></div>
+<p>Create a main program where you instantiate an object of type “Fraction” and display it on the screen with the “print” function.</p>
+<h2 id="definition-of-private-non-public-methods">Definition of private (non-public) methods</h2>
+<p>Add also a method called “reduce” to convert objects of type Fraction into irreducible fractions. That is, this method should divide the numerator and denominator by their greatest common divisor. Remember that to obtain an integer value resulting from the division you must use the “//” operator. If we use the operator “/” between 2 integer values, a real value is generated, which should be reconverted into an integer value using the function “int(value)”. Remember also that by convention the method identifier should start with an underscore:</p>
+<div class="sourceCode" id="cb10"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true"></a>    <span class="kw">def</span> _reduce(<span class="va">self</span>):</span>
+<span id="cb10-2"><a href="#cb10-2" aria-hidden="true"></a>        ...</span></code></pre></div>
+<p>For the sake of uniformity, the “reduce” method will also take care of including only the sign of the fraction in the numerator. That is, if the denominator is negative, we will invert the sign of the numerator and denominator.</p>
+<p>To calculate the greatest common divisor, create a non-public method that implements this calculation recursively following Euclid’s algorithm: * Base case: gcd(a,0)= a * Recursive step: gcd(a,b)= gcd(b,a%b)</p>
+<div class="sourceCode" id="cb11"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true"></a>    <span class="kw">def</span> _gcd(<span class="va">self</span>, a, b):</span>
+<span id="cb11-2"><a href="#cb11-2" aria-hidden="true"></a>        ...</span></code></pre></div>
+<p>Add an invocation to the “reduce” method inside the <code>__init__</code> method. Thus, all objects that are instantiated will be kept in reduced form.</p>
+<div class="sourceCode" id="cb12"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true"></a><span class="kw">class</span> Fraction:</span>
+<span id="cb12-2"><a href="#cb12-2" aria-hidden="true"></a>    <span class="kw">def</span> <span class="fu">__init__</span>(<span class="va">self</span>, num, ...):</span>
+<span id="cb12-3"><a href="#cb12-3" aria-hidden="true"></a>        ...</span>
+<span id="cb12-4"><a href="#cb12-4" aria-hidden="true"></a>        <span class="va">self</span>._reduce()</span></code></pre></div>
+<p>Modify the main program to instantiate a “Fraction” object with a numerator and denominator whose greatest common divisor is greater than 1. Check that the fraction is reduced correctly when displaying that object on the screen with the “print” method:</p>
+<div class="sourceCode" id="cb13"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true"></a><span class="cf">if</span> <span class="va">__name__</span> <span class="op">==</span> <span class="st">&#39;__main__&#39;</span>:</span>
+<span id="cb13-2"><a href="#cb13-2" aria-hidden="true"></a>    f1 <span class="op">=</span> Fraction(<span class="dv">8</span>,<span class="op">-</span><span class="dv">12</span>)</span>
+<span id="cb13-3"><a href="#cb13-3" aria-hidden="true"></a>    <span class="bu">print</span>(f1) <span class="co">#-2/3</span></span></code></pre></div>
+<h2 id="definition-of-static-methods">Definition of static methods</h2>
+<p>As you may have noticed, it does not make much sense that the computation of the greatest common divisor in the “gcd” method is an instance method dependent on a specific object. It is simply an auxiliary function related to the representation and calculation of fractions. This kind of methods not dependent on a concrete instance are known as static methods and in Python they are denoted with the notation “<span class="citation" data-cites="staticmethod">@staticmethod</span>”.</p>
+<p>Modify the definition of the <code>_gcd</code> method to include this annotation and remove the use of the “self” parameter:</p>
+<div class="sourceCode" id="cb14"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true"></a>    <span class="at">@staticmethod</span></span>
+<span id="cb14-2"><a href="#cb14-2" aria-hidden="true"></a>    <span class="kw">def</span> _gcd( a, b):</span>
+<span id="cb14-3"><a href="#cb14-3" aria-hidden="true"></a>        <span class="cf">if</span> b <span class="op">==</span> <span class="dv">0</span> : </span>
+<span id="cb14-4"><a href="#cb14-4" aria-hidden="true"></a>            <span class="cf">return</span> a</span>
+<span id="cb14-5"><a href="#cb14-5" aria-hidden="true"></a>        <span class="cf">else</span>:</span>
+<span id="cb14-6"><a href="#cb14-6" aria-hidden="true"></a>            <span class="cf">return</span> Fraction._gcd(b,a<span class="op">%</span>b) </span></code></pre></div>
+<p>Notice that now to invoke the <code>_gcd</code> method it is necessary to prefix the name of the class since now we don’t have access to the instance referenced with “self”.</p>
+<p>Add also new static methods to “add”, “subtract”, “multiply” and “divide” fractions. These methods receive 2 parameters of type “Fraction” and return a new object of “Fraction” type:</p>
+<div class="sourceCode" id="cb15"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true"></a>    <span class="at">@staticmethod</span></span>
+<span id="cb15-2"><a href="#cb15-2" aria-hidden="true"></a>    <span class="kw">def</span> add(f1, f2):</span>
+<span id="cb15-3"><a href="#cb15-3" aria-hidden="true"></a>        <span class="cf">return</span> Fraction(...)</span></code></pre></div>
+<h2 id="definition-of-getter-and-setter-methods">Definition of getter and setter methods</h2>
+<p>Having defined some attributes as private to encapsulate the internal structure of the class, it is often necessary to define additional methods to read and write access to some of the attributes in a controlled way. In many object-oriented programming languages, it is common to define “get_attribute” and “set_attribute” methods to retrieve or update the value of an attribute.</p>
+<p>However, in the case of Python, it is very common to publicly expose the API (interface) attributes of the class. To combine the usual simplicity of the Python language with the advantage of providing access control methods, Python offers the possibility to annotate get methods with the tag “<span class="citation" data-cites="property">@property</span>” and the corresponding set methods with the tag “<span class="citation" data-cites="property_name.setter">@property_name.setter</span>”. These methods are automatically invoked by the Python interpreter when trying to access attributes with the notation “.attribute”.</p>
+<p>Modifies the definition of the “Fraction” class to define properties associated with the <code>_num</code> and <code>_den</code> attributes:</p>
+<div class="sourceCode" id="cb16"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true"></a><span class="kw">class</span> Fraction:</span>
+<span id="cb16-2"><a href="#cb16-2" aria-hidden="true"></a>    <span class="kw">def</span> <span class="fu">__init__</span>(<span class="va">self</span>, num, ...):</span>
+<span id="cb16-3"><a href="#cb16-3" aria-hidden="true"></a>        <span class="va">self</span>.num <span class="op">=</span> num</span>
+<span id="cb16-4"><a href="#cb16-4" aria-hidden="true"></a>        ...</span>
+<span id="cb16-5"><a href="#cb16-5" aria-hidden="true"></a>    </span>
+<span id="cb16-6"><a href="#cb16-6" aria-hidden="true"></a>    <span class="at">@property</span></span>
+<span id="cb16-7"><a href="#cb16-7" aria-hidden="true"></a>    <span class="kw">def</span> num(<span class="va">self</span>):</span>
+<span id="cb16-8"><a href="#cb16-8" aria-hidden="true"></a>        <span class="cf">return</span> <span class="va">self</span>._num</span>
+<span id="cb16-9"><a href="#cb16-9" aria-hidden="true"></a>    </span>
+<span id="cb16-10"><a href="#cb16-10" aria-hidden="true"></a>    <span class="at">@num.setter</span></span>
+<span id="cb16-11"><a href="#cb16-11" aria-hidden="true"></a>    <span class="kw">def</span> num(<span class="va">self</span>,value):</span>
+<span id="cb16-12"><a href="#cb16-12" aria-hidden="true"></a>        <span class="va">self</span>._num<span class="op">=</span>value</span></code></pre></div>
+<p>Python is a dynamically typed language. That is, only at runtime does the Python interpreter check whether the types of the variables involved in an expression are admissible. However, we can use the setter methods to check if the received parameters meet the expected preconditions and if not, throw an exception. For instance, we could check if the value with which we update the numerator is of type integer:</p>
+<div class="sourceCode" id="cb17"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb17-1"><a href="#cb17-1" aria-hidden="true"></a><span class="kw">class</span> Fraction:</span>
+<span id="cb17-2"><a href="#cb17-2" aria-hidden="true"></a>    ...</span>
+<span id="cb17-3"><a href="#cb17-3" aria-hidden="true"></a>    <span class="at">@num.setter</span></span>
+<span id="cb17-4"><a href="#cb17-4" aria-hidden="true"></a>    <span class="kw">def</span> num(<span class="va">self</span>,value):</span>
+<span id="cb17-5"><a href="#cb17-5" aria-hidden="true"></a>        <span class="cf">if</span> <span class="kw">not</span> <span class="bu">isinstance</span>(value, <span class="bu">int</span>):</span>
+<span id="cb17-6"><a href="#cb17-6" aria-hidden="true"></a>            <span class="cf">raise</span> <span class="pp">ValueError</span>(<span class="st">&quot;integer expected&quot;</span>)</span>
+<span id="cb17-7"><a href="#cb17-7" aria-hidden="true"></a>        <span class="va">self</span>._num<span class="op">=</span>value</span>
+<span id="cb17-8"><a href="#cb17-8" aria-hidden="true"></a>    ...</span></code></pre></div>
+<p>Update also the denominator setter method to check that an integer other than 0 is received.</p>
+<p>Modify now the main program to generate a fraction with wrong values for numerator and denominator. You can catch the generated exception by instantiating the “Fraction” class inside a “try-except” block as follows.</p>
+<div class="sourceCode" id="cb18"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb18-1"><a href="#cb18-1" aria-hidden="true"></a>    <span class="cf">try</span>:</span>
+<span id="cb18-2"><a href="#cb18-2" aria-hidden="true"></a>        f <span class="op">=</span> Fraction(<span class="fl">1.0</span>,<span class="dv">0</span>) <span class="co">#It generates an error in both numerator and denominator</span></span>
+<span id="cb18-3"><a href="#cb18-3" aria-hidden="true"></a>    <span class="cf">except</span> <span class="pp">ValueError</span>:</span>
+<span id="cb18-4"><a href="#cb18-4" aria-hidden="true"></a>        <span class="bu">print</span>(<span class="st">&quot;error in numerator or denominator&quot;</span>)</span></code></pre></div>
+<p>More information on errors and exceptions can be found in the Python tutorial: <a href="https://docs.python.org/3.10/tutorial/errors.html" class="uri">https://docs.python.org/3.10/tutorial/errors.html</a>.</p>
+<h2 id="definition-of-alternative-construction-methods">Definition of alternative construction methods</h2>
+<p>Python does not allow function overloading, i.e. it is not allowed to have several functions with the same name but different signatures. In general, this overloading feature is not necessary because the parameters are optional and you can even define default values. However, alternative constructor methods are likely to be needed. One way to facilitate this is to define methods annotated with the “<span class="citation" data-cites="classmethod">@classmethod</span>” tag. These methods receive as their first parameter a reference to the class and by convention this is called “cls”. This “cls” reference facilitates the creation of instances with parameters other than those set in the <code>__init__</code> method .</p>
+<p>For instance, using this strategy we can create objects of type “Fraction” from a sequence/list of 2 integers:</p>
+<div class="sourceCode" id="cb19"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb19-1"><a href="#cb19-1" aria-hidden="true"></a><span class="kw">class</span> Fraction:</span>
+<span id="cb19-2"><a href="#cb19-2" aria-hidden="true"></a>    ...</span>
+<span id="cb19-3"><a href="#cb19-3" aria-hidden="true"></a>    <span class="at">@classmethod</span></span>
+<span id="cb19-4"><a href="#cb19-4" aria-hidden="true"></a>    <span class="kw">def</span> from_sequence(cls, sequence):</span>
+<span id="cb19-5"><a href="#cb19-5" aria-hidden="true"></a>        <span class="cf">return</span> cls(<span class="op">*</span>sequence)</span></code></pre></div>
+<p>These class methods can be invoked from the context of an object or directly from the class. Modify the main program to include an invocation to this method and generate from a list of integers a Fraction object:</p>
+<div class="sourceCode" id="cb20"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb20-1"><a href="#cb20-1" aria-hidden="true"></a>    f <span class="op">=</span> Fraction.from_sequence([<span class="dv">2</span>,<span class="dv">3</span>])</span>
+<span id="cb20-2"><a href="#cb20-2" aria-hidden="true"></a>    <span class="bu">print</span>(f) <span class="co"># 2/3</span></span></code></pre></div>
+<h1 id="exercise-3-inheritance">Exercise 3: Inheritance</h1>
+<p>We are going to complete the hierarchy of classes of geometric figures included in the <a href="https://github.com/javierni/oop-examples/code/shapes.py">example</a> presented in class.</p>
+<p>In the example, you defined the abstract class “Shape” and the subclass “Circle”. Now you are going to define the subclass “Square” to represent squares. The following UML class diagram shows the attributes and operations that we intend to add to the class throughout the exercise by following the steps below.</p>
+<figure>
+<img src="./img/shapes.png" alt="" /><figcaption>Class diagram: class hierarchy for the representation of figures</figcaption>
+</figure>
+<h2 id="definition-of-subclasses">Definition of subclasses</h2>
+<p>Modify or create a copy of the “shapes.py” file to include the definition of the “Square” class as a subclass of the “Shape” class. In Python you must indicate the name of the parent class in parentheses when defining the subclass:</p>
+<div class="sourceCode" id="cb21"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb21-1"><a href="#cb21-1" aria-hidden="true"></a><span class="kw">class</span> Square(Shape):</span>
+<span id="cb21-2"><a href="#cb21-2" aria-hidden="true"></a>    <span class="cf">pass</span>   </span></code></pre></div>
+<p>Add an attribute called “side” to have information about the length of the side of the square.</p>
+<h2 id="redefining-methods">Redefining methods</h2>
+<p>The “Shape” class is an abstract class that contains two abstract methods called “get_area” and “get_perimeter” to obtain the area and perimeter of the geometric figure. This class is abstract as it has no direct instances and defines a desired behaviour in the subclasses but cannot be defined by default at the level of the parent class.</p>
+<p>Redefine in the subclass “Shape” the methods “get_area” and “get_perimeter” based on the length of the “side” attribute:</p>
+<div class="sourceCode" id="cb22"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb22-1"><a href="#cb22-1" aria-hidden="true"></a><span class="kw">class</span> Square(Shape):</span>
+<span id="cb22-2"><a href="#cb22-2" aria-hidden="true"></a>    ...</span>
+<span id="cb22-3"><a href="#cb22-3" aria-hidden="true"></a>    <span class="kw">def</span> get_area(<span class="va">self</span>):</span>
+<span id="cb22-4"><a href="#cb22-4" aria-hidden="true"></a>        <span class="cf">return</span> ...   </span></code></pre></div>
+<p>To check that the correct “get_area” and “get_perimeter” method is invoked in the instances of the subclasses of the “Shape” class, we are going to add a static method “print” in the “Shape” class. This method will display in the screen the string representation of all objects of type “Shape” included in the list received as parameter:</p>
+<div class="sourceCode" id="cb23"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb23-1"><a href="#cb23-1" aria-hidden="true"></a><span class="kw">class</span> Shape(ABC):</span>
+<span id="cb23-2"><a href="#cb23-2" aria-hidden="true"></a>    ...</span>
+<span id="cb23-3"><a href="#cb23-3" aria-hidden="true"></a>    <span class="at">@staticmethod</span></span>
+<span id="cb23-4"><a href="#cb23-4" aria-hidden="true"></a>    <span class="kw">def</span> <span class="bu">print</span>(shapes):</span>
+<span id="cb23-5"><a href="#cb23-5" aria-hidden="true"></a>        <span class="cf">for</span> shape <span class="kw">in</span> shapes:</span>
+<span id="cb23-6"><a href="#cb23-6" aria-hidden="true"></a>            <span class="bu">print</span>(shape)</span></code></pre></div>
+<p>Create a main program to define a list of 10 objects of type “Shape” containing random instances of the class “Circle” or of the class “Square” and print that list with the method “Shapes.print” you just defined:</p>
+<div class="sourceCode" id="cb24"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb24-1"><a href="#cb24-1" aria-hidden="true"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
+<span id="cb24-2"><a href="#cb24-2" aria-hidden="true"></a>...</span>
+<span id="cb24-3"><a href="#cb24-3" aria-hidden="true"></a><span class="cf">if</span> <span class="va">__name__</span> <span class="op">==</span> <span class="st">&#39;__main__&#39;</span>:</span>
+<span id="cb24-4"><a href="#cb24-4" aria-hidden="true"></a>    shapes <span class="op">=</span> []</span>
+<span id="cb24-5"><a href="#cb24-5" aria-hidden="true"></a>    <span class="cf">for</span> _ <span class="kw">in</span> <span class="bu">range</span>(<span class="dv">10</span>):</span>
+<span id="cb24-6"><a href="#cb24-6" aria-hidden="true"></a>        value <span class="op">=</span> np.random.randint(<span class="dv">50</span>,<span class="dv">100</span>)</span>
+<span id="cb24-7"><a href="#cb24-7" aria-hidden="true"></a>        <span class="cf">if</span> value <span class="op">%</span> <span class="dv">2</span> <span class="op">==</span> <span class="dv">0</span>:</span>
+<span id="cb24-8"><a href="#cb24-8" aria-hidden="true"></a>            shapes.append(Circle(value))</span>
+<span id="cb24-9"><a href="#cb24-9" aria-hidden="true"></a>        <span class="cf">else</span>:</span>
+<span id="cb24-10"><a href="#cb24-10" aria-hidden="true"></a>            shapes.append(Square(value))</span>
+<span id="cb24-11"><a href="#cb24-11" aria-hidden="true"></a>    Shape.<span class="bu">print</span>(shapes)</span></code></pre></div>
+<p>Notice that the “randint” function generates a random integer within a range, in this case between 50 and 100.</p>
+<p>Modify also the <code>__str__</code> special method str of the “Shape” class to include information on the type of the displayed object. The type of the object can be obtained with the “type” function.</p>
+<h1 id="exercise-4-aggregations">Exercise 4: Aggregations</h1>
+<p>Let us define a pair of classes called “Polynomial” and “Term”, connected by an aggregation relation, to represent polynomials <em>P(x)</em> consisting of a finite sum of powers of <em>x</em> multiplied by real coefficients:</p>
+<figure>
+<img src="./img/p_x.png" alt="" /><figcaption>P(x)</figcaption>
+</figure>
+<p>The following UML class diagram shows the attributes and operations on polynomials that we intend to add to the classes “Polynomial” and “Term” throughout the exercise by following the steps below. Each term represents a power of <em>x</em> in a specific degree and the coefficient that multiplies it.</p>
+<figure>
+<img src="./img/polynomial.png" alt="" /><figcaption>Class diagram: classes for the representation of polynomials</figcaption>
+</figure>
+<h2 id="definition-of-data-types">Definition of data types</h2>
+<p>Create the file “polynomial.py” to include the definition of the classes “Polynomial” and “Term”. In this exercise we consider that in the design of the solution the main interest is to define a polynomial data structure consisting of a set of terms. Therefore, we will annotate the classes “Polynomial” and “Term” as data classes with the label “<span class="citation" data-cites="dataclass">@dataclass</span>”:</p>
+<div class="sourceCode" id="cb25"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb25-1"><a href="#cb25-1" aria-hidden="true"></a><span class="im">from</span> dataclasses <span class="im">import</span> dataclass</span>
+<span id="cb25-2"><a href="#cb25-2" aria-hidden="true"></a><span class="im">from</span> typing <span class="im">import</span> List</span>
+<span id="cb25-3"><a href="#cb25-3" aria-hidden="true"></a></span>
+<span id="cb25-4"><a href="#cb25-4" aria-hidden="true"></a><span class="at">@dataclass</span></span>
+<span id="cb25-5"><a href="#cb25-5" aria-hidden="true"></a><span class="kw">class</span> Term:</span>
+<span id="cb25-6"><a href="#cb25-6" aria-hidden="true"></a>    power: <span class="bu">int</span></span>
+<span id="cb25-7"><a href="#cb25-7" aria-hidden="true"></a>    coefficient: <span class="bu">float</span></span>
+<span id="cb25-8"><a href="#cb25-8" aria-hidden="true"></a></span>
+<span id="cb25-9"><a href="#cb25-9" aria-hidden="true"></a><span class="at">@dataclass</span></span>
+<span id="cb25-10"><a href="#cb25-10" aria-hidden="true"></a><span class="kw">class</span> Polynomial:</span>
+<span id="cb25-11"><a href="#cb25-11" aria-hidden="true"></a>    terms: List[Term]</span></code></pre></div>
+<p>In addition, as you can see, the definition of attributes in data classes is very intuitive. Instead of defining instance attributes within the context of a method as we did before for classes, now attributes are variables defined within the context of the class for which we have provided information about their data type (<em>type hint</em>). Since Python does not type check at compile time, the main use of this information, unless external type checking tools are used, is as documentation and in this case to identify attributes of the data class.</p>
+<p>More information on <em>type hints</em> can be found at <a href="https://docs.python.org/3/library/typing.html" class="uri">https://docs.python.org/3/library/typing.html</a>.</p>
+<h2 id="automatic-methods-for-data-classes">Automatic methods for data classes</h2>
+<p>Another advantage of data classes is that it is not necessary to define an <code>__init__</code> method to initialise the attributes. We can assume that it is available and we can send values for the initialisation of the attributes in the same order in which they have been defined. We also have available automatically a string representation without the need to define the <code>__rep__</code> method ( more formal alternative than <code>__str__</code> with information of the class name and attribute values) and an <code>__eq__</code> method to check the equality between objects of the same class. The <code>__eq__</code> method performs a comparison between attribute values.</p>
+<p>Create the following main program within “polynomial.py” to verify the availability of these methods in the Term class:</p>
+<div class="sourceCode" id="cb26"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb26-1"><a href="#cb26-1" aria-hidden="true"></a><span class="cf">if</span> <span class="va">__name__</span> <span class="op">==</span> <span class="st">&#39;__main__&#39;</span>:</span>
+<span id="cb26-2"><a href="#cb26-2" aria-hidden="true"></a>    t1 <span class="op">=</span> Term(<span class="dv">3</span>,<span class="fl">2.0</span>) </span>
+<span id="cb26-3"><a href="#cb26-3" aria-hidden="true"></a>    <span class="bu">print</span>(t1) <span class="co"># Term(power=3, coefficient=2.0)</span></span>
+<span id="cb26-4"><a href="#cb26-4" aria-hidden="true"></a>    t2 <span class="op">=</span> Term(<span class="dv">3</span>,<span class="fl">2.0</span>)</span>
+<span id="cb26-5"><a href="#cb26-5" aria-hidden="true"></a>    <span class="bu">print</span>(t1<span class="op">==</span>t2) <span class="co"># True</span></span></code></pre></div>
+<p>Note that the comparison between “t1” and “t2” would have returned a “False” value if we hadn’t defined “Term” as a data class (“<span class="citation" data-cites="dataclass">@dataclass</span>”). In a normal class, even if the attributes contain identical values, the default comparison of “==” compares internal object identifiers unless we have redefined the <code>__eq__</code> special method to implement another behaviour.</p>
+<h2 id="definition-of-methods-in-a-data-class">Definition of methods in a data class</h2>
+<p>Data classes are similar to any other Python class. We can add all the instance methods, static methods or class methods we need. For instance, we can add the “set_coefficient” method in the “Polynomial” class to facilitate the easy addition of new terms:</p>
+<div class="sourceCode" id="cb27"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb27-1"><a href="#cb27-1" aria-hidden="true"></a><span class="kw">class</span> Polynomial:</span>
+<span id="cb27-2"><a href="#cb27-2" aria-hidden="true"></a>    terminos: List[Termino]</span>
+<span id="cb27-3"><a href="#cb27-3" aria-hidden="true"></a></span>
+<span id="cb27-4"><a href="#cb27-4" aria-hidden="true"></a>    <span class="kw">def</span> set_coefficient(<span class="va">self</span>,power,coefficient):</span>
+<span id="cb27-5"><a href="#cb27-5" aria-hidden="true"></a>        indices  <span class="op">=</span> [index <span class="cf">for</span> (index, item) <span class="kw">in</span> <span class="bu">enumerate</span>(<span class="va">self</span>.terms) <span class="cf">if</span> item.power <span class="op">==</span> power]</span>
+<span id="cb27-6"><a href="#cb27-6" aria-hidden="true"></a>        <span class="cf">if</span> <span class="bu">len</span>(indices) <span class="op">&gt;</span> <span class="dv">0</span>:</span>
+<span id="cb27-7"><a href="#cb27-7" aria-hidden="true"></a>           <span class="co"># update existing term</span></span>
+<span id="cb27-8"><a href="#cb27-8" aria-hidden="true"></a>           <span class="va">self</span>.terms[indices[<span class="dv">0</span>]]<span class="op">=</span> Term(power,coefficient)</span>
+<span id="cb27-9"><a href="#cb27-9" aria-hidden="true"></a>        <span class="cf">else</span>:</span>
+<span id="cb27-10"><a href="#cb27-10" aria-hidden="true"></a>           <span class="co"># add new term</span></span>
+<span id="cb27-11"><a href="#cb27-11" aria-hidden="true"></a>          <span class="va">self</span>.terms.append(Term(power,coefficient))</span></code></pre></div>
+<p>Note that the “set_coefficient” method checks if the term of the power sent as a parameter already exists in the list of terms. If it already exists, it replaces the existing term. Otherwise, it adds a new term to the list of terms. Check that this method works correctly by including an example of its use in the main program:</p>
+<div class="sourceCode" id="cb28"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true"></a>    p <span class="op">=</span> Polynomial([])</span>
+<span id="cb28-2"><a href="#cb28-2" aria-hidden="true"></a>    p.set_coefficient(<span class="dv">3</span>,<span class="fl">4.0</span>)</span>
+<span id="cb28-3"><a href="#cb28-3" aria-hidden="true"></a>    p.set_coefficient(<span class="dv">1</span>,<span class="fl">2.0</span>)</span>
+<span id="cb28-4"><a href="#cb28-4" aria-hidden="true"></a>    p.set_coefficient(<span class="dv">3</span>,<span class="fl">2.0</span>)</span>
+<span id="cb28-5"><a href="#cb28-5" aria-hidden="true"></a>    <span class="bu">print</span>(p) <span class="co"># Polynomial(terms=[Term(power=3, coefficient=2.0), Term(power=1, coefficient=2.0)])</span></span></code></pre></div>
+<p>Now add a method called “evaluate” in the “Polynomial” class to evaluate the polynomial function associated to <em>P(x)</em> at a specific real value of <em>x</em>. To perform that evaluation you need to iterate through the terms of the polynomial, and you will also need an “evaluate” method inside the “Term” class:</p>
+<div class="sourceCode" id="cb29"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb29-1"><a href="#cb29-1" aria-hidden="true"></a><span class="kw">class</span> Term:</span>
+<span id="cb29-2"><a href="#cb29-2" aria-hidden="true"></a>    ...</span>
+<span id="cb29-3"><a href="#cb29-3" aria-hidden="true"></a>    <span class="kw">def</span> evaluate(<span class="va">self</span>,x):</span>
+<span id="cb29-4"><a href="#cb29-4" aria-hidden="true"></a>        ...</span>
+<span id="cb29-5"><a href="#cb29-5" aria-hidden="true"></a><span class="kw">class</span> Polynomial:</span>
+<span id="cb29-6"><a href="#cb29-6" aria-hidden="true"></a>    ...</span>
+<span id="cb29-7"><a href="#cb29-7" aria-hidden="true"></a>    <span class="kw">def</span> evaluate(<span class="va">self</span>,x):</span>
+<span id="cb29-8"><a href="#cb29-8" aria-hidden="true"></a>        ...</span></code></pre></div>
+<p>Modify your main program again to include an example using the “evaluate” method of the “Polynomial” class:</p>
+<div class="sourceCode" id="cb30"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb30-1"><a href="#cb30-1" aria-hidden="true"></a>    p <span class="op">=</span> Polynomial([])</span>
+<span id="cb30-2"><a href="#cb30-2" aria-hidden="true"></a>    p.set_coefficient(<span class="dv">1</span>,<span class="fl">2.0</span>)</span>
+<span id="cb30-3"><a href="#cb30-3" aria-hidden="true"></a>    p.set_coefficient(<span class="dv">3</span>,<span class="fl">2.0</span>)</span>
+<span id="cb30-4"><a href="#cb30-4" aria-hidden="true"></a>    <span class="bu">print</span>(p.evaluate(<span class="fl">4.0</span>)) <span class="co"># 136.0</span></span></code></pre></div>
+<p>Now add a new static method in the “Polynomial” class to calculate the sum of two polynomials. The most natural way to perform this sum is to implement an algorithm that merges the lists of terms in each polynomial. But before performing that merge we need to make sure that the terms are sorted by power. The lists in Python provide a “sort” function, which can receive another function as parameter to extract the key used in the sorting:</p>
+<div class="sourceCode" id="cb31"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb31-1"><a href="#cb31-1" aria-hidden="true"></a><span class="kw">class</span> Polynomial:</span>
+<span id="cb31-2"><a href="#cb31-2" aria-hidden="true"></a>    ...</span>
+<span id="cb31-3"><a href="#cb31-3" aria-hidden="true"></a>    <span class="at">@staticmethod</span></span>
+<span id="cb31-4"><a href="#cb31-4" aria-hidden="true"></a>    <span class="kw">def</span> add(op1, op2):</span>
+<span id="cb31-5"><a href="#cb31-5" aria-hidden="true"></a>        extract_power <span class="op">=</span><span class="kw">lambda</span> term: term.power</span>
+<span id="cb31-6"><a href="#cb31-6" aria-hidden="true"></a>        op1.terms.sort(key<span class="op">=</span> extract_power)</span>
+<span id="cb31-7"><a href="#cb31-7" aria-hidden="true"></a>        ...</span></code></pre></div>
+<p>Note that we have used a <a href="https://docs.python.org/3.10/tutorial/controlflow.html#lambda-expressions">lambda</a> expression to define the function that extracts the power of each term.</p>
+<p>Remember also that to facilitate a structured solution of this “add” method, it is convenient to define both the “add” method within the “Term” class and a method to make a copy of a “Term” object from another term:</p>
+<div class="sourceCode" id="cb32"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb32-1"><a href="#cb32-1" aria-hidden="true"></a><span class="at">@dataclass</span></span>
+<span id="cb32-2"><a href="#cb32-2" aria-hidden="true"></a><span class="kw">class</span> Term:</span>
+<span id="cb32-3"><a href="#cb32-3" aria-hidden="true"></a>    ...</span>
+<span id="cb32-4"><a href="#cb32-4" aria-hidden="true"></a>    <span class="at">@classmethod</span></span>
+<span id="cb32-5"><a href="#cb32-5" aria-hidden="true"></a>    <span class="kw">def</span> from_term(cls, term):</span>
+<span id="cb32-6"><a href="#cb32-6" aria-hidden="true"></a>       <span class="cf">return</span> cls(term.power,term.coefficient)</span>
+<span id="cb32-7"><a href="#cb32-7" aria-hidden="true"></a>    </span>
+<span id="cb32-8"><a href="#cb32-8" aria-hidden="true"></a>    <span class="at">@staticmethod</span></span>
+<span id="cb32-9"><a href="#cb32-9" aria-hidden="true"></a>    <span class="kw">def</span> add(t1, t2):</span>
+<span id="cb32-10"><a href="#cb32-10" aria-hidden="true"></a>        ...</span></code></pre></div>
+<p>Modify the main program again to include an example using the “add” method of the “Polynomial” class:</p>
+<div class="sourceCode" id="cb33"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb33-1"><a href="#cb33-1" aria-hidden="true"></a>    p <span class="op">=</span> Polynomial([])</span>
+<span id="cb33-2"><a href="#cb33-2" aria-hidden="true"></a>    p.set_coefficient(<span class="dv">1</span>,<span class="fl">2.0</span>)</span>
+<span id="cb33-3"><a href="#cb33-3" aria-hidden="true"></a>    p.set_coefficient(<span class="dv">3</span>,<span class="fl">2.0</span>)</span>
+<span id="cb33-4"><a href="#cb33-4" aria-hidden="true"></a>    p2 <span class="op">=</span> Polynomial([])</span>
+<span id="cb33-5"><a href="#cb33-5" aria-hidden="true"></a>    p2.set_coefficient(<span class="dv">2</span>,<span class="fl">5.0</span>)</span>
+<span id="cb33-6"><a href="#cb33-6" aria-hidden="true"></a>    p2.set_coefficient(<span class="dv">1</span>,<span class="fl">2.0</span>)</span>
+<span id="cb33-7"><a href="#cb33-7" aria-hidden="true"></a>    <span class="bu">sum</span> <span class="op">=</span> Polynomial.add(p,p2)</span>
+<span id="cb33-8"><a href="#cb33-8" aria-hidden="true"></a>    <span class="bu">print</span>(<span class="bu">sum</span>) <span class="co"># Polynomial(terms=[Term(power=1, coefficient=4.0), Term(power=2, coefficient=5.0), Term(power=3, coefficient=2.0)])</span></span></code></pre></div>
+<p>You can continue with the implementation of “Polynomial” and “Term” classes to include new operations between polynomials such as the product or division between 2 polynomial expressions.</p>
