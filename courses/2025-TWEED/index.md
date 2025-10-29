@@ -1,5 +1,5 @@
 ---
-title: Materials for TWEED Specific Course 1: Basic Skills and Research Tools
+title: Materials for TWEED Specific Course 1. Basic Skills and Research Tools
 subtitle: November 3-7, 2025, Zaragoza
 layout: post
 ---
