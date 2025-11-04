@@ -4,7 +4,7 @@ subtitle: November 3-7, 2025, Zaragoza
 layout: post
 ---
 
+- [Introduction to Programming with Python and Python Libraries (with Jupyter Notebook)](python-ml-course-TWEED.zip)
 - [Good Practices 1: Modularization and Code Style](Modularization and Code Style.pdf)
 - [Good Practices 2: Fundamentals of Object Orientation](ObjectOrientation_fundamentals_v2.pdf)
 - [Fundamentals of Git and GitHub](FundGit.pdf)
-- [Introduction to Programming with Python and Python Libraries (with Jupyter Notebook)](python-ml-course-TWEED.zip)
