@@ -6,6 +6,6 @@ layout: member_page
 
 ## Professional career
 
-Software Engineer (2018), currently finishing a Master of Science in Informatics Engineering at the Universidad Zaragoza. Working with the Advanced Information Systems Laboratory since 2018 developing new ways of designing, building and deploying Spatial Data Infrastructures. 
+Dr. Sergio Martín Segura holds a PhD in Computer Science from the University of Zaragoza (2025), where he also obtained his degree in Computer Engineering (2018). Since 2018, he has been an active member of the Advanced Information Systems Group (IAAA), where he has developed a research career focused on open and geospatial data infrastructures, applied machine learning, and technological innovation in information systems. 
 
-He has already presented his work in several conferences such as the AGILE Conference (2019) and the JIIDE Conference (2018). In 2018 he was nominated to the "Best Bachelor's Degree Final Project" by [TECNARA](http://tecnara.es/) and won the "Pedro Muro Award" in 2019 for that project.
+His trajectory includes contributions to the development of advanced methodologies and practical applications that address challenges in the management and analysis of open and geospatial data, sustainability, and digitalisation.
