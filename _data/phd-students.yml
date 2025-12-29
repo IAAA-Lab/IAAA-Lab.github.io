@@ -38,3 +38,11 @@ jlagunar:
   image_path: /images/people/jlagunar.jpg
   local_url: /staff/jlagunar
   #url:
+adominguezl:
+  name: Alejandro Domínguez Lapeña
+  papers_name: A. DOMINGUEZ-LAPEÑA
+  projects_name: 
+  position: PhD Student
+  image_path: /images/people/phd-students/adominguezl.jpg
+  local_url: /staff/adominguezl
+  #url:
