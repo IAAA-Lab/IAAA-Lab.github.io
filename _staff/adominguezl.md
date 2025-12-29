@@ -1,5 +1,5 @@
 ---
-title: Alejandro Dominguez Lapeña
+title: Alejandro Domínguez Lapeña
 author_id: adominguezl
 layout: phdstudent_page
 ---
