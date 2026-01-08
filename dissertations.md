@@ -9,7 +9,7 @@ layout: phd_dissertations
 - Implementation of a Knowledge Hub for Wind Turbine Data Integration: A Cloud-Native Approach for Industry-Wide Data Standardization and Automated Processing. **Jorge Laguna**.
   - <span style="color:#999999">Under the supervision of **F. Javier Zarazaga-Soria**.</span>
 - Multi-scale digital twins for urban block decarbonization. **Alejandro Dominguez Lapeña**.
-  - <span style="color:#999999">Under the supervision of **Rubén Béjar**.</span>
+  - <span style="color:#999999">Under the supervision of **Rubén Béjar** and **Ana Ruiz-Varona**.</span>
 - Reconstructing Detailed and Annotated Walking Routes from Contemporary and Historical Narrative Texts. **Abdelkrim Tafer**.
   - <span style="color:#999999">Under the supervision of **Javier Lacasta** and **Mauro Gaio**.</span>
 - Data Findability and Accessibility Pathways for Data Spaces. **Jordi Escriu**.
