@@ -6,8 +6,16 @@ layout: phd_dissertations
 
 ## Ongoing PhD Thesis
 
-- Collaborative work on geospatial data modelled on discrete global grid systems. **Muhammad Umer**.
-  - <span style="color:#999999">Under the supervision of **R. Béjar**.</span>
+- Implementation of a Knowledge Hub for Wind Turbine Data Integration: A Cloud-Native Approach for Industry-Wide Data Standardization and Automated Processing. **Jorge Laguna**.
+  - <span style="color:#999999">Under the supervision of **F. Javier Zarazaga-Soria**.</span>
+- Multi-scale digital twins for urban block decarbonization. **Alejandro Dominguez Lapeña**.
+  - <span style="color:#999999">Under the supervision of **Rubén Béjar**.</span>
+- Reconstructing Detailed and Annotated Walking Routes from Contemporary and Historical Narrative Texts. **Abdelkrim Tafer**.
+  - <span style="color:#999999">Under the supervision of **Javier Lacasta** and **Mauro Gaio**.</span>
+- Reconstructing Detailed and Annotated Walking Routes from Contemporary and Historical Narrative Texts. **Abdelkrim Tafer**.
+  - <span style="color:#999999">Under the supervision of **Javier Lacasta**.</span>
+- Data Findability and Accessibility Pathways for Data Spaces. **Jordi Escriu**
+  - <span style="color:#999999">Under the supervision of **F. Javier Lopez-Pellicer**.</span>
 
 ## PhD Thesis Completed
 
