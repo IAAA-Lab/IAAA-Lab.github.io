@@ -12,7 +12,7 @@ layout: phd_dissertations
   - <span style="color:#999999">Under the supervision of **Rubén Béjar**.</span>
 - Reconstructing Detailed and Annotated Walking Routes from Contemporary and Historical Narrative Texts. **Abdelkrim Tafer**.
   - <span style="color:#999999">Under the supervision of **Javier Lacasta** and **Mauro Gaio**.</span>
-- Data Findability and Accessibility Pathways for Data Spaces. **Jordi Escriu**
+- Data Findability and Accessibility Pathways for Data Spaces. **Jordi Escriu**.
   - <span style="color:#999999">Under the supervision of **F. Javier Lopez-Pellicer**.</span>
 
 ## PhD Thesis Completed
