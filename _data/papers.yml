@@ -56,6 +56,20 @@
   doi: 10.1145/3733600
   github_url: https://github.com/IAAA-Lab/Collective-Intelligence-in-Humanitarian-Voluntary-Geographic-Information-ODECO-HOT-TM
 # -------------------
+- title: "Extracting Spatial Entities Involved in the Description of a Movement Action Using Deep Learning Methods: A Comparative Study of Three Models"
+  authors: A. TAFER, M. GAIO
+  publication_conference: "GeoExT 2025: Third International Workshop on Geographic Information Extraction from Texts at ECIR 2025, April 10, Lucca, Italy."
+  publication_detail: "CEUR Workshop Proceedings, Vol-3969"
+  year: 2025
+  url: https://ceur-ws.org/Vol-3969/paper3.pdf
+# -------------------
+- title: "Extraire les actions de déplacements dans des textes descriptifs par apprentissage : Une étude comparative de quatre modèles"
+  authors: A. TAFER, M. GAIO
+  publication_conference: "SAGEO'2025 - Avignon, 21-23 mai"
+  publication_detail: "ISBN : 978-2-910545-13-X, pp. 101-106"
+  year: 2025
+  url: https://hal.science/hal-05136495v1
+# -------------------
 - title: "Predicción de tendencias en la lonja del bovino con aprendizaje automático"
   authors: V. JARRETA, J. LAGUNA, M.E. SUAZA-MEDINA, F.J. ZARAZAGA-SORIA, J. LACASTA
   publication_conference: "XXIX Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2025). Sistedes (2025), Córdoba, Spain, 9 - 11 September 2025"
