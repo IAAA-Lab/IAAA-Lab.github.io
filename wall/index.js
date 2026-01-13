@@ -45,7 +45,7 @@ function currentTime() {
     const dt = new Date();
     
     // Date
-    var [dd, MM, yyyy] = [dt.getDate(), dt.getMonth(), dt.getFullYear()];
+    var [dd, MM, yyyy] = [dt.getDate(), dt.getMonth()+1, dt.getFullYear()];
     const day = ['LUN','MAR','MIE','JUE','VIE','SAB','DOM'][dt.getDay()];
 
     [dd, MM] = [pad(dd), pad(MM)];
@@ -70,11 +70,11 @@ function currentTime() {
         [hh, mm, ss] = [pad(hh), pad(mm), pad(ss)];
         time = `${hh}:${mm}:${ss} ${session}`;
     }
+    updateCountdown();
 
     document.getElementById("time").innerText = time;
     const t = setTimeout(function(){ currentTime() }, 1000);
 }
-currentTime();
 
 // Add click event listener to clock for format toggle
 document.getElementById("clock").addEventListener("click", function(e) {
@@ -133,12 +133,12 @@ function handleTimeInput() {
     
     if (validateTimeInput(...values)) {
         targetTime = values;
-        if (countdownInterval) clearInterval(countdownInterval);
+        // if (countdownInterval) clearInterval(countdownInterval);
         updateCountdown();
-        countdownInterval = setInterval(updateCountdown, 1000);
+        // countdownInterval = setInterval(updateCountdown, 1000);
     } else {
         targetTime = null;
-        if (countdownInterval) clearInterval(countdownInterval);
+        // if (countdownInterval) clearInterval(countdownInterval);
         document.getElementById("countdown").textContent = "--:--:--";
     }
 }
@@ -168,3 +168,4 @@ document.querySelectorAll('.time-digit').forEach((input, index) => {
         }
     });
 });
+currentTime();
