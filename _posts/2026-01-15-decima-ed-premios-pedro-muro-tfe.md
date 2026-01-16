@@ -50,7 +50,7 @@ El jurado, por suma de las puntuaciones asignadas de acuerdo con los criterios a
 
 El fallo se dará a conocer durante el acto de entrega de diplomas y premios extraordinarios a titulados en el curso 2024-2025 de la [Escuela de Ingeniería y Arquitectura de la Universidad de Zaragoza](http://eina.unizar.es/) en fechas todavía por concretar. En el caso de que hubiera alguna modificación se notificaría convenientemente a todos los interesados.
 
-Para la entrega de los premios se aplicará lo establecido en el vigente Reglamento de Impuesto de la Renta de las Personas Físicas, aprobado en el RD 1841/91 del 30 de diciembre de 1991 y demás disposiciones concordantes.
+Para la entrega de los premios se aplicará lo establecido en la legislación sobre Impuesto de la Renta de las Personas Físicas que se encuentre vigente en el momento del pago.
 
 El fallo del jurado será inapelable. Se realizarán las acciones de difusión y publicidad del resultado que se consideren convenientes.
 
