@@ -54,3 +54,11 @@ tafer:
   image_path: /images/people/phd-students/tafer.jpg
   local_url: /staff/tafer
   #url:
+sjimenez:
+  name: Sergio Jiménez Frago
+  papers_name: S. JIMENEZ
+  projects_name: 
+  position: Engineer
+  image_path: /images/people/phd-students/sjimenez.jpg
+  local_url: /staff/sjimenez
+  #url:
