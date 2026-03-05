@@ -1,3 +1,18 @@
+- title: "Análisis tecnológico para desarrollo de clientes móviles SITMUN y soporte para el despliegue de SITMUN en el backoffice de SILME"
+  organizations: 
+  - organization: Servicio de Informática Local de Menorca, S.A.
+  years: 2024-2025
+  main_researcher: R. Béjar, F.J. Lopez-Pellicer
+- title: "Servicio de los trabajos de soporte al despliegue de un prototipo de proyecto SIG de código abierto"
+  organizations: 
+  - organization: Diputació de Barcelona
+  years: 2023-2024
+  main_researcher: R. Béjar, F.J. Lopez-Pellicer
+- title: "Menorca Reserva de la Biosfera - Turisme 0 CO2"
+  organizations: 
+  - organization: Consell Insular de Menorca
+  years: 2022-2023
+  main_researcher: R. Béjar, F.J. Lopez-Pellicer
 - title: "Uso de inteligencia artificial para medir la influencia de los informes técnicos en la fijación de precio del vacuno"
   url: https://www.informelonja.es
   organizations:
@@ -29,6 +44,21 @@
   reference: GCP2021002100
   years: 2022-2024
   main_researcher: F.J. Zarazaga-Soria
+- title: "Contractació dels treballs de support al disseny, gestió i documentació de projectes SIG"
+  organizations: 
+  - organization: Diputació de Barcelona 
+  years: 2022-2022
+  main_researcher: R. Béjar, F.J. Lopez-Pellicer
+- title: "Servei de gestió de la nova versió de SITMUN 3 per al projecte IDE Menorca"
+  organizations:
+  - organization: Servicio de Informática Local de Menorca, S.A.    
+  years: 2020-2021
+  main_researcher: R. Béjar, F.J. Lopez-Pellicer
+- title: "Treballs per facilitar la gestió de projectes SIG de codi lliure"
+  organizations:
+  - organization: Diputació de Girona    
+  years: 2020-2021
+  main_researcher: R. Béjar, F.J. Lopez-Pellicer
 - title: "Análisis de Resultados y Estudio de Mejora de Gestión en Proyectos de Recarga de Vehículo Eléctrico Apoyados con Energía Fotovoltaica sobre Demostrador Práctico"
   organizations:
   - organization: Energy on Site
