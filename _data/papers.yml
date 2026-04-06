@@ -656,13 +656,13 @@
   year: 2018
 # -------------------
 - title: "Autenticidad y aprendizaje basado en proyectos en una asignatura sobre diseño de software"
-  url: http://www.aenui.net/ojs/index.php?journal=actas_jenui&page=article&op=view&path%5B%5D=464&path%5B%5D=622
+  url: https://aenui.org/actas/fichas/JENUI_2018_048.html
   authors: R. BÉJAR, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO, F.J. ZARAZAGA-SORIA 
   publication_conference: "XXIV Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2018), Barcelona, Spain, 4-6 July 2018"
   year: 2018
 # -------------------
 - title: "Extensión de un proyecto Open Source con un proceso de pruebas bien asentado como modelo de aprendizaje para una asignatura de Verificación y Validación"
-  url: http://www.aenui.net/ojs/index.php?journal=actas_jenui&page=article&op=view&path%5B%5D=465&path%5B%5D=652
+  url: https://aenui.org/actas/fichas/JENUI_2018_049.html
   authors: J. NOGUERAS-ISO, M.Á. LATRE, J. LACASTA, F.J. LOPEZ-PELLICER, R. BÉJAR
   publication_conference: "XXIV Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2018), Barcelona, Spain, 4-6 July 2018"
   year: 2018
@@ -2739,12 +2739,14 @@
   year: 2001
 # -------------------
 - title: "Muletas y muletillas en la enseñanza universitaria de la informática de titulaciones no técnicas"
+  url: https://aenui.org/actas/fichas/JENUI_2001_063.html
   authors: P.J. ÁLVAREZ, J. GUTIÉRREZ, J. NOGUERAS-ISO, J. VALIÑO, F.J. ZARAZAGA-SORIA
   publication_conference: "Actas de las VII Jornadas de Enseñanza Universitaria de la Informática: Jenui 2001"
   publication_detail: "p. 357-360"
   year: 2001
 # -------------------
 - title: "Uso de técnicas de dinámica de grupos para sensibilizar a los alumnos de Ingeniería del Software en los problemas de comunicación"
+  url: https://aenui.org/actas/fichas/JENUI_2001_041.html
   authors: P.J. ÁLVAREZ, J. GUTIERREZ, E. LANUZA, F.J. ZARAZAGA-SORIA
   publication_conference: "Actas de las VII Jornadas de Enseñanza Universitaria de la Informática: Jenui 2001"
   publication_detail: "p. 234-238"
@@ -2776,6 +2778,7 @@
   year: 2001
 # -------------------
 - title: "La enseñanza de la Gestión Proyectos de Software en el plan de estudios de Ingeniería Informática de la Universidad de Zaragoza"
+  url: https://aenui.org/actas/fichas/JENUI_2001_042.html
   authors: R. BÉJAR, O. CANTÁN-CASBAS, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
   publication_conference: "Actas de las VII Jornadas de Enseñanza Universitaria de la Informática: Jenui 2001"
   publication_detail: "p. 239-242"
@@ -2794,6 +2797,7 @@
   year: 2001
 # -------------------
 - title: "La enseñanza de la Ingeniería del Software en el marco del Postgrado en Informática de la Universidad de Zaragoza"
+  url: https://aenui.org/actas/fichas/JENUI_2001_034.html
   authors: P.J. ÁLVAREZ, S. BLASCO-PÉREZ, M.Á. LATRE, J. NOGUERAS-ISO
   publication_conference: "Actas de las VII Jornadas de Enseñanza Universitaria de la Informática: Jenui 2001"
   publication_detail: "p. 196-198"
@@ -3016,20 +3020,6 @@
   publication_detail: "p. 129-136"
   year: 1998
 # -------------------
-- title: "Aspectos docentes de la asignatura de Inteligencia Artificial e Ingeniería del Conocimiento I del plan de estudios de Ingeniería Informática de la Universidad de Zaragoza"
-  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1997_JENUI_IA.pdf
-  authors: J.A. BAÑARES-BAÑARES, J. RUBIO-GARCÍA, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
-  publication_conference: "Actas de las III Jornadas de Enseñanza Universitaria: Jenui'97"
-  publication_detail: "p. 215-219"
-  year: 1998
-# -------------------
-- title: "Aspectos docentes de la asignatura de Proyectos de Software del plan de estudios de Ingeniería Informática de la Universidad de Zaragoza"
-  url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1997_JENUI_Proyectos.pdf
-  authors: P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA, J. VALIÑO
-  publication_conference: "Actas de las III Jornadas de Enseñanza Universitaria: Jenui'97"
-  publication_detail: "p. 47-52"
-  year: 1998
-# -------------------
 - title: "Una aplicación basada en ArcView/Avenue para soportar un banco de datos del agua en Aragón"
   url: /curriculum/09-Otras-Publicaciones-Congresos/cong_1998_ESRI_Aplicacion.pdf
   authors: S. COMELLA, R. LÓPEZ, R. BÉJAR, F.J. ZARAZAGA-SORIA, J. EZPELETA-MATEO
@@ -3043,6 +3033,7 @@
   year: 1998
 # -------------------
 - title: "Organización Docente de la Asignatura Ingeniería de los Sistemas Basados en el Conocimiento"
+  url: https://aenui.org/actas/fichas/JENUI_1998_050.html
   authors: J.A. BAÑARES-BAÑARES, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA, S. COMELLA DORDA
   publication_conference: "Actas de las IV Jornades sobre L'Ensenyament Universitari de la Informàtica: JENUI'98"
   publication_detail: "p. 335-339"
@@ -3114,6 +3105,20 @@
   authors: F.J. ZARAZAGA-SORIA, J. VALIÑO, J.A. BAÑARES-BAÑARES, C. FELIPE, F.J. SALAS, P.R. MURO-MEDRANO
   publication_conference: "Actas de las  II Jornadas de Transferencia Tecnológica de Inteligencia Artificial: TTIA 97"
   publication_detail: "p. 59-66"
+  year: 1997
+# -------------------
+- title: "Aspectos docentes de la asignatura de Inteligencia Artificial e Ingeniería del Conocimiento I del plan de estudios de Ingeniería Informática de la Universidad de Zaragoza"
+  url: https://aenui.org/actas/fichas/JENUI_1997_028.html
+  authors: J.A. BAÑARES-BAÑARES, J. RUBIO-GARCÍA, P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de las III Jornadas de Enseñanza Universitaria: Jenui'97"
+  publication_detail: "p. 215-219"
+  year: 1997
+# -------------------
+- title: "Aspectos docentes de la asignatura de Proyectos de Software del plan de estudios de Ingeniería Informática de la Universidad de Zaragoza"
+  url: https://aenui.org/actas/fichas/JENUI_1997_007.html
+  authors: P.R. MURO-MEDRANO, F.J. ZARAZAGA-SORIA, J. VALIÑO
+  publication_conference: "Actas de las III Jornadas de Enseñanza Universitaria: Jenui'97"
+  publication_detail: "p. 47-52"
   year: 1997
 # -------------------
 - title: "Structured Representation of Rule-Based Specifications in CIM Using Updated Petri Nets"
