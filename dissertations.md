@@ -14,6 +14,9 @@ layout: phd_dissertations
   - <span style="color:#999999">Under the supervision of **Javier Lacasta** and **Mauro Gaio**.</span>
 - Data Findability and Accessibility Pathways for Data Spaces. **Jordi Escriu**.
   - <span style="color:#999999">Under the supervision of **F. Javier Lopez-Pellicer**.</span>
+- Large Language Models On-device for the Agricultural Sector. **F. Javier González Ontañón**.
+  - <span style="color:#999999">Under the supervision of **Sergio Martín** and **Miguel Á. Latre**.</span>
+
 
 ## PhD Thesis Completed
 
