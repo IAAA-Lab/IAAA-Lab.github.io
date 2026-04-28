@@ -2,6 +2,15 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congreso 
 # -------------------
+- title: "A framework for the automated thematic annotation of Open Government Data"
+  url: https://doi.org/10.2298/CSIS251029022A
+  authors: A. AZIZ, M. ALI, D.J. HERRERA-MURILLO, M.I. MARATSI, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO
+  publication: "Computer Science and Information Systems"
+  publication_detail: "vol. 23(2), p. 917-946"
+  year: 2026
+  doi: 10.2298/CSIS251029022A
+  open_repo_url: https://doi.org/10.5281/zenodo.18317554
+# -------------------
 - title: "Multivariate integration of time series with ML for corn price forecasting in Colombia"
   url: https://doi.org/10.1016/j.eswa.2025.129822
   authors: A. OJEDA-BELTRAN, M.E. SUAZA-MEDINA, F.J. ZARAZAGA-SORIA, E. DE-LA-HOZ-FRANCO, J. ESCORCIA-GUTIERREZ 
