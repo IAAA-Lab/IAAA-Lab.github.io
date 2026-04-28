@@ -2,6 +2,15 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congreso 
 # -------------------
+- title: "Applicability of Process Mining in Usability Tests: A Case Study for Identifying User Mental Models in Geospatial Search Engines"
+  url: https://doi.org/10.1109/OJCS.2026.3682070
+  authors: D.J. HERRERA-MURILLO, P. ABAD POWER, F.J. LOPEZ-PELLICER, S. BALDASARRI, J. NOGUERAS-ISO
+  publication: "IEEE Open Journal of the Computer Society"
+  publication_detail: "Available online as PrePrint"
+  year: 2026
+  doi: 10.1109/OJCS.2026.3682070
+  github_url: https://github.com/IAAA-Lab/Applicability-of-process-mining-in-usability-tests-ODECO-IGN
+# -------------------
 - title: "A framework for the automated thematic annotation of Open Government Data"
   url: https://doi.org/10.2298/CSIS251029022A
   authors: A. AZIZ, M. ALI, D.J. HERRERA-MURILLO, M.I. MARATSI, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO
