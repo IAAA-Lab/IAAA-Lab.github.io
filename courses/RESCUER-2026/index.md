@@ -1,5 +1,5 @@
 ---
-title: Materials for RESCUER Workshop. Python: Basic Skills and Research Tools
+title: Materials for RESCUER Workshop. Python - Basic Skills and Research Tools
 subtitle: June 22-26, 2026, Zaragoza
 layout: post
 ---
