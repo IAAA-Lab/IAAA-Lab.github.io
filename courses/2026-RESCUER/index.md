@@ -7,4 +7,4 @@ layout: post
 - Introduction to Python Scientific Programming
 - Hands on with Python and scientific libraries
 - Best practices in programming: Modularization and Code Style
-- Best practices in programming: Fundamentals of Object Orientation(ObjectOrientation_fundamentals_v4.pdf)
+- [Best practices in programming: Fundamentals of Object Orientation](ObjectOrientation_fundamentals_v4.pdf)
