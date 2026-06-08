@@ -8,6 +8,20 @@ image: /images/posts/Pedro_Muro.jpg
 
 El [Grupo de Sistemas de Información Avanzados]({{ site.baseurl }}/) y el [Instituto de Investigación en Ingeniería de Aragón](http://i3a.unizar.es) abren la convocatoria para los premios a los trabajos de fin de estudios **defendidos en cualquier universidad española entre el 1 de enero de 2025 y el 31 de diciembre de 2025** que más aporten al desarrollo y explotación de datos abiertos o datos geográficos.
 
+---
+#### Ganadores del premio
+
+Dada la igualdad entre los dos mejores trabajos, el jurado ha decidido conceder dos primeros premios: a D. Enrique Poveda Lorente por el proyecto "Validación de direcciones postales mediante Modelos de Lenguaje Grandes (LLMs)", realizado en la Universidad Politécnica de Madrid, y a D. Andrés Yubero Segura por el proyecto "Identificación de islas de calor urbanas mediante técnicas de aprendizaje automático", realizado en la Universidad de Zaragoza.
+
+La entrega se llevó a cabo por videoconferencia:
+
+![Entrega del premios]({{ site.baseurl }}/images/posts/premio_PRMuro_2026_Enrique.jpg){:class="img-responsive"}
+![Entrega del premios]({{ site.baseurl }}/images/posts/premio_PRMuro_2026_Andres.jpg){:class="img-responsive"}
+
+*(Actualizado el 8 de junio de 2026)*
+
+---
+
 # Objetivo y participantes
 El objetivo de estos premios es fomentar y apoyar la realización de trabajos de final de estudios que creen y/o integren tecnologías para el tratamiento de datos abiertos, datos geográficos o que aborden la integración de datos de múltiples fuentes.
 
