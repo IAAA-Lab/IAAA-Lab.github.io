@@ -36,16 +36,30 @@
   year: 2026
   doi: 10.1016/j.eswa.2025.129822
   alt_pdf_url: https://zaguan.unizar.es/record/163973/files/texto_completo.pdf 
-  
-  # -------------------
+# -------------------
 - title: "A hybrid annotation method and a reference corpus for hiking descriptions"
   authors: A. TAFER, M. GAIO, J. LACASTA
   publication_conference: "GeoExT 2026: Fourth International Workshop on Geographic Information Extraction from Texts at ECIR 2026, April 2, Delft, The Netherlands"
   publication_detail: "CEUR Workshop Proceedings, pp 89–98"
   year: 2026
   url: https://hal.science/hal-05597071v1/file/sample-1col-R2.pdf
-  
 # -------------------
+- title: "Temporal Conformal Prediction for Wind Turbine Anomaly Detection: A Robust Distribution-Free Framework with Conditional Clustering"
+  authors:  J. LAGUNA, Y. JANAL, M. REDER, J.J. MELERO
+  publication_conference: "Journal of Physics: Conference Series"
+  publication_detail: "3224, Reliability, monitoring and sensing, O&M"
+  year: 2026
+  doi: 10.1088/1742-6596/3224/6/062054
+  url: https://iopscience.iop.org/article/10.1088/1742-6596/3224/6/062054
+ # -------------------
+- title: "Influence of meteorological conditions on wind turbine failure: A review with updated data application"
+  authors:  Y. JANAL, J. LAGUNA, M. REDER, J.J. MELERO
+  publication_conference: "Journal of Physics: Conference Series"
+  publication_detail: "3224, Reliability, monitoring and sensing, O&M"
+  year: 2026
+  doi: 10.1088/1742-6596/3224/6/062048
+  url: https://iopscience.iop.org/article/10.1088/1742-6596/3224/6/062048
+ # -------------------
 - title: "A framework for the acceptance testing of geospatial search engines"
   url: https://doi.org/10.1016/j.envsoft.2025.106692
   authors: D.J. HERRERA-MURILLO, J. NOGUERAS-ISO, P. ABAD-POWER, M.Á. LATRE, F.J. LOPEZ-PELLICER
