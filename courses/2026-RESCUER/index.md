@@ -1,5 +1,5 @@
 ---
-title: Materials for RESCUER Workshop 5a: Data management and exploitation in scientific computing
+title: Materials for RESCUER Workshop 5a. Data management and exploitation in scientific computing
 subtitle: June 22-26, 2026, Zaragoza
 layout: post
 ---
