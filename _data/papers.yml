@@ -44,6 +44,13 @@
   year: 2026
   url: https://hal.science/hal-05597071v1/file/sample-1col-R2.pdf
 # -------------------
+- title: "Towards remote detection of potential eutrophication scenarios in fresh water bodies"
+  authors:  M.E. SUAZA-MEDINA, J. LACASTA, S. MARTIN-SEGURA, F.J. ZARAZAGA-SORIA
+  publication_conference: "HIC 2026: 16th International Conference on Hydroinformatics"
+  publication_detail: "June 22 - 26, Zaragoza (Spain)"
+  year: 2026
+  url: https://hic2026.org/wp-content/uploads/2026/06/hic2026_program_18062026.html#parallel-session-323
+# -------------------
 - title: "Temporal Conformal Prediction for Wind Turbine Anomaly Detection: A Robust Distribution-Free Framework with Conditional Clustering"
   authors:  J. LAGUNA, Y. JANAL, M. REDER, J.J. MELERO
   publication_conference: "Journal of Physics: Conference Series"
