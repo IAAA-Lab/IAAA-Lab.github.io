@@ -17,6 +17,9 @@ This project is linked to the Thematic Priority “8. Alimentación, bioeconomí
 
 The main hypothesis of this project is that significant advancements in the digital transformation of the agricultural sector will arise from integrated geospatial data platforms that go beyond the capabilities of the current generation of horizontal platforms. This current generation includes Sentinel Hub, Copernicus DIAS, Google Earth Engine, Microsoft Planetary Computer and others. We propose a shift towards a more vertical approach, where domain knowledge about agriculture is embedded in these platforms. Although the horizontal platforms can be used in agriculture, as in any other sector, this requires a significant initial effort by domain experts, which need to select, combine and pre-process relevant data before proceeding to its analysis. We hypothesize that advancements in vertical, domain-specific platforms will make agriculturally relevant ARD more findable, interoperable, accessible and reusable (FAIR) enabling domain experts to focus only on the problems that they really want to solve. Furthermore, these advancements are expected to be better supported with the integration of Discrete Global Grid Systems in these platforms, especially if we also incorporate the several additional benefits which will arise by replacing the classic uncompressed storage methods with CDS (Compact Data Structures)-based storage methods and their associated query algorithms.
 
+## Results
+- Pablo Gutiérrez-Asorey, Nieves R Brisaboa, Alejandro Cortiñas, Miguel R Luaces, José R Paramá, Tirso V Rodeiro, Multilevel representations of multiple geographical objects, *The Computer Journal*, 2026; <https://doi.org/10.1093/comjnl/bxag034>.
+
 
 ## Financiación (Funding)
 Proyecto {{ page.code }} financiado por MICIU/AEI/10.13039/501100011033 y por FEDER, UE.
