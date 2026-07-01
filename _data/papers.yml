@@ -40,8 +40,13 @@
 
 
 
-
-
+- title: "A comparison of generalised urban block 3D model variants considering attributes with an influence on urban analyses"
+  authors: A. DOMÍNGUEZ-LAPEÑA, R. BÉJAR, A. RUIZ-VARONA
+  publication_conference: "29th AGILE Conference on Geographic Information Science. Smart Data: Making geospatial data actionable"
+  publication_detail: "Editor(s): Evelyn Uuemaa, Alexander Kmoch, Holger Virro, and Simon Scheider. Volume 7, 2026"
+  year: 2026
+  url: https://agile-giss.copernicus.org/articles/7/22/2026/
+# -------------------
 - title: "LLM on-device en el sector agrícola: hacia el estudio de viabilidad y retos de ingeniería"
   authors: F. JAVIER GONZÁLEZ-ONTAÑÓN, S. MARTIN-SEGURA, M.E. SUAZA-MEDINA, M.Á. LATRE, F.J. ZARAZAGA-SORIA
   publication_conference: "XXX Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2026), SISTEDES, 2026"
