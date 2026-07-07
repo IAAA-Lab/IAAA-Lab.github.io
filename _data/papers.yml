@@ -2,11 +2,21 @@
 # (los más recientes primero) y dentro de cada año primero van los libros, luego los
 # artículos de revista y capítulos de libro y finalmente los artículos de congreso 
 # -------------------
+- title: "FP-THD: Full page transcription of historical documents"
+  url: https://doi.org/10.1016/j.patcog.2026.114351
+  authors: H. NEJI, J. NOGUERAS-ISO, J. LACASTA, M.Á. LATRE, F.J. GARCÍA-MARCO
+  publication: "Pattern Recognition"
+  publication_detail: "114351 (Available online 4 July 2026)"
+  year: 2026
+  doi: 10.1016/j.patcog.2026.114351
+  github_url: https://github.com/Miguel-del-Molino/FP-THD
+  open_repo_url: https://zenodo.org/records/18901631
+# -------------------
 - title: "Quality Issues in Crowdsourced Mapping: Microtask Aggregation in the Humanitarian OpenStreetMap Team Tasking Manager"
   url: https://doi.org/10.1111/tgis.70288
   authors: H. OCHOA-ORTIZ, D.J. HERRERA-MURILLO, B. RE, F.J. LOPEZ-PELLICER, J. NOGUERAS-ISO
   publication: "Transactions in GIS"
-  publication_detail: "Vol. 30(3), e70288"
+  publication_detail: "vol. 30(3), e70288"
   year: 2026
   doi: 10.1111/tgis.70288
 # -------------------
@@ -37,9 +47,6 @@
   doi: 10.1016/j.eswa.2025.129822
   alt_pdf_url: https://zaguan.unizar.es/record/163973/files/texto_completo.pdf 
 # -------------------
-
-
-
 - title: "A comparison of generalised urban block 3D model variants considering attributes with an influence on urban analyses"
   authors: A. DOMÍNGUEZ-LAPEÑA, R. BÉJAR, A. RUIZ-VARONA
   publication_conference: "29th AGILE Conference on Geographic Information Science. Smart Data: Making geospatial data actionable"
@@ -54,7 +61,6 @@
   year: 2026
   url: https://biblioteca.sistedes.es/entities/art%C3%ADculo/9746f900-8758-4859-8098-37c6a3c220a4
 # -------------------
-
 - title: "A hybrid annotation method and a reference corpus for hiking descriptions"
   authors: A. TAFER, M. GAIO, J. LACASTA
   publication_conference: "GeoExT 2026: Fourth International Workshop on Geographic Information Extraction from Texts at ECIR 2026, April 2, Delft, The Netherlands"
