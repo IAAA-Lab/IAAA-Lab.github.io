@@ -13,6 +13,8 @@ Our recently published paper, "FP-THD: Full page transcription of historical doc
 ![Fig. 1. Workflow of our proposed pipeline for full page transcription of historical documents (FP-THD)]({{ site.baseurl }}/images/posts/2026-07-08-workflow.jpg){: .center-image width="100%"}
 <h4><center><b>Fig. 1. Workflow of our proposed pipeline for full page transcription of historical documents (FP-THD)</b></center></h4>
 
+The system was evaluated on multiple historical datasets, including handwritten manuscripts (Rodrigo and Bentham) and a newly created printed-text dataset (Molino) containing medieval Latin documents with abbreviations. The proposed approach achieved competitive performance for handwritten text recognition and demonstrated high accuracy for full-page transcription. On the Molino dataset, FP-THD reached 1.14% Character Error Rate (CER) and 4.85% Word Error Rate (WER), outperforming existing OCR solutions such as ABBYY, Pero-OCR, and TrOCR.
+
 By preserving historical spelling, diacritics, abbreviations, and special characters, FP-THD provides a reliable solution for digital humanities applications, enabling accurate analysis and further processing of historical archives.
 
 ---
