@@ -10,7 +10,7 @@ Historical document transcription remains challenging due to complex layouts, di
 
 The proposed framework combines four main components: layout analysis, text line extraction, OCR recognition, and result representation. A deep learning-based layout analysis module identifies text regions and baselines, allowing the extraction and normalization of individual text lines before recognition. The OCR stage relies on a Masked Autoencoder with Vision Transformer (MAE-ViT) architecture enhanced with span masking and CTC decoding to recognize handwritten and printed historical texts without requiring external language models or post-processing.
 
-![Fig. 1. Workflow of our proposed pipeline for full page transcription of historical documents (FP-THD)]({{ site.baseurl }}/images/posts/2026-07-08-workflow.jpg){: .center-image width="100%"}
+![Fig. 1. Workflow of our proposed pipeline for full page transcription of historical documents (FP-THD)]({{ site.baseurl }}/images/posts/2026-07-08-workflow.jpg){: .center-image width="75%"}
 <h4><center><b>Fig. 1. Workflow of our proposed pipeline for full page transcription of historical documents (FP-THD)</b></center></h4>
 
 The system was evaluated on multiple historical datasets, including handwritten manuscripts (Rodrigo and Bentham) and a newly created printed-text dataset (Molino) containing medieval Latin documents with abbreviations. The proposed approach achieved competitive performance for handwritten text recognition and demonstrated high accuracy for full-page transcription. On the Molino dataset, FP-THD reached 1.14% Character Error Rate (CER) and 4.85% Word Error Rate (WER), outperforming existing OCR solutions such as ABBYY, Pero-OCR, and TrOCR.
