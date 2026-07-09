@@ -8,7 +8,7 @@ categories: [Paper overview]
 
 A fundamental challenge in digital product design is ensuring that actual mental models of users align with the intended functionality of the system. When discrepancies arise, usability can suffer, leading to inefficient interactions and reduced adoption. Usability testing lets development teams identify design problems in digital products by collecting qualitative and quantitative information. However, this technique is often not able to provide a panoramic view of the interaction with the system, especially when dealing with complex interfaces such as those used in geospatial search engines and we need to analyse the quantitative data compiled during testing. 
 
-This paper published in IEEE Open Journal of the Computer Society proposes to actively incorporate process mining into usability testing. We discuss the implications of process mining on usability testing using a case study performed at the National Geographic Institute of Spain, where a new geospatial search engine was under development. 
+Our paper, published in IEEE Open Journal of the Computer Society, proposes to actively incorporate process mining into usability testing. We discuss the implications of process mining on usability testing using a case study performed at the National Geographic Institute of Spain, where a new geospatial search engine was under development. 
 
 ![FIGURE 1. Methodological framework at a glance.]({{ site.baseurl }}/images/posts/2026-07-06-methodology.png){: .center-image width="80%"}
 <h4><center><b>FIGURE 1. Methodological framework at a glance.</b></center></h4>
