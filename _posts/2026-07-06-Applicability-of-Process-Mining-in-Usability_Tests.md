@@ -11,13 +11,12 @@ A fundamental challenge in digital product design is ensuring that actual mental
 This paper published in IEEE Open Journal of the Computer Society proposes to actively incorporate process mining into usability testing. We discuss the implications of process mining on usability testing using a case study performed at the National Geographic Institute of Spain, where a new geospatial search engine was under development. 
 
 ![FIGURE 1. Methodological framework at a glance.]({{ site.baseurl }}/images/posts/2026-07-06-methodology.png){: .center-image width="80%"}
-<h4><center><b>Fig. 1. Workflow for the automated thematic annotation of OGD</b></center></h4>
+<h4><center><b>FIGURE 1. Methodological framework at a glance.</b></center></h4>
 
 Twenty-one participants, ranging from novice to expert users, were recruited to perform a search task using the new geospatial search engine. The findings reveal that the mental model of users leans towards the archetype of a regular search engine rather than fully utilising the geographic functionalities provided by the platform, as intended by its designers.
 
 ![FIGURE 7. Search process map including pages and actions for all participants.]({{ site.baseurl }}/images/posts/2026-07-06-processMap.png){: .center-image width="60%"}
 <h4><center><b>FIGURE 7. Search process map including pages and actions for all participants.</b></center></h4>
-
 
 ---
 [Applicability of Process Mining in Usability Tests: A Case Study for Identifying User Mental Models in Geospatial Search Engines.](https://doi.org/10.1109/OJCS.2026.3682070)  D.J. HERRERA-MURILLO, P. ABAD POWER, F.J. LOPEZ-PELLICER, S. BALDASARRI, J. NOGUERAS-ISO. IEEE Open Journal of the Computer Society, vol. 7, p. 730-741, 2026.
