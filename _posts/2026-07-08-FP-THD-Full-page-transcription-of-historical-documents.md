@@ -1,6 +1,6 @@
 ---
 title: "FP-THD: Full page transcription of historical documents"
-subtitle:
+subtitle:  
 layout: post
 image: /images/posts/2026-07-08-workflow.jpg
 categories: [Paper overview]
