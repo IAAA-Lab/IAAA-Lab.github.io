@@ -20,6 +20,6 @@ Twenty-one participants, ranging from novice to expert users, were recruited to 
 
 
 ---
-[Applicability of Process Mining in Usability Tests: A Case Study for Identifying User Mental Models in Geospatial Search Engines.](https://doi.org/10.2298/CSIS251029022A)  D.J. HERRERA-MURILLO, P. ABAD POWER, F.J. LOPEZ-PELLICER, S. BALDASARRI, J. NOGUERAS-ISO. IEEE Open Journal of the Computer Society, vol. 7, p. 730-741, 2026.
+[Applicability of Process Mining in Usability Tests: A Case Study for Identifying User Mental Models in Geospatial Search Engines.](https://doi.org/10.1109/OJCS.2026.3682070)  D.J. HERRERA-MURILLO, P. ABAD POWER, F.J. LOPEZ-PELLICER, S. BALDASARRI, J. NOGUERAS-ISO. IEEE Open Journal of the Computer Society, vol. 7, p. 730-741, 2026.
 
 ---
