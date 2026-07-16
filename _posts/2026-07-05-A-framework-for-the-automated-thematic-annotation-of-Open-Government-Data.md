@@ -8,7 +8,7 @@ categories: [Paper overview]
 
 Governmental policies for transparency and reuse of public sector information have encouraged the launch of open government data portals around the world. Many of these portals are based on pyramidal structures: national open data portals are aggregators of the contents harvested from open data portals maintained by governments in charge of administrative areas with a narrower scope. Taking into account this hierarchical organization, these open data portals lack consistent and scalable mechanisms for thematic annotation, limiting dataset discoverability. 
 
-Our paper, published in ComSIS journal and in collaboration with researchers of the University of Aegean, proposes a framework for the automated thematic classification of open government data. The framework integrates (i) thematic annotation quality assessment, (ii) supervised machine learning models trained on annotated metadata corpora, and (iii) embedding-based semantic similarity methods for theme assignment in the absence of reliable annotations. 
+Our paper, published in ComSIS journal and in collaboration with researchers from the University of Aegean, proposes a framework for the automated thematic classification of open government data. The framework integrates (i) thematic annotation quality assessment, (ii) supervised machine learning models trained on annotated metadata corpora, and (iii) embedding-based semantic similarity methods for theme assignment in the absence of reliable annotations. 
 
 ![Fig. 1. Workflow for the automated thematic annotation of OGD]({{ site.baseurl }}/images/posts/2026-07-05-workflow.png){: .center-image width="80%"}
 <h4><center><b>Fig. 1. Workflow for the automated thematic annotation of OGD</b></center></h4>
