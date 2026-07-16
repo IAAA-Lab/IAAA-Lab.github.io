@@ -6,7 +6,7 @@ image: /images/posts/2026-07-07-fig2.jpg
 categories: [Paper overview]
 ---
 
-In crowdsourcing, dividing work into narrowly defined microtasks may affect the quality of the final product. Our study, published in Transactions in GIS, examines this problem in the context of humanitarian mapping initiatives coordinated using the Humanitarian OpenStreetMap Team Tasking Manager, analyzing 4619 projects and over 1.4 million microtasks. 
+In crowdsourcing, dividing work into narrowly defined microtasks may affect the quality of the final product. Our study, published in Transactions in GIS and in collaboration with researchers from the University of Camerino, examines this problem in the context of humanitarian mapping initiatives coordinated using the Humanitarian OpenStreetMap Team Tasking Manager, analyzing 4619 projects and over 1.4 million microtasks. 
 
 Using a combination of spatial statistical techniques and expert visual inspection, we identify two main issues derived from microtask aggregation: edge-based (see example in Fig. 2) and task-wide (see example in Fig. 4) distortions . 
 
