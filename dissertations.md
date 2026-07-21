@@ -58,5 +58,5 @@ layout: phd_dissertations
   - <span style="color:#999999">Under the supervision of **Pedro R. Muro-Medrano** and **F. Javier Zarazaga-Soria**.</span>
 - Una aproximación para el incremento de la capacidad expresiva de objetos miembro y el RTTI de C++ basada en el uso intensivo de plantillas. **Juan Valiño García** (2001).
   - <span style="color:#999999">Under the supervision of **Pedro R. Muro-Medrano**.</span>
-  - Una aproximación a la mejora de reusabilidad de código C++ basada en metainformación del modelo de objetos. **F. Javier Zarazaga-Soria** (2000).
+- Una aproximación a la mejora de reusabilidad de código C++ basada en metainformación del modelo de objetos. **F. Javier Zarazaga-Soria** (2000).
   - <span style="color:#999999">Under the supervision of **Pedro R. Muro-Medrano**.</span>
