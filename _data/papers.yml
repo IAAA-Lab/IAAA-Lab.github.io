@@ -47,6 +47,30 @@
   doi: 10.1016/j.eswa.2025.129822
   alt_pdf_url: https://zaguan.unizar.es/record/163973/files/texto_completo.pdf 
 # -------------------
+- title: "Desafíos técnicos del uso de LLM on-device en el sector agrícola"
+  authors: F. JAVIER GONZÁLEZ-ONTAÑÓN, S. MARTIN-SEGURA, M.Á. LATRE, F.J. ZARAZAGA-SORIA
+  publication_conference: "Actas de la XV Jornada de Jóvenes Investigadores e Investigadoras del I3A - 9 de junio de 2026"
+  publication_detail: "June 9, 2026, Zaragoza, Spain"
+  year: 2026
+  doi: 10.26754/jji-i3a.202613282
+  url: https://papiro.unizar.es/ojs/index.php/jji3a/es/article/view/13282
+# -------------------
+- title: "Beyond Toponyms: Nominal Spatial Entities for Understanding Movement from Hiking Descriptions"
+  authors: A. TAFER, M. GAIO, J. LACASTA
+  publication_conference: "Actas de la XV Jornada de Jóvenes Investigadores e Investigadoras del I3A - 9 de junio de 2026"
+  publication_detail: "June 9, 2026, Zaragoza, Spain"
+  year: 2026
+  doi: 10.26754/jji-i3a.202613297 
+  url: https://papiro.unizar.es/ojs/index.php/jji3a/es/article/view/13297
+# -------------------
+- title: "Machine Learning-Based System for Matrix Effect Correction in Gas Chromatography"
+  authors: J. SORIA ROMEO, P. DURÁN, J. LACASTA
+  publication_conference: "Actas de la XV Jornada de Jóvenes Investigadores e Investigadoras del I3A - 9 de junio de 2026"
+  publication_detail: "June 9, 2026, Zaragoza, Spain"
+  year: 2026
+  doi: 10.26754/jji-i3a.202613324
+  url: https://papiro.unizar.es/ojs/index.php/jji3a/es/article/view/13324
+# -------------------
 - title: "A comparison of generalised urban block 3D model variants considering attributes with an influence on urban analyses"
   authors: A. DOMÍNGUEZ-LAPEÑA, R. BÉJAR, A. RUIZ-VARONA
   publication_conference: "29th AGILE Conference on Geographic Information Science. Smart Data: Making geospatial data actionable"
