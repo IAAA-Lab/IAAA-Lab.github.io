@@ -70,3 +70,11 @@ jontanon:
   image_path: /images/people/phd-students/jontanon.jpg
   local_url: /staff/jontanon
   #url:
+jsoria:
+  name: Jorge Soria Romeo
+  papers_name: J. SORIA-ROMEO
+  projects_name: 
+  position: PhD Student
+  image_path: /images/people/phd-students/jsoria.png
+  local_url: /staff/jsoria
+  #url:
