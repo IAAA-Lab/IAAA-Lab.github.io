@@ -47,6 +47,14 @@
   doi: 10.1016/j.eswa.2025.129822
   alt_pdf_url: https://zaguan.unizar.es/record/163973/files/texto_completo.pdf 
 # -------------------
+- title: "Sistema inteligente para la gestión de conocimiento científico en grupos de investigación"
+  authors: Ó. GIL-BERNAD, S. JIMENEZ-FRAGO, H. NEJI y J. LACASTA
+  publication_conference: "Actas de la XXI Conferencia de la Asociación Española para la Inteligencia Artificial (CAEPIA)"
+  publication_detail: "November 11-13, 2026, Jaén, Spain"
+  year: 2026
+  isbn: 978-84-09-92827-9
+  url: https://simidat.ujaen.es/caepia26/inicio_files/actas_caepia2026.pdf
+# -------------------
 - title: "Desafíos técnicos del uso de LLM on-device en el sector agrícola"
   authors: F. JAVIER GONZÁLEZ-ONTAÑÓN, S. MARTIN-SEGURA, M.Á. LATRE, F.J. ZARAZAGA-SORIA
   publication_conference: "Actas de la XV Jornada de Jóvenes Investigadores e Investigadoras del I3A - 9 de junio de 2026"
